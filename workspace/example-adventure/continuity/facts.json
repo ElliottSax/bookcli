@@ -1,3 +1,59 @@
 {
-  "facts": []
+  "facts": [
+    {
+      "fact": "The house on Willow Street has 17 windows and has been abandoned for years",
+      "established_chapter": 1,
+      "added": "2025-11-27T16:32:45.323461"
+    },
+    {
+      "fact": "The magical chest is carved with glowing blue symbols that pulse like a heartbeat",
+      "established_chapter": 1,
+      "added": "2025-11-27T16:32:47.290577"
+    },
+    {
+      "fact": "The other world has a purple sky, giant trees with silver-edged leaves, and bioluminescent moss",
+      "established_chapter": 1,
+      "added": "2025-11-27T16:32:49.533240"
+    },
+    {
+      "fact": "The cloaked figures perform rituals with drums and green fire on a stone platform",
+      "established_chapter": 1,
+      "added": "2025-11-27T16:32:52.484669"
+    },
+    {
+      "fact": "The Binding has a 30% failure rate (10% death, 20% catatonic/mad)",
+      "established_chapter": 2,
+      "added": "2025-11-27T16:41:07.323694"
+    },
+    {
+      "fact": "Magic flows through channels created by the Binding ritual",
+      "established_chapter": 2,
+      "added": "2025-11-27T16:41:08.404306"
+    },
+    {
+      "fact": "The Veil is a barrier between worlds that was raised to end an ancient war",
+      "established_chapter": 2,
+      "added": "2025-11-27T16:41:09.536732"
+    },
+    {
+      "fact": "Certain bloodlines carry 'resonance' that allows them to cross the Veil",
+      "established_chapter": 2,
+      "added": "2025-11-27T16:41:10.776309"
+    },
+    {
+      "fact": "Marcus's ancestors came from this world generations ago when the Veil was thinner",
+      "established_chapter": 2,
+      "added": "2025-11-27T16:41:12.478066"
+    },
+    {
+      "fact": "The ancient war was between beings of light and creatures of shadow",
+      "established_chapter": 2,
+      "added": "2025-11-27T16:41:14.017053"
+    },
+    {
+      "fact": "The Sanctum is deep beneath the forest in the Weaver's domain",
+      "established_chapter": 2,
+      "added": "2025-11-27T16:41:15.387222"
+    }
+  ]
 }

@@ -1,4 +1,71 @@
 {
-  "active": [],
+  "active": [
+    {
+      "thread": "Why is Marcus called 'the key'?",
+      "introduced_chapter": 1,
+      "status": "active",
+      "notes": "Partially answered in Ch2 - has bloodline resonance, but full meaning still unclear. Vision showed another 'key' figure in the past."
+    },
+    {
+      "thread": "What is 'the Binding' and why does it need Marcus?",
+      "introduced_chapter": 1,
+      "status": "active",
+      "notes": "PARTIALLY RESOLVED in Ch2 - Binding creates magic channels, needed to prepare Marcus for his role stopping the war. Still don't know exact purpose."
+    },
+    {
+      "thread": "How can Marcus return to the normal world?",
+      "introduced_chapter": 1,
+      "status": "active",
+      "notes": "ANSWERED in Ch2 - He can't. Portal is permanently sealed. Thread shifts to: can he contact his mother?"
+    },
+    {
+      "thread": "What happened to Marcus's father?",
+      "introduced_chapter": 1,
+      "status": "active",
+      "notes": "Partially answered in Ch2 - died in car accident, likely had the same resonance as Marcus. Suspicious?"
+    },
+    {
+      "thread": "Who are the cloaked figures (Weavers) and what do they want?",
+      "introduced_chapter": 1,
+      "status": "active",
+      "notes": "Partially answered in Ch2 - they serve 'the pattern', want to stop the Veil from breaking and prevent the war's return"
+    },
+    {
+      "thread": "What is 'the pattern'?",
+      "introduced_chapter": 2,
+      "status": "active",
+      "notes": "Referenced by Weavers and Kira, but not explained. Seems to be their guiding purpose/philosophy."
+    },
+    {
+      "thread": "How can Marcus learn to control magic without dying?",
+      "introduced_chapter": 2,
+      "status": "active",
+      "notes": "Kira warned that untrained use is deadly. Marcus needs training, but from who?"
+    },
+    {
+      "thread": "What is breaking the Veil?",
+      "introduced_chapter": 2,
+      "status": "active",
+      "notes": "The Weaver told Marcus the Veil is breaking and the war will return. Cause unknown."
+    },
+    {
+      "thread": "Who was the figure in the vision holding the burning object?",
+      "introduced_chapter": 2,
+      "status": "active",
+      "notes": "Marcus 'almost recognized' a boy at the crossroads between worlds in the vision. Connection to Marcus?"
+    },
+    {
+      "thread": "Can Marcus really prevent another war?",
+      "introduced_chapter": 2,
+      "status": "active",
+      "notes": "Weaver says he's the key to stopping it, but gave ultimatum: 'You will learn. Or you will die. Either serves the pattern.'"
+    },
+    {
+      "thread": "What will the Weavers ask Marcus to do?",
+      "introduced_chapter": 2,
+      "status": "active",
+      "notes": "They want to see him once he can move. Next steps unclear."
+    }
+  ],
   "resolved": []
 }

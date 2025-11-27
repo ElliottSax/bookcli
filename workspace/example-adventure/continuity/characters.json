@@ -1,1 +1,115 @@
-{}
+{
+  "Marcus": {
+    "name": "Marcus",
+    "introduced_chapter": 1,
+    "age": 15,
+    "physical_description": {
+      "details": "15-year-old boy, has binding mark on palm (circle bisected by three wavy lines)"
+    },
+    "personality": [
+      "Curious",
+      "Drawn to mystery despite common sense",
+      "Determined to find answers",
+      "Protective of his mother"
+    ],
+    "relationships": {
+      "mother": "Working single parent, diner shift worker, will be frantic about his disappearance",
+      "father": "Dead in car accident last year, likely had resonance/connection to the other world",
+      "Kira": "Mender who is helping him survive the Binding"
+    },
+    "goals": [
+      "Figure out why he's called 'the key'",
+      "Learn to control magic without dying",
+      "Find a way to contact his mother",
+      "Understand what the Weavers want from him",
+      "Survive and prevent the war"
+    ],
+    "current_state": {
+      "location": "The Sanctum beneath the forest",
+      "status": "Recovering from Binding, regaining mobility",
+      "chapter": 2,
+      "magic": "Has channels opened but no training, dangerous to use"
+    },
+    "arc_notes": [
+      "Recently moved to Vermont - doesn't fit in",
+      "Touched magical chest and transported to another world",
+      "Called 'the key' by mysterious cloaked beings (Weavers)",
+      "Survived the Binding ritual (30% fail rate)",
+      "Marked permanently with magic channels",
+      "Has ancestral connection to this world through bloodline resonance",
+      "Received vision of ancient war and the Veil being raised",
+      "Portal home is sealed - cannot return to Vermont",
+      "Must stop the Veil from breaking or die trying"
+    ]
+  },
+  "Kira Shen": {
+    "name": "Kira Shen",
+    "introduced_chapter": 2,
+    "age": "17-18",
+    "physical_description": {
+      "details": "Dark skin, hair twisted into dozens of small braids with beads, solid gold eyes (no white visible), has binding mark on collarbone"
+    },
+    "personality": [
+      "Professional and efficient",
+      "Compassionate but realistic",
+      "Knowledgeable about magic and healing",
+      "Somewhat cynical about the Weavers"
+    ],
+    "relationships": {
+      "Marcus": "Caring for him post-Binding, teaching him basics",
+      "The Weavers": "Serves them as a Mender, but sees herself and others as 'tools'"
+    },
+    "goals": [
+      "Keep Marcus alive through the Binding recovery",
+      "Serve as a Mender for the Weavers"
+    ],
+    "current_state": {
+      "location": "The Sanctum",
+      "status": "Active, caring for Marcus",
+      "chapter": 2
+    },
+    "arc_notes": [
+      "Is a Mender - fixes people the Weavers break",
+      "Crossed between worlds voluntarily (unlike Marcus)",
+      "Has her own binding mark from crossing worlds",
+      "Knows about the pattern the Weavers serve",
+      "Warns that untrained magic use is deadly"
+    ]
+  },
+  "The Weavers": {
+    "name": "The Weavers",
+    "introduced_chapter": 1,
+    "physical_description": {
+      "details": "Tall, slender, wrapped in twilight-like cloaks, faceless (void where face should be but they do have faces humans can't see), pale hands with 6-7 fingers that blur when observed"
+    },
+    "personality": [
+      "Mysterious and alien",
+      "Patient and deliberate",
+      "Serve 'the pattern' above all",
+      "Cryptic communicators"
+    ],
+    "relationships": {
+      "Marcus": "Call him 'the key', performed Binding on him, expect him to help stop the war",
+      "Kira": "She serves them as a Mender"
+    },
+    "goals": [
+      "Stop the Veil from breaking",
+      "Prevent the return of the ancient war",
+      "Serve and maintain 'the pattern'"
+    ],
+    "current_state": {
+      "location": "The Sanctum and surrounding areas",
+      "status": "Active, monitoring Marcus",
+      "chapter": 2
+    },
+    "arc_notes": [
+      "Can communicate telepathically",
+      "Move in synchronized patterns to drum beats",
+      "Have green fire on their ritual platforms",
+      "Perform dangerous Binding rituals with 30% failure rate",
+      "Can share visions by touching foreheads",
+      "Showed Marcus vision of ancient war between light/shadow beings",
+      "Told Marcus: 'You will learn. Or you will die. Either serves the pattern.'"
+    ]
+  }
+}

@@ -1,3 +1,52 @@
 {
-  "events": []
+  "events": [
+    {
+      "chapter": 1,
+      "event": "Marcus discovers the abandoned house on Willow Street has strange glowing symbols and an unnaturally warm door",
+      "time_marker": null,
+      "added": "2025-11-27T16:32:12.901397"
+    },
+    {
+      "chapter": 1,
+      "event": "Marcus touches the magical chest and is transported through a portal to another world",
+      "time_marker": null,
+      "added": "2025-11-27T16:32:36.653610"
+    },
+    {
+      "chapter": 1,
+      "event": "Marcus encounters cloaked figures who call him 'the key' and speak of 'the Binding'",
+      "time_marker": null,
+      "added": "2025-11-27T16:32:39.310405"
+    },
+    {
+      "chapter": 1,
+      "event": "Marcus loses consciousness as the ritual begins",
+      "time_marker": null,
+      "added": "2025-11-27T16:32:41.246717"
+    },
+    {
+      "chapter": 2,
+      "event": "Marcus wakes in the Sanctum three days after the Binding ritual",
+      "time_marker": null,
+      "added": "2025-11-27T16:40:44.888011"
+    },
+    {
+      "chapter": 2,
+      "event": "Kira Shen explains the Binding, magic channels, and the Veil to Marcus",
+      "time_marker": null,
+      "added": "2025-11-27T16:40:46.105216"
+    },
+    {
+      "chapter": 2,
+      "event": "Marcus learns the portal home is permanently sealed",
+      "time_marker": null,
+      "added": "2025-11-27T16:40:47.888454"
+    },
+    {
+      "chapter": 2,
+      "event": "A Weaver shows Marcus a vision of the ancient war and the raising of the Veil",
+      "time_marker": null,
+      "added": "2025-11-27T16:40:49.501192"
+    }
+  ]
 }
