@@ -4,68 +4,123 @@
       "thread": "Why is Marcus called 'the key'?",
       "introduced_chapter": 1,
       "status": "active",
-      "notes": "Partially answered in Ch2 - has bloodline resonance, but full meaning still unclear. Vision showed another 'key' figure in the past."
+      "notes": "PARTIALLY ANSWERED Ch3 - keys are bridges between worlds who can go where Weavers can't, see what Weavers can't perceive. Still unclear why Marcus specifically."
     },
     {
       "thread": "What is 'the Binding' and why does it need Marcus?",
       "introduced_chapter": 1,
-      "status": "active",
-      "notes": "PARTIALLY RESOLVED in Ch2 - Binding creates magic channels, needed to prepare Marcus for his role stopping the war. Still don't know exact purpose."
+      "status": "resolved",
+      "notes": "RESOLVED Ch2-3 - Binding creates magic channels to prepare Marcus for his mission."
     },
     {
       "thread": "How can Marcus return to the normal world?",
       "introduced_chapter": 1,
       "status": "active",
-      "notes": "ANSWERED in Ch2 - He can't. Portal is permanently sealed. Thread shifts to: can he contact his mother?"
+      "notes": "Ch2: Can't return - portal sealed. Ch3: Will cross Veil again for mission. Thread now: Can he contact his mother?"
     },
     {
       "thread": "What happened to Marcus's father?",
       "introduced_chapter": 1,
       "status": "active",
-      "notes": "Partially answered in Ch2 - died in car accident, likely had the same resonance as Marcus. Suspicious?"
+      "notes": "Ch2: died in car accident, had resonance. Increasingly suspicious - was it really an accident?"
     },
     {
-      "thread": "Who are the cloaked figures (Weavers) and what do they want?",
+      "thread": "Who are the Weavers and what do they want?",
       "introduced_chapter": 1,
       "status": "active",
-      "notes": "Partially answered in Ch2 - they serve 'the pattern', want to stop the Veil from breaking and prevent the war's return"
+      "notes": "MAJOR PROGRESS Ch3 - They maintain the Pattern (reality's weave), want Marcus to kill the tangle to prevent war."
     },
     {
       "thread": "What is 'the pattern'?",
       "introduced_chapter": 2,
-      "status": "active",
-      "notes": "Referenced by Weavers and Kira, but not explained. Seems to be their guiding purpose/philosophy."
+      "status": "resolved",
+      "notes": "RESOLVED Ch3 - The Pattern is the weave of reality itself. Threads = lives/choices/moments. Weavers maintain it."
     },
     {
       "thread": "How can Marcus learn to control magic without dying?",
       "introduced_chapter": 2,
       "status": "active",
-      "notes": "Kira warned that untrained use is deadly. Marcus needs training, but from who?"
+      "notes": "Ch3: Training starts tomorrow. Weavers will teach him."
     },
     {
       "thread": "What is breaking the Veil?",
       "introduced_chapter": 2,
       "status": "active",
-      "notes": "The Weaver told Marcus the Veil is breaking and the war will return. Cause unknown."
+      "notes": "Ch3: The tangle's source was never addressed. Two pattern sections still push against each other seeking to reconnect."
     },
     {
       "thread": "Who was the figure in the vision holding the burning object?",
       "introduced_chapter": 2,
       "status": "active",
-      "notes": "Marcus 'almost recognized' a boy at the crossroads between worlds in the vision. Connection to Marcus?"
+      "notes": "Still unidentified. Possibly a previous key? Connection to Marcus unclear."
     },
     {
-      "thread": "Can Marcus really prevent another war?",
+      "thread": "Can Marcus prevent another war?",
       "introduced_chapter": 2,
       "status": "active",
-      "notes": "Weaver says he's the key to stopping it, but gave ultimatum: 'You will learn. Or you will die. Either serves the pattern.'"
+      "notes": "Ch3: Only if he finds and kills the tangle. Otherwise millions/billions die. No pressure."
     },
     {
       "thread": "What will the Weavers ask Marcus to do?",
       "introduced_chapter": 2,
+      "status": "resolved",
+      "notes": "RESOLVED Ch3 - Find and kill the tangle (human causing Veil to break)."
+    },
+    {
+      "thread": "What/who is 'the tangle'?",
+      "introduced_chapter": 3,
       "status": "active",
-      "notes": "They want to see him once he can move. Next steps unclear."
+      "notes": "NEW Ch3 - A human infected with corruption that's breaking the Veil. Source of the original war tangle. Identity unknown."
+    },
+    {
+      "thread": "How will Marcus cross the Veil if it's breaking?",
+      "introduced_chapter": 3,
+      "status": "active",
+      "notes": "NEW Ch3 - Unclear. Weavers said he'll cross after training. Method not explained."
+    },
+    {
+      "thread": "Can Marcus find another solution besides killing?",
+      "introduced_chapter": 3,
+      "status": "active",
+      "notes": "NEW Ch3 - Marcus wants to find another way. Weaver said 'repair what was broken OR cut the thread' - suggests alternatives exist?"
+    },
+    {
+      "thread": "What is the source of the tangle?",
+      "introduced_chapter": 3,
+      "status": "active",
+      "notes": "NEW Ch3 - Unknown. Was never addressed when Veil was raised. Now threatens to destroy everything."
+    },
+    {
+      "thread": "Will Marcus follow orders or rebel?",
+      "introduced_chapter": 3,
+      "status": "active",
+      "notes": "NEW Ch3 - Marcus is conflicted. Confronted Weavers demanding answers. Thinking 'there must be another way.'"
+    },
+    {
+      "thread": "Who are the other keys and will they help?",
+      "introduced_chapter": 3,
+      "status": "active",
+      "notes": "NEW Ch3 - ~20 keys seen. All seemed shocked Marcus talked back to Weavers. Potential allies: red-haired boy, water girl, glowing woman?"
     }
   ],
-  "resolved": []
+  "resolved": [
+    {
+      "thread": "What is 'the pattern'?",
+      "introduced_chapter": 2,
+      "resolved_chapter": 3,
+      "resolution": "The Pattern is the weave of reality - threads representing lives, choices, moments. Weavers maintain it."
+    },
+    {
+      "thread": "What will the Weavers ask Marcus to do?",
+      "introduced_chapter": 2,
+      "resolved_chapter": 3,
+      "resolution": "Find and kill the tangle - a human causing the Veil to break."
+    },
+    {
+      "thread": "What is 'the Binding' and why does it need Marcus?",
+      "introduced_chapter": 1,
+      "resolved_chapter": 3,
+      "resolution": "Binding creates magic channels to prepare keys for their missions crossing between worlds."
+    }
+  ]
 }
