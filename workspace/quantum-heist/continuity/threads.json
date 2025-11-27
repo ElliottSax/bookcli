@@ -1,0 +1,25 @@
+{
+  "active": [
+    {
+      "thread": "Who built the Shadow Protocol and why?",
+      "introduced": 1,
+      "status": "active"
+    },
+    {
+      "thread": "What is the Shadow Protocol's ultimate goal?",
+      "introduced": 1,
+      "status": "active"
+    },
+    {
+      "thread": "Can Sarah decrypt and understand the algorithm?",
+      "introduced": 1,
+      "status": "active"
+    },
+    {
+      "thread": "Who are the hostile operatives hunting Sarah?",
+      "introduced": 1,
+      "status": "active"
+    }
+  ],
+  "resolved": []
+}

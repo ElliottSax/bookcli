@@ -1,0 +1,34 @@
+{
+  "events": [
+    {
+      "chapter": 1,
+      "event": "Sarah discovers Shadow Protocol algorithm at 2:47 AM",
+      "time_marker": null,
+      "added": "2025-11-26T23:32:46.608439"
+    },
+    {
+      "chapter": 1,
+      "event": "Sarah receives threatening phone call",
+      "time_marker": null,
+      "added": "2025-11-26T23:32:48.680003"
+    },
+    {
+      "chapter": 1,
+      "event": "Tactical team attacks MIT lab",
+      "time_marker": null,
+      "added": "2025-11-26T23:32:52.024169"
+    },
+    {
+      "chapter": 1,
+      "event": "Director Walsh recruits Sarah during escape",
+      "time_marker": null,
+      "added": "2025-11-26T23:32:53.660642"
+    },
+    {
+      "chapter": 1,
+      "event": "Helicopter extraction from warehouse",
+      "time_marker": null,
+      "added": "2025-11-26T23:32:55.113159"
+    }
+  ]
+}

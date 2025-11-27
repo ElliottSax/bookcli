@@ -1,0 +1,31 @@
+[2025-11-26T15:48:21.319557] [INFO] 
+============================================================
+[2025-11-26T15:48:21.518889] [INFO] AUTONOMOUS BOOK PRODUCTION PIPELINE
+[2025-11-26T15:48:21.734507] [INFO] Book: test-thriller
+[2025-11-26T15:48:21.956432] [INFO] Genre: thriller
+[2025-11-26T15:48:22.199582] [INFO] Target: 30,000 words
+[2025-11-26T15:48:22.416507] [INFO] ============================================================
+
+[2025-11-26T15:48:22.609116] [INFO] Analyzing source material...
+[2025-11-26T15:48:23.403679] [INFO] Stage: analysis
+[2025-11-26T15:48:23.630216] [INFO] Source: 739 words
+[2025-11-26T15:48:24.738230] [INFO] Plan: 20 chapters × 3500 words
+[2025-11-26T15:48:24.894347] [INFO] Creating chapter plan...
+[2025-11-26T15:48:25.904722] [INFO] Chapter plan created: 20 chapters
+[2025-11-26T15:48:26.327595] [INFO] Stage: generation
+[2025-11-26T15:48:26.678912] [INFO] 
+============================================================
+[2025-11-26T15:48:26.716559] [INFO] CHAPTER 1/20
+[2025-11-26T15:48:26.891508] [INFO] ============================================================
+
+[2025-11-26T15:48:27.113474] [INFO] Generating chapter 1...
+[2025-11-26T15:48:36.930375] [INFO] Chapter 1 prompt created: workspace/test-thriller/prompt_ch1.md
+[2025-11-26T15:48:37.033124] [INFO] Quality check: chapter 1...
+[2025-11-26T15:48:37.197109] [ERROR] Chapter file not found: workspace/test-thriller/chapters/chapter_001.md
+[2025-11-26T15:48:37.315019] [ERROR] Chapter 1 failed quality check
+[2025-11-26T15:48:37.457531] [INFO] 
+============================================================
+[2025-11-26T15:48:37.505791] [INFO] CHAPTER 2/20
+[2025-11-26T15:48:37.654878] [INFO] ============================================================
+
+[2025-11-26T15:48:37.799356] [INFO] Generating chapter 2...

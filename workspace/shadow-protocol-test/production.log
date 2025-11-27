@@ -1,0 +1,111 @@
+[2025-11-26T15:53:49.247097] [INFO] 
+============================================================
+[2025-11-26T15:53:49.313583] [INFO] AUTONOMOUS BOOK PRODUCTION PIPELINE
+[2025-11-26T15:53:49.422550] [INFO] Book: shadow-protocol-test
+[2025-11-26T15:53:49.460441] [INFO] Genre: thriller
+[2025-11-26T15:53:49.530252] [INFO] Target: 30,000 words
+[2025-11-26T15:53:49.627352] [INFO] ============================================================
+
+[2025-11-26T15:53:49.667595] [INFO] Analyzing source material...
+[2025-11-26T15:53:49.843314] [INFO] Stage: analysis
+[2025-11-26T15:53:50.022020] [INFO] Source: 1,545 words
+[2025-11-26T15:53:50.338362] [INFO] Plan: 20 chapters × 3500 words
+[2025-11-26T15:53:50.360144] [INFO] Creating chapter plan...
+[2025-11-26T15:53:50.640515] [INFO] Chapter plan created: 20 chapters
+[2025-11-26T15:53:50.844144] [INFO] Stage: generation
+[2025-11-26T15:53:50.981496] [INFO] 
+============================================================
+[2025-11-26T15:53:48.538344] [INFO] CHAPTER 1/20
+[2025-11-26T15:53:48.655893] [INFO] ============================================================
+
+[2025-11-26T15:53:48.673977] [INFO] Generating chapter 1...
+[2025-11-26T15:53:51.049071] [INFO] Chapter 1 prompt created: workspace/shadow-protocol-test/prompt_ch1.md
+[2025-11-26T15:53:51.237466] [INFO] Quality check: chapter 1...
+[2025-11-26T15:53:51.416240] [ERROR] Chapter file not found: workspace/shadow-protocol-test/chapters/chapter_001.md
+[2025-11-26T15:53:51.512791] [ERROR] Chapter 1 failed quality check
+[2025-11-26T15:53:51.610405] [INFO] 
+============================================================
+[2025-11-26T15:53:51.684864] [INFO] CHAPTER 2/20
+[2025-11-26T15:53:51.783296] [INFO] ============================================================
+
+[2025-11-26T15:53:51.849419] [INFO] Generating chapter 2...
+[2025-11-26T15:53:54.389941] [INFO] Chapter 2 prompt created: workspace/shadow-protocol-test/prompt_ch2.md
+[2025-11-26T15:53:54.459309] [INFO] Quality check: chapter 2...
+[2025-11-26T15:53:54.593226] [ERROR] Chapter file not found: workspace/shadow-protocol-test/chapters/chapter_002.md
+[2025-11-26T15:53:54.673084] [ERROR] Chapter 2 failed quality check
+[2025-11-26T15:53:54.745700] [INFO] 
+============================================================
+[2025-11-26T15:53:54.808366] [INFO] CHAPTER 3/20
+[2025-11-26T15:53:54.885780] [INFO] ============================================================
+
+[2025-11-26T15:53:54.959316] [INFO] Generating chapter 3...
+[2025-11-26T15:53:57.122959] [INFO] Chapter 3 prompt created: workspace/shadow-protocol-test/prompt_ch3.md
+[2025-11-26T15:53:57.201761] [INFO] Quality check: chapter 3...
+[2025-11-26T15:53:57.309497] [ERROR] Chapter file not found: workspace/shadow-protocol-test/chapters/chapter_003.md
+[2025-11-26T15:53:57.349037] [ERROR] Chapter 3 failed quality check
+[2025-11-26T15:53:57.418506] [INFO] 
+============================================================
+[2025-11-26T15:53:57.498164] [INFO] CHAPTER 4/20
+[2025-11-26T15:53:57.564008] [INFO] ============================================================
+
+[2025-11-26T15:53:57.621510] [INFO] Generating chapter 4...
+[2025-11-26T15:53:59.766088] [INFO] Chapter 4 prompt created: workspace/shadow-protocol-test/prompt_ch4.md
+[2025-11-26T15:53:59.862293] [INFO] Quality check: chapter 4...
+[2025-11-26T15:53:59.981936] [ERROR] Chapter file not found: workspace/shadow-protocol-test/chapters/chapter_004.md
+[2025-11-26T15:54:00.096856] [ERROR] Chapter 4 failed quality check
+[2025-11-26T15:54:00.180728] [INFO] 
+============================================================
+[2025-11-26T15:54:00.290219] [INFO] CHAPTER 5/20
+[2025-11-26T15:54:00.352588] [INFO] ============================================================
+
+[2025-11-26T15:54:00.478746] [INFO] Generating chapter 5...
+[2025-11-26T15:54:03.182779] [INFO] Chapter 5 prompt created: workspace/shadow-protocol-test/prompt_ch5.md
+[2025-11-26T15:54:03.257623] [INFO] Quality check: chapter 5...
+[2025-11-26T15:54:03.421385] [ERROR] Chapter file not found: workspace/shadow-protocol-test/chapters/chapter_005.md
+[2025-11-26T15:54:03.477477] [ERROR] Chapter 5 failed quality check
+[2025-11-26T15:54:03.576159] [INFO] 
+============================================================
+[2025-11-26T15:54:03.630986] [INFO] CHAPTER 6/20
+[2025-11-26T15:54:03.694424] [INFO] ============================================================
+
+[2025-11-26T15:54:03.775052] [INFO] Generating chapter 6...
+[2025-11-26T15:54:07.257099] [INFO] Chapter 6 prompt created: workspace/shadow-protocol-test/prompt_ch6.md
+[2025-11-26T15:54:07.333770] [INFO] Quality check: chapter 6...
+[2025-11-26T15:54:07.445779] [ERROR] Chapter file not found: workspace/shadow-protocol-test/chapters/chapter_006.md
+[2025-11-26T15:54:07.479687] [ERROR] Chapter 6 failed quality check
+[2025-11-26T15:54:07.583602] [INFO] 
+============================================================
+[2025-11-26T15:54:07.689562] [INFO] CHAPTER 7/20
+[2025-11-26T15:54:07.747858] [INFO] ============================================================
+
+[2025-11-26T15:54:07.849359] [INFO] Generating chapter 7...
+[2025-11-26T15:54:10.442049] [INFO] Chapter 7 prompt created: workspace/shadow-protocol-test/prompt_ch7.md
+[2025-11-26T15:54:10.500763] [INFO] Quality check: chapter 7...
+[2025-11-26T15:54:10.706170] [ERROR] Chapter file not found: workspace/shadow-protocol-test/chapters/chapter_007.md
+[2025-11-26T15:54:10.781327] [ERROR] Chapter 7 failed quality check
+[2025-11-26T15:54:10.846670] [INFO] 
+============================================================
+[2025-11-26T15:54:10.917485] [INFO] CHAPTER 8/20
+[2025-11-26T15:54:10.983247] [INFO] ============================================================
+
+[2025-11-26T15:54:11.103113] [INFO] Generating chapter 8...
+[2025-11-26T15:54:14.559629] [INFO] Chapter 8 prompt created: workspace/shadow-protocol-test/prompt_ch8.md
+[2025-11-26T15:54:14.727494] [INFO] Quality check: chapter 8...
+[2025-11-26T15:54:14.880570] [ERROR] Chapter file not found: workspace/shadow-protocol-test/chapters/chapter_008.md
+[2025-11-26T15:54:14.951350] [ERROR] Chapter 8 failed quality check
+[2025-11-26T15:54:15.021530] [INFO] 
+============================================================
+[2025-11-26T15:54:15.121611] [INFO] CHAPTER 9/20
+[2025-11-26T15:54:15.218142] [INFO] ============================================================
+
+[2025-11-26T15:54:15.294561] [INFO] Generating chapter 9...
+[2025-11-26T15:54:18.430940] [INFO] Chapter 9 prompt created: workspace/shadow-protocol-test/prompt_ch9.md
+[2025-11-26T15:54:18.524535] [INFO] Quality check: chapter 9...
+[2025-11-26T15:54:18.675092] [ERROR] Chapter file not found: workspace/shadow-protocol-test/chapters/chapter_009.md
+[2025-11-26T15:54:18.733991] [ERROR] Chapter 9 failed quality check
+[2025-11-26T15:54:18.814676] [INFO] 
+============================================================
+[2025-11-26T15:54:18.919622] [INFO] CHAPTER 10/20
+[2025-11-26T15:54:18.993007] [INFO] ============================================================
+
+[2025-11-26T15:54:19.086268] [INFO] Generating chapter 10...

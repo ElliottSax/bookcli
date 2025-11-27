@@ -1,0 +1,54 @@
+[2025-11-27T15:25:59.394742] [INFO] 
+============================================================
+[2025-11-27T15:25:59.441467] [INFO] AUTONOMOUS BOOK PRODUCTION PIPELINE
+[2025-11-27T15:25:59.554024] [INFO] Book: test-compat
+[2025-11-27T15:25:59.608453] [INFO] Genre: thriller
+[2025-11-27T15:25:59.690108] [INFO] Target: 7,000 words
+[2025-11-27T15:25:59.756305] [INFO] ============================================================
+
+[2025-11-27T15:25:59.784947] [INFO] Analyzing source material...
+[2025-11-27T15:26:00.263523] [INFO] Stage: analysis
+[2025-11-27T15:26:00.394782] [INFO] Source: 1,545 words
+[2025-11-27T15:26:00.604801] [INFO] Plan: 20 chapters × 3500 words
+[2025-11-27T15:26:00.648705] [INFO] Creating chapter plan...
+[2025-11-27T15:26:00.788494] [INFO] Chapter plan created: 20 chapters
+[2025-11-27T15:26:00.945281] [INFO] Stage: generation
+[2025-11-27T15:26:01.116122] [INFO] 
+============================================================
+[2025-11-27T15:26:01.135587] [INFO] CHAPTER 1/20 | Progress: 5.0% | ETA: calculating...
+[2025-11-27T15:26:01.180532] [INFO] ============================================================
+
+[2025-11-27T15:26:01.265137] [INFO] Generating chapter 1...
+[2025-11-27T15:26:03.062343] [INFO] Chapter 1 prompt created: workspace/test-compat/prompt_ch1.md
+[2025-11-27T15:26:03.092887] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-27T15:26:03.114996] [INFO] Quality check: chapter 1...
+[2025-11-27T15:26:03.174966] [ERROR] Chapter file not found: workspace/test-compat/chapters/chapter_001.md
+[2025-11-27T15:26:03.206639] [ERROR] Chapter 1 failed quality check
+[2025-11-27T15:26:03.292388] [INFO] 
+============================================================
+[2025-11-27T15:26:03.340912] [INFO] CHAPTER 2/20 | Progress: 10.0% | ETA: 00:00:41
+[2025-11-27T15:26:03.421275] [INFO] ============================================================
+
+[2025-11-27T15:26:03.439166] [INFO] Generating chapter 2...
+[2025-11-27T15:26:05.708223] [INFO] Chapter 2 prompt created: workspace/test-compat/prompt_ch2.md
+[2025-11-27T15:26:05.762608] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-27T15:26:05.800537] [INFO] Quality check: chapter 2...
+[2025-11-27T15:26:06.001349] [ERROR] Chapter file not found: workspace/test-compat/chapters/chapter_002.md
+[2025-11-27T15:26:06.052903] [ERROR] Chapter 2 failed quality check
+[2025-11-27T15:26:06.193782] [INFO] 
+============================================================
+[2025-11-27T15:26:06.250463] [INFO] CHAPTER 3/20 | Progress: 15.0% | ETA: 00:00:45
+[2025-11-27T15:26:06.294901] [INFO] ============================================================
+
+[2025-11-27T15:26:06.352509] [INFO] Generating chapter 3...
+[2025-11-27T15:26:08.219393] [INFO] Chapter 3 prompt created: workspace/test-compat/prompt_ch3.md
+[2025-11-27T15:26:08.272180] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-27T15:26:08.312213] [INFO] Quality check: chapter 3...
+[2025-11-27T15:26:08.400518] [ERROR] Chapter file not found: workspace/test-compat/chapters/chapter_003.md
+[2025-11-27T15:26:08.431258] [ERROR] Chapter 3 failed quality check
+[2025-11-27T15:26:08.558409] [INFO] 
+============================================================
+[2025-11-27T15:26:08.575478] [INFO] CHAPTER 4/20 | Progress: 20.0% | ETA: 00:00:42
+[2025-11-27T15:26:08.632555] [INFO] ============================================================
+
+[2025-11-27T15:26:08.677764] [INFO] Generating chapter 4...

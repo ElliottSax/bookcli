@@ -1,0 +1,15 @@
+{
+  "book_name": "test-thriller",
+  "genre": "thriller",
+  "target_words": 30000,
+  "started": "2025-11-26T15:48:21.072530",
+  "stage": "generation",
+  "chapters_planned": 20,
+  "chapters_completed": 0,
+  "total_words": 0,
+  "quality_passes": 0,
+  "errors": [],
+  "completed": false,
+  "last_updated": "2025-11-26T15:48:26.208160",
+  "source_words": 739
+}

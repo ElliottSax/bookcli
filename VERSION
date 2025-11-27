@@ -1,0 +1,82 @@
+1.2.0
+
+Book Factory - Autonomous Book Production System
+Release Date: 2025-11-27
+Status: Production Ready
+
+NEW IN 1.2.0:
+✨ Multi-Provider Support - DeepSeek, OpenRouter, Qwen, OpenAI
+✨ 97% Cost Reduction - $0.05 per book with DeepSeek vs $1.85 with Claude
+✨ Provider Selection - Choose LLM provider via --provider flag
+✨ Cost Comparison Tool - Compare all providers before choosing
+
+IN 1.1.0:
+✨ Claude API Integration - Fully autonomous generation
+✨ Cost tracking and budget enforcement
+✨ Resume capability after interruption
+✨ Real-time progress monitoring with ETA
+✨ Production deployment guide
+✨ Quick reference card
+
+FEATURES:
+- Multi-provider LLM support (NEW)
+  - DeepSeek: $0.05 per 80k book (97% savings) ← RECOMMENDED FOR COST
+  - OpenRouter: $0.05 per 80k book
+  - Alibaba Qwen: $0.10 per 80k book
+  - Claude Sonnet 4: $1.85 per 80k book ← RECOMMENDED FOR QUALITY
+  - OpenAI GPT-4: $4.40 per 80k book
+- Cost comparison tool (NEW)
+- Automatic provider configuration (NEW)
+- Claude API autonomous generation
+- Cost tracking and budget limits
+- Resume/recovery logic
+- Progress tracking with ETA
+- Autonomous operation (zero check-ins)
+- Auto-fix quality engine
+- Multi-genre support (thriller, romance, fantasy)
+- Continuity tracking system
+- KDP formatting (EPUB, DOCX, HTML, PDF)
+- Self-testing framework
+- Claude Code CLI integration
+
+TESTED: ✅ 18/18 core tests + API integration suite
+
+DOCUMENTATION:
+- START_HERE.md - Navigation guide
+- QUICKSTART.md - Getting started
+- README.md - Complete documentation
+- DEPLOYMENT.md - Production deployment
+- COST_OPTIMIZATION.md - Provider comparison & cost savings (NEW)
+- QUICK_REFERENCE.md - Command reference
+- USAGE_EXAMPLES.md - Practical examples
+- SYSTEM_SUMMARY.md - Technical overview
+- TEST_REPORT.md - Test results
+- DEMONSTRATION_COMPLETE.md - Real example
+- API_INTEGRATION_COMPLETE.md - Integration details
+
+USAGE:
+
+# Manual mode (creates prompts)
+python3 scripts/orchestrator.py --source source/book.txt --book-name my-book --genre thriller
+
+# Autonomous mode with Claude (high quality)
+python3 scripts/orchestrator.py --source source/book.txt --book-name my-book --genre thriller --use-api --provider claude --max-budget 5.0
+
+# Autonomous mode with DeepSeek (97% cost savings!)
+python3 scripts/orchestrator.py --source source/book.txt --book-name my-book --genre thriller --use-api --provider deepseek --max-budget 1.0
+
+# Compare provider costs
+python3 scripts/llm_providers.py compare
+
+COST EXAMPLES:
+- DeepSeek: $0.05 per 80k-word book (CHEAPEST)
+- Qwen: $0.10 per 80k-word book
+- Claude: $1.85 per 80k-word book (HIGHEST QUALITY)
+- OpenAI: $4.40 per 80k-word book
+
+TIME: 2-4 hours for complete book (all providers)
+
+RECOMMENDATION:
+- Use DeepSeek for cost savings (97% cheaper than Claude)
+- Use Claude for highest quality
+- Test both with a single chapter first

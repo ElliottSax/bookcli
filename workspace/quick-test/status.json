@@ -1,0 +1,13 @@
+{
+  "book_name": "quick-test",
+  "genre": "thriller",
+  "target_words": 30000,
+  "started": "2025-11-26T16:44:05.786238",
+  "stage": "initialized",
+  "chapters_planned": 0,
+  "chapters_completed": 0,
+  "total_words": 0,
+  "quality_passes": 0,
+  "errors": [],
+  "completed": false
+}

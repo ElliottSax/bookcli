@@ -1,0 +1,9 @@
+{
+  "source_file": "/tmp/booktest_hf3vyahv/test_source.txt",
+  "source_words": 739,
+  "target_words": 30000,
+  "chapters_planned": 20,
+  "words_per_chapter": 3500,
+  "genre": "thriller",
+  "analyzed": "2025-11-26T15:48:23.778555"
+}

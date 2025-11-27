@@ -1,0 +1,52 @@
+{
+  "Sarah Chen": {
+    "name": "Sarah Chen",
+    "introduced_chapter": 1,
+    "physical_description": {
+      "occupation": "MIT Professor/Researcher",
+      "expertise": "Quantum computing, financial algorithms"
+    },
+    "personality": [
+      "analytical",
+      "determined",
+      "brave"
+    ],
+    "relationships": {},
+    "goals": [
+      "understand Shadow Protocol",
+      "survive",
+      "stop the conspiracy"
+    ],
+    "current_state": {
+      "location": "Task Force Quantum helicopter",
+      "status": "recruited against will",
+      "possessions": "hard drive with Shadow Protocol data"
+    },
+    "arc_notes": [],
+    "chapter": 1,
+    "importance": "main"
+  },
+  "Katherine Walsh": {
+    "name": "Katherine Walsh",
+    "introduced_chapter": 1,
+    "physical_description": {
+      "age": "mid-forties",
+      "appearance": "silver hair, expensive suit",
+      "demeanor": "commanding presence"
+    },
+    "personality": [
+      "professional",
+      "calm under pressure",
+      "authoritative"
+    ],
+    "relationships": {},
+    "goals": [],
+    "current_state": {
+      "role": "Director of Task Force Quantum",
+      "location": "helicopter with Sarah"
+    },
+    "arc_notes": [],
+    "chapter": 1,
+    "importance": "major"
+  }
+}

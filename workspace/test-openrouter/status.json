@@ -1,0 +1,13 @@
+{
+  "book_name": "test-openrouter",
+  "genre": "thriller",
+  "target_words": 7000,
+  "started": "2025-11-27T15:28:10.578328",
+  "stage": "initialized",
+  "chapters_planned": 0,
+  "chapters_completed": 0,
+  "total_words": 0,
+  "quality_passes": 0,
+  "errors": [],
+  "completed": false
+}

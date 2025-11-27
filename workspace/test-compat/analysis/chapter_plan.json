@@ -1,0 +1,147 @@
+{
+  "total_chapters": 20,
+  "structure": {
+    "act1": {
+      "start": 1,
+      "end": 5,
+      "focus": "setup"
+    },
+    "act2a": {
+      "start": 6,
+      "end": 10,
+      "focus": "rising_action"
+    },
+    "act2b": {
+      "start": 11,
+      "end": 15,
+      "focus": "complications"
+    },
+    "act3": {
+      "start": 16,
+      "end": 20,
+      "focus": "climax_resolution"
+    }
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "beat": "Introduce characters, establish world, inciting incident",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 2,
+      "beat": "Introduce characters, establish world, inciting incident",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 3,
+      "beat": "Introduce characters, establish world, inciting incident",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 4,
+      "beat": "Introduce characters, establish world, inciting incident",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 5,
+      "beat": "Introduce characters, establish world, inciting incident",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 6,
+      "beat": "Rising action, complications, character development",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 7,
+      "beat": "Rising action, complications, character development",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 8,
+      "beat": "Rising action, complications, character development",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 9,
+      "beat": "Rising action, complications, character development",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 10,
+      "beat": "Rising action, complications, character development",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 11,
+      "beat": "Escalating tension, midpoint twist, darkening stakes",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 12,
+      "beat": "Escalating tension, midpoint twist, darkening stakes",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 13,
+      "beat": "Escalating tension, midpoint twist, darkening stakes",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 14,
+      "beat": "Escalating tension, midpoint twist, darkening stakes",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 15,
+      "beat": "Escalating tension, midpoint twist, darkening stakes",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 16,
+      "beat": "Climax building, resolution, epilogue",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 17,
+      "beat": "Climax building, resolution, epilogue",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 18,
+      "beat": "Climax building, resolution, epilogue",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 19,
+      "beat": "Climax building, resolution, epilogue",
+      "target_words": 3500,
+      "status": "pending"
+    },
+    {
+      "number": 20,
+      "beat": "Climax building, resolution, epilogue",
+      "target_words": 3500,
+      "status": "pending"
+    }
+  ]
+}

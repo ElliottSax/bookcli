@@ -1,0 +1,9 @@
+{
+  "source_file": "source/sample_thriller.txt",
+  "source_words": 1545,
+  "target_words": 30000,
+  "chapters_planned": 20,
+  "words_per_chapter": 3500,
+  "genre": "thriller",
+  "analyzed": "2025-11-26T15:53:50.114284"
+}
