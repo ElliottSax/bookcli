@@ -1,0 +1,9 @@
+{
+  "source_file": "source/sample_source.txt",
+  "source_words": 206,
+  "target_words": 30000,
+  "chapters_planned": 20,
+  "words_per_chapter": 3500,
+  "genre": "fantasy",
+  "analyzed": "2025-11-27T16:07:16.082583"
+}

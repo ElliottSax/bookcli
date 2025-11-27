@@ -1,0 +1,43 @@
+[2025-11-27T16:07:14.938428] [INFO] 
+============================================================
+[2025-11-27T16:07:15.009045] [INFO] AUTONOMOUS BOOK PRODUCTION PIPELINE
+[2025-11-27T16:07:15.044916] [INFO] Book: example-adventure
+[2025-11-27T16:07:15.153516] [INFO] Genre: fantasy
+[2025-11-27T16:07:15.253885] [INFO] Target: 30,000 words
+[2025-11-27T16:07:15.331430] [INFO] ============================================================
+
+[2025-11-27T16:07:15.479439] [INFO] Analyzing source material...
+[2025-11-27T16:07:15.783661] [INFO] Stage: analysis
+[2025-11-27T16:07:16.009651] [INFO] Source: 206 words
+[2025-11-27T16:07:16.328897] [INFO] Plan: 20 chapters × 3500 words
+[2025-11-27T16:07:16.391583] [INFO] Creating chapter plan...
+[2025-11-27T16:07:16.670641] [INFO] Chapter plan created: 20 chapters
+[2025-11-27T16:07:16.850854] [INFO] Stage: generation
+[2025-11-27T16:07:17.135785] [INFO] 
+============================================================
+[2025-11-27T16:07:17.275607] [INFO] CHAPTER 1/20 | Progress: 5.0% | ETA: calculating...
+[2025-11-27T16:07:17.425397] [INFO] ============================================================
+
+[2025-11-27T16:07:17.509411] [INFO] Generating chapter 1...
+[2025-11-27T16:07:22.046010] [INFO] Chapter 1 prompt created: workspace/example-adventure/prompt_ch1.md
+[2025-11-27T16:07:22.187105] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-27T16:07:22.300484] [INFO] Quality check: chapter 1...
+[2025-11-27T16:07:22.491198] [ERROR] Chapter file not found: workspace/example-adventure/chapters/chapter_001.md
+[2025-11-27T16:07:22.598355] [ERROR] Chapter 1 failed quality check
+[2025-11-27T16:07:22.905897] [INFO] 
+============================================================
+[2025-11-27T16:07:22.978691] [INFO] CHAPTER 2/20 | Progress: 10.0% | ETA: 00:01:49
+[2025-11-27T16:07:23.024520] [INFO] ============================================================
+
+[2025-11-27T16:07:23.104255] [INFO] Generating chapter 2...
+[2025-11-27T16:07:26.998872] [INFO] Chapter 2 prompt created: workspace/example-adventure/prompt_ch2.md
+[2025-11-27T16:07:27.138102] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-27T16:07:27.190297] [INFO] Quality check: chapter 2...
+[2025-11-27T16:07:27.307478] [ERROR] Chapter file not found: workspace/example-adventure/chapters/chapter_002.md
+[2025-11-27T16:07:27.408714] [ERROR] Chapter 2 failed quality check
+[2025-11-27T16:07:27.767988] [INFO] 
+============================================================
+[2025-11-27T16:07:27.883481] [INFO] CHAPTER 3/20 | Progress: 15.0% | ETA: 00:01:35
+[2025-11-27T16:07:27.987658] [INFO] ============================================================
+
+[2025-11-27T16:07:28.143091] [INFO] Generating chapter 3...
