@@ -1,0 +1,363 @@
+# Prompt Engineering Templates
+# Few-shot examples and techniques to push quality from 7/10 to 8.5+/10
+
+# Core principles enforced in every generation
+core_requirements: |
+  CRITICAL FICTION QUALITY REQUIREMENTS:
+
+  1. SPECIFICITY OVER GENERALITY
+     ✗ NEVER: "felt sad", "was angry", "seemed worried"
+     ✓ ALWAYS: Physical sensation + specific memory + character action
+
+  2. SHOW OVER TELL
+     ✗ NEVER: "learned that", "realized that", "understood that"
+     ✓ ALWAYS: Character makes choice, reader infers meaning
+
+  3. VOICE DISTINCTIVENESS
+     ✓ Include 3-5 sentence fragments per chapter
+     ✓ "Not X. Y." pattern 2-3 times
+     ✓ Vary sentence rhythm (3-word fragments to 40-word flows)
+
+  4. OBSESSIVE DEPTH
+     ✓ Go deep on 1-2 recurring elements (hands, sensation, symbols)
+     ✓ Spend 3x normal words on obsessive details
+
+  5. TRUST THE READER
+     ✓ Leave 20% of questions unanswered
+     ✓ Add contradictions (character says X, shows Y)
+     ✓ Symbolic resonance without explanation
+
+# Few-shot examples of 8.5/10 quality
+
+few_shot_examples:
+
+  emotion_specificity:
+    description: "Transform generic emotions into grounded, specific moments"
+
+    bad_example: |
+      Marcus felt sad about what happened to Lily. He wished he could have helped her more.
+      She was in pain and he felt guilty about it.
+
+    good_example: |
+      Marcus's throat closed—that airless crush from the funeral, from every time someone
+      said "your dad." He swallowed hard. Kept walking. Lily was three doors down and he
+      couldn't look at her yet.
+
+      Guilt wasn't the word. Guilt was clean, had edges, you could examine it and know
+      where it started. This was older. Bone-recognition that his hands—the same hands
+      that had separated Lyara and Thomas—had taught Lily the technique that led her here.
+
+    technique: |
+      - Physical sensation with specific comparison (airless crush from the funeral)
+      - Character action that implies emotion (swallowed, kept walking, couldn't look)
+      - Redefine abstract emotion with visceral description (guilt wasn't the word...)
+      - Symbol callback (hands = identity, hands = tool of harm)
+
+  thematic_subtlety:
+    description: "Show theme through action and contradiction, never state it"
+
+    bad_example: |
+      Through this experience, Marcus learned that sometimes healing isn't possible and
+      you have to make hard choices. Wisdom means knowing when to retreat and when to push
+      forward. He understood now that idealism had to be balanced with pragmatism.
+
+    good_example: |
+      The corruption spread. Marcus had maybe two minutes.
+
+      Heal or cut?
+
+      Three days ago, he'd have said heal. Every time. No exceptions.
+
+      He manifested his blade. Cut. Didn't let himself think about alternatives.
+
+      The host gasped. Lived. Would wake up missing three years of memory and wondering
+      why their hands shook.
+
+      Marcus looked at his own hands. Marked and scarred. Still learning what they could do.
+      What they should.
+
+    technique: |
+      - Setup the choice with physical urgency (corruption spread, two minutes)
+      - Present the thematic question simply (heal or cut?)
+      - Show character evolution through action (three days ago vs now)
+      - Demonstrate the choice through action verbs (manifested, cut)
+      - Show consequences without judgment (gasped, lived, missing years)
+      - End with unanswered question (could vs should)
+
+  voice_distinctiveness:
+    description: "Create unmistakable authorial voice through pattern and rhythm"
+
+    bad_example: |
+      Marcus walked to the Mender wing to see Evan about his channels. They still hurt
+      from the last mission. He needed to know if they would heal properly or if there
+      would be permanent damage.
+
+    good_example: |
+      Marcus walked to the Mender wing, hands clenched.
+
+      His channels ached. Not sharp—deeper. Bone-deep. The kind that made you want to
+      crack every joint, release pressure that had nowhere to go.
+
+      Three days since the mission. Three days of this low burn. Kira said it was normal.
+
+      Marcus looked at his marked palm. Normal for who?
+
+      Evan's workshop stood at the end of the hall. Green light pulsed inside—healing
+      magic, constant. The air tasted like copper and mint. Familiar now. That scared
+      him more than the pain.
+
+    technique: |
+      - Obsessive callback (hands clenched - immediately establishes pattern)
+      - Fragment sentences for rhythm (Not sharp—deeper. Bone-deep.)
+      - "Not X. Y." pattern for voice distinctiveness
+      - Single-sentence paragraph for emphasis (Normal for who?)
+      - Sensory specificity (copper and mint, not just "smelled like healing")
+      - Implication over statement (familiar scared him = he's changing, losing humanity)
+
+  obsessive_depth:
+    description: "Go absurdly deep on 1-2 recurring elements"
+
+    bad_example: |
+      Marcus's binding mark glowed faintly. It was a sign of his connection to the
+      Weavers. He noticed it sometimes when he used magic.
+
+    good_example: |
+      Marcus examined his hands in the dim light. The binding mark pulsed three-beat
+      rhythm on his right palm—always three, always the same interval. He'd counted.
+      Fifty-three beats per minute when resting. Ninety-plus when channeling. One-twenty
+      when the Weavers spoke inside his skull.
+
+      The mark was silver-white scar tissue in a pattern he still couldn't fully see. It
+      shifted. Not physically—his eyes couldn't quite focus on it. Like trying to look
+      directly at a star. Peripheral vision caught more: curves that suggested text in
+      a language made of light and geometry.
+
+      His left hand was unmarked. Fifteen years of normal human wear. Callus on his middle
+      finger from pencils. Scar on his thumb from the kitchen knife when he was seven.
+      That hand was still his.
+
+      His right hand belonged to something else now. To someone else. To the Pattern and
+      the Weavers and the weight of every thread he'd touched.
+
+      Both hands. Marked and unmarked. His and not-his.
+
+      He clenched them both and kept walking.
+
+    technique: |
+      - Obsessive quantification (three-beat rhythm, fifty-three beats, exact numbers)
+      - Microscopic examination (couldn't focus, peripheral vision, light and geometry)
+      - Comparison to establish loss (left hand normal vs right hand changed)
+      - Catalog of specific details (pencil callus, knife scar age seven)
+      - Philosophical layering (his vs not-his, belonged to something else)
+      - Physical grounding after abstract (clenched them, kept walking)
+
+  risk_taking:
+    description: "Break conventions deliberately in service of vision"
+
+    bad_example: |
+      The mission went well. Marcus successfully healed the corruption without harming
+      the host. He returned to the Sanctum and reported to the Weavers, who were pleased
+      with his progress. He felt good about his choices.
+
+    good_example: |
+      The mission—
+
+      No.
+
+      [Several hours of Marcus's internal monologue and justifications]
+
+      The mission failed.
+
+      Not failed. Succeeded. The host lived.
+
+      But the mission failed.
+
+      Three people saw Marcus hesitate. Three people watched him spend seventeen minutes
+      on a healing that should have taken thirty seconds. Three people knew he'd
+      channeled enough magic to kill himself trying to save someone the Weavers had
+      already written off.
+
+      The host lived. Marcus collapsed. Kira had to carry him back through the portal.
+
+      The Weavers said nothing. That was worse.
+
+    technique: |
+      - False start (The mission— No.) creates tension
+      - Structural break (omit the standard mission description)
+      - Contradiction preserved (succeeded vs failed, both true)
+      - Specific detail as indictment (seventeen minutes vs thirty seconds)
+      - Stakes through witness (three people saw = reputation cost)
+      - Implication through silence (Weavers said nothing = worst outcome)
+
+# Temperature and parameter recommendations per dimension
+
+generation_parameters:
+
+  baseline:
+    temperature: 0.7
+    description: "Standard competent generation"
+    expected_score: 6.5-7.0
+
+  emotional_specificity:
+    temperature: 0.8
+    description: "Higher temp for creative metaphor and specific comparisons"
+    expected_score: 7.0-7.5
+
+  voice_distinctiveness:
+    temperature: 0.9
+    description: "Highest temp for rhythmic variation and unexpected patterns"
+    expected_score: 7.0-7.8
+
+  obsessive_depth:
+    temperature: 0.75
+    description: "Medium-high for detailed exploration while maintaining coherence"
+    expected_score: 7.2-7.8
+
+  thematic_subtlety:
+    temperature: 0.6
+    description: "Lower temp for precise control, cutting explicit statements"
+    expected_score: 6.8-7.5
+
+  risk_taking:
+    temperature: 0.95
+    description: "Very high for structural experiments and convention-breaking"
+    expected_score: 6.0-8.5 (high variance)
+
+  balanced_excellence:
+    temperature: 0.8
+    description: "High enough for creativity, controlled enough for quality"
+    expected_score: 7.5-8.5
+
+# Prompt construction templates
+
+templates:
+
+  chapter_generation_base: |
+    You are generating Chapter {chapter_num} of a {genre} novel.
+
+    OUTLINE:
+    {chapter_outline}
+
+    CONTINUITY:
+    {continuity_context}
+
+    SOURCE MATERIAL:
+    {source_excerpt}
+
+    {core_requirements}
+
+    Generate the complete chapter text. Focus on visceral specificity, distinctive voice,
+    and trusting the reader to infer meaning.
+
+  chapter_generation_with_examples: |
+    You are generating Chapter {chapter_num} of a {genre} novel.
+
+    OUTLINE:
+    {chapter_outline}
+
+    CONTINUITY:
+    {continuity_context}
+
+    SOURCE MATERIAL:
+    {source_excerpt}
+
+    {core_requirements}
+
+    EXAMPLES OF EXCELLENT CRAFT:
+
+    {few_shot_emotion}
+
+    {few_shot_voice}
+
+    {few_shot_theme}
+
+    Generate the complete chapter text using these techniques.
+
+  chapter_generation_ultra: |
+    You are generating Chapter {chapter_num} of a {genre} novel.
+
+    TARGET QUALITY: 8.5/10 - Exceptional, memorable, distinctive
+
+    OUTLINE:
+    {chapter_outline}
+
+    CONTINUITY:
+    {continuity_context}
+
+    SOURCE MATERIAL (500k word foundation):
+    {foundation_excerpt}
+
+    CHARACTER DEPTH (from archaeology):
+    {character_backstory}
+
+    THEMATIC WEB:
+    {active_paradoxes}
+
+    {core_requirements}
+
+    EXAMPLES OF TARGET QUALITY:
+
+    {few_shot_all_examples}
+
+    SPECIFIC FOCUS FOR THIS VERSION:
+    {variation_prompt}
+
+    Generate complete chapter. Every sentence should be defensible as the best way to
+    convey this moment. Trust the reader. Show don't tell. Go deep on obsessions.
+    Make it unmistakably yours.
+
+# Quality validation prompts (for self-critique during generation)
+
+quality_checks: |
+  Before finalizing, verify:
+
+  □ Zero instances of "felt sad/angry/afraid/worried"
+  □ Zero instances of "learned/realized/understood that"
+  □ At least 3 sentence fragments
+  □ At least 2 "Not X. Y." constructions
+  □ Hands OR magic sensation described in obsessive detail
+  □ At least one contradiction (character says X, shows Y)
+  □ At least one question left unanswered
+  □ Varied sentence length (shortest < 5 words, longest > 30 words)
+  □ Every emotion grounded in physical sensation
+  □ Themes shown through action, not stated
+
+# Example full enhanced prompt
+
+example_enhanced_prompt: |
+  You are generating Chapter 3 of a fantasy novel about magical assassins.
+
+  TARGET QUALITY: 8.5/10 - Exceptional, memorable, distinctive
+
+  OUTLINE:
+  Marcus confronts the Weavers demanding answers about his role. He learns he's meant
+  to kill a human host to prevent Veil collapse. Realizes the Sanctum is training him
+  as an assassin. Must decide whether to accept this mission or find another way.
+
+  CRITICAL FICTION QUALITY REQUIREMENTS:
+
+  1. SPECIFICITY: Replace ALL generic emotions
+     ✗ "felt afraid" → ✓ "hands shook, that hospital-smell fear from when Gran died"
+
+  2. SHOW THEMES: Delete "learned/realized/understood that"
+     Show Marcus's moral struggle through actions and choices, not statements
+
+  3. VOICE: Include 4 fragments, 2 "Not X. Y." patterns, vary sentence rhythm
+
+  4. OBSESSION: Go deep on hands as identity OR magic as physical sensation
+
+  5. TRUST READER: Leave moral question open, add contradiction, symbolic resonance
+
+  EXAMPLE - Emotion specificity:
+  ✗ BAD: "Marcus felt afraid when the Weaver spoke."
+  ✓ GOOD: "The Weaver's voice in his skull—violation he'd never consented to. Marcus's
+          jaw ached from clenching. Heat crawled up his neck. The unfair kind."
+
+  EXAMPLE - Thematic subtlety:
+  ✗ BAD: "Marcus learned that sometimes you have to make hard choices."
+  ✓ GOOD: "Kill one to save thousands? Three days ago, Marcus would have said no.
+          Would have said there's always another way. He looked at his hands.
+          Marked. Scarred. Learning what they could do. What they should."
+
+  Generate complete Chapter 3. Every sentence should be the best way to convey this
+  moment. Trust the reader. Show don't tell. Make it unmistakably yours.

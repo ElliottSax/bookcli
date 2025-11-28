@@ -1,126 +1,21 @@
 # Chapter 1
 
-The house on Willow Street had seventeen windows, all of them dark. Marcus stopped on the cracked sidewalk, backpack heavy against his shoulders, and counted them again. Still seventeen. Same as yesterday, same as last week, same as the three months since Mom dragged him to this dead-end town.
+The house on Willow Street had seventeen windows, all of them dark.Marcus stopped on the cracked sidewalk, backpack heavy against his shoulders,. Counted them again.Still seventeen.Same as yesterday, same as last week, same as the three months since Mom dragged him to this dead-end town.Rain tapped against his hood.The October wind cut through his jacket, sharp enough to sting.He should keep walking.Get home before dark, before Mom started her shift at the diner and left him another microwaved dinner.Should stop staring at the boarded-up Victorian like some idiot.Marcus took a step closer.The "For Sale" sign had fallen over.Weeds strangled the front walk.Someone had spray-painted symbols on the porch columns—not the usual graffiti tags, but something else.Curves and angles that made his eyes itch when he looked too long.A normal person would turn around.Walk the extra three blocks to avoid this place, like everyone else did.Marcus climbed the porch steps.The wood groaned under his sneakers.Paint peeled from the front door in long curls, revealing bare wood underneath.He pressed his palm against it.Warm.The door radiated heat like sun-baked asphalt, impossible on a November afternoon in Vermont.His hand moved to the doorknob before his brain caught up.The metal scorched his fingers—he jerked back, breath hissing between his teeth.But the knob had turned.The door swung inward.Darkness swallowed the entrance hall.No windows inside, or they'd been blocked.The air that spilled out smelled wrong: not musty or stale, but sharp and metallic, like ozone after lightning."Hello?" His voice cracked.Fifteen years old and his voice still broke like a kid's.No response.that smell, and a sound underneath the rain—a low hum in his chest more than heard.Marcus pulled out his phone.The screen flickered twice. Died.Full battery an hour ago, now black and lifeless.He looked back at the street.Empty.The other houses on Willow Street had warm lights in their windows, smoke from chimneys, cars in driveways.Normal November evening stuff.The life that didn't include Marcus anymore, hadn't since Dad—
 
-Rain tapped against his hood. The October wind cut through his jacket, sharp enough to sting.
+He stepped inside.The temperature spiked.His jacket went from damp and cold to stifling in seconds.He yanked down his hood, shrugged off the backpack, let both hit the floor.The humming grew louder.His eyes adjusted.Not completely dark, then.A faint blue glow emanated from deeper in the house, painting the hallway in underwater shadows.Wallpaper hung in strips.The floorboards were intact but covered in dust thick as carpet, unmarked by footprints.No one had been here in years.Maybe decades.So why did the air taste electric?Why did his skin prickle like static before a storm?Marcus walked toward the light.The hallway opened into what had been a living room.Furniture stood draped in sheets, gray lumps in the blue glow.The light source sat in the center of the floor: a wooden chest, maybe three feet long and two feet wide, carved all over with the same symbols from the porch.They glowed.Soft blue phosphorescence, pulsing like a heartbeat.Marcus crouched next to it.His fingers hovered over the lid.*Don't touch it.* The thought came clear and cold.*Back away.Leave.Run.*
 
-He should keep walking. Get home before dark, before Mom started her shift at the diner and left him another microwaved dinner. Should stop staring at the boarded-up Victorian like some idiot.
+But his hand was already moving.His fingertips brushed the carved surface.The world cracked open.Light detonated from the chest—not blue anymore but white, searing, bright as staring into the sun.Pain lanced through his skull.He tried to pull back but his hand was fused to the wood, burning and freezing at once.The floor dropped away.Marcus fell.Wind screamed past his ears.His stomach lurched into his throat.He tumbled through white nothing, no up or down, falling and falling and—
 
-Marcus took a step closer.
+Impact.He hit ground hard enough to knock the air from his lungs.Wet earth, not wood.The smell of rain-soaked soil and growing things.Marcus gasped, rolled onto his side, dragged in a breath that tasted like spring instead of November.He opened his eyes.Trees surrounded him.Not the skeletal oaks and maples from home, bare branches against gray sky.These were massive, their trunks wider than cars, their canopy so dense overhead that only scattered light made it through.The leaves were wrong—too large, edged in silver, rustling with a sound like whispered songs.The sky visible through gaps in the foliage was purple.Not sunset purple or bruised-cloud purple, but genuine violet, deep and rich as velvet.Marcus struggled to his feet.His legs shook.The ground beneath him was covered in moss that glowed faintly green where he'd crushed it.Bioluminescent moss.Purple sky.Trees that hummed.He spun in a slow circle.No house.No Willow Street.No Vermont anywhere in sight.In the distance, drums began to beat.Not random percussion but a pattern, deliberate and complex.The rhythm made his pulse match its tempo against his will.Something moved between the trees.Marcus froze.A figure emerged from the shadows—tall, slender, wrapped in a cloak that seemed woven from twilight itself.Where its face should be, only darkness.But it walked with purpose, heading straight toward him.The drumbeat grew faster.Marcus's legs finally remembered how to work.He turned and ran.Roots grabbed at his feet.Low branches slapped his face.His lungs burned.Behind him, footsteps followed—not running, walking, steady and patient as death.He burst through a curtain of hanging vines into a clearing and skidded to a stop.More figures.Dozens of them, circling a stone platform in the center.They moved in time with the drums, slow and synchronized.In the middle of the platform, a fire burned green.All the figures turned toward him at once.Marcus backed away.His heel hit something solid.He whipped around.The cloaked figure from the forest stood inches away.No face, that void where features should be.It raised one hand—pale, too many fingers—and pointed at him.A voice spoke inside his skull, words in a language he'd never heard but somehow understood:
 
-The "For Sale" sign had fallen over. Weeds strangled the front walk. Someone had spray-painted symbols on the porch columns—not the usual graffiti tags, but something else. Curves and angles that made his eyes itch when he looked too long.
+*The key has arrived.Let the Binding begin.*
 
-A normal person would turn around. Walk the extra three blocks to avoid this place, like everyone else did.
+The other figures moved as one, gliding across the moss toward him.The drums thundered.The green fire shot into the air, painting everything in sickly light.Marcus opened his mouth to scream—
 
-Marcus climbed the porch steps.
-
-The wood groaned under his sneakers. Paint peeled from the front door in long curls, revealing bare wood underneath. He pressed his palm against it.
-
-Warm. The door radiated heat like sun-baked asphalt, impossible on a November afternoon in Vermont.
-
-His hand moved to the doorknob before his brain caught up. The metal scorched his fingers—he jerked back, breath hissing between his teeth. But the knob had turned. The door swung inward.
-
-Darkness swallowed the entrance hall. No windows inside, or they'd been blocked. The air that spilled out smelled wrong: not musty or stale, but sharp and metallic, like ozone after lightning.
-
-"Hello?" His voice cracked. Fifteen years old and his voice still broke like a kid's.
-
-No response. that smell, and a sound underneath the rain—a low hum in his chest more than heard.
-
-Marcus pulled out his phone. The screen flickered twice and died. Full battery an hour ago, now black and lifeless.
-
-He looked back at the street. Empty. The other houses on Willow Street had warm lights in their windows, smoke from chimneys, cars in driveways. Normal November evening stuff. The life that didn't include Marcus anymore, hadn't since Dad—
-
-He stepped inside.
-
-The temperature spiked. His jacket went from damp and cold to stifling in seconds. He yanked down his hood, shrugged off the backpack, let both hit the floor.
-
-The humming grew louder.
-
-His eyes adjusted. Not completely dark, then. A faint blue glow emanated from deeper in the house, painting the hallway in underwater shadows. Wallpaper hung in strips. The floorboards were intact but covered in dust thick as carpet, unmarked by footprints.
-
-No one had been here in years. Maybe decades.
-
-So why did the air taste electric? Why did his skin prickle like static before a storm?
-
-Marcus walked toward the light.
-
-The hallway opened into what had been a living room. Furniture stood draped in sheets, gray lumps in the blue glow. The light source sat in the center of the floor: a wooden chest, maybe three feet long and two feet wide, carved all over with the same symbols from the porch.
-
-They glowed. Soft blue phosphorescence, pulsing like a heartbeat.
-
-Marcus crouched next to it. His fingers hovered over the lid.
-
-*Don't touch it.* The thought came clear and cold. *Back away. Leave. Run.*
-
-But his hand was already moving. His fingertips brushed the carved surface.
-
-The world cracked open.
-
-Light detonated from the chest—not blue anymore but white, searing, bright as staring into the sun. Pain lanced through his skull. He tried to pull back but his hand was fused to the wood, burning and freezing at once.
-
-The floor dropped away.
-
-Marcus fell.
-
-Wind screamed past his ears. His stomach lurched into his throat. He tumbled through white nothing, no up or down, falling and falling and—
-
-Impact.
-
-He hit ground hard enough to knock the air from his lungs. Wet earth, not wood. The smell of rain-soaked soil and growing things.
-
-Marcus gasped, rolled onto his side, dragged in a breath that tasted like spring instead of November.
-
-He opened his eyes.
-
-Trees surrounded him. Not the skeletal oaks and maples from home, bare branches against gray sky. These were massive, their trunks wider than cars, their canopy so dense overhead that only scattered light made it through. The leaves were wrong—too large, edged in silver, rustling with a sound like whispered songs.
-
-The sky visible through gaps in the foliage was purple. Not sunset purple or bruised-cloud purple, but genuine violet, deep and rich as velvet.
-
-Marcus struggled to his feet. His legs shook. The ground beneath him was covered in moss that glowed faintly green where he'd crushed it.
-
-Bioluminescent moss. Purple sky. Trees that hummed.
-
-He spun in a slow circle. No house. No Willow Street. No Vermont anywhere in sight.
-
-In the distance, drums began to beat. Not random percussion but a pattern, deliberate and complex. The rhythm made his pulse match its tempo against his will.
-
-Something moved between the trees.
-
-Marcus froze.
-
-A figure emerged from the shadows—tall, slender, wrapped in a cloak that seemed woven from twilight itself. Where its face should be, only darkness. But it walked with purpose, heading straight toward him.
-
-The drumbeat grew faster.
-
-Marcus's legs finally remembered how to work. He turned and ran.
-
-Roots grabbed at his feet. Low branches slapped his face. His lungs burned. Behind him, footsteps followed—not running, walking, steady and patient as death.
-
-He burst through a curtain of hanging vines into a clearing and skidded to a stop.
-
-More figures. Dozens of them, circling a stone platform in the center. They moved in time with the drums, slow and synchronized. In the middle of the platform, a fire burned green.
-
-All the figures turned toward him at once.
-
-Marcus backed away. His heel hit something solid. He whipped around.
-
-The cloaked figure from the forest stood inches away. No face, that void where features should be. It raised one hand—pale, too many fingers—and pointed at him.
-
-A voice spoke inside his skull, words in a language he'd never heard but somehow understood:
-
-*The key has arrived. Let the Binding begin.*
-
-The other figures moved as one, gliding across the moss toward him. The drums thundered. The green fire shot into the air, painting everything in sickly light.
-
-Marcus opened his mouth to scream—
-
-And the world went black.
-
----
+And the world went black.---
 
 **METADATA:**
 - **New characters**: Marcus (protagonist, 15 years old, recently moved to Vermont, lost father), The Cloaked Figures (mysterious beings in the other world)
 - **Key events**: Marcus enters the abandoned house on Willow Street, touches the magical chest, gets transported to another world, encounters mysterious cloaked figures who call him "the key", loses consciousness
 - **Facts established**: The house on Willow Street has strange glowing symbols, the chest acts as a portal between worlds, the other world has purple sky, bioluminescent plants, and mysterious inhabitants who seem to have been waiting for Marcus, they refer to something called "the Binding"
-- **Threads advanced**: Why is Marcus "the key"? What is the Binding? How does Marcus get home? What happened to his father (hinted but not explained)? Who are the cloaked figures?
----
+- **Threads advanced**: Why is Marcus "the key"?What is the Binding?How does Marcus get home?What happened to his father (hinted but not explained)?Who are the cloaked figures?---

@@ -4,7 +4,7 @@ Marcus's legs wobbled on the third step.
 
 Kira caught his elbow before he could pitch forward. "Easy. You've been horizontal for three days. Your muscles forgot how to work."
 
-"They remember fine." He pulled free and took another step. His thigh trembled but held. "See?"
+"They remember fine." He pulled free. Took another step. His thigh trembled but held. "See?"
 
 "Stubborn." She shook her head, beads clicking. "That'll either save you or kill you."
 
@@ -16,13 +16,13 @@ Hundreds. Marcus filed that away with all the other terrifying information he'd 
 
 Don't think about that. Focus on walking.
 
-The beaded curtain swayed ahead of them. Beyond it, light spilled from what sounded like a larger space. Voices echoed, low and murmuring. Not the telepathic intrusion of the Weavers, but actual human speech.
+The beaded curtain swayed ahead of them. Beyond it, light spilled from what sounded like a larger space. Voices echoed, low. Murmuring. Not the telepathic intrusion of the Weavers, but actual human speech.
 
 Marcus pushed through the curtain.
 
 The chamber outside was enormous. Vaulted ceiling disappeared into shadows above glowing  that floated without visible support. Dozens of alcoves lined the circular walls, each one curtained like the room he'd occupied. The floor was smooth stone inlaid with silver lines that formed a pattern too complex for his eyes to follow. They pulsed with faint light, like veins carrying luminescent blood.
 
-People moved through the space. Not many—maybe twenty—but after three days alone with only Kira and one terrifying Weaver, it felt like a crowd. They wore the same gray tunics and pants Marcus did. Some sat in small groups, talking quietly. Others practiced what had to be magic: a girl making water sphere in her hands, a boy whose fingers sparked with electricity, someone hovering three inches off the ground with their eyes closed in concentration.
+People moved through the space. Not many—maybe twenty—but after three days alone with only Kira and one terrifying Weaver, it felt like a crowd. They wore the same gray tunics. Pants marcus did. Some sat in small groups, talking quietly. Others practiced what had to be magic: a girl making water sphere in her hands, a boy whose fingers sparked with electricity, someone hovering three inches off the ground with their eyes closed in concentration.
 
 All of them had marks. He could see the scars glowing faintly on exposed skin—palms, wrists, collarbones, even one on a woman's temple.
 

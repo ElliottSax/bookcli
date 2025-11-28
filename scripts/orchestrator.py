@@ -19,12 +19,19 @@ sys.path.insert(0, str(script_dir))
 
 from llm_providers import LLMClient, Provider, ProviderConfig
 
+# Import ultra-tier components
+try:
+    from multi_dimensional_scorer import MultiDimensionalScorer
+    SCORER_AVAILABLE = True
+except ImportError:
+    SCORER_AVAILABLE = False
+
 
 class BookOrchestrator:
     def __init__(self, source_file: Path, book_name: str, genre: str,
                  target_words: int = 80000, test_first: bool = True,
                  use_api: bool = False, max_budget: float = 50.0,
-                 provider: str = "claude"):
+                 provider: str = "claude", multi_pass_attempts: int = 1):
         self.source_file = Path(source_file)
         self.book_name = book_name
         self.genre = genre
@@ -32,11 +39,15 @@ class BookOrchestrator:
         self.test_first = test_first
         self.use_api = use_api
         self.max_budget = max_budget
+        self.multi_pass_attempts = multi_pass_attempts
 
         # Provider configuration
         self.provider = Provider(provider.lower())
         self.provider_config = ProviderConfig.get_config(self.provider)
         self.llm_client = None
+
+        # Ultra-tier quality system
+        self.scorer = MultiDimensionalScorer() if SCORER_AVAILABLE and multi_pass_attempts > 1 else None
 
         # Cost tracking
         self.total_cost = 0.0
@@ -253,7 +264,11 @@ class BookOrchestrator:
 
         # Use API if enabled, otherwise just create prompt
         if self.use_api:
-            return self._generate_chapter_with_api(chapter_num, prompt, max_retries)
+            # Use multi-pass if enabled
+            if self.multi_pass_attempts > 1 and self.scorer:
+                return self._generate_chapter_multipass(chapter_num, prompt, max_retries)
+            else:
+                return self._generate_chapter_with_api(chapter_num, prompt, max_retries)
         else:
             self._log(f"Chapter {chapter_num} prompt created: {prompt_file}")
             self._log("API mode disabled - use Claude Code CLI to generate chapter")
@@ -316,6 +331,156 @@ class BookOrchestrator:
                 time.sleep(2)  # Wait before retry
 
         return False
+
+    def _generate_chapter_multipass(self, chapter_num: int, base_prompt: str, max_retries: int = 3):
+        """Generate multiple chapter versions and select the best"""
+
+        self._log(f"\n{'='*60}")
+        self._log(f"MULTI-PASS GENERATION: {self.multi_pass_attempts} versions")
+        self._log(f"{'='*60}\n")
+
+        # Initialize LLM client if needed
+        if self.llm_client is None:
+            try:
+                self.llm_client = LLMClient(self.provider)
+                self._log(f"Using provider: {self.provider_config['name']}")
+                self._log(f"Model: {self.provider_config['model']}")
+            except Exception as e:
+                self._log(f"Error initializing provider: {str(e)}", "ERROR")
+                return False
+
+        attempts = []
+        chapter_file = self.chapters_dir / f"chapter_{chapter_num:03d}.md"
+
+        # Generate multiple versions
+        for version in range(1, self.multi_pass_attempts + 1):
+            self._log(f"\n--- Version {version}/{self.multi_pass_attempts} ---")
+
+            # Create variation of the prompt
+            prompt_variation = self._get_prompt_variation(base_prompt, version)
+
+            # Generate this version
+            for retry in range(max_retries):
+                try:
+                    self._log(f"Calling {self.provider_config['name']} API...")
+
+                    chapter_text, input_tokens, output_tokens = self.llm_client.generate(prompt_variation)
+
+                    # Track costs
+                    cost = ProviderConfig.calculate_cost(self.provider, input_tokens, output_tokens)
+                    self.total_input_tokens += input_tokens
+                    self.total_output_tokens += output_tokens
+                    self.total_cost += cost
+
+                    self._log(f"Generated: {len(chapter_text.split())} words | Cost: ${cost:.4f}")
+
+                    # Check budget
+                    if self.total_cost > self.max_budget:
+                        self._log(f"Budget exceeded! ${self.total_cost:.2f} > ${self.max_budget:.2f}", "ERROR")
+                        return False
+
+                    # Score this version
+                    score_result = self.scorer.score(chapter_text)
+                    self._log(f"Score: {score_result.total:.1f}/10")
+                    self._log(f"  Emotional: {score_result.scores['emotional_impact']:.1f} | "
+                             f"Voice: {score_result.scores['voice_distinctiveness']:.1f} | "
+                             f"Depth: {score_result.scores['obsession_depth']:.1f}")
+
+                    attempts.append({
+                        'version': version,
+                        'text': chapter_text,
+                        'score': score_result.total,
+                        'score_result': score_result
+                    })
+
+                    break  # Success
+
+                except Exception as e:
+                    self._log(f"Attempt {retry + 1} failed: {str(e)}", "WARN")
+                    if retry == max_retries - 1:
+                        self._log(f"Version {version} failed after {max_retries} attempts", "ERROR")
+                        # Continue to next version rather than failing completely
+                    time.sleep(2)
+
+        # Check if we got any successful attempts
+        if not attempts:
+            self._log("All versions failed to generate!", "ERROR")
+            return False
+
+        # Select best version
+        best = max(attempts, key=lambda a: a['score'])
+
+        self._log(f"\n{'='*60}")
+        self._log(f"BEST VERSION: v{best['version']} - Score: {best['score']:.1f}/10")
+        self._log(f"{'='*60}")
+
+        # Show all scores for comparison
+        self._log("\nAll versions:")
+        for attempt in sorted(attempts, key=lambda a: a['score'], reverse=True):
+            marker = "★" if attempt['version'] == best['version'] else " "
+            self._log(f"{marker} v{attempt['version']}: {attempt['score']:.1f}/10")
+
+        # Save best version
+        chapter_file.write_text(best['text'])
+        self._log(f"\n✓ Best version saved: {len(best['text'].split())} words")
+
+        # Auto-extract and track continuity
+        self._auto_extract_continuity(chapter_num, best['text'])
+
+        return True
+
+    def _get_prompt_variation(self, base_prompt: str, version: int) -> str:
+        """Create prompt variation for this version to encourage diversity"""
+
+        variations = [
+            # Version 1: Baseline
+            "",
+
+            # Version 2: Emotional specificity
+            "\n\nCRITICAL: Replace ALL generic emotions with specific physical sensations:\n"
+            "- NOT: 'felt sad/angry/afraid'\n"
+            "- YES: Physical sensation (throat closed, hands shook) + specific memory + character action\n"
+            "Example: \"Marcus's throat closed—that airless crush from the funeral. He swallowed hard. Kept walking.\"",
+
+            # Version 3: Voice distinctiveness
+            "\n\nCRITICAL: Apply distinctive voice patterns:\n"
+            "- Include 3-5 sentence fragments (\"Counted them again.\" \"Still here.\" \"Died.\")\n"
+            "- Use \"Not X. Y.\" pattern 2-3 times (\"Not fear. Exhaustion.\")\n"
+            "- Vary sentence rhythm: short fragments mixed with flowing long sentences\n"
+            "- Go obsessive on 1-2 details (hands, magic sensation)",
+
+            # Version 4: Obsessive depth
+            "\n\nCRITICAL: Go DEEP on specific obsessions:\n"
+            "- Hands as identity: Examine hands during stress, describe scars/marks in detail\n"
+            "- Magic as physical: Cold-silver, split-lip wound, bone-deep ache\n"
+            "- Spend 3x normal words on these obsessive details",
+
+            # Version 5: Thematic subtlety
+            "\n\nCRITICAL: Show themes, never state them:\n"
+            "- DELETE any sentence with: learned/realized/understood that\n"
+            "- Show character making choice, reader infers meaning\n"
+            "- Add contradictions: character says X, actions show Y\n"
+            "- Leave some questions unanswered",
+
+            # Version 6: Risk-taking
+            "\n\nCRITICAL: Take structural risks:\n"
+            "- Experiment with unusual chapter length (very short OR very long)\n"
+            "- Break a genre convention deliberately\n"
+            "- Add ambiguity - resist neat resolution\n"
+            "- Trust reader discomfort",
+
+            # Version 7: Balanced excellence
+            "\n\nCRITICAL: Combine best techniques:\n"
+            "- Specific emotions with physical grounding\n"
+            "- Distinctive voice with fragments and patterns\n"
+            "- Obsessive detail on 2 elements\n"
+            "- Subtle themes shown through action\n"
+            "- Trust the reader",
+        ]
+
+        variation_prompt = variations[version % len(variations)]
+
+        return base_prompt + variation_prompt
 
 
     def _auto_extract_continuity(self, chapter_num: int, chapter_text: str):
@@ -693,6 +858,8 @@ def main():
                         choices=["claude", "deepseek", "openrouter", "qwen", "openai"],
                         help="LLM provider (default: claude). Use 'deepseek' for ~97%% cost savings")
     parser.add_argument("--max-budget", type=float, default=50.0, help="Maximum budget in USD (default: $50)")
+    parser.add_argument("--multi-pass", type=int, default=1, metavar="N",
+                        help="Generate N versions per chapter and select best (default: 1, recommend: 5-7 for quality)")
 
     args = parser.parse_args()
 
@@ -724,7 +891,8 @@ def main():
         test_first=not args.no_test,
         use_api=args.use_api,
         max_budget=args.max_budget,
-        provider=args.provider
+        provider=args.provider,
+        multi_pass_attempts=args.multi_pass
     )
 
     success = orchestrator.run_full_pipeline()
