@@ -855,8 +855,8 @@ def main():
     parser.add_argument("--no-test", action="store_true", help="Skip self-tests")
     parser.add_argument("--use-api", action="store_true", help="Use LLM API for autonomous generation")
     parser.add_argument("--provider", type=str, default="claude",
-                        choices=["claude", "deepseek", "openrouter", "qwen", "openai"],
-                        help="LLM provider (default: claude). Use 'deepseek' for ~97%% cost savings")
+                        choices=["claude", "deepseek", "openrouter", "qwen", "openai", "groq", "together", "huggingface"],
+                        help="LLM provider (default: claude). Use 'groq' for cheapest ($0.05/$0.08 per 1M) or 'huggingface' for free tier")
     parser.add_argument("--max-budget", type=float, default=50.0, help="Maximum budget in USD (default: $50)")
     parser.add_argument("--multi-pass", type=int, default=1, metavar="N",
                         help="Generate N versions per chapter and select best (default: 1, recommend: 5-7 for quality)")

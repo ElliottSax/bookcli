@@ -17,6 +17,9 @@ class Provider(Enum):
     OPENROUTER = "openrouter"
     QWEN = "qwen"
     OPENAI = "openai"
+    GROQ = "groq"
+    TOGETHER = "together"
+    HUGGINGFACE = "huggingface"
 
 
 class ProviderConfig:
@@ -72,6 +75,39 @@ class ProviderConfig:
             "output_cost_per_1m": 30.00,
             "package": "openai",
             "endpoint": "https://api.openai.com/v1"
+        },
+        Provider.GROQ: {
+            "name": "Groq (Ultra-Fast)",
+            "api_key_env": "GROQ_API_KEY",
+            "model": "llama-3.3-70b-versatile",  # Or mixtral-8x7b-32768
+            "max_tokens": 32768,
+            "input_cost_per_1m": 0.05,   # Extremely cheap, often has free tier
+            "output_cost_per_1m": 0.08,
+            "package": "openai",  # OpenAI-compatible
+            "endpoint": "https://api.groq.com/openai/v1",
+            "notes": "Ultra-fast inference (500+ tokens/sec), generous free tier"
+        },
+        Provider.TOGETHER: {
+            "name": "Together AI",
+            "api_key_env": "TOGETHER_API_KEY",
+            "model": "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+            "max_tokens": 16000,
+            "input_cost_per_1m": 0.18,
+            "output_cost_per_1m": 0.18,
+            "package": "openai",  # OpenAI-compatible
+            "endpoint": "https://api.together.xyz/v1",
+            "notes": "Good quality/cost balance, multiple model options"
+        },
+        Provider.HUGGINGFACE: {
+            "name": "HuggingFace Inference",
+            "api_key_env": "HUGGINGFACE_API_KEY",
+            "model": "meta-llama/Meta-Llama-3-70B-Instruct",
+            "max_tokens": 8192,
+            "input_cost_per_1m": 0.00,   # Free tier available
+            "output_cost_per_1m": 0.00,  # Rate-limited
+            "package": "huggingface",
+            "endpoint": "https://api-inference.huggingface.co/models",
+            "notes": "Free tier available, rate-limited, good for testing"
         }
     }
 
@@ -82,8 +118,13 @@ class ProviderConfig:
 
     @classmethod
     def get_cheapest(cls) -> Provider:
-        """Get cheapest provider"""
-        return Provider.DEEPSEEK
+        """Get cheapest provider (excluding free tiers)"""
+        return Provider.GROQ  # $0.05/$0.08 per 1M (even cheaper than DeepSeek)
+
+    @classmethod
+    def get_free_tier(cls) -> Provider:
+        """Get provider with free tier (rate-limited)"""
+        return Provider.HUGGINGFACE
 
     @classmethod
     def calculate_cost(cls, provider: Provider, input_tokens: int, output_tokens: int) -> float:
@@ -139,6 +180,11 @@ class LLMClient:
                     api_key=api_key,
                     base_url=self.config["endpoint"]
                 )
+        elif package == "huggingface":
+            # HuggingFace uses simple HTTP requests
+            import requests
+            self.client = requests.Session()
+            self.client.headers.update({"Authorization": f"Bearer {api_key}"})
         else:
             raise ValueError(f"Unknown package: {package}")
 
@@ -153,6 +199,8 @@ class LLMClient:
             return self._generate_claude(prompt)
         elif self.config["package"] == "openai":
             return self._generate_openai_compatible(prompt)
+        elif self.config["package"] == "huggingface":
+            return self._generate_huggingface(prompt)
         else:
             raise ValueError(f"Unknown package: {self.config['package']}")
 
@@ -181,6 +229,38 @@ class LLMClient:
         text = response.choices[0].message.content
         input_tokens = response.usage.prompt_tokens
         output_tokens = response.usage.completion_tokens
+
+        return (text, input_tokens, output_tokens)
+
+    def _generate_huggingface(self, prompt: str) -> Tuple[str, int, int]:
+        """Generate using HuggingFace Inference API"""
+        import requests
+
+        url = f"{self.config['endpoint']}/{self.config['model']}"
+
+        payload = {
+            "inputs": prompt,
+            "parameters": {
+                "max_new_tokens": self.config["max_tokens"],
+                "return_full_text": False
+            }
+        }
+
+        response = self.client.post(url, json=payload)
+        response.raise_for_status()
+
+        result = response.json()
+
+        # HuggingFace returns list of generated texts
+        if isinstance(result, list) and len(result) > 0:
+            text = result[0].get("generated_text", "")
+        else:
+            text = result.get("generated_text", "")
+
+        # HuggingFace free tier doesn't return token counts
+        # Estimate based on character count
+        input_tokens = len(prompt) // 4  # Rough estimate
+        output_tokens = len(text) // 4
 
         return (text, input_tokens, output_tokens)
 
