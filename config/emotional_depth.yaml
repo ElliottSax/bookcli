@@ -1,0 +1,180 @@
+# Emotional Depth Configuration
+# Replaces generic emotions with rooted, specific, human-feeling experiences
+
+principle: "Every emotion anchored in specific physical sensation + specific memory"
+
+transformation_rules:
+  avoid:
+    - "Character felt [emotion]"
+    - "Character was [emotional state]"
+    - "Generic emotional description"
+
+  prefer:
+    - "Physical manifestation + unexpected comparison + character action"
+    - "Specific memory callback + present sensation"
+    - "Emotion implied through behavior, never stated"
+
+  template: "[Physical sensation] + [Specific memory/comparison] + [Character action]"
+
+# Emotion transformation database
+emotions:
+
+  grief:
+    physical_sensations:
+      - "throat closed—airless crushing"
+      - "chest cavity hollowed out"
+      - "breathing through wet cotton"
+      - "weight in stomach, physical and wrong"
+
+    memory_anchors:
+      - "from the funeral"
+      - "like when Dad died"
+      - "that hospital smell"
+      - "the way Mom's voice broke"
+
+    character_actions:
+      - "swallowed hard"
+      - "kept walking"
+      - "closed eyes"
+      - "clenched fists until it passed"
+
+    examples:
+      - "Marcus's throat closed—that familiar airless crush from the funeral, from every time someone said 'your dad.' He swallowed hard and kept walking."
+      - "The grief came sideways. Not thinking about Dad, then suddenly smelling motor oil and sawdust—his work smell—and Marcus had to stop moving until the wave passed."
+
+  fear:
+    physical_sensations:
+      - "cold sweat—fear sweat not exertion sweat"
+      - "heart kicked against ribs"
+      - "hands shook"
+      - "stomach dropped, elevator-fall sensation"
+
+    memory_anchors:
+      - "hospital where Gran died—antiseptic over rot"
+      - "that nightmare feeling"
+      - "recognition—body knows danger"
+
+    character_actions:
+      - "forced hands still"
+      - "kept breathing"
+      - "didn't let it show"
+      - "ran"
+
+    examples:
+      - "The corruption smelled like the hospital where Gran died—antiseptic and rot underneath. Lily's hands shook. She forced them still."
+      - "Cold sweat. The bad kind. Lily had learned to differentiate—exertion sweat versus fear sweat. This was fear."
+
+  love:
+    physical_sensations:
+      - "background hum—silence when absent"
+      - "chest expanded, warm"
+      - "wanted to touch, hold, preserve"
+
+    memory_anchors:
+      - "his laugh through the Veil—muffled, distorted, but hers"
+      - "memorized his hands through crystal"
+      - "five years of meetings"
+
+    character_actions:
+      - "reached for hand"
+      - "memorized details obsessively"
+      - "chose to stay"
+
+    examples:
+      - "Lyara remembered his laugh through the Veil—muffled, distorted, but hers. For five years, the only sound she'd wanted to hear."
+      - "Thomas's presence was background hum. Gone, she'd feel the silence like missing teeth—tongue finding the gap obsessively."
+
+  anger:
+    physical_sensations:
+      - "jaw ached from clenching"
+      - "heat crawled up neck"
+      - "hands wanted to hit something"
+
+    memory_anchors:
+      - "the unfair kind—kid getting blamed"
+      - "violation he hadn't consented to"
+      - "like with teachers, with Mom, now with Weavers"
+
+    character_actions:
+      - "fist-clenched until nails cut palms"
+      - "gave anger somewhere to go"
+      - "spoke carefully, controlled"
+
+    examples:
+      - "Marcus's jaw ached from clenching. The Weavers' voices in his skull—violation he'd never consented to. His marked palm burned."
+      - "Heat crawled up Marcus's neck. The unfair kind. The kid-getting-blamed kind. He'd felt it with teachers, with Mom, now with alien beings treating him like disposable tool."
+
+  hope:
+    physical_sensations:
+      - "maybe—word tasted fragile"
+      - "channels ached but underneath—possibility"
+      - "couldn't trust it yet"
+
+    memory_anchors:
+      - "learned to recognize false hope versus real"
+      - "hope made you stupid"
+      - "broke you if you leaned too soon"
+
+    character_actions:
+      - "didn't let himself finish the thought"
+      - "held it carefully"
+      - "tried not to want it too much"
+
+    examples:
+      - "Maybe. The word tasted fragile. Marcus had learned to recognize false hope versus real—this felt real. Slim, but real."
+      - "If he could separate Lyara and Thomas... Marcus didn't let himself finish the thought. Hope was dangerous. Hope made you stupid."
+
+  exhaustion:
+    physical_sensations:
+      - "channels burned—scorched earth"
+      - "body refused to respond"
+      - "bone-deep tired"
+      - "vision blurred at edges"
+
+    memory_anchors:
+      - "after the Binding—three days unconscious"
+      - "channel damage that wouldn't heal"
+      - "the kind sleep didn't fix"
+
+    character_actions:
+      - "collapsed"
+      - "kept moving anyway"
+      - "found somewhere to fall"
+
+    examples:
+      - "Exhaustion that soaked into bone. The kind sleep didn't fix. Marcus kept walking anyway."
+      - "His channels burned. Not sharp—deep. Background ache that meant he'd pushed too far again."
+
+# Specificity requirements
+specificity_requirements:
+
+  minimum_score: 8.0  # Emotion must score 8+ on specificity
+
+  required_elements:
+    physical_manifestation: true  # Must include body sensation
+    specific_sensory: true         # Must be specific not generic
+    memory_anchor: true            # Should reference specific memory
+    coping_action: true            # Character does something
+
+  scoring:
+    physical_manifestation: 2.5   # Points if present
+    specific_sensory: 2.5          # Points if specific (not "cold" but "knife-edge cold")
+    memory_anchor: 2.5             # Points if tied to specific memory
+    coping_action: 2.5             # Points if character takes action
+    # Total: 10 points possible
+
+# Detection patterns (flag for replacement)
+generic_emotion_patterns:
+  - "felt (sad|happy|angry|afraid|nervous|excited|worried)"
+  - "was (sad|happy|angry|afraid|nervous|excited|worried)"
+  - "seemed (sad|happy|angry|afraid|nervous|excited)"
+  - "emotion (washed over|filled|consumed|overwhelmed)"
+
+# Replacement process
+replacement_process:
+  1_detect: "Scan for generic emotion patterns"
+  2_identify: "Determine which emotion being conveyed"
+  3_select: "Choose transformation template for that emotion"
+  4_customize: "Customize with character-specific details"
+  5_validate: "Score for specificity (must be 8+)"
+  6_replace: "Replace generic with specific version"

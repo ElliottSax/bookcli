@@ -407,7 +407,7 @@ METADATA:
         return prompt
 
     def quality_check_chapter(self, chapter_num: int):
-        """Run quality gate on chapter"""
+        """Run quality gate on chapter with humanization"""
         self._log(f"Quality check: chapter {chapter_num}...")
 
         chapter_file = self.chapters_dir / f"chapter_{chapter_num:03d}.md"
@@ -416,7 +416,19 @@ METADATA:
             self._log(f"Chapter file not found: {chapter_file}", "ERROR")
             return False
 
-        # Run quality gate with auto-fix
+        # STEP 1: Humanize the chapter (apply voice, emotion, theme subtlety)
+        self._log(f"Humanizing chapter {chapter_num}...")
+        result = subprocess.run(
+            ["python3", "scripts/humanizer.py", str(chapter_file), str(chapter_num)],
+            capture_output=True, text=True
+        )
+
+        if result.returncode == 0:
+            self._log(f"✓ Chapter {chapter_num} humanized")
+        else:
+            self._log(f"⚠ Humanization warning: {result.stderr}", "WARN")
+
+        # STEP 2: Run quality gate with auto-fix
         result = subprocess.run(
             ["python3", "scripts/quality_gate.py", str(chapter_file)],
             capture_output=True, text=True

@@ -1,0 +1,154 @@
+# Authorial Voice Configuration
+# Defines the unique personality/quirks that make fiction feel human-written
+
+voice_profile:
+  author_name: "generated_tactile_philosopher_v1"
+  personality: "melancholic_observer"
+  description: "Tactile, body-focused, interested in cost/consequence more than power"
+
+# Recurring obsessions (appear throughout book)
+primary_obsessions:
+
+  hands_as_identity:
+    frequency: 0.35  # Appears in ~35% of passages
+    allocation: 0.20  # 20% of total wordcount
+
+    manifestations:
+      - "Characters examine their hands during stress/reflection"
+      - "Hands described with specific detail (scars, calluses, marks)"
+      - "Hand imagery in emotional metaphors"
+      - "Touching as communication/violation"
+      - "Hand evolution tracks character arc"
+
+    examples:
+      - "Marcus looked at his hands. The binding mark pulsed against his palm—still a stranger's symbol on his skin."
+      - "Lily's fingers trembled. Not fear. Exhaustion. The kind that soaked into bone."
+      - "These weren't kid hands anymore. Scarred. Marked. Maps of every choice since the Binding."
+
+    character_tracking:
+      enabled: true
+      description: "Track how each character's hands change across chapters"
+
+  magic_as_physical_sensation:
+    frequency: 0.40  # Appears in ~40% of passages
+    allocation: 0.30  # 30% of total wordcount
+
+    manifestations:
+      - "Every magic use described through body sensation"
+      - "Channels feel different for every caster"
+      - "Corruption has distinct texture"
+      - "Different thread types have sensory profiles"
+      - "Healing and harm feel similar (paradox)"
+
+    sensory_vocabulary:
+      temperature: ["cold-silver", "warm-gold", "bone-deep heat", "knife-edge cold"]
+      texture: ["oily", "sticky", "sharp", "split-lip wound", "scar tissue"]
+      pressure: ["crushing", "pressing", "wanting to open", "seedpod splitting"]
+      pain: ["scorched-earth ache", "burning", "tearing", "phantom pain"]
+
+  philosophical_paradox:
+    frequency: 0.25  # Appears in ~25% of passages
+    allocation: 0.25  # 25% of narrative
+
+    core_paradoxes:
+      - "Healing through harm, harm through healing"
+      - "Saving someone = destroying who they were"
+      - "Freedom is loss, loss is freedom"
+      - "Love as violation, violation as love"
+      - "Right choice with wrong outcome"
+
+    implementation:
+      - "Every major choice contains its opposite"
+      - "Characters right and wrong simultaneously"
+      - "Solutions create new problems"
+      - "Victories contain defeats"
+      - "Avoid resolution—preserve tension"
+
+# Verbal tics (word choice patterns)
+verbal_patterns:
+
+  favorite_words:
+    - word: "fracture"
+      variants: ["fractured", "fracturing", "split", "cracked"]
+      target_frequency: 0.020
+    - word: "thread"
+      variants: ["threads", "threading", "woven", "weave"]
+      target_frequency: 0.045
+      note: "Core metaphor, intentional overuse"
+    - word: "pulse"
+      variants: ["pulsing", "pulsed", "beat", "rhythm"]
+      target_frequency: 0.025
+    - word: "visceral"
+      target_frequency: 0.012
+
+  sentence_constructions:
+    - pattern: "Not X. Y."
+      example: "Not fear. Exhaustion."
+      frequency: "2-3 per chapter"
+
+    - pattern: "Fragment. Then explanation."
+      example: "Darkness. The kind that swallowed sound."
+      frequency: "3-4 per chapter"
+
+    - pattern: "Single-word paragraph for emphasis"
+      example: "Silence."
+      frequency: "1-2 per chapter"
+
+    - pattern: "Question without answer. Continue."
+      example: "Was this freedom? Or loss? Yes."
+      frequency: "1-2 per chapter"
+
+  description_quirks:
+    synesthesia:
+      enabled: true
+      examples:
+        - "sharp scent"
+        - "heavy silence"
+        - "cold light"
+
+    color_through_texture:
+      enabled: true
+      examples:
+        - "silver-cold"
+        - "rust-warm"
+        - "shadow-soft"
+
+    emotion_in_body:
+      enabled: true
+      avoid: ["felt sad", "was angry", "seemed happy"]
+      prefer: ["throat closed", "chest tightened", "stomach dropped"]
+
+# Prose rhythm preferences
+prose_craft:
+
+  sentence_rhythm:
+    variety_requirement: "high"
+    patterns:
+      - "Short declarative. Longer flowing explanation. Fragment."
+      - "Question. No answer. Move on."
+      - "Three beats: action, reaction, consequence."
+
+  paragraph_structure:
+    vary_aggressively: true
+    single_sentence_paragraphs: "2-3 per chapter"
+    single_word_paragraphs: "0-1 per chapter"
+
+  fragment_usage:
+    frequency: "high"
+    contexts:
+      - "Stress/urgency scenes"
+      - "Emotional intensity"
+      - "Mimicking thought patterns"
+
+# Quality variance targets
+quality_targets:
+  brilliant_passages: 0.15  # 15% should be 9-10/10
+  strong_passages: 0.30     # 30% should be 7-8/10
+  competent_passages: 0.40  # 40% should be 6/10
+  functional_passages: 0.15 # 15% allowed to be 4-5/10
+
+  brilliant_triggers:
+    - "emotional_climax"
+    - "character_revelation"
+    - "thematic_crystallization"
+    - "sensory_immersion"

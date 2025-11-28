@@ -1,0 +1,136 @@
+# Thematic Subtlety Configuration
+# Reduces heavy-handed theme statements, trusts readers to infer
+
+principle: "Show themes through action and consequence, not explicit statement"
+
+explicitness_target: 0.25  # Only 25% of theme explicitly stated
+
+# Distribution across narrative
+distribution:
+  chapters_1_3: "Imply through situation and character questions"
+  chapters_4_14: "Demonstrate through choices and consequences ONLY"
+  chapter_15: "Character reflection (brief, 2-3 sentences max)"
+  chapter_16: "Resolution shown through action, minimal statement"
+
+# Core theme: Healing vs Cutting (mercy vs efficiency, idealism vs pragmatism)
+theme_handling:
+
+  avoid:
+    - "Character explicitly states theme"
+    - "Narrator explains what events 'mean'"
+    - "Lessons cleanly articulated at chapter end"
+    - "Every question gets answered"
+    - "'teaches us that' / 'learned that' / 'understood that'"
+
+  prefer:
+    - "Theme demonstrated through repeated choices"
+    - "Symbolic objects/moments (scars, hands, light/shadow)"
+    - "Parallel scenes with different approaches/outcomes"
+    - "Some thematic questions left open"
+    - "Character growth shown not told"
+
+# Transformation examples
+transformations:
+
+  explicit_to_symbolic:
+    before: "Failure teaches limits, limits teach wisdom, wisdom prevents recklessness."
+    after: "Lily looked at her scars. They didn't hurt anymore, but they reminded her—not every tangle could be healed. Not by her. Not yet.\n\nShe could live with that."
+    technique: "Physical symbol (scars) + character acceptance + no explanation"
+
+  explicit_to_parallel_action:
+    before: "They learned that both healing and cutting had their place, and wisdom was knowing the difference."
+    after: "Dmitri cut his tangle in thirty seconds. Both hosts died. Marcus spent three days on his. Both hosts lived.\n\nThey were both right."
+    technique: "Contrasting outcomes + no judgment stated"
+
+  explicit_to_choice:
+    before: "Marcus realized that sometimes you have to choose between ideals and necessity."
+    after: "The corruption spread. Marcus had maybe two minutes.\n\nHeal or cut?\n\nHe chose."
+    technique: "Show decision point, don't explain reasoning"
+
+  explicit_to_dialogue_implication:
+    before: "Through this conversation, Marcus learned that attempting healing when the host fights you leads to infection, and wisdom means knowing when to retreat."
+    after: "\"Did you try healing first?\"\n\n\"Yeah.\"\n\n\"And?\"\n\n\"It didn't work.\" Lily touched her scars. \"So I cut.\"\n\nEvan nodded. \"Good.\""
+    technique: "Teacher approval of student judgment, no moralization"
+
+  explicit_to_unanswered_question:
+    before: "They discussed whether Dmitri had made the right choice, and concluded that pragmatism was sometimes more merciful than idealism."
+    after: "\"Was I right to cut them?\"\n\nMarcus didn't answer."
+    technique: "Leave thematic tension unresolved"
+
+# Detection patterns (flag for replacement)
+heavy_handed_patterns:
+  - "teaches (us|them|him|her) that"
+  - "learned that"
+  - "understood that"
+  - "realized that"
+  - "the lesson (was|is)"
+  - "this showed (us|them|him|her)"
+  - "Character articulates moral directly in dialogue"
+
+# Replacement strategies
+replacement_strategies:
+
+  show_through_action:
+    pattern: "Stated realization → Character action implying conclusion"
+    example:
+      before: "Marcus realized that sometimes healing wasn't possible."
+      after: "Marcus manifested his blade. Cut. Didn't let himself think about alternatives."
+
+  symbolic_object:
+    pattern: "Explanation → Physical object + simple action"
+    example:
+      before: "The scars reminded her of her failures and what she'd learned from them."
+      after: "Lily traced the silver scars. They'd stopped hurting weeks ago."
+
+  minimal_reflection:
+    pattern: "Long explanation → Brief before/after"
+    example:
+      before: "He understood now that wisdom came from balancing idealism with pragmatism, and that real growth meant accepting that some problems couldn't be solved the way he wanted, but had to be addressed with whatever tools were available, even if those tools felt wrong."
+      after: "Marcus had wanted to save everyone. Now he knew: sometimes you couldn't. Sometimes you chose who."
+
+  unanswered_question:
+    pattern: "Discussion with resolution → Question without answer"
+    example:
+      before: "They debated the ethics extensively and ultimately agreed that the needs of the many outweigh the individual's suffering."
+      after: "\"Do we deserve mercy if we can't give it?\"\n\nNo one answered.\n\nThe silence stretched.\n\nKira stood. \"Mission briefing in ten.\""
+
+  contrasting_characters:
+    pattern: "Explanation → Parallel outcomes without judgment"
+    example:
+      before: "The group learned that both approaches were valid."
+      after: "Marcus tried healing. Dmitri cut immediately. Both completed their missions.\n\nBoth paid a price."
+
+# Paradox preservation
+paradox_handling:
+
+  maintain_tension: true
+  avoid_easy_resolution: true
+
+  paradoxes_to_preserve:
+    - question: "Is it merciful to end suffering if ending requires violence?"
+      resolution: "none—leave unresolved"
+
+    - question: "When we change someone to save them, who do we save?"
+      resolution: "implied through Lyara/Thomas arc, never stated"
+
+    - question: "Can love survive perfect knowledge of another?"
+      resolution: "yes and no—both true"
+
+    - question: "Do we owe those we've harmed while helping?"
+      resolution: "Marcus's ongoing guilt, no clear answer"
+
+# Quality checks
+validation:
+
+  maximum_explicitness_per_chapter: 0.30  # No chapter > 30% explicit
+  minimum_show_vs_tell_ratio: 0.70        # 70%+ shown not told
+
+  required_techniques_per_chapter:
+    - at_least_one: "symbolic moment"
+    - at_least_one: "character choice without explanation"
+    - zero: "narrator explaining theme"
+
+  forbidden:
+    - "Theme stated in narrator voice"
+    - "Character delivers moral in speech"
+    - "Neat resolution to complex question"
