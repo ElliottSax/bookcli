@@ -166,6 +166,36 @@
       "thread": "What permanent damage did Marcus sustain to his channels?",
       "introduced": 10,
       "status": "active"
+    },
+    {
+      "thread": "What will Weavers do to Lyara and Thomas (execution vs mercy)?",
+      "introduced": 11,
+      "status": "active"
+    },
+    {
+      "thread": "Will Marcus's channels heal or is damage permanent?",
+      "introduced": 11,
+      "status": "active"
+    },
+    {
+      "thread": "Will Kira be able to heal Marcus's channel damage?",
+      "introduced": 11,
+      "status": "active"
+    },
+    {
+      "thread": "Will Lily be found alive by the recovery team?",
+      "introduced": 12,
+      "status": "active"
+    },
+    {
+      "thread": "Will Marcus's teaching approach get other keys killed?",
+      "introduced": 12,
+      "status": "active"
+    },
+    {
+      "thread": "Will Lyara and Thomas ever be freed from Sanctum servitude?",
+      "introduced": 12,
+      "status": "active"
     }
   ],
   "resolved": [
