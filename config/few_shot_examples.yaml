@@ -1,0 +1,342 @@
+# Few-Shot Examples Library - Actual 8.5/10 Prose
+# Real examples demonstrating each quality dimension at exceptional level
+
+examples:
+
+  emotional_specificity_grief:
+    score: 8.5
+    technique: "Physical sensation + specific memory anchor + character action"
+    bad_version: |
+      Marcus felt sad thinking about his father. He missed him and wished things could go back to how they were before he died.
+
+    good_version: |
+      Marcus's throat closed—that airless crush from the funeral, from every time someone said "your dad." Not the words. The way they said it, voice dropping like they'd discovered something fragile they might break.
+
+      He swallowed hard. Kept his hands busy with the binding mark, tracing the silver scar tissue. His right hand belonged to the Weavers now. His left hand—pencil callus, knife scar from age seven—still belonged to the man who'd taught him to whittle.
+
+      Three months. Dad had been gone three months and Marcus had learned to channel magic, survived a Binding ritual, killed corruption in human hosts. Dad would've been—
+
+      No. Not going there.
+
+      Marcus clenched both hands and kept walking.
+
+    why_it_works: |
+      - Specific sensation: "airless crush from the funeral" (not "felt sad")
+      - Memory anchor: "every time someone said 'your dad'" with specific detail (voice dropping)
+      - Physical grounding: throat, hands, pencil callus, knife scar age seven
+      - Character action: clenched hands, kept walking, "not going there"
+      - Implication: Dad would've been what? Reader infers pride/horror/worry
+      - Time anchored: three months (specific, not vague "recently")
+
+  emotional_specificity_fear:
+    score: 8.7
+    technique: "Body recognition of danger + unexpected comparison + coping action"
+    bad_version: |
+      Lily was scared when she saw the corruption spreading across the host's skin. It looked dangerous and she knew she might fail.
+
+    good_version: |
+      The corruption spread. Black frost across the host's collarbone, climbing toward his throat. Lily had maybe ninety seconds.
+
+      Cold sweat—fear sweat, not exertion sweat. She'd learned to tell the difference. This was the bad kind, the hospital-where-Gran-died kind, antiseptic over rot.
+
+      Her hands shook.
+
+      Thirty years old and her hands still shook like a first-year medical student. Five years at the Sanctum hadn't fixed that. Kira said it never would. Said the day your hands stopped shaking was the day you'd stopped being human enough to heal.
+
+      Lily forced them steady. Manifested her channels. The binding mark burned cold-silver against her palm.
+
+      Heal or cut?
+
+      Ninety seconds was enough to try. Maybe.
+
+      She chose heal.
+
+    why_it_works: |
+      - Urgent timer: ninety seconds (creates pressure)
+      - Physical differentiation: "fear sweat not exertion sweat" (specific recognition)
+      - Memory anchor: "hospital-where-Gran-died, antiseptic over rot" (multi-sensory)
+      - Age reveal: thirty years old (grounds character)
+      - Authority voice: Kira's wisdom about shaking hands = humanity
+      - Physical detail: hands shook, forced steady, mark burned cold-silver
+      - Choice presented simply: heal or cut?
+      - Action without explanation: she chose heal (reader infers character)
+
+  voice_distinctiveness_obsessive:
+    score: 9.0
+    technique: "Obsessive quantification + microscopic detail + rhythm variation"
+    bad_version: |
+      Marcus looked at his binding mark. It glowed faintly and pulsed with magic. He wondered what it meant and how it connected him to the Weavers.
+
+    good_version: |
+      Marcus examined his hands under the green healing-light.
+
+      Right palm: the binding mark pulsed three-beat rhythm. Always three. Always the same interval—he'd timed it once, stopwatch running while Kira stitched a training wound. One-point-two seconds between pulses. Fifty-three beats per minute at rest. Ninety-plus when channeling. One-twenty when the Weavers spoke inside his skull.
+
+      The mark itself was silver-white scar tissue in a pattern that shifted when he tried to focus on it. Not physically—his eyes just couldn't quite see it. Like trying to look directly at a star. Peripheral vision caught more: curves that might be letters in a language made of light and geometry and something his human brain had no words for.
+
+      Left palm: unmarked. Fifteen years of normal wear. Pencil callus on his middle finger from English class. Scar on his thumb from Dad's kitchen knife, age seven, stitches at the emergency room while Dad apologized for not teaching him to cut away from himself.
+
+      That scar was a clean line. Healed straight. Human.
+
+      The binding mark was alien. Beautiful in the way fractals were beautiful—infinite complexity that hurt to process.
+
+      Marcus flexed both hands. The marked one ached bone-deep. The unmarked one just felt like a hand.
+
+      He clenched them both and kept walking.
+
+    why_it_works: |
+      - Obsessive measurement: 1.2 seconds, 53 BPM, exact counts
+      - Microscopic examination: can't quite focus, peripheral vision, fractal comparison
+      - Contrast structure: right hand (alien) vs left hand (human)
+      - Specific memories as anchors: pencil callus, knife scar age seven, Dad apologizing
+      - Philosophical weight: "infinite complexity that hurt to process"
+      - Sentence rhythm: mix of long (stopwatch timing) and fragments (That scar was clean. Healed straight. Human.)
+      - Physical grounding after abstract: clenched them, kept walking
+
+  thematic_subtlety_paradox:
+    score: 8.8
+    technique: "Action that embodies paradox + no explanation + reader inference"
+    bad_version: |
+      Marcus had to decide whether to heal the host or kill them to remove the corruption. He realized that sometimes saving someone meant destroying who they were, and that was the tragic paradox of being a Mender. He learned that idealism had to be balanced with pragmatism.
+
+    good_version: |
+      The corruption had eaten three years of the host's memory. Marcus could see the threads—everything from age nineteen to twenty-two, black and rotting.
+
+      Cut those threads: host lives, wakes up thinking it's still junior year of college, doesn't remember meeting his wife.
+
+      Try to heal them: maybe save the memories, probably kill the host trying.
+
+      Marcus looked at the man's left hand. Wedding ring. Gold band worn thin.
+
+      The wife stood three feet away, held back by Kira. "Save him. Please. I don't care if he doesn't remember me. I'll make him fall in love again. Please."
+
+      Marcus manifested his blade.
+
+      Cut.
+
+      The corruption sheared away. The threads holding those three years dissolved. The man gasped. Lived.
+
+      "Where—what year is it?"
+
+      The wife's face broke. She knew.
+
+      Marcus didn't stay to watch. He'd saved the man. He'd killed who the man had been. Both true.
+
+      Kira caught up to him in the hallway. "You made the right choice."
+
+      Marcus looked at his hands. "Did I?"
+
+      She didn't answer. That was answer enough.
+
+    why_it_works: |
+      - Paradox embodied: saved the man, killed who he was (both statements factual)
+      - No explanation: reader infers the tragedy
+      - Physical symbol: wedding ring worn thin (love lost)
+      - Dialogue that implies: wife will "make him fall in love again" (acknowledges loss)
+      - Character action shows choice: manifested blade, cut (no internal monologue justifying)
+      - Consequences shown: wife's face broke, she knew
+      - Unanswered question: "Did I?" / Kira doesn't answer
+      - No moral judgment: text doesn't say if choice was right or wrong
+      - Reader does the work: feels the weight without being told to feel it
+
+  prose_beauty_rhythm:
+    score: 8.9
+    technique: "Sentence length variation + fragments + metaphor + sensory precision"
+    bad_version: |
+      The Sanctum was a large room with high ceilings. Many people were practicing magic. Some created fire, others made water appear. The room was lit by floating orbs of light and it all looked very magical.
+
+    good_version: |
+      The Sanctum stretched vast as a cathedral. Vaulted ceiling disappeared into shadows above floating orbs—pale blue ghost-lights that drifted without wind, without sound, without any visible tether to reality.
+
+      Maybe thirty people. Marcus counted twice. All marked.
+
+      A girl near the west wall conjured water from nothing. It pooled in her cupped palms, then rose. Sphere. Perfect sphere hanging in air while she walked circles around it, hands moving through practiced patterns. The water followed her fingers like a trained animal.
+
+      Two boys sparred in the center circle—fire and force, flames that snapped and crackled against invisible barriers. Every impact sent ripples through the air, heat-shimmer distortions that made their faces blur at the edges.
+
+      Someone hovered. Just—hovered. Three inches off the ground, eyes closed, expression serene as meditation. Their channels glowed visible beneath skin: silver-white networks like lightning frozen mid-strike.
+
+      The binding mark on Marcus's palm thrummed. Recognized power. Wanted to join it.
+
+      Not yet, he told it. Still learning what you are. What we are.
+
+      Kira touched his shoulder. "Overwhelming?"
+
+      "Beautiful," Marcus said. "Terrifying. Both."
+
+      She smiled without joy. "Welcome to the Sanctum."
+
+    why_it_works: |
+      - Sentence length: 2-word fragment ("Perfect sphere") to 30-word flowing description
+      - Visual rhythm: long description, short fragment, medium detail
+      - Sensory precision: "pale blue ghost-lights" not "blue lights"
+      - Unexpected metaphors: water "like trained animal", lightning "frozen mid-strike"
+      - Counted detail: "Maybe thirty. Marcus counted twice." (character-filtered observation)
+      - Physical grounding: heat-shimmer, channels visible under skin, three inches
+      - Fragment for emphasis: "Both." (instead of explaining)
+      - Contradictions: beautiful/terrifying, smiled without joy (complexity)
+
+  risk_taking_structure:
+    score: 8.6
+    technique: "Non-linear time + deliberate omission + reader discomfort"
+    bad_version: |
+      Marcus went on his first solo mission. He had to remove corruption from a host. It was difficult but he succeeded and returned to the Sanctum. The mission changed him and made him question what he was becoming.
+
+    good_version: |
+      Marcus woke in the med bay.
+
+      Three days. Kira said three days.
+
+      The mission—
+
+      No. Not ready to think about the mission.
+
+      His channels felt scraped raw. Like he'd channeled too much magic for too long. Like his network of silver-white pathways had been filed down to exposed nerve.
+
+      "You completed it," Kira said. Sat beside his bed, looked like she hadn't slept. "The host lived. The corruption's gone. By every metric, successful."
+
+      Marcus stared at the ceiling. The med bay ceiling had water stains. Brown rings where pipes had leaked, been fixed, leaked again. Someone had tried to paint over them. The paint was too thin. The stains showed through.
+
+      "Do I want to know what happened?" Kira's voice was carefully gentle.
+
+      "No."
+
+      "Do you want to talk about it?"
+
+      "No."
+
+      She nodded. Left him alone with the ceiling stains and the memory of what he'd done to that host. What he'd cut away to save their life.
+
+      The Weavers called it success.
+
+      Marcus called it Tuesday.
+
+    why_it_works: |
+      - Opens after the event (reader wants to know what happened)
+      - Refuses to show the mission (deliberate omission creates tension)
+      - Physical detail as metaphor: scraped raw channels = psychological state
+      - Symbolic object: ceiling water stains showing through paint (trauma showing through)
+      - Dialogue that implies: "Do I want to know" "No" (suggests horror)
+      - Time compression: three days reduced to single beat
+      - Dark humor ending: "called it Tuesday" (shows numbness/damage)
+      - No resolution: reader never learns what happened, left uncomfortable
+      - Structural risk: withholds what reader expects (mission details)
+
+  balanced_excellence:
+    score: 9.1
+    technique: "All techniques combined in single passage"
+    passage: |
+      Marcus's channels burned.
+
+      Not sharp—deeper. Bone-deep. The kind of ache that made you want to crack every joint, release pressure that had nowhere to go.
+
+      Three days since the mission. The one he didn't talk about. The one that made Kira's face do that thing where she looked at him and saw someone else. Saw herself, maybe. Saw what she'd been at nineteen when the Sanctum had first sent her to cut corruption from a human host.
+
+      He examined his hands in the green healing-light. The binding mark pulsed three-beat rhythm. Fifty-three beats per minute. He'd counted once. Couldn't stop counting now.
+
+      Marked hand: belonged to the Weavers, to the Pattern, to every thread he'd touched.
+
+      Unmarked hand: pencil callus, knife scar from age seven, belonged to a kid who used to think magic wasn't real.
+
+      Both hands had killed someone last week. Technically saved them. The host lived. Just didn't remember their daughter's name anymore. Didn't remember having a daughter.
+
+      Marcus had cut those threads. Had chosen which memories to save, which to sever. Had played god with someone's life and called it healing.
+
+      The Weavers said: successful mission.
+
+      The host's daughter said: what did you do to my father?
+
+      Marcus said nothing. What could he say? I saved him by destroying who he was? Sometimes healing requires cutting? The paradox will eat you alive if you think about it too long?
+
+      His throat closed—not tears, just that airless feeling from the funeral, from every loss he'd tried to swallow and keep walking past.
+
+      He clenched both hands. Marked and unmarked. Divine and human. Killer and healer.
+
+      Both.
+
+      Always both.
+
+      Kira found him in the training hall an hour later, beating his fists against a practice dummy until his unmarked knuckles split.
+
+      "Doesn't help," she said.
+
+      "I know."
+
+      "Doesn't stop you trying."
+
+      "No."
+
+      She handed him a healing salve. Watched him wrap his bleeding hand. Didn't say the obvious: that he could channel healing magic, could fix this in seconds, chose not to.
+
+      Some pain you earned. Some pain you kept.
+
+      "Next mission's in two days," Kira said.
+
+      Marcus looked at his hands. One marked, one bleeding, both his.
+
+      "I'll be ready."
+
+      He was lying. They both knew it. She walked away anyway.
+
+    why_it_works: |
+      EMOTIONAL SPECIFICITY:
+      - "bone-deep ache that made you want to crack every joint" (physical sensation)
+      - "throat closed—that airless feeling from the funeral" (memory anchor)
+      - "beating fists until knuckles split" (character action in pain)
+
+      VOICE DISTINCTIVENESS:
+      - Fragments: "Not sharp—deeper. Bone-deep."
+      - Obsessive counting: "Fifty-three beats per minute. He'd counted once."
+      - "Not X. Y." pattern: "Not tears, just that airless feeling"
+      - Rhythm variation: 2-word fragments to 30-word flowing sentences
+
+      THEMATIC SUBTLETY:
+      - Paradox shown: "saved him by destroying who he was"
+      - Multiple perspectives: Weavers say success, daughter says what did you do
+      - No resolution: "I'll be ready" is a lie, reader knows, Marcus knows
+      - Physical action implies theme: beat fists until they split (self-punishment)
+
+      OBSESSIVE DEPTH:
+      - Hands examined in microscopic detail throughout
+      - Marked vs unmarked as central metaphor
+      - "Divine and human. Killer and healer. Both."
+      - Three-beat rhythm mentioned specifically
+
+      PROSE BEAUTY:
+      - Sentence rhythm: fragments, flows, staccato
+      - Metaphor: hands as identity ("belonged to the Weavers", "belonged to a kid")
+      - Sensory detail: green healing-light, split knuckles, three-beat pulse
+      - Contradiction: "healing requires cutting", "pain you kept"
+
+      RISK-TAKING:
+      - Non-linear: jumps between time frames
+      - Moral ambiguity: no clear right/wrong
+      - Dark ending: lying about being ready
+      - Reader discomfort: daughter asking "what did you do"
+
+      RESULT: All five dimensions at 8.5+ level simultaneously
+
+# Usage instructions for prompt builder
+usage:
+  selection_strategy: |
+    Select examples based on chapter needs:
+    - Heavy emotion → use emotional_specificity examples
+    - Need voice → use voice_distinctiveness examples
+    - Theme-heavy → use thematic_subtlety examples
+    - Balanced → use balanced_excellence
+
+  integration: |
+    Include 1-2 examples in generation prompt:
+
+    "Here are examples of the target quality:
+
+    [Example 1: emotional_specificity_grief]
+    [Example 2: thematic_subtlety_paradox]
+
+    Generate your chapter matching this quality level."
+
+  customization: |
+    Modify examples to match:
+    - Your genre (fantasy → thriller → romance)
+    - Your characters (Marcus → your protagonist)
+    - Your themes (magic → technology → relationships)

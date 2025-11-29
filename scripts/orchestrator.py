@@ -26,6 +26,12 @@ try:
 except ImportError:
     SCORER_AVAILABLE = False
 
+try:
+    from prompt_builder import PromptBuilder
+    PROMPT_BUILDER_AVAILABLE = True
+except ImportError:
+    PROMPT_BUILDER_AVAILABLE = False
+
 
 class BookOrchestrator:
     def __init__(self, source_file: Path, book_name: str, genre: str,
@@ -48,6 +54,7 @@ class BookOrchestrator:
 
         # Ultra-tier quality system
         self.scorer = MultiDimensionalScorer() if SCORER_AVAILABLE and multi_pass_attempts > 1 else None
+        self.prompt_builder = PromptBuilder() if PROMPT_BUILDER_AVAILABLE else None
 
         # Cost tracking
         self.total_cost = 0.0
@@ -257,19 +264,22 @@ class BookOrchestrator:
         plan = json.loads((self.analysis_dir / "chapter_plan.json").read_text())
         chapter_plan = plan["chapters"][chapter_num - 1]
 
-        # Create prompt for Claude
-        prompt_file = self.workspace / f"prompt_ch{chapter_num}.md"
-        prompt = self._create_chapter_prompt(chapter_num, chapter_plan, context)
-        prompt_file.write_text(prompt)
-
         # Use API if enabled, otherwise just create prompt
         if self.use_api:
             # Use multi-pass if enabled
             if self.multi_pass_attempts > 1 and self.scorer:
-                return self._generate_chapter_multipass(chapter_num, prompt, max_retries)
+                return self._generate_chapter_multipass(chapter_num, chapter_plan, context, max_retries)
             else:
+                # Single-pass generation
+                prompt = self._create_chapter_prompt(chapter_num, chapter_plan, context)
+                prompt_file = self.workspace / f"prompt_ch{chapter_num}.md"
+                prompt_file.write_text(prompt)
                 return self._generate_chapter_with_api(chapter_num, prompt, max_retries)
         else:
+            # Prompt-only mode (no API)
+            prompt = self._create_chapter_prompt(chapter_num, chapter_plan, context)
+            prompt_file = self.workspace / f"prompt_ch{chapter_num}.md"
+            prompt_file.write_text(prompt)
             self._log(f"Chapter {chapter_num} prompt created: {prompt_file}")
             self._log("API mode disabled - use Claude Code CLI to generate chapter")
             return True
@@ -332,7 +342,7 @@ class BookOrchestrator:
 
         return False
 
-    def _generate_chapter_multipass(self, chapter_num: int, base_prompt: str, max_retries: int = 3):
+    def _generate_chapter_multipass(self, chapter_num: int, chapter_plan: dict, context: dict, max_retries: int = 3):
         """Generate multiple chapter versions and select the best"""
 
         self._log(f"\n{'='*60}")
@@ -356,8 +366,13 @@ class BookOrchestrator:
         for version in range(1, self.multi_pass_attempts + 1):
             self._log(f"\n--- Version {version}/{self.multi_pass_attempts} ---")
 
-            # Create variation of the prompt
-            prompt_variation = self._get_prompt_variation(base_prompt, version)
+            # Determine variation focus for this version
+            variation_focus = self._get_variation_focus(version)
+            if variation_focus:
+                self._log(f"Focus: {variation_focus}")
+
+            # Create prompt with appropriate variation focus
+            prompt_variation = self._create_chapter_prompt(chapter_num, chapter_plan, context, variation_focus)
 
             # Generate this version
             for retry in range(max_retries):
@@ -429,58 +444,31 @@ class BookOrchestrator:
 
         return True
 
-    def _get_prompt_variation(self, base_prompt: str, version: int) -> str:
-        """Create prompt variation for this version to encourage diversity"""
+    def _get_variation_focus(self, version: int) -> Optional[str]:
+        """Get variation focus for this version to encourage diversity
 
-        variations = [
-            # Version 1: Baseline
-            "",
+        Maps version numbers to variation_focus strings used by prompt_builder.
+        If prompt_builder is not available, returns None and variations are handled
+        by appending instructions to base prompt.
 
-            # Version 2: Emotional specificity
-            "\n\nCRITICAL: Replace ALL generic emotions with specific physical sensations:\n"
-            "- NOT: 'felt sad/angry/afraid'\n"
-            "- YES: Physical sensation (throat closed, hands shook) + specific memory + character action\n"
-            "Example: \"Marcus's throat closed—that airless crush from the funeral. He swallowed hard. Kept walking.\"",
+        Returns:
+            variation_focus string: 'emotion', 'voice', 'theme', 'depth', 'risk', 'balanced', or None
+        """
 
-            # Version 3: Voice distinctiveness
-            "\n\nCRITICAL: Apply distinctive voice patterns:\n"
-            "- Include 3-5 sentence fragments (\"Counted them again.\" \"Still here.\" \"Died.\")\n"
-            "- Use \"Not X. Y.\" pattern 2-3 times (\"Not fear. Exhaustion.\")\n"
-            "- Vary sentence rhythm: short fragments mixed with flowing long sentences\n"
-            "- Go obsessive on 1-2 details (hands, magic sensation)",
+        # Map version numbers to variation focuses
+        # Version 1 is baseline (no specific focus)
+        focus_map = {
+            1: None,           # Baseline - no specific focus
+            2: 'emotion',      # Emotional specificity
+            3: 'voice',        # Voice distinctiveness
+            4: 'depth',        # Obsessive depth
+            5: 'theme',        # Thematic subtlety
+            6: 'risk',         # Risk-taking
+            7: 'balanced',     # Balanced excellence
+        }
 
-            # Version 4: Obsessive depth
-            "\n\nCRITICAL: Go DEEP on specific obsessions:\n"
-            "- Hands as identity: Examine hands during stress, describe scars/marks in detail\n"
-            "- Magic as physical: Cold-silver, split-lip wound, bone-deep ache\n"
-            "- Spend 3x normal words on these obsessive details",
-
-            # Version 5: Thematic subtlety
-            "\n\nCRITICAL: Show themes, never state them:\n"
-            "- DELETE any sentence with: learned/realized/understood that\n"
-            "- Show character making choice, reader infers meaning\n"
-            "- Add contradictions: character says X, actions show Y\n"
-            "- Leave some questions unanswered",
-
-            # Version 6: Risk-taking
-            "\n\nCRITICAL: Take structural risks:\n"
-            "- Experiment with unusual chapter length (very short OR very long)\n"
-            "- Break a genre convention deliberately\n"
-            "- Add ambiguity - resist neat resolution\n"
-            "- Trust reader discomfort",
-
-            # Version 7: Balanced excellence
-            "\n\nCRITICAL: Combine best techniques:\n"
-            "- Specific emotions with physical grounding\n"
-            "- Distinctive voice with fragments and patterns\n"
-            "- Obsessive detail on 2 elements\n"
-            "- Subtle themes shown through action\n"
-            "- Trust the reader",
-        ]
-
-        variation_prompt = variations[version % len(variations)]
-
-        return base_prompt + variation_prompt
+        # Cycle through focuses if more than 7 versions
+        return focus_map.get(((version - 1) % 7) + 1)
 
 
     def _auto_extract_continuity(self, chapter_num: int, chapter_text: str):
@@ -518,8 +506,41 @@ class BookOrchestrator:
         else:
             return f"Previous chapter:\n{chapter_text[:500]}..."
 
-    def _create_chapter_prompt(self, chapter_num: int, chapter_plan: dict, context: dict):
+    def _create_chapter_prompt(self, chapter_num: int, chapter_plan: dict, context: dict, variation_focus: Optional[str] = None):
         """Create comprehensive prompt for chapter generation"""
+
+        # Use enhanced prompt builder if available
+        if self.prompt_builder and PROMPT_BUILDER_AVAILABLE:
+            # Build enhanced prompt with few-shot examples
+            outline = f"""
+Chapter {chapter_num}: {chapter_plan.get('beat', 'Continue the story')}
+Target length: {chapter_plan.get('target_words', 3000)} words
+"""
+
+            # Build context summary
+            context_summary = ""
+            if context.get("characters"):
+                context_summary += "Active characters: " + ", ".join(list(context["characters"].keys())[:5]) + "\n"
+            if context.get("active_threads"):
+                threads = [t.get('thread', '') for t in context["active_threads"][:3]]
+                context_summary += "Active plot threads: " + ", ".join(threads) + "\n"
+
+            # Source excerpt (use actual source if available)
+            source_excerpt = ""
+            if hasattr(self, 'source_file') and self.source_file.exists():
+                with open(self.source_file, 'r') as f:
+                    source_excerpt = f.read()[:1000]  # First 1000 chars
+
+            return self.prompt_builder.build_chapter_prompt(
+                chapter_num=chapter_num,
+                outline=outline,
+                context=context_summary,
+                source_excerpt=source_excerpt,
+                variation_focus=variation_focus,
+                num_examples=2
+            )
+
+        # Fallback to basic prompt if prompt_builder not available
         prompt = f"""# Generate Chapter {chapter_num}
 
 ## Load Required Files
