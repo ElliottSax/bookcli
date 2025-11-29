@@ -1,0 +1,275 @@
+[2025-11-29T12:53:03.865069] [INFO] 
+============================================================
+[2025-11-29T12:53:03.892705] [INFO] AUTONOMOUS BOOK PRODUCTION PIPELINE
+[2025-11-29T12:53:03.930873] [INFO] Book: threads-of-fire
+[2025-11-29T12:53:03.978155] [INFO] Genre: romance
+[2025-11-29T12:53:04.029340] [INFO] Target: 80,000 words
+[2025-11-29T12:53:04.069651] [INFO] ============================================================
+
+[2025-11-29T12:53:04.096996] [INFO] Running self-tests...
+[2025-11-29T12:53:04.180846] [INFO] Stage: testing
+[2025-11-29T12:53:04.196482] [INFO] Testing quality gate...
+[2025-11-29T12:53:05.437341] [INFO] ✓ Quality gate test passed
+[2025-11-29T12:53:05.486805] [INFO] Testing continuity tracker...
+[2025-11-29T12:53:06.536180] [INFO] ✓ Continuity tracker test passed
+[2025-11-29T12:53:06.579901] [INFO] All tests passed ✓
+[2025-11-29T12:53:06.594127] [INFO] Analyzing source material...
+[2025-11-29T12:53:06.695453] [INFO] Stage: analysis
+[2025-11-29T12:53:06.741744] [INFO] Source: 2,193 words
+[2025-11-29T12:53:06.830936] [INFO] Plan: 22 chapters × 3500 words
+[2025-11-29T12:53:06.850902] [INFO] Creating chapter plan...
+[2025-11-29T12:53:06.939001] [INFO] Chapter plan created: 22 chapters
+[2025-11-29T12:53:07.019180] [INFO] Stage: generation
+[2025-11-29T12:53:07.113691] [INFO] 
+============================================================
+[2025-11-29T12:53:07.133555] [INFO] CHAPTER 1/22 | Progress: 4.5% | ETA: calculating...
+[2025-11-29T12:53:07.187433] [INFO] ============================================================
+
+[2025-11-29T12:53:07.238214] [INFO] Generating chapter 1...
+[2025-11-29T12:53:08.364221] [INFO] Chapter 1 prompt created: workspace/threads-of-fire/prompt_ch1.md
+[2025-11-29T12:53:08.387018] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:08.434767] [INFO] Quality check: chapter 1...
+[2025-11-29T12:53:08.493262] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_001.md
+[2025-11-29T12:53:08.515071] [ERROR] Chapter 1 failed quality check
+[2025-11-29T12:53:08.608340] [INFO] 
+============================================================
+[2025-11-29T12:53:08.641153] [INFO] CHAPTER 2/22 | Progress: 9.1% | ETA: 00:00:31
+[2025-11-29T12:53:08.667436] [INFO] ============================================================
+
+[2025-11-29T12:53:08.712856] [INFO] Generating chapter 2...
+[2025-11-29T12:53:10.028883] [INFO] Chapter 2 prompt created: workspace/threads-of-fire/prompt_ch2.md
+[2025-11-29T12:53:10.078820] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:10.094500] [INFO] Quality check: chapter 2...
+[2025-11-29T12:53:10.158207] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_002.md
+[2025-11-29T12:53:10.187286] [ERROR] Chapter 2 failed quality check
+[2025-11-29T12:53:10.298857] [INFO] 
+============================================================
+[2025-11-29T12:53:10.327687] [INFO] CHAPTER 3/22 | Progress: 13.6% | ETA: 00:00:31
+[2025-11-29T12:53:10.356795] [INFO] ============================================================
+
+[2025-11-29T12:53:10.417808] [INFO] Generating chapter 3...
+[2025-11-29T12:53:11.504458] [INFO] Chapter 3 prompt created: workspace/threads-of-fire/prompt_ch3.md
+[2025-11-29T12:53:11.543874] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:11.570302] [INFO] Quality check: chapter 3...
+[2025-11-29T12:53:11.632280] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_003.md
+[2025-11-29T12:53:11.705662] [ERROR] Chapter 3 failed quality check
+[2025-11-29T12:53:11.814022] [INFO] 
+============================================================
+[2025-11-29T12:53:11.853241] [INFO] CHAPTER 4/22 | Progress: 18.2% | ETA: 00:00:29
+[2025-11-29T12:53:11.898993] [INFO] ============================================================
+
+[2025-11-29T12:53:11.945329] [INFO] Generating chapter 4...
+[2025-11-29T12:53:12.932697] [INFO] Chapter 4 prompt created: workspace/threads-of-fire/prompt_ch4.md
+[2025-11-29T12:53:12.960942] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:12.999811] [INFO] Quality check: chapter 4...
+[2025-11-29T12:53:13.052466] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_004.md
+[2025-11-29T12:53:13.099584] [ERROR] Chapter 4 failed quality check
+[2025-11-29T12:53:13.197210] [INFO] 
+============================================================
+[2025-11-29T12:53:13.240757] [INFO] CHAPTER 5/22 | Progress: 22.7% | ETA: 00:00:27
+[2025-11-29T12:53:13.259790] [INFO] ============================================================
+
+[2025-11-29T12:53:13.313104] [INFO] Generating chapter 5...
+[2025-11-29T12:53:14.381956] [INFO] Chapter 5 prompt created: workspace/threads-of-fire/prompt_ch5.md
+[2025-11-29T12:53:14.433099] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:14.491403] [INFO] Quality check: chapter 5...
+[2025-11-29T12:53:14.561346] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_005.md
+[2025-11-29T12:53:14.598964] [ERROR] Chapter 5 failed quality check
+[2025-11-29T12:53:14.706945] [INFO] 
+============================================================
+[2025-11-29T12:53:14.753573] [INFO] CHAPTER 6/22 | Progress: 27.3% | ETA: 00:00:25
+[2025-11-29T12:53:14.794663] [INFO] ============================================================
+
+[2025-11-29T12:53:14.843887] [INFO] Generating chapter 6...
+[2025-11-29T12:53:15.934215] [INFO] Chapter 6 prompt created: workspace/threads-of-fire/prompt_ch6.md
+[2025-11-29T12:53:15.994729] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:16.031232] [INFO] Quality check: chapter 6...
+[2025-11-29T12:53:16.105488] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_006.md
+[2025-11-29T12:53:16.131838] [ERROR] Chapter 6 failed quality check
+[2025-11-29T12:53:16.259669] [INFO] 
+============================================================
+[2025-11-29T12:53:16.299442] [INFO] CHAPTER 7/22 | Progress: 31.8% | ETA: 00:00:24
+[2025-11-29T12:53:16.342393] [INFO] ============================================================
+
+[2025-11-29T12:53:16.388623] [INFO] Generating chapter 7...
+[2025-11-29T12:53:17.374877] [INFO] Chapter 7 prompt created: workspace/threads-of-fire/prompt_ch7.md
+[2025-11-29T12:53:17.439449] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:17.466712] [INFO] Quality check: chapter 7...
+[2025-11-29T12:53:17.504362] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_007.md
+[2025-11-29T12:53:17.538259] [ERROR] Chapter 7 failed quality check
+[2025-11-29T12:53:17.607362] [INFO] 
+============================================================
+[2025-11-29T12:53:17.639937] [INFO] CHAPTER 8/22 | Progress: 36.4% | ETA: 00:00:22
+[2025-11-29T12:53:17.664628] [INFO] ============================================================
+
+[2025-11-29T12:53:17.698800] [INFO] Generating chapter 8...
+[2025-11-29T12:53:16.252292] [INFO] Chapter 8 prompt created: workspace/threads-of-fire/prompt_ch8.md
+[2025-11-29T12:53:16.276558] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:16.314871] [INFO] Quality check: chapter 8...
+[2025-11-29T12:53:16.371243] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_008.md
+[2025-11-29T12:53:16.399505] [ERROR] Chapter 8 failed quality check
+[2025-11-29T12:53:16.495533] [INFO] 
+============================================================
+[2025-11-29T12:53:16.528684] [INFO] CHAPTER 9/22 | Progress: 40.9% | ETA: 00:00:16
+[2025-11-29T12:53:16.569174] [INFO] ============================================================
+
+[2025-11-29T12:53:16.623032] [INFO] Generating chapter 9...
+[2025-11-29T12:53:17.642108] [INFO] Chapter 9 prompt created: workspace/threads-of-fire/prompt_ch9.md
+[2025-11-29T12:53:17.676618] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:17.693511] [INFO] Quality check: chapter 9...
+[2025-11-29T12:53:17.734870] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_009.md
+[2025-11-29T12:53:17.758933] [ERROR] Chapter 9 failed quality check
+[2025-11-29T12:53:17.845137] [INFO] 
+============================================================
+[2025-11-29T12:53:17.876531] [INFO] CHAPTER 10/22 | Progress: 45.5% | ETA: 00:00:15
+[2025-11-29T12:53:17.898124] [INFO] ============================================================
+
+[2025-11-29T12:53:17.948592] [INFO] Generating chapter 10...
+[2025-11-29T12:53:19.585574] [INFO] Chapter 10 prompt created: workspace/threads-of-fire/prompt_ch10.md
+[2025-11-29T12:53:19.625594] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:19.649590] [INFO] Quality check: chapter 10...
+[2025-11-29T12:53:19.717808] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_010.md
+[2025-11-29T12:53:19.767989] [ERROR] Chapter 10 failed quality check
+[2025-11-29T12:53:19.875469] [INFO] 
+============================================================
+[2025-11-29T12:53:19.907305] [INFO] CHAPTER 11/22 | Progress: 50.0% | ETA: 00:00:15
+[2025-11-29T12:53:19.945419] [INFO] ============================================================
+
+[2025-11-29T12:53:19.989693] [INFO] Generating chapter 11...
+[2025-11-29T12:53:21.210245] [INFO] Chapter 11 prompt created: workspace/threads-of-fire/prompt_ch11.md
+[2025-11-29T12:53:21.231076] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:21.268185] [INFO] Quality check: chapter 11...
+[2025-11-29T12:53:21.321834] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_011.md
+[2025-11-29T12:53:21.340417] [ERROR] Chapter 11 failed quality check
+[2025-11-29T12:53:21.431464] [INFO] 
+============================================================
+[2025-11-29T12:53:21.468278] [INFO] CHAPTER 12/22 | Progress: 54.5% | ETA: 00:00:14
+[2025-11-29T12:53:21.505681] [INFO] ============================================================
+
+[2025-11-29T12:53:21.567292] [INFO] Generating chapter 12...
+[2025-11-29T12:53:22.821909] [INFO] Chapter 12 prompt created: workspace/threads-of-fire/prompt_ch12.md
+[2025-11-29T12:53:22.863459] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:22.891552] [INFO] Quality check: chapter 12...
+[2025-11-29T12:53:22.959490] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_012.md
+[2025-11-29T12:53:22.985749] [ERROR] Chapter 12 failed quality check
+[2025-11-29T12:53:23.080440] [INFO] 
+============================================================
+[2025-11-29T12:53:23.115417] [INFO] CHAPTER 13/22 | Progress: 59.1% | ETA: 00:00:13
+[2025-11-29T12:53:23.157451] [INFO] ============================================================
+
+[2025-11-29T12:53:23.206505] [INFO] Generating chapter 13...
+[2025-11-29T12:53:24.295427] [INFO] Chapter 13 prompt created: workspace/threads-of-fire/prompt_ch13.md
+[2025-11-29T12:53:24.338686] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:24.367543] [INFO] Quality check: chapter 13...
+[2025-11-29T12:53:24.446086] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_013.md
+[2025-11-29T12:53:24.464173] [ERROR] Chapter 13 failed quality check
+[2025-11-29T12:53:24.569878] [INFO] 
+============================================================
+[2025-11-29T12:53:24.603946] [INFO] CHAPTER 14/22 | Progress: 63.6% | ETA: 00:00:12
+[2025-11-29T12:53:24.645896] [INFO] ============================================================
+
+[2025-11-29T12:53:24.686372] [INFO] Generating chapter 14...
+[2025-11-29T12:53:25.905391] [INFO] Chapter 14 prompt created: workspace/threads-of-fire/prompt_ch14.md
+[2025-11-29T12:53:25.928083] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:25.971017] [INFO] Quality check: chapter 14...
+[2025-11-29T12:53:26.044545] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_014.md
+[2025-11-29T12:53:26.062218] [ERROR] Chapter 14 failed quality check
+[2025-11-29T12:53:26.162366] [INFO] 
+============================================================
+[2025-11-29T12:53:26.196975] [INFO] CHAPTER 15/22 | Progress: 68.2% | ETA: 00:00:10
+[2025-11-29T12:53:26.235043] [INFO] ============================================================
+
+[2025-11-29T12:53:26.270280] [INFO] Generating chapter 15...
+[2025-11-29T12:53:27.355244] [INFO] Chapter 15 prompt created: workspace/threads-of-fire/prompt_ch15.md
+[2025-11-29T12:53:27.387418] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:27.441329] [INFO] Quality check: chapter 15...
+[2025-11-29T12:53:27.539631] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_015.md
+[2025-11-29T12:53:27.571185] [ERROR] Chapter 15 failed quality check
+[2025-11-29T12:53:27.698441] [INFO] 
+============================================================
+[2025-11-29T12:53:27.734948] [INFO] CHAPTER 16/22 | Progress: 72.7% | ETA: 00:00:09
+[2025-11-29T12:53:27.774940] [INFO] ============================================================
+
+[2025-11-29T12:53:27.821141] [INFO] Generating chapter 16...
+[2025-11-29T12:53:29.470496] [INFO] Chapter 16 prompt created: workspace/threads-of-fire/prompt_ch16.md
+[2025-11-29T12:53:29.543575] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:29.604530] [INFO] Quality check: chapter 16...
+[2025-11-29T12:53:29.704679] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_016.md
+[2025-11-29T12:53:29.756232] [ERROR] Chapter 16 failed quality check
+[2025-11-29T12:53:29.929591] [INFO] 
+============================================================
+[2025-11-29T12:53:30.011383] [INFO] CHAPTER 17/22 | Progress: 77.3% | ETA: 00:00:08
+[2025-11-29T12:53:30.063445] [INFO] ============================================================
+
+[2025-11-29T12:53:30.136670] [INFO] Generating chapter 17...
+[2025-11-29T12:53:31.615230] [INFO] Chapter 17 prompt created: workspace/threads-of-fire/prompt_ch17.md
+[2025-11-29T12:53:31.717215] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:31.825002] [INFO] Quality check: chapter 17...
+[2025-11-29T12:53:32.063601] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_017.md
+[2025-11-29T12:53:32.131827] [ERROR] Chapter 17 failed quality check
+[2025-11-29T12:53:32.257365] [INFO] 
+============================================================
+[2025-11-29T12:53:32.315696] [INFO] CHAPTER 18/22 | Progress: 81.8% | ETA: 00:00:07
+[2025-11-29T12:53:32.387441] [INFO] ============================================================
+
+[2025-11-29T12:53:32.411296] [INFO] Generating chapter 18...
+[2025-11-29T12:53:33.934139] [INFO] Chapter 18 prompt created: workspace/threads-of-fire/prompt_ch18.md
+[2025-11-29T12:53:34.025519] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:34.204872] [INFO] Quality check: chapter 18...
+[2025-11-29T12:53:34.348894] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_018.md
+[2025-11-29T12:53:34.405713] [ERROR] Chapter 18 failed quality check
+[2025-11-29T12:53:34.569729] [INFO] 
+============================================================
+[2025-11-29T12:53:34.631919] [INFO] CHAPTER 19/22 | Progress: 86.4% | ETA: 00:00:06
+[2025-11-29T12:53:34.670677] [INFO] ============================================================
+
+[2025-11-29T12:53:34.727626] [INFO] Generating chapter 19...
+[2025-11-29T12:53:36.193505] [INFO] Chapter 19 prompt created: workspace/threads-of-fire/prompt_ch19.md
+[2025-11-29T12:53:36.291235] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:36.420688] [INFO] Quality check: chapter 19...
+[2025-11-29T12:53:36.543932] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_019.md
+[2025-11-29T12:53:36.584172] [ERROR] Chapter 19 failed quality check
+[2025-11-29T12:53:36.731471] [INFO] 
+============================================================
+[2025-11-29T12:53:36.770893] [INFO] CHAPTER 20/22 | Progress: 90.9% | ETA: 00:00:04
+[2025-11-29T12:53:36.812440] [INFO] ============================================================
+
+[2025-11-29T12:53:36.832710] [INFO] Generating chapter 20...
+[2025-11-29T12:53:38.068565] [INFO] Chapter 20 prompt created: workspace/threads-of-fire/prompt_ch20.md
+[2025-11-29T12:53:38.117612] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:38.158459] [INFO] Quality check: chapter 20...
+[2025-11-29T12:53:38.267477] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_020.md
+[2025-11-29T12:53:38.321655] [ERROR] Chapter 20 failed quality check
+[2025-11-29T12:53:38.474651] [INFO] 
+============================================================
+[2025-11-29T12:53:38.565595] [INFO] CHAPTER 21/22 | Progress: 95.5% | ETA: 00:00:03
+[2025-11-29T12:53:38.596663] [INFO] ============================================================
+
+[2025-11-29T12:53:38.648026] [INFO] Generating chapter 21...
+[2025-11-29T12:53:39.819340] [INFO] Chapter 21 prompt created: workspace/threads-of-fire/prompt_ch21.md
+[2025-11-29T12:53:39.962796] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:40.083355] [INFO] Quality check: chapter 21...
+[2025-11-29T12:53:40.203907] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_021.md
+[2025-11-29T12:53:40.246925] [ERROR] Chapter 21 failed quality check
+[2025-11-29T12:53:40.375262] [INFO] 
+============================================================
+[2025-11-29T12:53:40.447578] [INFO] CHAPTER 22/22 | Progress: 100.0% | ETA: 00:00:01
+[2025-11-29T12:53:40.559849] [INFO] ============================================================
+
+[2025-11-29T12:53:40.623756] [INFO] Generating chapter 22...
+[2025-11-29T12:53:42.047296] [INFO] Chapter 22 prompt created: workspace/threads-of-fire/prompt_ch22.md
+[2025-11-29T12:53:42.139185] [INFO] API mode disabled - use Claude Code CLI to generate chapter
+[2025-11-29T12:53:42.225778] [INFO] Quality check: chapter 22...
+[2025-11-29T12:53:42.342626] [ERROR] Chapter file not found: workspace/threads-of-fire/chapters/chapter_022.md
+[2025-11-29T12:53:42.394907] [ERROR] Chapter 22 failed quality check
+[2025-11-29T12:53:42.494159] [INFO] 
+============================================================
+[2025-11-29T12:53:42.554579] [INFO] ALL CHAPTERS GENERATED: 22
+[2025-11-29T12:53:42.614111] [INFO] Total time: 00:00:35
+[2025-11-29T12:53:42.700920] [INFO] Total cost: $0.00
+[2025-11-29T12:53:42.738175] [INFO] Tokens: 0 in, 0 out
+[2025-11-29T12:53:42.789312] [INFO] ============================================================
+
+[2025-11-29T12:53:42.827252] [INFO] Assembling manuscript...
+[2025-11-29T12:53:43.050231] [INFO] Stage: assembly
+[2025-11-29T12:53:43.162647] [ERROR] No chapters found to assemble

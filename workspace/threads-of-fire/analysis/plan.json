@@ -1,0 +1,9 @@
+{
+  "source_file": "source/sapphic_fantasy_romance.txt",
+  "source_words": 2193,
+  "target_words": 80000,
+  "chapters_planned": 22,
+  "words_per_chapter": 3500,
+  "genre": "romance",
+  "analyzed": "2025-11-29T12:53:06.756694"
+}

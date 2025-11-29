@@ -1,0 +1,126 @@
+{
+  "book_name": "threads-of-fire",
+  "genre": "romance",
+  "target_words": 80000,
+  "started": "2025-11-29T12:53:03.843383",
+  "stage": "assembly",
+  "chapters_planned": 22,
+  "chapters_completed": 0,
+  "total_words": 0,
+  "quality_passes": 0,
+  "errors": [
+    {
+      "chapter": 1,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:08.585067"
+    },
+    {
+      "chapter": 2,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:10.274356"
+    },
+    {
+      "chapter": 3,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:11.794859"
+    },
+    {
+      "chapter": 4,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:13.170429"
+    },
+    {
+      "chapter": 5,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:14.680168"
+    },
+    {
+      "chapter": 6,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:16.209135"
+    },
+    {
+      "chapter": 7,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:17.579468"
+    },
+    {
+      "chapter": 8,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:16.469671"
+    },
+    {
+      "chapter": 9,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:17.832303"
+    },
+    {
+      "chapter": 10,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:19.849268"
+    },
+    {
+      "chapter": 11,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:21.411463"
+    },
+    {
+      "chapter": 12,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:23.050804"
+    },
+    {
+      "chapter": 13,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:24.540818"
+    },
+    {
+      "chapter": 14,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:26.136404"
+    },
+    {
+      "chapter": 15,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:27.653332"
+    },
+    {
+      "chapter": 16,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:29.867399"
+    },
+    {
+      "chapter": 17,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:32.204967"
+    },
+    {
+      "chapter": 18,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:34.502080"
+    },
+    {
+      "chapter": 19,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:36.658935"
+    },
+    {
+      "chapter": 20,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:38.435938"
+    },
+    {
+      "chapter": 21,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:40.321561"
+    },
+    {
+      "chapter": 22,
+      "stage": "quality_check",
+      "timestamp": "2025-11-29T12:53:42.466638"
+    }
+  ],
+  "completed": false,
+  "last_updated": "2025-11-29T12:53:42.989387",
+  "source_words": 2193
+}
