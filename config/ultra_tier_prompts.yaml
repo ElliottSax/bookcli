@@ -1,0 +1,233 @@
+# Ultra-Tier First-Pass Prompts
+# Engineered to achieve 8.0-8.5/10 quality on first generation
+
+core_requirements: |
+  CRITICAL QUALITY REQUIREMENTS (8.0+ TARGET):
+
+  1. OBSESSIVE DETAIL DENSITY (Target: 3+ per 1000 words)
+     You MUST include obsessive details throughout:
+     - Physical measurements (exact heights, distances, temperatures)
+     - Counting rituals (heartbeats, steps, objects, time intervals)
+     - Sensory specificity (not "warm" but "36.4°C", not "tall" but "182cm")
+     - Repeated observations (character notices same detail 3+ times)
+     - Microscopic focus (describe hands in detail: scars, calluses, temperature)
+
+     ✗ BAD: "She was nervous"
+     ✓ GOOD: "Her heart rate climbed. Elara counted: 94 beats per minute. Thirty beats faster than her resting 64."
+
+  2. WORD COUNT ENFORCEMENT
+     Target: {target_words} words
+     Minimum acceptable: {min_words} words
+     Maximum acceptable: {max_words} words
+
+     If approaching minimum:
+     - ADD depth scenes (obsessive details, sensory grounding, internal processing)
+     - DO NOT add filler dialogue or unnecessary plot
+     - Slow down key moments (kisses should take 200+ words, not 50)
+
+     If approaching maximum:
+     - CUT weak exposition or redundant dialogue
+     - DO NOT cut obsessive details or emotional grounding
+     - Keep all sensory anchors and physical specificity
+
+  3. PHYSICAL GROUNDING (Every emotion needs body)
+     ✗ "She felt afraid"
+     ✓ "Her hands trembled. She counted to ten, trying to steady them. Failed at seven."
+
+     ✗ "He was angry"
+     ✓ "His jaw clenched. Teeth grinding. The muscle jumped—she could see it from across the room."
+
+     Required for ALL emotions:
+     - Physical sensation (heart rate, temperature, breathing)
+     - Specific memory or association
+     - Character action (not reaction, but choice)
+
+  4. SHOW THEMES (Never state them)
+     ✗ "She realized trust was important"
+     ✓ "She handed him the knife. Hilt first. Her most valuable possession."
+
+     ✗ "He learned to be vulnerable"
+     ✓ "He let her see the scar. Didn't cover it. Didn't turn away."
+
+  5. VOICE DISTINCTIVENESS
+     Include per chapter:
+     - 5-10 sentence fragments (for rhythm variation)
+     - 2-3 one-word sentences (for impact)
+     - Character-specific speech patterns (repeated phrases, syntax quirks)
+     - POV-character's obsessions reflected in narration
+
+  6. SENSORY PALETTE (Minimum per 1000 words)
+     - 3 visual details (specific colors, exact measurements)
+     - 2 tactile details (temperature, texture, weight)
+     - 1 sound detail (pitch, volume, rhythm)
+     - 1 smell/taste detail (when relevant)
+
+  7. TIME DILATION (Slow down key moments)
+     Important scenes should be 3× longer than expected:
+     - First kiss: 200-400 words (not 50)
+     - Emotional revelation: 150-300 words (not 75)
+     - Physical intimacy: 300-600 words (not 100)
+     - Action climax: 400-800 words (not 200)
+
+     Fill extra time with:
+     - Obsessive details (counting, measuring, cataloging)
+     - Sensory grounding (all 5 senses)
+     - Internal processing (thoughts, memories, associations)
+     - Physical reactions (micro-expressions, involuntary movements)
+
+genre_requirements:
+  romance: |
+    SAPPHIC ROMANCE DEPTH REQUIREMENTS:
+
+    1. TOUCH CATALOGING (Every touch described)
+       - Temperature (exact degrees when relevant: "Her hand was 36°C, warmer than expected")
+       - Texture (calluses, scars, softness: "Three raised scars on her palm, each one a story")
+       - Duration (count seconds: "They held hands for 847 seconds. Elara counted every one.")
+       - Pressure (light/firm/desperate: "Her grip tightened. Knuckles white. Desperate.")
+       - Location (specific: "Thumb tracing the ridge of her knuckle, the valley between bones")
+
+    2. GAZE TRACKING (Where eyes land)
+       - Specific features noticed (not "pretty face" but "seventeen freckles, Ursa Minor pattern")
+       - Lingering duration ("She stared for three seconds. Looked away. Looked back.")
+       - What details obsess them ("The way her left eyebrow lifted when skeptical—Elara had cataloged it")
+
+    3. HEART RATE MENTIONS
+       - Minimum 2 per intimate scene
+       - Exact BPM when relevant ("74 beats per minute. Elevated. Fear or attraction.")
+       - Changes tracked ("From 62 to 94 in thirty seconds. Elara felt it in her throat.")
+
+    4. BREATH TRACKING
+       - Shallow vs deep patterns
+       - Caught breath (physical sensation, not just "breath caught")
+       - Breathing together (synchronization details)
+
+    5. DISTANCE MEASUREMENT
+       - Physical proximity in exact units ("Twenty centimeters between them. Elara could close it in one step.")
+       - Personal space violation noted ("Too close. Fifteen centimeters. Intimate distance without permission.")
+
+    6. INTERNAL SENSATION (Not just external)
+       - Stomach (flutter, clench, warmth)
+       - Chest (tight, open, aching)
+       - Throat (constricted, raw, warm)
+       - Hands (trembling, steady, clenched)
+
+    7. SLOW BURN PACING
+       - First 30% of book: longing, noticing, wanting
+       - Middle 40%: touching, testing, tension
+       - Final 30%: intimacy, commitment, resolution
+       - NO rushing to physical intimacy
+       - Emotional connection before physical
+
+  fantasy: |
+    FANTASY WORLDBUILDING DEPTH REQUIREMENTS:
+
+    1. MAGIC SYSTEM SPECIFICITY
+       - Exact costs ("Three drops of blood. She counted them fall.")
+       - Physical sensations ("Silver burned through her veins. 39°C fever followed.")
+       - Limitations shown ("The binding allowed four words per day. She'd used three.")
+       - Consistent rules (never violate established mechanics)
+
+    2. WORLD TEXTURE
+       - Temperature of locations ("The forge ran 800°C. Her skin temperature rose to 38°C standing nearby.")
+       - Sounds (pitched, specific: "Hammer on anvil. A440 pitch. Perfect fourth interval.")
+       - Smells (chemical, memorable: "Ozone and copper. Magic and blood.")
+       - Light quality ("Dawn light through eastern windows. Forty-seven degrees above horizon.")
+
+    3. CULTURAL SPECIFICITY
+       - Customs shown through action (not exposition)
+       - Social rules violated or followed (show consequences)
+       - Power dynamics embedded in world
+       - Technology level consistent
+
+    4. SENSORY GROUNDING OF MAGIC
+       - What it feels like to user
+       - What observers see/hear/smell
+       - Environmental effects (temperature, light, sound)
+       - Aftermath sensations
+
+word_count_guidance: |
+  WORD COUNT STRATEGY:
+
+  If chapter is running SHORT of target:
+  1. Identify key emotional moments
+  2. Expand with obsessive details (not plot filler)
+  3. Add sensory grounding to existing scenes
+  4. Slow down intimate moments (3× normal pace)
+  5. Include character-specific obsessions (counting, cataloging, noticing)
+
+  Example expansion (50 words → 200 words):
+  ✗ SHORT: "They kissed. It was intense. Both pulled away breathless."
+
+  ✓ EXPANDED: "They kissed.
+
+  Catherine's lips were warm—36.8°C, human normal after months of hypothermia. Elara counted without meaning to. Cataloged: soft, slightly chapped, tasting of honey from breakfast.
+
+  The kiss lasted fourteen seconds. Elara knew because her heart beat seventeen times in that span—faster than normal, slower than panic.
+
+  When they pulled apart, both breathing hard—Catherine at 42 breaths per minute, Elara matching without intention—the space between them felt vast despite being only eight centimeters."
+
+  If chapter is running LONG past target:
+  1. Identify exposition or explanation
+  2. Cut telling, keep showing
+  3. Remove redundant dialogue
+  4. Condense weak scenes
+  5. KEEP all obsessive details and sensory grounding
+
+quality_checkpoints: |
+  BEFORE SUBMISSION, VERIFY:
+
+  ☐ Word count: {min_words} - {max_words} words
+  ☐ Obsessive details: 3+ per 1000 words minimum
+  ☐ Sensory anchors: 5+ per 1000 words
+  ☐ Zero generic emotions ("felt sad/angry/afraid" → physical sensation)
+  ☐ Themes shown (not stated)
+  ☐ Voice fragments: 5-10 per chapter
+  ☐ Key moments slowed down (3× normal pace)
+  ☐ Character obsessions present (counting/cataloging/noticing patterns)
+  ☐ Physical grounding for all emotions
+  ☐ Specific measurements over vague descriptors
+
+examples:
+  depth_focused:
+    name: "Obsessive Detail Example"
+    score: 8.5
+    text: |
+      Elara counted Catherine's heartbeats. Seventy-four per minute. Twelve beats faster than this morning's sixty-two. Elevated but steady. Human normal range was sixty to one hundred. Catherine was healing.
+
+      Her temperature had climbed too. Elara checked—hand to forehead, clinical, trying not to notice the way Catherine's eyes tracked the movement. 35.8°C. Up from yesterday's 35.2°C. Still below normal 36.8°C, but climbing. Point-six degrees in twenty-four hours. At that rate, Catherine would reach normal temperature in... Elara calculated... forty-eight hours. Two days.
+
+      Two days to full human warmth. Seven weeks from the 32°C hypothermia she'd started with.
+
+      Elara had been counting: Forty-nine days since Catherine walked into the forge. Sixty threads removed. Three hundred seventeen hours of surgery. Four near-death moments. Seventeen "I love you"s spoken (she'd counted those too, couldn't help it).
+
+      And now: Catherine sleeping in her bed, breathing deeply (thirty-two breaths per minute, down from the panicked fifty-four), heart beating steadily (seventy-four BPM, consistent), temperature rising (35.8°C and climbing).
+
+      Alive. Free. Healing.
+
+      Elara counted the ceiling beams again. Fourteen. Same as always. Some things didn't change.
+    why_it_works: "3+ obsessive details per 100 words. Specific measurements (temps, BPM, days). Character tic (counting) reinforced. Physical grounding. Shows relationship through data collection."
+
+  emotion_focused:
+    name: "Physical Emotion Example"
+    score: 8.7
+    text: |
+      Catherine's hands trembled. Not fear. Not cold. Something else.
+
+      Elara watched the tremor. Point-four seconds duration. Repeated every three seconds. Involuntary. Catherine noticed too—tried to hide them, curled fingers into fists. That made it worse.
+
+      "I'm scared," Catherine said. The words came quiet. Rough. Like admitting weakness cost something.
+
+      Scared of what? Elara wanted to ask. But she could see it: Catherine's jaw clenched (teeth grinding, the muscle jumping). Her breathing shallow (forty-two breaths per minute, too fast). Her eyes fixed on the armor pieces scattered across the workbench.
+
+      Scared of being free. Of being human. Of wanting things and not knowing if she deserved them.
+
+      Elara understood. Had carried the same fear for eight years—since her mother died, since she'd learned that wanting to save someone didn't mean you could.
+
+      She reached out. Took Catherine's trembling hand. Counted: three calluses on the palm, seventeen seconds before Catherine's grip relaxed, twenty-two seconds before the trembling stopped.
+
+      "Me too," Elara said.
+
+      They held hands. Didn't speak. Breathed together until their rhythms matched.
+
+      Scared was easier when shared.
+    why_it_works: "All emotion grounded physically. Tremor measured. No generic 'felt scared'. Shows through body. Theme (fear shared is lighter) shown not stated. Counting habit consistent."

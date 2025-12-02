@@ -54,15 +54,41 @@ class PromptBuilder:
             print(f"Warning: {path} not found, using basic templates")
             return {}
 
-    def _load_requirements(self) -> str:
-        """Load core quality requirements"""
-        path = self.config_dir / "prompt_templates.yaml"
+    def _load_requirements(self) -> Dict:
+        """Load core quality requirements and ultra-tier prompts"""
+        # Try loading ultra-tier prompts first
+        ultra_path = self.config_dir / "ultra_tier_prompts.yaml"
         try:
-            with open(path, 'r') as f:
-                data = yaml.safe_load(f)
-                return data.get('core_requirements', '')
+            with open(ultra_path, 'r') as f:
+                ultra_data = yaml.safe_load(f)
+                return {
+                    'core': ultra_data.get('core_requirements', ''),
+                    'genre': ultra_data.get('genre_requirements', {}),
+                    'word_count': ultra_data.get('word_count_guidance', ''),
+                    'checkpoints': ultra_data.get('quality_checkpoints', ''),
+                    'ultra_examples': ultra_data.get('examples', {})
+                }
         except FileNotFoundError:
-            return self._get_default_requirements()
+            # Fallback to prompt_templates.yaml
+            path = self.config_dir / "prompt_templates.yaml"
+            try:
+                with open(path, 'r') as f:
+                    data = yaml.safe_load(f)
+                    return {
+                        'core': data.get('core_requirements', ''),
+                        'genre': {},
+                        'word_count': '',
+                        'checkpoints': '',
+                        'ultra_examples': {}
+                    }
+            except FileNotFoundError:
+                return {
+                    'core': self._get_default_requirements(),
+                    'genre': {},
+                    'word_count': '',
+                    'checkpoints': '',
+                    'ultra_examples': {}
+                }
 
     def _get_default_requirements(self) -> str:
         """Default quality requirements"""
@@ -88,7 +114,9 @@ CRITICAL QUALITY REQUIREMENTS:
         context: str,
         source_excerpt: str,
         variation_focus: Optional[str] = None,
-        num_examples: int = 2
+        num_examples: int = 2,
+        target_words: int = 3000,
+        genre: str = "fantasy"
     ) -> str:
         """
         Build complete enhanced prompt for chapter generation
@@ -100,6 +128,8 @@ CRITICAL QUALITY REQUIREMENTS:
             source_excerpt: Relevant source material excerpt
             variation_focus: Optional focus (emotion/voice/theme/depth/risk/balanced)
             num_examples: Number of few-shot examples to include (default: 2)
+            target_words: Target word count for chapter (default: 3000)
+            genre: Genre for genre-specific requirements (default: "fantasy")
 
         Returns:
             Complete prompt string
@@ -108,12 +138,17 @@ CRITICAL QUALITY REQUIREMENTS:
         # Select appropriate examples
         examples = self._select_examples(variation_focus, num_examples)
 
+        # Calculate word count bounds
+        min_words = int(target_words * 0.85)
+        max_words = int(target_words * 1.15)
+
         # Build prompt sections
         prompt_parts = []
 
         # Header
-        prompt_parts.append(f"You are generating Chapter {chapter_num} of a fantasy novel.")
-        prompt_parts.append(f"\nTARGET QUALITY: 8.5/10 - Exceptional, memorable, distinctive\n")
+        prompt_parts.append(f"You are generating Chapter {chapter_num} of a {genre} novel.")
+        prompt_parts.append(f"\nTARGET QUALITY: 8.0-8.5/10 - Exceptional, memorable, distinctive")
+        prompt_parts.append(f"TARGET WORD COUNT: {target_words} words (Range: {min_words}-{max_words})\n")
 
         # Outline
         prompt_parts.append("CHAPTER OUTLINE:")
@@ -132,9 +167,30 @@ CRITICAL QUALITY REQUIREMENTS:
             prompt_parts.append(source_excerpt)
             prompt_parts.append("")
 
-        # Quality requirements
-        prompt_parts.append(self.requirements)
+        # Core quality requirements (with word count parameters filled in)
+        core_reqs = self.requirements['core'].format(
+            target_words=target_words,
+            min_words=min_words,
+            max_words=max_words
+        )
+        prompt_parts.append(core_reqs)
         prompt_parts.append("")
+
+        # Genre-specific requirements
+        if genre in self.requirements['genre']:
+            prompt_parts.append(f"\n{genre.upper()}-SPECIFIC REQUIREMENTS:")
+            prompt_parts.append(self.requirements['genre'][genre])
+            prompt_parts.append("")
+
+        # Word count guidance
+        if self.requirements['word_count']:
+            prompt_parts.append("\nWORD COUNT STRATEGY:")
+            prompt_parts.append(self.requirements['word_count'].format(
+                target_words=target_words,
+                min_words=min_words,
+                max_words=max_words
+            ))
+            prompt_parts.append("")
 
         # Few-shot examples
         if examples:
@@ -154,17 +210,58 @@ CRITICAL QUALITY REQUIREMENTS:
             prompt_parts.append(focus_instruction)
             prompt_parts.append("")
 
+        # Quality checkpoints
+        if self.requirements['checkpoints']:
+            prompt_parts.append("\nQUALITY CHECKPOINTS:")
+            prompt_parts.append(self.requirements['checkpoints'].format(
+                min_words=min_words,
+                max_words=max_words
+            ))
+            prompt_parts.append("")
+
         # Final instructions
         prompt_parts.append("\nGenerate the complete chapter text using these techniques.")
         prompt_parts.append("Every sentence should be defensible as the best way to convey this moment.")
         prompt_parts.append("Trust the reader. Show don't tell. Go deep on obsessions.")
-        prompt_parts.append("Make it unmistakably yours.")
+        prompt_parts.append(f"CRITICAL: Hit {min_words}-{max_words} word count. Add depth (not filler) if short.")
 
         return "\n".join(prompt_parts)
 
     def _select_examples(self, variation_focus: Optional[str], num_examples: int) -> List[Dict]:
         """Select appropriate few-shot examples based on focus"""
 
+        # Prefer ultra-tier examples if available
+        ultra_examples = self.requirements.get('ultra_examples', {})
+
+        if ultra_examples:
+            # Ultra-tier examples available - use them
+            selected = []
+
+            # Map focus to ultra-tier example keys
+            ultra_mapping = {
+                'emotion': ['emotion_focused', 'depth_focused'],
+                'depth': ['depth_focused', 'emotion_focused'],
+                'balanced': ['depth_focused', 'emotion_focused'],
+                None: ['depth_focused', 'emotion_focused']
+            }
+
+            example_keys = ultra_mapping.get(variation_focus, ultra_mapping[None])
+
+            for key in example_keys[:num_examples]:
+                if key in ultra_examples:
+                    example_data = ultra_examples[key]
+                    selected.append({
+                        'name': example_data.get('name', key.replace('_', ' ').title()),
+                        'score': example_data.get('score', 8.5),
+                        'good_version': example_data.get('text', ''),
+                        'why_it_works': example_data.get('why_it_works', ''),
+                        'technique': ''
+                    })
+
+            if selected:
+                return selected
+
+        # Fallback to regular examples
         if not self.examples:
             return []
 

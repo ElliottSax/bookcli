@@ -33,6 +33,25 @@ try:
 except ImportError:
     PROMPT_BUILDER_AVAILABLE = False
 
+# Import Phase 2 analyzers
+try:
+    from detail_density_analyzer import DetailDensityAnalyzer
+    DETAIL_ANALYZER_AVAILABLE = True
+except ImportError:
+    DETAIL_ANALYZER_AVAILABLE = False
+
+try:
+    from word_count_enforcer import WordCountEnforcer
+    WORD_COUNT_ENFORCER_AVAILABLE = True
+except ImportError:
+    WORD_COUNT_ENFORCER_AVAILABLE = False
+
+try:
+    from quality_predictor import QualityPredictor
+    QUALITY_PREDICTOR_AVAILABLE = True
+except ImportError:
+    QUALITY_PREDICTOR_AVAILABLE = False
+
 
 class BookOrchestrator:
     def __init__(self, source_file: Path, book_name: str, genre: str,
@@ -56,6 +75,11 @@ class BookOrchestrator:
         # Ultra-tier quality system
         self.scorer = MultiDimensionalScorer() if SCORER_AVAILABLE and multi_pass_attempts > 1 else None
         self.prompt_builder = PromptBuilder() if PROMPT_BUILDER_AVAILABLE else None
+
+        # Phase 2 analyzers
+        self.detail_analyzer = DetailDensityAnalyzer() if DETAIL_ANALYZER_AVAILABLE else None
+        self.word_count_enforcer = WordCountEnforcer() if WORD_COUNT_ENFORCER_AVAILABLE else None
+        self.quality_predictor = QualityPredictor() if QUALITY_PREDICTOR_AVAILABLE else None
 
         # Cost tracking
         self.total_cost = 0.0
@@ -246,6 +270,211 @@ class BookOrchestrator:
         self._log(f"Chapter plan created: {chapters_planned} chapters")
         return plan
 
+    def _predict_quality_from_outline(self, chapter_num: int, chapter_plan: dict, context: dict):
+        """Predict quality from outline before generation (Phase 2)"""
+        if not self.quality_predictor:
+            return None
+
+        self._log(f"Predicting quality from outline...")
+
+        # Build outline text
+        outline = f"""
+Chapter {chapter_num}: {chapter_plan.get('beat', 'Continue the story')}
+Target length: {chapter_plan.get('target_words', 3000)} words
+"""
+        # Add context
+        context_summary = {}
+        if context.get("characters"):
+            context_summary["character_count"] = len(context["characters"])
+        if context.get("active_threads"):
+            context_summary["thread_count"] = len(context["active_threads"])
+
+        # Predict
+        result = self.quality_predictor.predict_from_outline(outline, context_summary)
+
+        self._log(f"Predicted quality: {result['predicted_quality']:.1f}/10 ({result['confidence']})")
+
+        if result['issues']:
+            self._log(f"Issues found: {len(result['issues'])}")
+            for issue in result['issues'][:3]:  # Show top 3
+                self._log(f"  [{issue['severity']}] {issue['issue']}: {issue['fix']}")
+
+        return result
+
+    def _analyze_generated_chapter(self, chapter_text: str, target_words: int):
+        """Analyze generated chapter with detail density and word count (Phase 2)"""
+        results = {}
+
+        # Detail density analysis
+        if self.detail_analyzer:
+            self._log("Analyzing detail density...")
+            density_result = self.detail_analyzer.analyze(chapter_text, target_density=3.0)
+            results['detail_density'] = density_result
+
+            if density_result['passed']:
+                self._log(f"✓ Detail density: {density_result['density']:.2f}/1000 words (target: 3.0)")
+            else:
+                self._log(f"✗ Detail density: {density_result['density']:.2f}/1000 words (needs {density_result['details_needed']} more)")
+
+        # Word count analysis
+        if self.word_count_enforcer:
+            self._log("Validating word count...")
+            wc_result = self.word_count_enforcer.validate(chapter_text, target_words)
+            results['word_count'] = wc_result
+
+            if wc_result['passed']:
+                self._log(f"✓ Word count: {wc_result['actual']} words (target: {wc_result['target']} ±15%)")
+            else:
+                variance_pct = ((wc_result['actual'] - wc_result['target']) / wc_result['target']) * 100
+                self._log(f"✗ Word count: {wc_result['actual']} words ({variance_pct:+.1f}% from target)")
+                if 'action' in wc_result:
+                    self._log(f"  Action: {wc_result['action']}")
+
+        return results
+
+    def _enhance_chapter_section(self, section_text: str, issue_type: str, target_improvement: str):
+        """Enhance a specific section of text based on identified issue"""
+        if not self.llm_client:
+            return section_text
+
+        # Build enhancement prompt
+        enhancement_prompts = {
+            'ADD_DEPTH': """Enhance this section by adding obsessive detail:
+- Add specific measurements, counts, or numbers
+- Include sensory specifics (exact colors, textures, temperatures)
+- Add micro-focus on physical details (hands, eyes, skin)
+- Maintain the same narrative events and pacing
+
+Original section:
+{section}
+
+Enhanced section (maintain same events, add depth):""",
+
+            'ADD_EMOTION': """Enhance this section with deeper emotional grounding:
+- Replace generic emotions with physical sensations
+- Add body responses (heart rate, breath, temperature)
+- Include sensory details tied to emotions
+- Maintain the same narrative events
+
+Original section:
+{section}
+
+Enhanced section (same events, deeper emotion):""",
+
+            'EXPAND_INTIMATE': """Expand this intimate moment with time dilation (3× longer):
+- Slow down the key moment
+- Add temperature details, touch sensations, duration
+- Include breath patterns, heart rate, proximity
+- Maintain emotional authenticity
+
+Original section:
+{section}
+
+Expanded section (3× detail on intimate moment):""",
+        }
+
+        prompt_template = enhancement_prompts.get(issue_type, enhancement_prompts['ADD_DEPTH'])
+        prompt = prompt_template.format(section=section_text)
+
+        try:
+            enhanced_text, _, _ = self.llm_client.generate(prompt, max_tokens=2000)
+            return enhanced_text.strip()
+        except Exception as e:
+            self._log(f"Enhancement failed: {str(e)}", "WARN")
+            return section_text
+
+    def _iterative_first_pass_generation(self, chapter_num: int, chapter_plan: dict, context: dict, max_iterations: int = 2):
+        """Generate chapter with iterative analysis and enhancement (Phase 3)"""
+        self._log(f"\n{'='*60}")
+        self._log(f"ITERATIVE FIRST-PASS GENERATION (Phase 3)")
+        self._log(f"{'='*60}\n")
+
+        target_words = chapter_plan.get('target_words', 3000)
+
+        # Step 1: Predict quality from outline
+        quality_prediction = self._predict_quality_from_outline(chapter_num, chapter_plan, context)
+
+        # Step 2: Generate initial version
+        self._log("\n--- Initial Generation ---")
+        prompt = self._create_chapter_prompt(chapter_num, chapter_plan, context)
+
+        try:
+            chapter_text, input_tokens, output_tokens = self.llm_client.generate(prompt)
+
+            # Track costs
+            cost = ProviderConfig.calculate_cost(self.provider, input_tokens, output_tokens)
+            self.total_input_tokens += input_tokens
+            self.total_output_tokens += output_tokens
+            self.total_cost += cost
+
+            self._log(f"Generated: {len(chapter_text.split())} words | Cost: ${cost:.4f}")
+
+        except Exception as e:
+            self._log(f"Generation failed: {str(e)}", "ERROR")
+            return None
+
+        # Step 3: Analyze generated chapter
+        self._log("\n--- Analysis ---")
+        analysis = self._analyze_generated_chapter(chapter_text, target_words)
+
+        # Step 4: Iterative enhancement if needed
+        iteration = 0
+        while iteration < max_iterations:
+            needs_enhancement = False
+
+            # Check detail density
+            if analysis.get('detail_density') and not analysis['detail_density']['passed']:
+                needs_enhancement = True
+                self._log(f"\nIteration {iteration + 1}: Enhancing detail density...")
+
+                # Find weak sections and enhance them
+                if 'weak_sections' in analysis['detail_density']:
+                    for weak_section in analysis['detail_density']['weak_sections'][:2]:  # Enhance top 2
+                        section_start = weak_section.get('start', 0)
+                        section_end = weak_section.get('end', len(chapter_text))
+                        section_text = chapter_text[section_start:section_end]
+
+                        enhanced = self._enhance_chapter_section(section_text, 'ADD_DEPTH', 'increase_detail_density')
+                        chapter_text = chapter_text[:section_start] + enhanced + chapter_text[section_end:]
+
+                        # Track enhancement cost
+                        self.total_cost += 0.01  # Approximate small enhancement cost
+
+            # Check word count
+            if analysis.get('word_count') and not analysis['word_count']['passed']:
+                wc = analysis['word_count']
+
+                if wc.get('action') == 'ADD_DEPTH':
+                    needs_enhancement = True
+                    self._log(f"\nIteration {iteration + 1}: Expanding chapter (deficit: {wc.get('deficit', 0)} words)...")
+
+                    # Add expansion at suggested points
+                    if 'suggestions' in wc:
+                        # Use first suggestion for expansion
+                        suggestion = wc['suggestions'][0] if wc['suggestions'] else None
+                        if suggestion:
+                            # Enhance emotional or intimate moments
+                            enhanced = self._enhance_chapter_section(chapter_text[-500:], 'EXPAND_INTIMATE', 'add_words')
+                            chapter_text = chapter_text[:-500] + enhanced
+
+                elif wc.get('action') == 'CUT_WEAK':
+                    # For now, just log - cutting is risky
+                    self._log(f"Note: Chapter is {wc.get('excess', 0)} words over target, consider manual review")
+
+            if not needs_enhancement:
+                break
+
+            # Re-analyze after enhancement
+            self._log("\n--- Re-analyzing after enhancement ---")
+            analysis = self._analyze_generated_chapter(chapter_text, target_words)
+            iteration += 1
+
+        # Step 5: Return final chapter
+        final_word_count = len(chapter_text.split())
+        self._log(f"\n✓ Final chapter: {final_word_count} words")
+
+        return chapter_text
+
     def generate_chapter(self, chapter_num: int, max_retries: int = 3):
         """Generate a single chapter with quality checks"""
         self._log(f"Generating chapter {chapter_num}...")
@@ -270,8 +499,11 @@ class BookOrchestrator:
             # Use multi-pass if enabled
             if self.multi_pass_attempts > 1 and self.scorer:
                 return self._generate_chapter_multipass(chapter_num, chapter_plan, context, max_retries)
+            # Use iterative first-pass if Phase 2 analyzers available
+            elif self.detail_analyzer and self.word_count_enforcer:
+                return self._generate_chapter_iterative(chapter_num, chapter_plan, context, max_retries)
             else:
-                # Single-pass generation
+                # Basic single-pass generation
                 prompt = self._create_chapter_prompt(chapter_num, chapter_plan, context)
                 prompt_file = self.workspace / f"prompt_ch{chapter_num}.md"
                 prompt_file.write_text(prompt)
@@ -342,6 +574,42 @@ class BookOrchestrator:
                 time.sleep(2)  # Wait before retry
 
         return False
+
+    def _generate_chapter_iterative(self, chapter_num: int, chapter_plan: dict, context: dict, max_retries: int = 3):
+        """Generate chapter using iterative first-pass system (Phase 3)"""
+        # Initialize LLM client if not already done
+        if self.llm_client is None:
+            try:
+                self.llm_client = LLMClient(self.provider)
+                self._log(f"Using provider: {self.provider_config['name']}")
+                self._log(f"Model: {self.provider_config['model']}")
+            except Exception as e:
+                self._log(f"Error initializing provider: {str(e)}", "ERROR")
+                return False
+
+        chapter_file = self.chapters_dir / f"chapter_{chapter_num:03d}.md"
+
+        # Use iterative first-pass generation
+        chapter_text = self._iterative_first_pass_generation(chapter_num, chapter_plan, context, max_iterations=2)
+
+        if not chapter_text:
+            self._log(f"Failed to generate chapter {chapter_num}", "ERROR")
+            return False
+
+        # Check budget
+        if self.total_cost > self.max_budget:
+            self._log(f"Budget exceeded! ${self.total_cost:.2f} > ${self.max_budget:.2f}", "ERROR")
+            return False
+
+        # Save chapter
+        chapter_file.write_text(chapter_text)
+        self._log(f"Chapter {chapter_num} saved: {len(chapter_text.split())} words")
+        self._log(f"Total cost: ${self.total_cost:.2f}")
+
+        # Auto-extract and track continuity
+        self._auto_extract_continuity(chapter_num, chapter_text)
+
+        return True
 
     def _generate_chapter_multipass(self, chapter_num: int, chapter_plan: dict, context: dict, max_retries: int = 3):
         """Generate multiple chapter versions and select the best"""
