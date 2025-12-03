@@ -1,0 +1,253 @@
+{
+  "book_id": "test_book_001",
+  "timestamp": 1764775410.5126731,
+  "overall_score": 72.49386955673899,
+  "coherence": {
+    "name": "Coherence",
+    "score": 62.846116980841394,
+    "weight": 0.25,
+    "details": {
+      "plot_coherence": 13.333333333333334,
+      "character_coherence": 75.77665297373187,
+      "world_coherence": 77.27448161630036,
+      "timeline_coherence": 85
+    },
+    "issues": [
+      "Plot coherence below standard: 13.3",
+      "Character inconsistencies detected: 75.8",
+      "World-building inconsistencies: 77.3"
+    ],
+    "recommendations": [
+      "Review plot connections between chapters",
+      "Ensure character behaviors remain consistent",
+      "Verify world rules don't contradict"
+    ]
+  },
+  "continuity": {
+    "name": "Continuity",
+    "score": 79.5685029023267,
+    "weight": 0.2,
+    "details": {
+      "fact_consistency": 88.55501801107873,
+      "object_permanence": 76.58627495686908,
+      "relationship_stability": 83.13271864135899,
+      "cause_effect_validity": 70
+    },
+    "issues": [
+      "Factual contradictions found: 88.6",
+      "Objects appearing/disappearing: 76.6",
+      "Relationship inconsistencies: 83.1",
+      "Broken cause-effect chains: 70.0"
+    ],
+    "recommendations": [
+      "Track all introduced elements throughout",
+      "Ensure consequences follow actions",
+      "Maintain relationship dynamics"
+    ]
+  },
+  "flow": {
+    "name": "Flow",
+    "score": 87.51034556737176,
+    "weight": 0.15,
+    "details": {
+      "sentence_flow": 94.96891594723566,
+      "paragraph_cohesion": 89.66552527188705,
+      "chapter_pacing": 95.40694105036434,
+      "narrative_momentum": 70
+    },
+    "issues": [
+      "Narrative loses momentum: 70.0"
+    ],
+    "recommendations": []
+  },
+  "storytelling": {
+    "name": "Storytelling",
+    "score": 64.25,
+    "weight": 0.2,
+    "details": {
+      "plot_complexity": 60,
+      "character_depth": 75,
+      "thematic_richness": 72,
+      "show_vs_tell": 50.0
+    },
+    "issues": [
+      "Plot too simplistic: 60.0",
+      "Too much telling: 50.0"
+    ],
+    "recommendations": [
+      "Add subplot layers for complexity",
+      "Deepen character motivations",
+      "Show emotions through action"
+    ]
+  },
+  "engagement": {
+    "name": "Engagement",
+    "score": 71.29619627469472,
+    "weight": 0.15,
+    "details": {
+      "hook_strength": 76.66666666666667,
+      "cliffhangers": 60,
+      "emotional_engagement": 64,
+      "page_turner_quality": 84.51811843211219
+    },
+    "issues": [
+      "Weak chapter hooks: 76.7",
+      "Insufficient cliffhangers: 60.0",
+      "Low emotional engagement: 64.0"
+    ],
+    "recommendations": [
+      "Strengthen chapter openings",
+      "End chapters with questions",
+      "Increase emotional stakes"
+    ]
+  },
+  "technical": {
+    "name": "Technical",
+    "score": 83.95316909506636,
+    "weight": 0.05,
+    "details": {
+      "grammar_accuracy": 90.81267638026542,
+      "vocabulary_diversity": 100,
+      "readability": 75,
+      "dialogue_naturalness": 70
+    },
+    "issues": [
+      "Grammar issues: 90.8",
+      "Unnatural dialogue: 70.0"
+    ],
+    "recommendations": [
+      "Review grammar and punctuation",
+      "Vary vocabulary and sentence structure",
+      "Make dialogue more conversational"
+    ]
+  },
+  "objective_metrics": {
+    "coherence_plot_coherence": 13.333333333333334,
+    "coherence_character_coherence": 75.77665297373187,
+    "coherence_world_coherence": 77.27448161630036,
+    "coherence_timeline_coherence": 85,
+    "continuity_fact_consistency": 88.55501801107873,
+    "continuity_object_permanence": 76.58627495686908,
+    "continuity_relationship_stability": 83.13271864135899,
+    "continuity_cause_effect_validity": 70,
+    "flow_sentence_flow": 94.96891594723566,
+    "flow_paragraph_cohesion": 89.66552527188705,
+    "flow_chapter_pacing": 95.40694105036434,
+    "flow_narrative_momentum": 70,
+    "technical_grammar_accuracy": 90.81267638026542,
+    "technical_vocabulary_diversity": 100,
+    "technical_readability": 75,
+    "technical_dialogue_naturalness": 70
+  },
+  "subjective_metrics": {
+    "storytelling_plot_complexity": 60,
+    "storytelling_character_depth": 75,
+    "storytelling_thematic_richness": 72,
+    "storytelling_show_vs_tell": 50.0,
+    "engagement_hook_strength": 76.66666666666667,
+    "engagement_cliffhangers": 60,
+    "engagement_emotional_engagement": 64,
+    "engagement_page_turner_quality": 84.51811843211219
+  },
+  "strengths": [
+    "Strong flow (87.5/100)"
+  ],
+  "weaknesses": [
+    "Weak coherence (62.8/100)",
+    "Below-standard continuity (79.6/100)",
+    "Weak storytelling (64.2/100)",
+    "Below-standard engagement (71.3/100)"
+  ],
+  "critical_issues": [
+    "CRITICAL: Coherence score 62.8 below threshold",
+    "Factual contradictions found: 88.6",
+    "Broken cause-effect chains: 70.0",
+    "CRITICAL: Storytelling score 64.2 below threshold"
+  ],
+  "improvement_priorities": [
+    {
+      "dimension": "Coherence",
+      "recommendation": "Review plot connections between chapters",
+      "current_score": 62.846116980841394,
+      "target_score": 85,
+      "impact": 5.5384707547896515,
+      "priority": "high"
+    },
+    {
+      "dimension": "Coherence",
+      "recommendation": "Ensure character behaviors remain consistent",
+      "current_score": 62.846116980841394,
+      "target_score": 85,
+      "impact": 5.5384707547896515,
+      "priority": "high"
+    },
+    {
+      "dimension": "Storytelling",
+      "recommendation": "Add subplot layers for complexity",
+      "current_score": 64.25,
+      "target_score": 85,
+      "impact": 4.15,
+      "priority": "medium"
+    },
+    {
+      "dimension": "Storytelling",
+      "recommendation": "Deepen character motivations",
+      "current_score": 64.25,
+      "target_score": 85,
+      "impact": 4.15,
+      "priority": "medium"
+    },
+    {
+      "dimension": "Engagement",
+      "recommendation": "Strengthen chapter openings",
+      "current_score": 71.29619627469472,
+      "target_score": 85,
+      "impact": 2.0555705587957918,
+      "priority": "medium"
+    },
+    {
+      "dimension": "Engagement",
+      "recommendation": "End chapters with questions",
+      "current_score": 71.29619627469472,
+      "target_score": 85,
+      "impact": 2.0555705587957918,
+      "priority": "medium"
+    },
+    {
+      "dimension": "Continuity",
+      "recommendation": "Track all introduced elements throughout",
+      "current_score": 79.5685029023267,
+      "target_score": 85,
+      "impact": 1.0862994195346602,
+      "priority": "medium"
+    },
+    {
+      "dimension": "Continuity",
+      "recommendation": "Ensure consequences follow actions",
+      "current_score": 79.5685029023267,
+      "target_score": 85,
+      "impact": 1.0862994195346602,
+      "priority": "medium"
+    },
+    {
+      "dimension": "Technical",
+      "recommendation": "Review grammar and punctuation",
+      "current_score": 83.95316909506636,
+      "target_score": 85,
+      "impact": 0.052341545246682136,
+      "priority": "medium"
+    },
+    {
+      "dimension": "Technical",
+      "recommendation": "Vary vocabulary and sentence structure",
+      "current_score": 83.95316909506636,
+      "target_score": 85,
+      "impact": 0.052341545246682136,
+      "priority": "medium"
+    }
+  ],
+  "human_parity_score": 77.70170127918296,
+  "genre_alignment": 20,
+  "passed": false,
+  "publication_ready": false
+}
