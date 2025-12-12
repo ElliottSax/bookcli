@@ -1,0 +1,17 @@
+# Oracle Cloud Infrastructure Integration Requirements
+# Install with: pip install -r requirements-oci.txt
+
+# Core OCI SDK
+oci>=2.125.0
+
+# Optional: OCI CLI for setup and management
+# Install separately: pip install oci-cli
+
+# Required for base book generation (if not already installed)
+anthropic>=0.20.0
+openai>=1.12.0
+groq>=0.4.0
+
+# Optional LLM providers
+# openrouter  # Install if using OpenRouter
+# requests>=2.31.0  # For DeepSeek and other APIs
