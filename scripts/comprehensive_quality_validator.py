@@ -16,6 +16,15 @@ from collections import defaultdict, Counter
 import statistics
 from datetime import datetime
 
+# Import real quality analyzers (replacing placeholders)
+try:
+    from detail_density_analyzer import DetailDensityAnalyzer
+    from physical_grounding_checker import PhysicalGroundingChecker
+    from show_vs_tell_analyzer import ShowVsTellAnalyzer
+    REAL_ANALYZERS_AVAILABLE = True
+except ImportError:
+    REAL_ANALYZERS_AVAILABLE = False
+
 
 @dataclass
 class QualityDimension:
@@ -711,14 +720,77 @@ class CoherenceTests:
         return statistics.mean(scores) if scores else 75
 
     def test_character_coherence(self, chapters: List[str]) -> float:
-        """Test character consistency"""
-        # Simplified: Check character name consistency
-        # In real implementation, would track behavior patterns
-        return np.random.uniform(75, 95)  # Placeholder
+        """Test character consistency across chapters"""
+        # Extract character names (capitalized words that appear multiple times)
+        all_text = ' '.join(chapters)
+        words = re.findall(r'\b[A-Z][a-z]+\b', all_text)
+        name_counts = Counter(words)
+
+        # Characters are names that appear frequently
+        potential_chars = {name for name, count in name_counts.items() if count >= 5}
+
+        if not potential_chars:
+            return 75.0  # No clear characters detected
+
+        # Check for contradictions in character descriptions
+        contradictions = 0
+        char_attributes = defaultdict(lambda: defaultdict(set))
+
+        # Common attribute patterns
+        attr_patterns = {
+            'eye_color': r"(\w+)'s\s+(\w+)\s+eyes",
+            'hair': r"(\w+)'s\s+(\w+)\s+hair",
+            'age': r"(\w+)\s+was\s+(\d+)\s+years?\s+old"
+        }
+
+        for chapter in chapters:
+            for attr_type, pattern in attr_patterns.items():
+                matches = re.findall(pattern, chapter, re.IGNORECASE)
+                for name, value in matches:
+                    if name in potential_chars:
+                        char_attributes[name][attr_type].add(value.lower())
+
+        # Count contradictions (same attribute, different values)
+        for name, attrs in char_attributes.items():
+            for attr_type, values in attrs.items():
+                if len(values) > 1:
+                    contradictions += 1
+
+        # Score: 100 - (contradictions * 15), min 60
+        score = max(60, 100 - contradictions * 15)
+        return float(score)
 
     def test_world_coherence(self, chapters: List[str]) -> float:
         """Test world-building consistency"""
-        return np.random.uniform(70, 90)  # Placeholder
+        # Check for world-building elements
+        all_text = ' '.join(chapters).lower()
+
+        # World-building indicators
+        world_elements = {
+            'locations': r'\b(city|town|village|castle|forest|mountain|river|ocean|desert|building)\b',
+            'time_period': r'\b(medieval|modern|future|ancient|century|era|age)\b',
+            'technology': r'\b(magic|technology|weapon|tool|device|machine)\b',
+            'culture': r'\b(tradition|custom|ritual|ceremony|festival|law|rule)\b'
+        }
+
+        element_counts = {}
+        for element_type, pattern in world_elements.items():
+            matches = re.findall(pattern, all_text)
+            element_counts[element_type] = len(matches)
+
+        total_elements = sum(element_counts.values())
+
+        # More world-building elements = higher score
+        if total_elements > 50:
+            score = 95
+        elif total_elements > 30:
+            score = 85
+        elif total_elements > 15:
+            score = 75
+        else:
+            score = 65
+
+        return float(score)
 
     def test_timeline_coherence(self, chapters: List[str]) -> float:
         """Test timeline consistency"""
@@ -732,16 +804,117 @@ class ContinuityTests:
     """Tests for story continuity"""
 
     def test_fact_consistency(self, chapters: List[str]) -> float:
-        """Test factual consistency"""
-        return np.random.uniform(80, 95)  # Placeholder
+        """Test factual consistency across chapters"""
+        # Track facts mentioned across chapters
+        facts = defaultdict(lambda: defaultdict(set))
+
+        # Patterns for trackable facts
+        fact_patterns = {
+            'character_age': r"(\w+)\s+(?:was|is)\s+(\d+)\s+years?\s+old",
+            'character_height': r"(\w+)\s+(?:was|stood)\s+(\d+(?:cm|'|feet|ft))",
+            'location_distance': r"(\w+)\s+(?:was|is)\s+(\d+)\s+(?:miles|km|meters)\s+(?:from|away)",
+            'time_since': r"(\d+)\s+(days?|weeks?|months?|years?)\s+(?:since|ago|later|after)"
+        }
+
+        contradictions = []
+
+        for chapter_idx, chapter in enumerate(chapters):
+            for fact_type, pattern in fact_patterns.items():
+                matches = re.findall(pattern, chapter, re.IGNORECASE)
+                for match in matches:
+                    if len(match) == 2:
+                        subject, value = match
+                        key = f"{subject.lower()}"
+
+                        # Check if we've seen different value for same fact
+                        if key in facts[fact_type]:
+                            existing_values = facts[fact_type][key]
+                            if value not in existing_values and existing_values:
+                                contradictions.append({
+                                    'type': fact_type,
+                                    'subject': subject,
+                                    'chapter': chapter_idx + 1,
+                                    'conflict': f"Previously: {list(existing_values)}, Now: {value}"
+                                })
+
+                        facts[fact_type][key].add(value)
+
+        # Score based on contradictions
+        num_contradictions = len(contradictions)
+        score = max(60, 100 - num_contradictions * 10)
+
+        return float(score)
 
     def test_object_permanence(self, chapters: List[str]) -> float:
-        """Test object tracking"""
-        return np.random.uniform(75, 90)  # Placeholder
+        """Test object tracking across chapters"""
+        # Track important objects mentioned
+        all_text = ' '.join(chapters).lower()
+
+        # Common important objects in stories
+        object_types = ['sword', 'ring', 'key', 'letter', 'book', 'weapon', 'amulet',
+                       'necklace', 'crown', 'staff', 'crystal', 'map', 'stone', 'artifact']
+
+        object_mentions = {}
+        for obj in object_types:
+            # Count mentions of the object
+            count = len(re.findall(rf'\b{obj}\b', all_text))
+            if count > 0:
+                object_mentions[obj] = count
+
+        # Check for "Chekhov's gun" violations:
+        # Objects mentioned once and never again (potential continuity issue)
+        one_time_mentions = sum(1 for count in object_mentions.values() if count == 1)
+
+        # Score: Good tracking = objects mentioned multiple times if at all
+        if not object_mentions:
+            return 85.0  # No objects to track
+
+        avg_mentions = sum(object_mentions.values()) / len(object_mentions)
+
+        # Higher average mentions = better object permanence
+        if avg_mentions >= 3:
+            score = 95
+        elif avg_mentions >= 2:
+            score = 85
+        else:
+            score = 75 - (one_time_mentions * 5)
+
+        return max(60.0, float(score))
 
     def test_relationship_stability(self, chapters: List[str]) -> float:
-        """Test relationship consistency"""
-        return np.random.uniform(80, 95)  # Placeholder
+        """Test relationship consistency across chapters"""
+        # Track relationship indicators
+        all_text = ' '.join(chapters).lower()
+
+        # Relationship indicators
+        relationship_words = {
+            'positive': ['love', 'friend', 'ally', 'partner', 'trust', 'care', 'together'],
+            'negative': ['enemy', 'hate', 'betray', 'fight', 'against', 'distrust', 'rival'],
+            'neutral': ['colleague', 'acquaintance', 'stranger', 'meet', 'know']
+        }
+
+        # Count relationship indicators
+        counts = {}
+        for rel_type, words in relationship_words.items():
+            count = sum(len(re.findall(rf'\b{word}\b', all_text)) for word in words)
+            counts[rel_type] = count
+
+        total_relationships = sum(counts.values())
+
+        # Good relationship stability = consistent relationship markers throughout
+        if total_relationships == 0:
+            return 75.0  # No clear relationships
+
+        # Check for balance and consistency
+        # Stories with only one type might lack nuance
+        types_present = sum(1 for count in counts.values() if count > 0)
+
+        if types_present >= 2:
+            score = 85 + min(10, total_relationships // 10)  # Bonus for rich relationships
+        else:
+            score = 75
+
+        return min(100.0, float(score))
 
     def test_cause_effect(self, chapters: List[str]) -> float:
         """Test cause-effect chains"""
@@ -771,8 +944,40 @@ class FlowTests:
         return 75
 
     def test_paragraph_cohesion(self, chapters: List[str]) -> float:
-        """Test paragraph connections"""
-        return np.random.uniform(70, 90)  # Placeholder
+        """Test paragraph connections and flow"""
+        # Check for transition words and paragraph connectivity
+        all_text = ' '.join(chapters)
+        paragraphs = [p.strip() for p in all_text.split('\n\n') if p.strip()]
+
+        if len(paragraphs) < 5:
+            return 75.0  # Not enough paragraphs to assess
+
+        # Transition/connection words
+        transition_words = ['however', 'but', 'then', 'next', 'after', 'before',
+                          'meanwhile', 'later', 'finally', 'therefore', 'thus',
+                          'consequently', 'additionally', 'furthermore', 'moreover']
+
+        # Count paragraphs with transition words
+        connected_paragraphs = 0
+        for para in paragraphs[1:]:  # Skip first paragraph
+            # Check if paragraph starts with or contains transition words
+            para_lower = para.lower()
+            if any(word in para_lower[:100] for word in transition_words):
+                connected_paragraphs += 1
+
+        # Calculate connectivity ratio
+        connectivity_ratio = connected_paragraphs / (len(paragraphs) - 1) if len(paragraphs) > 1 else 0
+
+        # Score based on connectivity
+        # Good: 40-70% (not too mechanical, but still connected)
+        if 0.4 <= connectivity_ratio <= 0.7:
+            score = 90
+        elif 0.2 <= connectivity_ratio < 0.4 or 0.7 < connectivity_ratio <= 0.8:
+            score = 80
+        else:
+            score = 70
+
+        return float(score)
 
     def test_chapter_pacing(self, chapters: List[str]) -> float:
         """Test pacing across chapters"""
@@ -816,19 +1021,23 @@ class StorytellingTests:
         return min(100, 60 + count * 3)
 
     def test_show_vs_tell(self, chapters: List[str]) -> float:
-        """Test show vs tell ratio"""
-        # Check for telling indicators (to be minimized)
-        tell_words = ['felt', 'thought', 'knew', 'realized', 'understood', 'believed']
-        tell_count = sum(1 for word in tell_words for ch in chapters if word in ch.lower())
+        """Test show vs tell ratio using real analyzer"""
+        if REAL_ANALYZERS_AVAILABLE:
+            analyzer = ShowVsTellAnalyzer()
+            all_text = '\n\n'.join(chapters)
+            return analyzer.get_score(all_text)
+        else:
+            # Fallback to simple implementation
+            tell_words = ['felt', 'thought', 'knew', 'realized', 'understood', 'believed']
+            tell_count = sum(1 for word in tell_words for ch in chapters if word in ch.lower())
 
-        # Check for showing indicators (to be maximized)
-        show_words = ['grabbed', 'slammed', 'whispered', 'trembled', 'glanced', 'stumbled']
-        show_count = sum(1 for word in show_words for ch in chapters if word in ch.lower())
+            show_words = ['grabbed', 'slammed', 'whispered', 'trembled', 'glanced', 'stumbled']
+            show_count = sum(1 for word in show_words for ch in chapters if word in ch.lower())
 
-        if show_count + tell_count > 0:
-            ratio = show_count / (show_count + tell_count)
-            return ratio * 100
-        return 70
+            if show_count + tell_count > 0:
+                ratio = show_count / (show_count + tell_count)
+                return ratio * 100
+            return 70.0
 
 
 class EngagementTests:
@@ -871,7 +1080,18 @@ class EngagementTests:
     def test_page_turner_quality(self, chapters: List[str]) -> float:
         """Test page-turner quality"""
         # Combination of hooks, cliffhangers, and pacing
-        return np.random.uniform(70, 85)  # Placeholder
+        hook_score = self.test_hook_strength(chapters)
+        cliffhanger_score = self.test_cliffhangers(chapters)
+        emotional_score = self.test_emotional_engagement(chapters)
+
+        # Weighted average
+        page_turner_score = (
+            hook_score * 0.3 +
+            cliffhanger_score * 0.4 +
+            emotional_score * 0.3
+        )
+
+        return float(page_turner_score)
 
 
 class TechnicalTests:
@@ -879,8 +1099,47 @@ class TechnicalTests:
 
     def test_grammar(self, chapters: List[str]) -> float:
         """Test grammar accuracy"""
-        # In real implementation, would use language tool
-        return np.random.uniform(90, 98)  # Placeholder
+        # Real grammar check using basic heuristics
+        # Note: For production, consider integrating LanguageTool or similar
+        all_text = ' '.join(chapters)
+
+        issues = 0
+        total_sentences = 0
+
+        # Split into sentences
+        sentences = re.split(r'[.!?]+', all_text)
+        sentences = [s.strip() for s in sentences if s.strip()]
+        total_sentences = len(sentences)
+
+        if total_sentences == 0:
+            return 90.0
+
+        for sentence in sentences:
+            # Check for common grammar issues
+
+            # Double spaces
+            if '  ' in sentence:
+                issues += 1
+
+            # Missing capital at start (except dialogue or fragments)
+            if sentence and sentence[0].islower() and not sentence.startswith('"'):
+                issues += 1
+
+            # Double punctuation (excluding ellipsis and intentional)
+            if re.search(r'[,;:]{2,}', sentence):
+                issues += 1
+
+            # Subject-verb agreement basic check (simple heuristic)
+            # "was were" or "were was" in same sentence is likely wrong
+            if 'was were' in sentence.lower() or 'were was' in sentence.lower():
+                issues += 1
+
+        # Calculate score
+        # Fewer issues = higher score
+        error_rate = issues / total_sentences if total_sentences > 0 else 0
+        score = 100 - (error_rate * 200)  # Each error per sentence costs 2 points
+
+        return max(70.0, min(100.0, float(score)))
 
     def test_vocabulary_diversity(self, chapters: List[str]) -> float:
         """Test vocabulary richness"""

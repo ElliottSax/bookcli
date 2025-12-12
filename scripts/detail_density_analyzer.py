@@ -1,341 +1,266 @@
 #!/usr/bin/env python3
 """
-Detail Density Analyzer - Measures obsessive detail density in fiction
+Detail Density Analyzer - Real Implementation
+Part of Quality Improvement Plan P0
 
-Target: 3+ obsessive details per 1000 words
-
-Obsessive details include:
-- Physical measurements (exact heights, distances, temperatures)
-- Counting rituals (heartbeats, steps, objects, time intervals)
-- Sensory specificity (exact colors, precise sounds, specific textures)
-- Repeated observations (character notices same detail multiple times)
-- Microscopic focus (hands described in extreme detail)
+Counts obsessive details to enforce ultra_tier_prompts.yaml requirements:
+- Target: 3+ obsessive details per 1000 words
+- Includes: measurements, counting, temperatures, physical specs, sensory precision
 """
 
 import re
 from typing import Dict, List, Tuple
 from dataclasses import dataclass
+from collections import defaultdict
 
 
 @dataclass
-class DetailMatch:
-    """A single obsessive detail found in text"""
-    type: str
-    text: str
-    position: int
-    context: str
+class DetailAnalysis:
+    """Results of detail density analysis"""
+    total_words: int
+    measurements: int
+    counting: int
+    precision: int
+    temperatures: int
+    physical_specs: int
+    sensory_details: int
+    heart_rate_mentions: int
+    breath_tracking: int
+    distance_measurement: int
+
+    total_details: int
+    density_per_1k: float
+    meets_target: bool
+    examples: List[str]
+
+    def to_dict(self) -> Dict:
+        return {
+            'total_words': self.total_words,
+            'measurements': self.measurements,
+            'counting': self.counting,
+            'precision': self.precision,
+            'temperatures': self.temperatures,
+            'physical_specs': self.physical_specs,
+            'sensory_details': self.sensory_details,
+            'heart_rate_mentions': self.heart_rate_mentions,
+            'breath_tracking': self.breath_tracking,
+            'distance_measurement': self.distance_measurement,
+            'total_details': self.total_details,
+            'density_per_1k': round(self.density_per_1k, 2),
+            'meets_target': self.meets_target,
+            'target': 3.0,
+            'examples': self.examples[:10]
+        }
 
 
 class DetailDensityAnalyzer:
-    """Analyzes fiction text for obsessive detail density"""
+    """
+    Analyzes text for obsessive detail density.
 
-    def __init__(self):
-        # Patterns for detecting obsessive details
-        self.patterns = {
-            'measurements': [
-                # Temperature: 36.8°C, 98.6°F, thirty-six degrees
-                r'\b\d+\.?\d*\s*°[CF]\b',
-                r'\b\d+\.?\d*\s*degrees\b',
-                r'\b\d+\.?\d*\s*celsius\b',
-                r'\b\d+\.?\d*\s*fahrenheit\b',
+    Based on ultra_tier_prompts.yaml requirements:
+    - Physical measurements (exact heights, distances, temperatures)
+    - Counting rituals (heartbeats, steps, objects, time intervals)
+    - Sensory specificity (not "warm" but "36.4°C")
+    - Microscopic focus (scars, calluses, exact features)
+    """
 
-                # Distance: 182cm, 6 feet, twenty meters
-                r'\b\d+\.?\d*\s*(cm|centimeters?|mm|millimeters?|m|meters?)\b',
-                r'\b\d+\.?\d*\s*(feet|foot|inches?|yards?|miles?)\b',
-
-                # Weight: 2kg, 5 pounds
-                r'\b\d+\.?\d*\s*(kg|kilograms?|g|grams?|lbs?|pounds?|ounces?)\b',
-
-                # Time: 14 seconds, 3.5 minutes, 2 hours
-                r'\b\d+\.?\d*\s*(seconds?|minutes?|hours?|days?|weeks?|months?|years?)\b',
-            ],
-
-            'counting': [
-                # Heartbeats: 74 beats per minute, seventy-four BPM
-                r'\b\d+\.?\d*\s*(beats?\s+per\s+minute|BPM|heartbeats?)\b',
-
-                # Breath: 42 breaths per minute
-                r'\b\d+\.?\d*\s*breaths?\s+per\s+minute\b',
-
-                # Steps: seventeen steps, 30 steps
-                r'\b\d+\.?\d*\s*steps?\b',
-
-                # Objects counted: fourteen beams, 18 scars
-                r'\b\d+\.?\d*\s+[a-z]+s\b',  # Generic counting
-
-                # Explicit counting: "counted", "cataloged"
-                r'\bcounted\b',
-                r'\bcatalog(ed|ing)\b',
-            ],
-
-            'sensory_specific': [
-                # Specific colors with modifiers: silver-gray, deep crimson
-                r'\b(silver|golden|crimson|azure|jade|obsidian|ivory|ebony)[- ][a-z]+\b',
-
-                # Texture specifics: rough-textured, silken-smooth
-                r'\b(rough|smooth|silken|coarse|velvety|gritty)[- ][a-z]+\b',
-
-                # Sound specifics: A440 pitch, perfect fourth
-                r'\b[A-G]\d{3}\s*(pitch|note|tone)\b',
-                r'\b(perfect|major|minor)\s+(second|third|fourth|fifth|sixth|seventh|octave)\b',
-
-                # Taste/smell specifics with chemical names
-                r'\b(ozone|copper|sulfur|petrichor|bergamot|sandalwood)\b',
-            ],
-
-            'micro_focus': [
-                # Hands in detail: calluses, scars, knuckles, etc.
-                r'\b(callus|calluses|scar|scars|knuckle|knuckles|palm|palms|finger|fingers|thumb|thumbs)\b',
-
-                # Eyes in detail: iris, pupil, retina
-                r'\b(iris|irises|pupil|pupils|retina|cornea)\b',
-
-                # Physical details: veins, tendons, muscles
-                r'\b(vein|veins|tendon|tendons|muscle|muscles|sinew)\b',
-            ],
-
-            'repeated_observation': [
-                # Words that signal repeated noticing
-                r'\bagain\b',
-                r'\bstill\b',
-                r'\balways\b',
-                r'\bevery\s+time\b',
-                r'\bonce\s+more\b',
-                r'\bas\s+always\b',
-            ]
-        }
-
-    def analyze(self, text: str, target_density: float = 3.0) -> Dict:
+    def __init__(self, target_density: float = 3.0):
         """
-        Analyze text for obsessive detail density
+        Initialize analyzer.
 
         Args:
-            text: Text to analyze
-            target_density: Target details per 1000 words (default: 3.0)
-
-        Returns:
-            Dictionary with analysis results
+            target_density: Minimum obsessive details per 1000 words
         """
-        # Count words
-        word_count = len(text.split())
+        self.target_density = target_density
 
-        # Find all details
-        details = self._find_details(text)
-
-        # Calculate density
-        density = (len(details) / word_count * 1000) if word_count > 0 else 0
-
-        # Analyze by type
-        detail_counts = {}
-        for detail in details:
-            detail_counts[detail.type] = detail_counts.get(detail.type, 0) + 1
-
-        # Check if passes threshold
-        passed = density >= target_density
-
-        # Find weak sections (sections with low detail density)
-        weak_sections = self._find_weak_sections(text, details, target_density)
-
-        return {
-            'passed': passed,
-            'word_count': word_count,
-            'total_details': len(details),
-            'density': round(density, 2),
-            'target_density': target_density,
-            'deficit': max(0, int((target_density - density) * word_count / 1000)) if not passed else 0,
-            'detail_counts': detail_counts,
-            'details': details,
-            'weak_sections': weak_sections,
-            'suggestions': self._generate_suggestions(weak_sections) if not passed else []
+        # Regex patterns for different detail types
+        self.patterns = {
+            'measurements': [
+                r'\b\d+\.?\d*\s?(degrees?|cm|mm|m\b|meters?|kilometers?|miles?|feet|inches?)',
+                r'\b\d+\.?\d*°[CF]',
+                r'\b\d+\s?BPM\b',
+                r'\b\d+\s?(seconds?|minutes?|hours?|days?|weeks?|months?|years?)',
+                r'\b\d+\.?\d*\s?percent',
+            ],
+            'counting': [
+                r'\bcounted?(?:\s+\w+){0,3}:\s*\d+',  # "counted heartbeats: 74"
+                r'\b\d+\s+(?:heartbeats?|breaths?|seconds?|steps?|times?|pieces?|threads?|scars?|freckles?)',
+                r'\bevery\s+\d+\s+(?:seconds?|minutes?|heartbeats?)',
+                r'\b(?:one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|thirteen|fourteen|fifteen|sixteen|seventeen|eighteen|nineteen|twenty)\s+(?:heartbeats?|breaths?|seconds?|freckles?|scars?|threads?)',
+            ],
+            'precision': [
+                r'\bexact(?:ly)?\s+\d+',
+                r'\bprecise(?:ly)?\s+\d+',
+                r'\bspecific(?:ally)?.*?\d+',
+                r'\b\d+\s+(?:freckles?|scars?|threads?|lines?|marks?|beats?)',
+            ],
+            'temperatures': [
+                r'\b\d+\.?\d*°[CF]\b',
+                r'\b(?:temperature|temp)\s+(?:of\s+|at\s+|was\s+)?\d+',
+                r'\b\d+\s+degrees?\s+(?:Celsius|Fahrenheit)',
+            ],
+            'physical_specs': [
+                r'\b\d+\s?cm\b',
+                r'\b\d+\s?mm\b',
+                r'\b\d+\s?(?:feet|ft)\s+\d+\s?(?:inches|in)\b',
+                r'\b\d+\'\d+"?\b',  # 6'2"
+                r'\b\d+\.?\d*\s+(?:kilograms?|kg|pounds?|lbs?)\b',
+            ],
+            'sensory_details': [
+                r'\b(?:tasted?|smelled?|felt)\s+(?:like|of)\s+\w+',
+                r'\b(?:rough|smooth|soft|hard|warm|cold|hot|cool|sharp|dull)\s+(?:to|against)\s+(?:the|her|his)\s+(?:touch|skin|fingers?|palm)',
+                r'\b(?:sounded?|smelled?|tasted?|felt)\s+like\s+',
+            ],
+            'heart_rate': [
+                r'\b\d+\s+(?:beats?|BPM)\s+per\s+minute',
+                r'\bheart(?:beat)?\s+(?:at\s+)?\d+',
+                r'\bpulse\s+(?:at\s+|of\s+)?\d+',
+                r'\b\d+\s+BPM\b',
+            ],
+            'breath_tracking': [
+                r'\b\d+\s+breaths?\s+per\s+minute',
+                r'\bbreath(?:ing)?\s+(?:at\s+)?\d+',
+                r'\b(?:shallow|deep|rapid|slow|steady)\s+(?:breathing|breaths?)',
+                r'\bbreath\s+(?:caught|stuttered|quickened|slowed|deepened)',
+            ],
+            'distance_measurement': [
+                r'\b\d+\s+(?:centimeters?|cm|millimeters?|mm|meters?|m)\s+(?:between|away|apart|from)',
+                r'\b(?:twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety)\s+(?:centimeters?|cm)\b',
+                r'\bdistance\s+(?:of\s+|was\s+)?\d+',
+            ]
         }
 
-    def _find_details(self, text: str) -> List[DetailMatch]:
-        """Find all obsessive details in text"""
-        details = []
-
-        for detail_type, patterns in self.patterns.items():
-            for pattern in patterns:
-                for match in re.finditer(pattern, text, re.IGNORECASE):
-                    # Get context (50 chars before and after)
-                    start = max(0, match.start() - 50)
-                    end = min(len(text), match.end() + 50)
-                    context = text[start:end].replace('\n', ' ')
-
-                    details.append(DetailMatch(
-                        type=detail_type,
-                        text=match.group(),
-                        position=match.start(),
-                        context=context
-                    ))
-
-        # Sort by position
-        details.sort(key=lambda d: d.position)
-
-        # Deduplicate overlapping matches
-        details = self._deduplicate(details)
-
-        return details
-
-    def _deduplicate(self, details: List[DetailMatch]) -> List[DetailMatch]:
-        """Remove overlapping detail matches"""
-        if not details:
-            return []
-
-        unique = [details[0]]
-
-        for detail in details[1:]:
-            # If this detail doesn't overlap with previous, keep it
-            prev = unique[-1]
-            if detail.position >= prev.position + len(prev.text):
-                unique.append(detail)
-
-        return unique
-
-    def _find_weak_sections(
-        self,
-        text: str,
-        details: List[DetailMatch],
-        target_density: float
-    ) -> List[Dict]:
+    def count_obsessive_details(self, text: str) -> DetailAnalysis:
         """
-        Find sections of text with low detail density
+        Count all obsessive detail types in text.
 
-        Divides text into ~500-word chunks and checks density
+        Args:
+            text: Chapter or section text
+
+        Returns:
+            DetailAnalysis with counts and density
         """
-        chunk_size = 500  # words per chunk
-        words = text.split()
-        weak_sections = []
+        counts = defaultdict(int)
+        all_examples = []
 
-        # Create chunks
-        for i in range(0, len(words), chunk_size):
-            chunk_words = words[i:i + chunk_size]
-            chunk_text = ' '.join(chunk_words)
-            chunk_start = len(' '.join(words[:i]))
-            chunk_end = chunk_start + len(chunk_text)
+        # Count each pattern type
+        for category, pattern_list in self.patterns.items():
+            for pattern in pattern_list:
+                matches = list(re.finditer(pattern, text, re.IGNORECASE))
+                counts[category] += len(matches)
 
-            # Count details in this chunk
-            chunk_details = [
-                d for d in details
-                if chunk_start <= d.position < chunk_end
-            ]
+                # Collect examples (up to 3 per pattern)
+                for match in matches[:3]:
+                    # Get surrounding context (20 words before/after)
+                    start = max(0, match.start() - 100)
+                    end = min(len(text), match.end() + 100)
+                    context = text[start:end].replace('\n', ' ').strip()
 
-            # Calculate chunk density
-            chunk_word_count = len(chunk_words)
-            chunk_density = (len(chunk_details) / chunk_word_count * 1000) if chunk_word_count > 0 else 0
+                    all_examples.append({
+                        'type': category,
+                        'match': match.group(),
+                        'context': context
+                    })
 
-            # If below target, it's a weak section
-            if chunk_density < target_density:
-                # Get first/last sentences for context
-                sentences = chunk_text.split('.')
-                preview = sentences[0][:100] + '...' if sentences else chunk_text[:100] + '...'
+        # Calculate totals
+        word_count = len(text.split())
+        total_details = sum(counts.values())
+        density_per_1k = (total_details / word_count * 1000) if word_count > 0 else 0
+        meets_target = density_per_1k >= self.target_density
 
-                weak_sections.append({
-                    'start': chunk_start,
-                    'end': chunk_end,
-                    'word_count': chunk_word_count,
-                    'detail_count': len(chunk_details),
-                    'density': round(chunk_density, 2),
-                    'deficit': int((target_density - chunk_density) * chunk_word_count / 1000),
-                    'preview': preview
-                })
+        return DetailAnalysis(
+            total_words=word_count,
+            measurements=counts['measurements'],
+            counting=counts['counting'],
+            precision=counts['precision'],
+            temperatures=counts['temperatures'],
+            physical_specs=counts['physical_specs'],
+            sensory_details=counts['sensory_details'],
+            heart_rate_mentions=counts['heart_rate'],
+            breath_tracking=counts['breath_tracking'],
+            distance_measurement=counts['distance_measurement'],
+            total_details=total_details,
+            density_per_1k=density_per_1k,
+            meets_target=meets_target,
+            examples=[f"{ex['type']}: {ex['match']}" for ex in all_examples[:15]]
+        )
 
-        return weak_sections
+    def get_score(self, text: str) -> float:
+        """
+        Get detail density score (0-100).
 
-    def _generate_suggestions(self, weak_sections: List[Dict]) -> List[str]:
-        """Generate suggestions for improving weak sections"""
-        suggestions = []
+        Score calculation:
+        - 3.0+ details/1k words = 100 points
+        - Scales linearly from 0-3.0
+        """
+        analysis = self.count_obsessive_details(text)
 
-        for i, section in enumerate(weak_sections, 1):
-            suggestions.append(
-                f"Section {i} (words {section['start']}-{section['end']}): "
-                f"Add {section['deficit']} obsessive details. "
-                f"Current density: {section['density']}/1000 words. "
-                f"Try: specific measurements, counting rituals, sensory details."
+        if analysis.density_per_1k >= self.target_density:
+            return 100.0
+
+        # Scale from 0 to 100 based on density
+        score = (analysis.density_per_1k / self.target_density) * 100
+        return min(100.0, max(0.0, score))
+
+    def get_recommendations(self, text: str) -> List[str]:
+        """
+        Get specific recommendations for improving detail density.
+
+        Args:
+            text: Chapter text
+
+        Returns:
+            List of actionable recommendations
+        """
+        analysis = self.count_obsessive_details(text)
+        recommendations = []
+
+        if analysis.meets_target:
+            return ["Detail density meets target. Excellent work!"]
+
+        deficit = self.target_density - analysis.density_per_1k
+        needed = int((deficit / 1000) * analysis.total_words)
+
+        recommendations.append(
+            f"Add approximately {needed} more obsessive details to reach target"
+        )
+
+        # Specific recommendations based on low categories
+        if analysis.counting < 5:
+            recommendations.append(
+                "Add counting rituals: heartbeats, breaths, seconds, objects (target: 5+ per chapter)"
             )
 
-        return suggestions
+        if analysis.heart_rate_mentions < 2:
+            recommendations.append(
+                "Include heart rate mentions in emotional scenes (target: 2+ per chapter)"
+            )
 
-    def format_report(self, analysis: Dict) -> str:
-        """Format analysis results as readable report"""
-        lines = []
+        if analysis.breath_tracking < 2:
+            recommendations.append(
+                "Track breathing patterns during tension/intimacy (target: 2+ per chapter)"
+            )
 
-        lines.append("=" * 70)
-        lines.append("DETAIL DENSITY ANALYSIS")
-        lines.append("=" * 70)
-        lines.append("")
+        if analysis.temperatures < 3:
+            recommendations.append(
+                "Add temperature measurements (body temp, environment, touch) (target: 3+ per chapter)"
+            )
 
-        # Overall stats
-        lines.append(f"Word count: {analysis['word_count']}")
-        lines.append(f"Total obsessive details: {analysis['total_details']}")
-        lines.append(f"Density: {analysis['density']} per 1000 words")
-        lines.append(f"Target: {analysis['target_density']} per 1000 words")
-        lines.append(f"Status: {'✓ PASS' if analysis['passed'] else '✗ FAIL'}")
+        if analysis.physical_specs < 5:
+            recommendations.append(
+                "Include exact physical measurements (distances, heights, sizes) (target: 5+ per chapter)"
+            )
 
-        if not analysis['passed']:
-            lines.append(f"Deficit: Need {analysis['deficit']} more details")
-
-        lines.append("")
-
-        # Detail breakdown by type
-        lines.append("Detail types found:")
-        for detail_type, count in sorted(analysis['detail_counts'].items(), key=lambda x: -x[1]):
-            lines.append(f"  - {detail_type}: {count}")
-
-        lines.append("")
-
-        # Weak sections
-        if analysis['weak_sections']:
-            lines.append(f"Weak sections ({len(analysis['weak_sections'])} found):")
-            for i, section in enumerate(analysis['weak_sections'], 1):
-                lines.append(f"  {i}. Words {section['start']}-{section['end']}: "
-                           f"density {section['density']}/1000 (need +{section['deficit']} details)")
-                lines.append(f"     Preview: {section['preview']}")
-            lines.append("")
-
-        # Suggestions
-        if analysis['suggestions']:
-            lines.append("Suggestions:")
-            for suggestion in analysis['suggestions']:
-                lines.append(f"  - {suggestion}")
-
-        return '\n'.join(lines)
-
-
-def main():
-    """Test the detail density analyzer"""
-
-    # Test text with varying detail density
-    test_high_density = """
-    Elara counted Catherine's heartbeats. Seventy-four per minute. Twelve beats
-    faster than this morning's sixty-two. Elevated but steady. Human normal range
-    was sixty to one hundred. Catherine was healing.
-
-    Her temperature had climbed too. Elara checked—hand to forehead, clinical,
-    trying not to notice the way Catherine's eyes tracked the movement. 35.8°C.
-    Up from yesterday's 35.2°C. Still below normal 36.8°C, but climbing. Point-six
-    degrees in twenty-four hours.
-    """
-
-    test_low_density = """
-    Catherine woke up feeling better. She looked at Elara and smiled. They had
-    breakfast together, which was nice. The food tasted good. Afterward, they
-    talked about their plans for the day. Catherine was happy to be free from
-    the armor. Elara was glad that Catherine was improving.
-    """
-
-    analyzer = DetailDensityAnalyzer()
-
-    print("TEST 1: High-density text (should pass)")
-    print("-" * 70)
-    analysis1 = analyzer.analyze(test_high_density, target_density=3.0)
-    print(analyzer.format_report(analysis1))
-    print("\n" * 2)
-
-    print("TEST 2: Low-density text (should fail)")
-    print("-" * 70)
-    analysis2 = analyzer.analyze(test_low_density, target_density=3.0)
-    print(analyzer.format_report(analysis2))
+        return recommendations
 
 
 if __name__ == "__main__":
-    main()
+    # Quick test
+    analyzer = DetailDensityAnalyzer()
+    test_text = """
+    Elara counted Catherine's heartbeats. 74 per minute. 12 beats faster than this morning.
+    Temperature: 35.8°C. Twenty centimeters between them.
+    """
+    result = analyzer.count_obsessive_details(test_text)
+    print(f"Density: {result.density_per_1k:.2f}/1k words")
+    print(f"Meets target: {result.meets_target}")

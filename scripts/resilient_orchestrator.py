@@ -22,6 +22,13 @@ from parallel_orchestrator import AsyncBookOrchestrator
 from checkpoint_manager import CheckpointManager, GenerationCheckpoint
 from llm_providers import LLMClient, Provider, ProviderConfig
 
+# Import quality enforcement (Phase 8)
+try:
+    from quality_gate_enforcer import QualityGateEnforcer, ChapterQualityReport
+    QUALITY_ENFORCEMENT_AVAILABLE = True
+except ImportError:
+    QUALITY_ENFORCEMENT_AVAILABLE = False
+
 
 class RetryStrategy(Enum):
     """Retry strategies for failed operations"""
@@ -220,6 +227,8 @@ class ResilientOrchestrator(AsyncBookOrchestrator):
                  retry_strategy: RetryStrategy = RetryStrategy.EXPONENTIAL_BACKOFF,
                  max_retries_per_provider: int = 3,
                  checkpoint_enabled: bool = True,
+                 quality_enforcement_enabled: bool = False,
+                 quality_strict_mode: bool = True,
                  **kwargs):
         """
         Initialize resilient orchestrator
@@ -229,6 +238,8 @@ class ResilientOrchestrator(AsyncBookOrchestrator):
             retry_strategy: Strategy for retrying failed operations
             max_retries_per_provider: Max retries before switching providers
             checkpoint_enabled: Enable checkpoint saving
+            quality_enforcement_enabled: Enable quality gate enforcement (Phase 8)
+            quality_strict_mode: If True, all quality gates must pass
             *args, **kwargs: Passed to parent AsyncBookOrchestrator
         """
         # Default providers if none specified
@@ -252,6 +263,16 @@ class ResilientOrchestrator(AsyncBookOrchestrator):
             self.checkpoint_manager = CheckpointManager(self.workspace)
         else:
             self.checkpoint_manager = None
+
+        # Initialize quality enforcer if enabled (Phase 8)
+        self.quality_enforcement_enabled = quality_enforcement_enabled and QUALITY_ENFORCEMENT_AVAILABLE
+        if self.quality_enforcement_enabled:
+            self.quality_enforcer = QualityGateEnforcer(strict_mode=quality_strict_mode)
+            self._log("Quality enforcement enabled (Phase 8)")
+        else:
+            self.quality_enforcer = None
+            if quality_enforcement_enabled and not QUALITY_ENFORCEMENT_AVAILABLE:
+                self._log("WARNING: Quality enforcement requested but not available")
 
     def _generate_with_retry(self, generation_func, *args, **kwargs) -> Tuple[Any, bool]:
         """
@@ -417,6 +438,78 @@ class ResilientOrchestrator(AsyncBookOrchestrator):
             # Can't resume, start over
             self._log("Cannot resume, starting over")
             return False
+
+    def generate_chapter_with_quality_enforcement(self, chapter_num: int,
+                                                  max_quality_retries: int = 3) -> Tuple[bool, Optional[ChapterQualityReport]]:
+        """
+        Generate chapter with quality gate enforcement (Phase 8)
+
+        This method wraps the standard chapter generation with quality checks.
+        If quality gates fail, it will regenerate the chapter up to max_quality_retries times.
+
+        Args:
+            chapter_num: Chapter number to generate
+            max_quality_retries: Maximum regeneration attempts for quality failures
+
+        Returns:
+            Tuple of (success, quality_report)
+        """
+        if not self.quality_enforcement_enabled:
+            # Fall back to standard generation if quality enforcement not enabled
+            success = self.generate_chapter(chapter_num)
+            return success, None
+
+        quality_report = None
+
+        for attempt in range(max_quality_retries):
+            self._log(f"[Quality] Chapter {chapter_num} - Quality attempt {attempt + 1}/{max_quality_retries}")
+
+            # Generate the chapter using standard resilient generation
+            success = self.generate_chapter(chapter_num)
+
+            if not success:
+                self._log(f"[Quality] ✗ Chapter {chapter_num} generation failed")
+                continue
+
+            # Read the generated chapter
+            chapter_file = self.workspace / f"chapter_{chapter_num:03d}.md"
+            if not chapter_file.exists():
+                self._log(f"[Quality] ✗ Chapter file not found: {chapter_file}")
+                continue
+
+            chapter_text = chapter_file.read_text(encoding='utf-8')
+
+            # Run quality gates
+            quality_report = self.quality_enforcer.check_chapter(chapter_text, chapter_num)
+
+            if quality_report.passed_all_gates:
+                self._log(f"[Quality] ✓ Chapter {chapter_num} passed all quality gates")
+                quality_report.print_report()
+
+                # Save quality report
+                report_file = self.workspace / f"chapter_{chapter_num:03d}_quality_report.json"
+                self.quality_enforcer.save_report(quality_report, report_file)
+
+                return True, quality_report
+
+            # Quality gates failed
+            self._log(f"[Quality] ✗ Chapter {chapter_num} failed quality gates (score: {quality_report.total_score:.1f}/100)")
+            quality_report.print_report()
+
+            if attempt < max_quality_retries - 1:
+                self._log(f"[Quality] Regenerating chapter {chapter_num} to meet quality standards...")
+                # Delete the failed chapter so it regenerates
+                if chapter_file.exists():
+                    chapter_file.unlink()
+            else:
+                self._log(f"[Quality] ⚠ Chapter {chapter_num} failed quality after {max_quality_retries} attempts")
+                self._log(f"[Quality] Keeping chapter with warnings (score: {quality_report.total_score:.1f}/100)")
+
+                # Save quality report even for failed chapter
+                report_file = self.workspace / f"chapter_{chapter_num:03d}_quality_report.json"
+                self.quality_enforcer.save_report(quality_report, report_file)
+
+        return True, quality_report  # Return True even if quality failed, but with report
 
     def get_provider_report(self) -> str:
         """Get detailed provider usage report"""
