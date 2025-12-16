@@ -131,7 +131,7 @@ class ContentExpansionEngine:
 
         # Generate 3-5 scenes for proper length
         num_scenes = 4 if chapter_num % 3 == 0 else 3  # Vary for pacing
-        scenes_word_target = blueprint.word_target // num_scenes
+        scenes_word_target = 500  # Fixed target per scene for consistency
 
         for i in range(num_scenes):
             scene = self._create_scene_structure(
