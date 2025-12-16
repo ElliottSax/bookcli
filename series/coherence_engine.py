@@ -104,16 +104,14 @@ class Event:
     id: str
     name: str
     description: str
+    book_id: str  # References - moved up
+    chapter: int  # References - moved up
     timestamp: Optional[str] = None  # In-world time
 
     # Details
     location_id: Optional[str] = None
     participants: List[str] = field(default_factory=list)  # character IDs
     consequences: List[str] = field(default_factory=list)
-
-    # References
-    book_id: str
-    chapter: int
 
     # Relationships
     caused_by: Optional[str] = None  # event ID
