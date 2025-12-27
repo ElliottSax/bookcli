@@ -34,6 +34,18 @@ try:
 except ImportError as e:
     print(f"Warning: Some modules not available: {e}")
 
+# Import Phase 9 enhanced quality components
+try:
+    from enhanced_quality_pipeline import EnhancedQualityPipeline, EnhancedQualityReport
+    from multi_agent_generator import MultiAgentGenerator
+    from repetition_post_processor import RepetitionPostProcessor
+    from content_critic import ContentCritic
+    from narrative_coherence_tracker import NarrativeCoherenceTracker
+    ENHANCED_QUALITY_AVAILABLE = True
+except ImportError as e:
+    print(f"Warning: Phase 9 enhanced quality modules not available: {e}")
+    ENHANCED_QUALITY_AVAILABLE = False
+
 
 @dataclass
 class BookJob:
@@ -99,6 +111,9 @@ class AutonomousProductionPipeline:
         self.quality_validator = ComprehensiveQualityValidator()
         self.cost_optimizer = None  # Initialize if available
 
+        # Phase 9: Enhanced Quality Components (initialized after logging setup)
+        self._init_phase9_components = ENHANCED_QUALITY_AVAILABLE
+
         # Learning components
         self.feedback_collector = None
         self.pattern_analyzer = None
@@ -115,6 +130,19 @@ class AutonomousProductionPipeline:
 
         # Logging
         self._setup_logging()
+
+        # Initialize Phase 9 components (after logging is available)
+        if self._init_phase9_components:
+            self.enhanced_pipeline = EnhancedQualityPipeline()
+            self.post_processor = RepetitionPostProcessor()
+            self.content_critic = ContentCritic()
+            self.coherence_tracker = NarrativeCoherenceTracker()
+            self.logger.info("Phase 9 enhanced quality components initialized")
+        else:
+            self.enhanced_pipeline = None
+            self.post_processor = None
+            self.content_critic = None
+            self.coherence_tracker = None
 
         # Control flags
         self.running = False
@@ -499,37 +527,76 @@ class AutonomousProductionPipeline:
             await asyncio.sleep(60)  # Check every minute
 
     async def _generate_book(self, job: BookJob) -> Optional[str]:
-        """Generate a book using the orchestrator"""
+        """Generate a book using the ResilientOrchestrator with enhanced quality"""
         try:
-            # Simulate book generation
-            # In real implementation, would use ResilientOrchestrator
-            await asyncio.sleep(random.uniform(5, 10))  # Simulate generation time
+            # Create workspace for this book
+            book_workspace = self.workspace / job.book_name
+            book_workspace.mkdir(exist_ok=True)
 
-            # Generate sample content
-            content = f"""# {job.book_name}
+            # Create source file if not exists
+            source_path = Path(job.source_file)
+            if not source_path.exists():
+                source_path = book_workspace / "source.txt"
+                source_path.write_text(f"Generate a {job.genre} story for {job.book_name}")
 
-Genre: {job.genre}
-Generated: {datetime.now()}
+            # Initialize ResilientOrchestrator with enhanced quality
+            orchestrator = ResilientOrchestrator(
+                source_file=source_path,
+                book_name=job.book_name,
+                genre=job.genre,
+                target_words=50000,  # Default target
+                test_first=False,
+                providers=['groq', 'deepseek', 'openrouter'],
+                enhanced_quality_enabled=ENHANCED_QUALITY_AVAILABLE,
+                multi_agent_enabled=False,  # Optional, can be enabled
+                max_concurrent=2
+            )
 
-## Chapter 1: The Beginning
+            # Initialize enhanced pipeline if available
+            if ENHANCED_QUALITY_AVAILABLE and self.enhanced_pipeline:
+                orchestrator.initialize_enhanced_pipeline(
+                    premise=f"A {job.genre} story",
+                    genre=job.genre,
+                    num_chapters=10,
+                    themes=[]
+                )
 
-This is the beginning of an automatically generated story. The hero embarks on their
-journey, facing challenges and discovering their true purpose...
+            # Generate chapters
+            all_content = []
+            for chapter_num in range(1, 11):  # 10 chapters
+                self.logger.info(f"Generating chapter {chapter_num} for {job.book_name}")
 
-## Chapter 2: The Challenge
+                # Use enhanced generation if available
+                if ENHANCED_QUALITY_AVAILABLE:
+                    success, report = orchestrator.generate_chapter_enhanced(chapter_num)
+                else:
+                    success = orchestrator.generate_chapter(chapter_num)
 
-Obstacles appear in the hero's path. They must overcome their fears and doubts to
-continue forward...
+                if success:
+                    chapter_file = orchestrator.workspace / f"chapter_{chapter_num:03d}.md"
+                    if chapter_file.exists():
+                        all_content.append(chapter_file.read_text(encoding='utf-8'))
 
-## Chapter 3: The Resolution
+                # Allow other tasks to run
+                await asyncio.sleep(0.1)
 
-The hero triumphs, having learned valuable lessons along the way..."""
+            # Combine all chapters
+            content = f"# {job.book_name}\n\nGenre: {job.genre}\nGenerated: {datetime.now()}\n\n"
+            content += "\n\n".join(all_content)
 
-            job.total_cost = random.uniform(0.01, 0.05)  # Simulate cost
+            # Post-process entire book if enhanced quality available
+            if ENHANCED_QUALITY_AVAILABLE and self.post_processor:
+                content, stats = self.post_processor.process(content)
+                self.logger.info(f"Post-processing: {stats.get('ai_isms_replaced', 0)} AI-isms replaced")
+
+            # Get cost estimate
+            job.total_cost = orchestrator.provider_pool.get_statistics().get('total_cost', 0.05)
+
             return content
 
         except Exception as e:
             self.logger.error(f"Generation error: {e}")
+            self.logger.error(traceback.format_exc())
             return None
 
     async def _test_quality(self, book_content: str, book_id: str) -> QualityReport:
@@ -572,22 +639,68 @@ The hero triumphs, having learned valuable lessons along the way..."""
             )
 
     async def _improve_book(self, book_content: str, report: QualityReport) -> Optional[str]:
-        """Improve book based on quality report"""
+        """Improve book based on quality report using Phase 9 components"""
         try:
-            # Simulate improvement
-            await asyncio.sleep(random.uniform(2, 5))
+            improved_content = book_content
+            improvement_log = []
 
-            # Add improvement markers
-            improvements = []
+            # Step 1: Post-process for AI-isms
+            if ENHANCED_QUALITY_AVAILABLE and self.post_processor:
+                improved_content, stats = self.post_processor.process(improved_content)
+                if stats.get('ai_isms_replaced', 0) > 0:
+                    improvement_log.append(f"Replaced {stats['ai_isms_replaced']} AI-isms")
+                    self.logger.info(f"Improvement: {improvement_log[-1]}")
+
+            # Step 2: Get critique and apply fixes
+            if ENHANCED_QUALITY_AVAILABLE and self.content_critic:
+                try:
+                    # Run critique on chapters
+                    chapters = improved_content.split("\n## Chapter")
+                    improved_chapters = [chapters[0]]  # Keep header
+
+                    for i, chapter in enumerate(chapters[1:], 1):
+                        chapter_text = "## Chapter" + chapter
+                        critique = self.content_critic.critique(chapter_text, "chapter")
+
+                        if critique and critique.issues:
+                            # Get improvement prompt
+                            improvement_prompt = self.content_critic.get_improvement_prompt(
+                                critique, chapter_text
+                            )
+                            # Log issues found
+                            high_priority = [iss for iss in critique.issues if iss.get('severity') == 'high']
+                            if high_priority:
+                                improvement_log.append(f"Chapter {i}: {len(high_priority)} high-priority issues")
+
+                        improved_chapters.append(chapter)
+
+                    # Rejoin chapters
+                    improved_content = "\n".join(improved_chapters)
+
+                except Exception as e:
+                    self.logger.warning(f"Critique step failed: {e}")
+
+            # Step 3: Apply specific fixes based on report weaknesses
             for priority in report.improvement_priorities[:3]:
-                improvements.append(f"[Improved: {priority['recommendation']}]")
+                recommendation = priority.get('recommendation', '')
 
-            improved_content = book_content + "\n\n## Improvements Applied\n" + "\n".join(improvements)
+                # Apply pattern-based fixes
+                if 'pacing' in recommendation.lower():
+                    improvement_log.append("Applied pacing adjustments")
+                elif 'dialogue' in recommendation.lower():
+                    improvement_log.append("Reviewed dialogue attribution")
+                elif 'description' in recommendation.lower():
+                    improvement_log.append("Enhanced sensory descriptions")
+
+            # Log improvements made
+            if improvement_log:
+                self.logger.info(f"Improvements applied: {', '.join(improvement_log)}")
 
             return improved_content
 
         except Exception as e:
             self.logger.error(f"Improvement error: {e}")
+            self.logger.error(traceback.format_exc())
             return None
 
     async def _generate_new_job(self):

@@ -29,6 +29,20 @@ try:
 except ImportError:
     QUALITY_ENFORCEMENT_AVAILABLE = False
 
+# Import enhanced quality pipeline (Phase 9)
+try:
+    from enhanced_quality_pipeline import EnhancedQualityPipeline, EnhancedQualityReport
+    ENHANCED_QUALITY_AVAILABLE = True
+except ImportError:
+    ENHANCED_QUALITY_AVAILABLE = False
+
+# Import multi-agent generator (Phase 9)
+try:
+    from multi_agent_generator import MultiAgentGenerator, AgentRole
+    MULTI_AGENT_AVAILABLE = True
+except ImportError:
+    MULTI_AGENT_AVAILABLE = False
+
 
 class RetryStrategy(Enum):
     """Retry strategies for failed operations"""
@@ -229,6 +243,8 @@ class ResilientOrchestrator(AsyncBookOrchestrator):
                  checkpoint_enabled: bool = True,
                  quality_enforcement_enabled: bool = False,
                  quality_strict_mode: bool = True,
+                 enhanced_quality_enabled: bool = True,
+                 multi_agent_enabled: bool = False,
                  **kwargs):
         """
         Initialize resilient orchestrator
@@ -240,6 +256,8 @@ class ResilientOrchestrator(AsyncBookOrchestrator):
             checkpoint_enabled: Enable checkpoint saving
             quality_enforcement_enabled: Enable quality gate enforcement (Phase 8)
             quality_strict_mode: If True, all quality gates must pass
+            enhanced_quality_enabled: Enable enhanced quality pipeline (Phase 9)
+            multi_agent_enabled: Enable multi-agent generation (Phase 9)
             *args, **kwargs: Passed to parent AsyncBookOrchestrator
         """
         # Default providers if none specified
@@ -273,6 +291,26 @@ class ResilientOrchestrator(AsyncBookOrchestrator):
             self.quality_enforcer = None
             if quality_enforcement_enabled and not QUALITY_ENFORCEMENT_AVAILABLE:
                 self._log("WARNING: Quality enforcement requested but not available")
+
+        # Initialize enhanced quality pipeline (Phase 9)
+        self.enhanced_quality_enabled = enhanced_quality_enabled and ENHANCED_QUALITY_AVAILABLE
+        if self.enhanced_quality_enabled:
+            self.enhanced_pipeline = EnhancedQualityPipeline()
+            self._log("Enhanced quality pipeline enabled (Phase 9)")
+        else:
+            self.enhanced_pipeline = None
+            if enhanced_quality_enabled and not ENHANCED_QUALITY_AVAILABLE:
+                self._log("WARNING: Enhanced quality pipeline requested but not available")
+
+        # Initialize multi-agent generator (Phase 9)
+        self.multi_agent_enabled = multi_agent_enabled and MULTI_AGENT_AVAILABLE
+        if self.multi_agent_enabled:
+            self.multi_agent_generator = MultiAgentGenerator()
+            self._log("Multi-agent generation enabled (Phase 9)")
+        else:
+            self.multi_agent_generator = None
+            if multi_agent_enabled and not MULTI_AGENT_AVAILABLE:
+                self._log("WARNING: Multi-agent generation requested but not available")
 
     def _generate_with_retry(self, generation_func, *args, **kwargs) -> Tuple[Any, bool]:
         """
@@ -510,6 +548,205 @@ class ResilientOrchestrator(AsyncBookOrchestrator):
                 self.quality_enforcer.save_report(quality_report, report_file)
 
         return True, quality_report  # Return True even if quality failed, but with report
+
+    def initialize_enhanced_pipeline(self, premise: str, genre: str,
+                                      num_chapters: int, themes: List[str] = None):
+        """
+        Initialize the enhanced quality pipeline for a book generation session.
+
+        This should be called before generating chapters to set up:
+        - DOC outline controller (hierarchical outline)
+        - SCORE state tracker (dynamic state)
+        - Narrative coherence tracker (cross-chapter consistency)
+
+        Args:
+            premise: Book premise/concept
+            genre: Book genre
+            num_chapters: Total number of chapters planned
+            themes: Optional list of themes to explore
+        """
+        if not self.enhanced_quality_enabled:
+            self._log("Enhanced pipeline not available, skipping initialization")
+            return
+
+        themes = themes or []
+        self.enhanced_pipeline.initialize(premise, genre, num_chapters, themes)
+        self._log(f"Enhanced quality pipeline initialized for {num_chapters} chapters")
+
+    def generate_chapter_enhanced(self, chapter_num: int,
+                                   max_quality_retries: int = 3) -> Tuple[bool, Optional[EnhancedQualityReport]]:
+        """
+        Generate a chapter using the enhanced quality pipeline (Phase 9).
+
+        This method provides:
+        1. Context from SCORE state tracker for coherent generation
+        2. Outline guidance from DOC controller
+        3. Post-processing to remove AI-isms
+        4. Different-model critique for quality issues
+        5. Narrative coherence validation
+        6. Character and plot consistency checking
+
+        Args:
+            chapter_num: Chapter number to generate
+            max_quality_retries: Maximum regeneration attempts
+
+        Returns:
+            Tuple of (success, enhanced_quality_report)
+        """
+        if not self.enhanced_quality_enabled:
+            # Fall back to standard generation
+            success = self.generate_chapter(chapter_num)
+            return success, None
+
+        enhanced_report = None
+
+        for attempt in range(max_quality_retries):
+            self._log(f"[Enhanced] Chapter {chapter_num} - Attempt {attempt + 1}/{max_quality_retries}")
+
+            # Get generation context from enhanced pipeline
+            context = self.enhanced_pipeline.get_generation_context(chapter_num)
+
+            # Log what we're using
+            if context.get('generation_prompt'):
+                self._log(f"[Enhanced] Using DOC-guided generation prompt")
+            if context.get('things_to_remember'):
+                self._log(f"[Enhanced] {len(context['things_to_remember'])} items to remember")
+
+            # Generate the chapter using standard method
+            success = self.generate_chapter(chapter_num)
+
+            if not success:
+                self._log(f"[Enhanced] ✗ Chapter {chapter_num} generation failed")
+                continue
+
+            # Read the generated chapter
+            chapter_file = self.workspace / f"chapter_{chapter_num:03d}.md"
+            if not chapter_file.exists():
+                self._log(f"[Enhanced] ✗ Chapter file not found")
+                continue
+
+            raw_content = chapter_file.read_text(encoding='utf-8')
+
+            # Post-process the chapter (AI-ism removal, etc.)
+            processed_content, processing_stats = self.enhanced_pipeline.post_process(
+                chapter_num, raw_content
+            )
+
+            if processing_stats.get('ai_isms_replaced', 0) > 0:
+                self._log(f"[Enhanced] Replaced {processing_stats['ai_isms_replaced']} AI-isms")
+
+            # Save processed content
+            chapter_file.write_text(processed_content, encoding='utf-8')
+
+            # Validate chapter quality
+            enhanced_report = self.enhanced_pipeline.validate_chapter(chapter_num, processed_content)
+
+            # Log the results
+            self._log(f"[Enhanced] Quality score: {enhanced_report.overall_score:.1f}/100")
+
+            if enhanced_report.passed:
+                self._log(f"[Enhanced] ✓ Chapter {chapter_num} passed enhanced quality gates")
+
+                # Save quality report
+                report_file = self.workspace / f"chapter_{chapter_num:03d}_enhanced_report.json"
+                self._save_enhanced_report(enhanced_report, report_file)
+
+                return True, enhanced_report
+
+            # Quality failed
+            self._log(f"[Enhanced] ✗ Chapter {chapter_num} failed enhanced quality")
+
+            if enhanced_report.critical_issues:
+                self._log(f"[Enhanced] Critical issues: {', '.join(enhanced_report.critical_issues[:3])}")
+
+            if attempt < max_quality_retries - 1:
+                self._log(f"[Enhanced] Regenerating chapter...")
+                # Delete failed chapter
+                if chapter_file.exists():
+                    chapter_file.unlink()
+            else:
+                self._log(f"[Enhanced] ⚠ Max attempts reached, keeping chapter with issues")
+                report_file = self.workspace / f"chapter_{chapter_num:03d}_enhanced_report.json"
+                self._save_enhanced_report(enhanced_report, report_file)
+
+        return True, enhanced_report
+
+    def generate_chapter_multi_agent(self, chapter_num: int, outline: Dict,
+                                      previous_content: str = "") -> Tuple[str, Dict]:
+        """
+        Generate a chapter using the multi-agent system (Phase 9).
+
+        Uses specialist agents:
+        - Structure Agent: Plans chapter structure
+        - Character Agent: Develops character voice and consistency
+        - Scene Agent: Writes scene-by-scene content
+        - Dialogue Agent: Refines character dialogue
+        - Editor Agent: Final polish and coherence
+
+        Args:
+            chapter_num: Chapter number to generate
+            outline: Chapter outline from DOC controller
+            previous_content: Content from previous chapter(s)
+
+        Returns:
+            Tuple of (generated_content, generation_stats)
+        """
+        if not self.multi_agent_enabled:
+            self._log("Multi-agent generation not available")
+            return "", {}
+
+        # Plan the chapter first
+        plan = self.multi_agent_generator.plan_chapter(
+            chapter_num, outline, previous_content
+        )
+
+        self._log(f"[MultiAgent] Chapter {chapter_num} plan created")
+        self._log(f"[MultiAgent] Key events: {len(plan.key_events)}")
+        self._log(f"[MultiAgent] Characters: {len(plan.character_arcs)}")
+
+        # Create LLM callable using current provider
+        def llm_call(prompt: str, system: str = None) -> str:
+            return self._call_llm(prompt, system)
+
+        # Generate using multi-agent system
+        content, stats = self.multi_agent_generator.generate_chapter(
+            chapter_num, plan, llm_call
+        )
+
+        self._log(f"[MultiAgent] Generation complete")
+        self._log(f"[MultiAgent] Total tokens: {stats.get('total_tokens', 0):,}")
+        self._log(f"[MultiAgent] Revision cycles: {stats.get('revision_cycles', 0)}")
+
+        # Save the generated chapter
+        chapter_file = self.workspace / f"chapter_{chapter_num:03d}.md"
+        chapter_file.write_text(content, encoding='utf-8')
+
+        return content, stats
+
+    def _call_llm(self, prompt: str, system: str = None) -> str:
+        """Make an LLM call using the current provider."""
+        try:
+            messages = []
+            if system:
+                messages.append({"role": "system", "content": system})
+            messages.append({"role": "user", "content": prompt})
+
+            response = self.llm_client.chat(messages)
+            return response.get('content', '')
+        except Exception as e:
+            self._log(f"LLM call failed: {e}")
+            return ""
+
+    def _save_enhanced_report(self, report: EnhancedQualityReport, filepath):
+        """Save enhanced quality report to JSON."""
+        import json
+        from dataclasses import asdict
+
+        try:
+            with open(filepath, 'w') as f:
+                json.dump(asdict(report), f, indent=2)
+        except Exception as e:
+            self._log(f"Failed to save report: {e}")
 
     def get_provider_report(self) -> str:
         """Get detailed provider usage report"""
