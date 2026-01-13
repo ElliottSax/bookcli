@@ -1,0 +1,164 @@
+name: Cloud Book Fixers
+
+on:
+  workflow_dispatch:
+    inputs:
+      tunnel_url:
+        description: 'Book server tunnel URL (e.g. https://xxx.trycloudflare.com)'
+        required: true
+      workers:
+        description: 'Number of parallel workers (1-10)'
+        required: false
+        default: '5'
+
+jobs:
+  fix-books:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    strategy:
+      matrix:
+        worker: [1, 2, 3, 4, 5]
+      fail-fast: false
+
+    steps:
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Run book fixer worker ${{ matrix.worker }}
+      env:
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        TOGETHER_KEY: ${{ secrets.TOGETHER_KEY }}
+        FIREWORKS_API_KEY: ${{ secrets.FIREWORKS_API_KEY }}
+        CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+        OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        TUNNEL_URL: ${{ github.event.inputs.tunnel_url }}
+        WORKER_ID: ${{ matrix.worker }}
+      run: |
+        cat > worker.py << 'SCRIPT'
+        import os
+        import requests
+        import json
+        import time
+        import random
+
+        GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+        TOGETHER_KEY = os.environ.get("TOGETHER_KEY", "")
+        FIREWORKS_API_KEY = os.environ.get("FIREWORKS_API_KEY", "")
+        CEREBRAS_API_KEY = os.environ.get("CEREBRAS_API_KEY", "")
+        OPENROUTER_KEY = os.environ.get("OPENROUTER_KEY", "")
+        DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
+
+        APIS = [
+            ("Groq", "https://api.groq.com/openai/v1/chat/completions", GROQ_API_KEY, "llama-3.3-70b-versatile"),
+            ("Cerebras", "https://api.cerebras.ai/v1/chat/completions", CEREBRAS_API_KEY, "llama3.1-8b"),
+            ("Together", "https://api.together.xyz/v1/chat/completions", TOGETHER_KEY, "meta-llama/Llama-3.3-70B-Instruct-Turbo"),
+            ("Fireworks", "https://api.fireworks.ai/inference/v1/chat/completions", FIREWORKS_API_KEY, "accounts/fireworks/models/llama-v3p3-70b-instruct"),
+            ("OpenRouter", "https://openrouter.ai/api/v1/chat/completions", OPENROUTER_KEY, "meta-llama/llama-3.2-3b-instruct:free"),
+            ("DeepSeek", "https://api.deepseek.com/v1/chat/completions", DEEPSEEK_API_KEY, "deepseek-chat"),
+        ]
+
+        _api_idx = int(os.environ.get("WORKER_ID", "1")) - 1
+
+        def call_api(prompt, max_tokens=4000):
+            global _api_idx
+            for i in range(len(APIS)):
+                idx = (_api_idx + i) % len(APIS)
+                name, url, key, model = APIS[idx]
+                if not key:
+                    continue
+                try:
+                    resp = requests.post(url,
+                        headers={"Authorization": f"Bearer {key}", "Content-Type": "application/json"},
+                        json={"model": model, "messages": [{"role": "user", "content": prompt}],
+                              "max_tokens": max_tokens, "temperature": 0.7},
+                        timeout=120)
+                    if resp.status_code == 200:
+                        print(f"  ✓ {name}")
+                        _api_idx = (idx + 1) % len(APIS)
+                        return resp.json()["choices"][0]["message"]["content"]
+                    elif resp.status_code == 429:
+                        print(f"  ⚠ {name} rate limited")
+                except Exception as e:
+                    print(f"  ✗ {name}: {str(e)[:50]}")
+            return None
+
+        def fix_book(server_url, book_name):
+            resp = requests.get(f"{server_url}/book/{book_name}", timeout=30)
+            if resp.status_code != 200:
+                return False
+
+            data = resp.json()
+            chapters = data.get("chapters", {})
+            updated_chapters = {}
+            any_changes = False
+
+            for ch_name, content in chapters.items():
+                words = len(content.split())
+                if words < 2000:
+                    print(f"  Expanding {ch_name} ({words} words)")
+                    prompt = f"""Expand this chapter to at least 2500 words. Keep the same style.
+        Write ONLY the expanded chapter.
+
+        {content[:10000]}
+
+        EXPANDED CHAPTER:"""
+                    result = call_api(prompt, max_tokens=4000)
+                    if result and len(result.split()) > words:
+                        updated_chapters[ch_name] = result
+                        any_changes = True
+                        print(f"    → {len(result.split())} words")
+                    time.sleep(1)
+
+            if any_changes:
+                requests.post(f"{server_url}/book/{book_name}/update",
+                    json={"chapters": updated_chapters, "quality_fixed": True}, timeout=30)
+            else:
+                requests.post(f"{server_url}/book/{book_name}/update",
+                    json={"quality_fixed": True}, timeout=30)
+            return True
+
+        def main():
+            server_url = os.environ.get("TUNNEL_URL", "").rstrip("/")
+            worker_id = os.environ.get("WORKER_ID", "1")
+            print(f"=== Worker {worker_id} ===")
+            print(f"Server: {server_url}")
+
+            # Test connection
+            try:
+                resp = requests.get(f"{server_url}/status", timeout=10)
+                status = resp.json()
+                print(f"Status: {status['fixed']}/{status['total']} fixed")
+            except Exception as e:
+                print(f"ERROR: Cannot connect: {e}")
+                return
+
+            # Test APIs
+            result = call_api("Say OK")
+            if not result:
+                print("ERROR: No working APIs!")
+                return
+
+            # Get and process books
+            resp = requests.get(f"{server_url}/books", timeout=30)
+            books = resp.json().get("books", [])
+            random.shuffle(books)
+
+            print(f"Processing {len(books)} books")
+            for i, book in enumerate(books):
+                print(f"[{i+1}/{len(books)}] {book}")
+                try:
+                    fix_book(server_url, book)
+                except Exception as e:
+                    print(f"  Error: {e}")
+                time.sleep(2)
+
+        if __name__ == "__main__":
+            main()
+        SCRIPT
+        python worker.py
