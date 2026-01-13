@@ -1,0 +1,123 @@
+name: Book Fixer
+
+on:
+  workflow_dispatch:
+    inputs:
+      worker_count:
+        description: 'Number of parallel workers (1-6)'
+        required: false
+        default: '5'
+      batch_size:
+        description: 'Books per worker'
+        required: false
+        default: '10'
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+
+jobs:
+  get-books:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+      has_books: ${{ steps.set-matrix.outputs.has_books }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            output/fiction
+          sparse-checkout-cone-mode: false
+
+      - name: Find unfixed books
+        id: set-matrix
+        run: |
+          # Find books needing fixes (have story_bible but not quality_fixed)
+          books=()
+          for dir in output/fiction/*/; do
+            if [ -f "${dir}story_bible.json" ]; then
+              if ! grep -q '"quality_fixed": true' "${dir}story_bible.json" 2>/dev/null; then
+                name=$(basename "$dir")
+                books+=("$name")
+              fi
+            fi
+          done
+
+          # Limit to batch size per worker
+          batch_size=${{ github.event.inputs.batch_size || '10' }}
+          worker_count=${{ github.event.inputs.worker_count || '5' }}
+          total_books=$((batch_size * worker_count))
+
+          # Create matrix
+          if [ ${#books[@]} -eq 0 ]; then
+            echo "has_books=false" >> $GITHUB_OUTPUT
+            echo "matrix={\"worker\":[1]}" >> $GITHUB_OUTPUT
+          else
+            echo "has_books=true" >> $GITHUB_OUTPUT
+            workers=$(seq 1 $worker_count | jq -R -s -c 'split("\n") | map(select(. != "") | tonumber)')
+            echo "matrix={\"worker\":$workers}" >> $GITHUB_OUTPUT
+            echo "Found ${#books[@]} books to fix"
+          fi
+
+  fix-books:
+    needs: get-books
+    if: needs.get-books.outputs.has_books == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJson(needs.get-books.outputs.matrix) }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests httpx
+
+      - name: Fix books (Worker ${{ matrix.worker }})
+        env:
+          WORKER_ID: ${{ matrix.worker }}
+          WORKER_COUNT: ${{ github.event.inputs.worker_count || '5' }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
+          TOGETHER_KEY: ${{ secrets.TOGETHER_KEY }}
+          FIREWORKS_API_KEY: ${{ secrets.FIREWORKS_API_KEY }}
+          CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        run: python cloud_book_fixer.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add output/fiction/
+          git diff --staged --quiet || git commit -m "Fix books (Worker ${{ matrix.worker }})"
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
+
+  report:
+    needs: [get-books, fix-books]
+    if: always() && needs.get-books.outputs.has_books == 'true'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate report
+        run: |
+          total=$(find output/fiction -maxdepth 1 -type d | wc -l)
+          fixed=$(grep -l '"quality_fixed": true' output/fiction/*/story_bible.json 2>/dev/null | wc -l)
+          echo "## Book Fixer Report" >> $GITHUB_STEP_SUMMARY
+          echo "- Total books: $total" >> $GITHUB_STEP_SUMMARY
+          echo "- Fixed: $fixed" >> $GITHUB_STEP_SUMMARY
+          echo "- Remaining: $((total - fixed))" >> $GITHUB_STEP_SUMMARY
