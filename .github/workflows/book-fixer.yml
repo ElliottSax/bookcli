@@ -92,18 +92,37 @@ jobs:
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: python cloud_book_fixer.py
 
-      - name: Commit changes
+      - name: Commit and push with retry
         run: |
           git config user.name "GitHub Actions Bot"
           git config user.email "actions@github.com"
           git add output/fiction/
-          git diff --staged --quiet || git commit -m "Fix books (Worker ${{ matrix.worker }})"
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "Fix books (Worker ${{ matrix.worker }})"
+
+          # Retry push with rebase up to 5 times
+          for i in 1 2 3 4 5; do
+            echo "Push attempt $i..."
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "Push succeeded"
+              exit 0
+            fi
+            echo "Push failed, pulling and rebasing..."
+            git fetch origin
+            git rebase origin/${{ github.ref_name }} || {
+              echo "Rebase conflict, aborting"
+              git rebase --abort
+              exit 1
+            }
+            sleep $((i * 5))  # Exponential backoff
+          done
+          echo "All push attempts failed"
+          exit 1
 
   report:
     needs: [get-books, fix-books]
