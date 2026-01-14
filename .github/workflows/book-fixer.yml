@@ -1,5 +1,8 @@
 name: Book Fixer
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
     inputs:
@@ -73,6 +76,7 @@ jobs:
         with:
           fetch-depth: 0  # Full history for rebasing
           ref: ${{ github.ref_name }}  # Latest commit
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Pull latest changes
         run: git pull origin ${{ github.ref_name }}
