@@ -1,0 +1,52 @@
+{
+  "title": "The Unclaimed Rooms",
+  "genre": "literary",
+  "subgenre": "contemporary literary fiction with speculative undertones",
+  "setting": {
+    "time_period": "Present day, 2020s",
+    "locations": [
+      "Harrow's Creek: A once-industrial, now-gentrified small town in the American Midwest.",
+      "The Chronos Stays 'Heritage Loft': A meticulously staged short-term rental apartment designed to simulate 'authentic' lived-in history.",
+      "The train: A liminal space of transit between Maya's current life and her past.",
+      "The one real coffee shop: A surviving, un-curated local business."
+    ],
+    "atmosphere": "A pervasive, melancholic tension between curated nostalgia and genuine memory. The air feels light, scent-designed, and indifferent, contrasting with the remembered weight of authentic place. A sense of haunting by polished, marketable ghosts."
+  },
+  "characters": [
+    {
+      "name": "Maya",
+      "role": "Protagonist",
+      "description": "A woman in her late 20s or early 30s, a writer or researcher by inclination. She is perceptive, sardonic, and carries a deep-seated sense of displacement. She is haunted by the visceral memories of her childhood home, which contrast sharply with the sanitized version of the past she encounters.",
+      "arc": "From passive, melancholic observer and consumer of curated nostalgia to an active creator of authentic, uncommodified meaning. She moves through grief, rage, and ultimately to a defiant act of testimony, leaving a real artifact in a simulated world."
+    },
+    {
+      "name": "Eleanor Voss (The Great-Aunt)",
+      "role": "Catalyst / Absent Presence",
+      "description": "Maya's recently deceased great-aunt. A lifelong resident of Harrow's Creek, she represents a tether to the town's authentic, unselfconscious past. Her death and the subsequent clearing of her home is the event that pulls Maya back.",
+      "arc": "Posthumously revealed not as a vague memory, but as a specific person with a history, potentially connected to other 'unclaimed' stories. Her existence becomes a point of connection for Maya and the mysterious *Guest_Marie*."
+    },
+    {
+      "name": "*Guest_Marie* (Online Entity)",
+      "role": "Antagonist / Potential Ally",
+      "description": "An unknown person who responds to Maya's anonymous online act. The username suggests another guest of a Chronos Stays property. Her comment is probing, personal, and indicates she is on a parallel journey of historical excavation.",
+      "arc": "Introduced only at the very end, her arc is potential. She transforms the story from a solitary act into the possible beginning of a community or investigation, challenging the isolation of the modern experience."
+    },
+    {
+      "name": "The Town (Harrow's Creek)",
+      "role": "Antagonistic Force / Character",
+      "description": "Not just a setting, but an entity that has actively chosen to erase and repackage its history. It is compliant in its own gentrification, selling a frictionless, aestheticized version of its past. It is the primary source of Maya's alienation.",
+      "arc": "Static in its commercial trajectory, but challenged by Maya's final act. It becomes a repository for hidden, real stories left by those who refuse its narrative."
+    }
+  ],
+  "themes": [
+    "The Commodification of Memory and Nostalgia",
+    "Authenticity vs. Performance in the Modern Age",
+    "Personal Grief and Collective Historical Erasure",
+    "The Search for Home and Belonging in a Transient World",
+    "The Cathartic and Defiant Power of Writing/Testimony",
+    "The Loneliness of the Individual vs. the Potential of Unseen Community"
+  ],
+  "narrative_voice": "Close third-person, centered exclusively on Maya's perspective. The prose is lyrical, precise, and deeply sensory, blending sharp observational detail with the fluidity of memory and emotion. It is introspective and metaphor-rich.",
+  "tone": "Melancholic, observant, and sharply ironic, evolving into defiant and cautiously hopeful. It begins with a weight of loss and disenchantment, builds to a climax of furious energy, and ends on a note of purposeful, if uncertain, action.",
+  "plot_summary": "Maya returns to her gentrified hometown for a great-aunt's funeral, feeling alienated by its curated, commercialized version of the past. Staying in a 'Heritage Loft' rental designed to simulate authentic history, she is provoked by its hollow artifice. In a climactic moment of rage and clarity, she rejects the staged nostalgia and, on the train out of town, begins to write her own true, specific memories\u2014the sound of a kettle, the angle of light\u2014on the rental's branded notepad. She resolves to leave this letter as an anonymous, real artifact in a local coffee shop, a testament to genuine experience. As the train exits a tunnel, a notification reveals her act has sparked an online response from a stranger, *Guest_Marie*, who is investigating a similar personal history, suggesting Maya's solitary defiance may have connected with a wider, unseen network of seekers."
+}

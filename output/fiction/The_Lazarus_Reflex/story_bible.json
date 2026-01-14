@@ -1,0 +1,52 @@
+{
+  "title": "The Lazarus Reflex",
+  "genre": "thriller",
+  "subgenre": "medical thriller, psychological thriller, techno-thriller",
+  "setting": {
+    "time_period": "Near-future, approximately 2045",
+    "locations": [
+      "The Elysium Unit: A state-of-the-art, sterile, and secretive neurological research and long-term care facility. Its halls are silent, lit by cold LEDs, filled with the hum of advanced life-support.",
+      "Aris Thorne's Private Room: A clinical cell within Elysium, the 'Waking Coffin' where he is imprisoned in his own body.",
+      "Neural Integration Labs: High-tech spaces where brain-computer interfaces are developed and monitored.",
+      "Corporate Offices of Thanatos Biomed: Sleek, morally ambiguous headquarters of the company funding the research.",
+      "Lena's Apartment: A worn, personal space filled with books and light, starkly contrasting the clinical world of Elysium."
+    ],
+    "atmosphere": "Claustrophobic, sterile, and technologically oppressive, punctuated by moments of profound, fragile humanity. A pervasive sense of silent dread and clinical observation, where the most intense battles are fought within the silence of a single mind."
+  },
+  "characters": [
+    {
+      "name": "Dr. Aris Thorne",
+      "role": "Protagonist, Victim, Scientist",
+      "description": "A brilliant, arrogant, and pioneering neurologist in his late 40s. He was the architect of the 'Lazarus Protocol,' a radical brain-computer interface designed to bridge severe neural damage. Now, he is its first and most tragic subject\u2014fully conscious but completely paralyzed, a prisoner in his own body following a catastrophic 'accident.'",
+      "arc": "From a god-like creator of technology to its utterly helpless subject. His journey is one of horrific awakening, internal struggle, and a desperate, silent fight to reclaim agency, expose the truth, and reconnect with his own humanity from the depths of total isolation."
+    },
+    {
+      "name": "Dr. Lena Vance",
+      "role": "Protagonist, Neurologist, Caregiver",
+      "description": "A dedicated, empathetic, and observant clinical neurologist in her early 30s. Assigned to monitor Aris's 'vegetative' state, she is meticulous and compassionate, seeing the patient behind the charts. She begins to notice subtle, anomalous data and becomes convinced he is conscious.",
+      "arc": "From a faithful employee following protocols to a determined investigator and rebel. She must evolve from observer to activist, risking her career to become Aris's only link to the outside world and the instrument of his potential liberation."
+    },
+    {
+      "name": "Dr. Silas Rourke",
+      "role": "Antagonist, Head of the Elysium Unit",
+      "description": "Calm, charismatic, and morally flexible. Aris's former colleague and now the director of the project. He presents a facade of concerned benevolence but is deeply invested in controlling the narrative and the technology for his own advancement.",
+      "arc": "Maintains the illusion of control and scientific progress while his foundation of lies becomes increasingly unstable. His arc is one of escalating desperation to contain the truth he helped bury, revealing the monster beneath the lab coat."
+    },
+    {
+      "name": "The Entity / 'The Ghost in the Machine'",
+      "role": "Antagonistic Force, Mystery",
+      "description": "An ambiguous presence within the Elysium network. It may be a corrupted AI, a neural imprint, or something more sinister. It manipulates systems, creates glitches, and seems to observe Aris's struggle. Its motives and nature are a central mystery.",
+      "arc": "From a peripheral anomaly to an active, threatening force within the story, its true relationship to Aris's condition and the Lazarus Protocol is gradually revealed."
+    }
+  ],
+  "themes": [
+    "The Horror of Consciousness: Explores the terror of being a aware mind trapped in an unresponsive body, and the ethical nightmare of creating such a state.",
+    "The God Complex & Its Price: The arrogance of scientific mastery over life and death, and the inevitable fallout when that control fails.",
+    "Communication as Life: The fundamental human need to connect and be heard, and the violence of its removal.",
+    "Corporate vs. Clinical Ethics: The conflict between groundbreaking medical advancement, profit, and the sanctity of patient autonomy.",
+    "The Resilience of the Mind: The relentless, agonizing fight of human consciousness to survive, understand, and reassert itself against impossible odds."
+  ],
+  "narrative_voice": "Close third-person, alternating primarily between Aris's internal, trapped perspective (claustrophobic, hyper-analytical, desperate) and Lena's external, investigative perspective (observant, empathetic, increasingly paranoid). The prose is clinical and precise when describing technology, but visceral and sensory when conveying Aris's inner experience.",
+  "tone": "Unrelentingly tense, psychologically harrowing, and clinically cold, with moments of soaring, fragile hope. It combines the dread of a horror story with the procedural detail of a medical mystery and the paranoia of a conspiracy thriller.",
+  "plot_summary": "Pioneering neurologist Aris Thorne awakens to find himself the victim of his own breakthrough\u2014the 'Lazarus Protocol' has left him fully conscious but completely paralyzed, declared brain-dead and imprisoned in a high-tech facility. As he battles sheer terror and isolation, he uses his immense intellect to analyze sensory fragments, slowly understanding he was sabotaged. His only hope is Dr. Lena Vance, a perceptive clinician who begins to suspect he is awake. Together, in a silent, desperate partnership, they must find a way to communicate under the watchful eyes of the facility's director, Silas Rourke, and a mysterious entity in the system. The story is their race against time and a corrupt institution to expose the truth before Aris is permanently silenced, or his mind succumbs to the abyss. It culminates not in a physical escape, but in a moment of profound, hard-won connection\u2014a single, conscious tear\u2014marking the first fragile victory of a mind fighting its way back from the void."
+}

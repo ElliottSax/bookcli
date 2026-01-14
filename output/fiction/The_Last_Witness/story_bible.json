@@ -1,0 +1,52 @@
+{
+  "title": "The Last Witness",
+  "genre": "thriller",
+  "subgenre": "legal thriller / conspiracy thriller",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "A major, unnamed American city (Metro)",
+      "The sterile, oppressive County Courthouse",
+      "Elara's sparse, temporary apartment post-release",
+      "The dusty, sunlit office of 'Vance & Associates' (a one-woman operation in a low-rent building)",
+      "Shadowy corporate spaces and forgotten police archives"
+    ],
+    "atmosphere": "A world of stark contrasts: the cold, polished formalism of the legal system versus the gritty, uncertain reality of those it fails. Shifts from claustrophobic pressure to expansive paranoia, ending with a sense of determined, clear-eyed purpose in a new, unvarnished space."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Protagonist",
+      "description": "A former high-flying defense attorney in her late 30s. Sharp, intuitive, and fiercely principled, which led to her downfall. Wears a mask of controlled composure, but internally battles with trauma, betrayal, and a thirst for redemption.",
+      "arc": "From a respected attorney to a convicted felon, then a disgraced outcast. She rebuilds not her old life, but a new, harder identity as a truth-seeker for the unjustly accused, culminating in her choosing to confront a new, more powerful enemy."
+    },
+    {
+      "name": "Frank Dern",
+      "role": "Client / Catalyst",
+      "description": "A former Metro PD sergeant in his 40s, discharged under a cloud. Has the weary, physical presence of a cop but eyes burning with a desperate need to be believed. Carries a battered leather folder containing his ruined life.",
+      "arc": "From a framed cop living in disgrace to the first client who brings Elara evidence of a conspiracy larger than either of them imagined. His case is the bridge from her past to her new fight."
+    },
+    {
+      "name": "Assistant District Attorney (Unnamed)",
+      "role": "Antagonist (Past)",
+      "description": "The prosecutor who secured Elara's conviction. Embodies the system's vindictive, careerist face. His victory over her was personal, a payback for her past courtroom wins.",
+      "arc": "Represents the defeated, personal-scale enemy. His victory is hollow in the face of the larger conspiracy Elara discovers."
+    },
+    {
+      "name": "The Consensus",
+      "role": "Antagonist (Present/Future)",
+      "description": "An unseen, corporate-style conspiracy within or alongside law enforcement. Not gritty criminals, but organized, clean, and systemic. They operate through legal manipulation and perfect-seeming frames.",
+      "arc": "The emerging true adversary. Shifts the conflict from personal injustice to an institutionalized, hidden machine of corruption."
+    }
+  ],
+  "themes": [
+    "The Corruption of Systems",
+    "Truth vs. Official Narrative",
+    "Redemption Through Purpose",
+    "The Isolation of the Disbelieved",
+    "Personal Integrity in a Compromised World"
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara Vance's perspective. The prose is taut, sensory, and procedural, mirroring a legal mind observing and dissecting a broken world. It carries a current of simmering intensity and forensic detail.",
+  "tone": "Initially tense, claustrophobic, and despairing, evolving into a gritty, paranoid, and investigative mood, finally settling into a resolute and clear-toned determination.",
+  "plot_summary": "The story begins with elite defense attorney Elara Vance being convicted for evidence tampering\u2014a crime she didn't commit, framed for refusing to compromise her ethics. After serving time, she is disbarred and abandoned. Instead of fleeing, she sets up a bare-bones practice to help others the system has failed. Her first real client, disgraced ex-sergeant Frank Dern, arrives with a story of being framed by a sophisticated, corporate-like conspiracy called 'The Consensus.' Recognizing the same chilling precision that destroyed her, Elara takes his case. The ending marks not a resolution, but a beginning: Elara, armed with hard-won knowledge and a new purpose, deliberately steps into a larger, more dangerous fight against a hidden enemy that perfects injustice, transforming from a victim of the system into its most formidable adversary from the outside."
+}

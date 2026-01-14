@@ -1,0 +1,71 @@
+{
+  "title": "The Last Harvest of Hollow Oak",
+  "genre": "horror",
+  "subgenre": "folk horror, cosmic horror",
+  "setting": {
+    "time_period": "Present day, late autumn",
+    "locations": [
+      "The Kensington Museum (opening, urban contrast)",
+      "Hollow Oak, a secluded rural township in Pennsylvania",
+      "The Hollow Oak Historical Society & Museum (a cramped, clapboard building)",
+      "The Finch Farm (the 'last true farm' in the valley)",
+      "The Town Square, dominated by the ancient, gnarled 'Heart-Oak'",
+      "The network of old root cellars and tunnels beneath the town"
+    ],
+    "atmosphere": "A superficially quaint, decaying rural community hiding a deep, primordial rot. The beauty of a fading autumn masks a pervasive sense of dread, stagnation, and being watched by the land itself. The atmosphere shifts from professional disgrace to eerie welcome, then to claustrophobic paranoia, and finally to apocalyptic terror."
+  },
+  "characters": [
+    {
+      "name": "Dr. Elara Vance",
+      "role": "Protagonist",
+      "description": "A mid-30s archaeologist and historian, sharp, resourceful, but morally compromised by her recent past. She is fiercely intelligent but carries the shame of her professional downfall.",
+      "arc": "From seeking redemption and a quiet place to hide, to uncovering a terrifying truth, to ultimately moving from a selfish survivor to a self-sacrificial savior who understands the true nature of the covenant."
+    },
+    {
+      "name": "Leo Finch",
+      "role": "Ally / Potential Romantic Interest",
+      "description": "The grandson of Old Man Finch, in his late 20s. Pragmatic, tied to the land, and deeply suspicious of the town's old ways. He represents a modern, skeptical perspective rooted in genuine care for the community.",
+      "arc": "From reluctant local guide to committed ally, forced to confront the reality of the town's curse and ultimately faced with the potential loss of the person who helped him see the truth."
+    },
+    {
+      "name": "Old Man Finch",
+      "role": "Keeper of Lore",
+      "description": "Leo's grandfather, the last traditional farmer. Gnarled and taciturn, he holds fragmented knowledge of the old pact and the true purpose of the 'Harvest' but is bound by fear and tradition.",
+      "arc": "From a seemingly stubborn old man to a tragic figure burdened by horrific, secret knowledge. His arc culminates in the horrifying realization that the old rules have been broken beyond his ability to fix."
+    },
+    {
+      "name": "Mayor Gareth Croft",
+      "role": "Antagonist (Human)",
+      "description": "The sleek, ambitious mayor of Hollow Oak. He represents corrosive modernity\u2014not progress, but greed. He sees the town's curse as a logistical problem and its traditions as leverage for commercial revival.",
+      "arc": "From a smarmy political operator to a desperate man attempting to corrupt an ancient ritual for profit, becoming the catalyst for cosmic retribution through his unwilling sacrifice."
+    },
+    {
+      "name": "Marnie",
+      "role": "The Welcome Committee",
+      "description": "The nervously enthusiastic voice from the Historical Society. She embodies the town's forced normalcy and deep-seated anxiety, hiding terrifying truths behind a facade of quaint hospitality.",
+      "arc": "Represents the collective denial of the town. Her polite facade cracks as the crisis deepens, revealing the raw terror beneath."
+    },
+    {
+      "name": "Rowan Hibbert",
+      "role": "The Predecessor",
+      "description": "The previous curator, deceased before the story begins. His fragmented notes, research, and personal journals provide Elara with the clues to unravel the mystery. He is a ghost in the archive.",
+      "arc": "Posthumous arc revealed through his research: from academic curiosity, to horrified discovery, to doomed attempts to warn or document, suggesting he may have been the last 'suitable' sacrifice before the pact was broken."
+    },
+    {
+      "name": "The Land / The Heart-Oak",
+      "role": "Antagonist (Cosmic Entity)",
+      "description": "Not a malevolent intelligence, but a vast, ancient, and hungry presence bound to the valley. It operates on a primal, amoral logic of pact and sustenance. The Heart-Oak is its focal point and conduit.",
+      "arc": "Its state shifts from dormant hunger, to agitated need (as the Harvest fails), to violent, reality-consuming retribution when fed a corrupted sacrifice."
+    }
+  ],
+  "themes": [
+    "The Corruption of Tradition: How ancient pacts are warped by modern greed and convenience.",
+    "Academic Guilt and Redemption: The search for purpose after professional disgrace, and the discovery of a purpose far greater and more terrible than imagined.",
+    "The Horror of the Soil: The idea that the land itself has memory, hunger, and agency, opposing the pastoral ideal.",
+    "Sacrifice vs. Exploitation: The distinction between a sacred, willing offering and a stolen, meaningless death, and the catastrophic consequences of confusing the two.",
+    "The Prison of Quaintness: The sinister underbelly of rural isolation and curated 'charm' that hides cycles of horror."
+  ],
+  "narrative_voice": "Close third-person, primarily following Elara Vance's perspective. The prose is sharp, analytical, and descriptive, mirroring her academic mind, but becomes increasingly fragmented and visceral as the horror escalates and her understanding deepens.",
+  "tone": "Begins with a tone of bleak, urban realism (failure, disgrace), shifts to eerie, unsettling pastoral upon arriving in Hollow Oak, builds into a paranoid thriller as secrets are uncovered, and culminates in a tone of apocalyptic, cosmic dread.",
+  "plot_summary": "Disgraced archaeologist Elara Vance accepts a curator position in the remote town of Hollow Oak, seeking anonymity. She discovers the town is obsessed with its annual 'Harvest Festival,' but her predecessor died under mysterious circumstances after researching the town's history. With the help of local farmer Leo Finch, Elara uncovers a dark truth: Hollow Oak survives not on agriculture, but on a primordial pact requiring a ritual sacrifice to the land every generation\u2014the 'Last Harvest.' The current mayor, Gareth Croft, has corrupted the ritual, substituting a hollow, unwilling victim (possibly a homeless person or outsider) to avoid sacrificing a town pillar and to enable commercial development. This act of bad faith breaks the ancient covenant. As the corrupted ritual concludes, the land itself awakens in a state of ravenous, reality-warping fury. The town begins to physically unravel. Realizing the only way to appease the entity is with a truly willing sacrifice\u2014a 'keeper' to become a 'keystone'\u2014Elara, seeking final redemption and to save the innocent, moves toward the pulsating Heart-Oak to offer herself, as Leo desperately tries to stop her."
+}

@@ -1,0 +1,50 @@
+{
+  "title": "The Tarnished Gate",
+  "genre": "fantasy",
+  "subgenre": "Portal Fantasy / Medical Fantasy",
+  "setting": {
+    "time_period": "Dual Timeline: Contemporary Earth & a timeless, decaying fantasy realm",
+    "locations": [
+      "Modern London: sterile hospitals, austere courtrooms, Alistair's empty apartment.",
+      "The Withering Realms: A dying fantasy world where magic is a systemic, physiological force. Locations include the petrified forest of Lament, the crumbling Spire of Convergence, the fungal caves of the Mycelian, and the clearing where the Tarnished Gate stands.",
+      "The Tarnished Gate itself: A massive, silver-etched archway, tarnished black in patches, the portal between worlds."
+    ],
+    "atmosphere": "Begins with clinical, cold modernity, shifting to a world of profound biological decay and mystical pathology. The atmosphere evolves from despair and corruption to the fragile hope of healing and renewal."
+  },
+  "characters": [
+    {
+      "name": "Dr. Alistair Finch",
+      "role": "Protagonist",
+      "description": "A brilliant, intuitive cardiovascular surgeon in his late 40s, disgraced after a high-profile malpractice case. Pragmatic, observant, and haunted by a failure he cannot understand. In the Withering Realms, his medical knowledge becomes a unique form of magic.",
+      "arc": "From a healer who has lost his purpose to a man who finds a new, greater one. Learns to see 'patients' not as bodies but as integrated systems (world-as-body). His journey culminates in the ultimate sacrifice: using the last of his life and the petrifying curse to become a permanent anchor for the healing world, rejecting a return home."
+    },
+    {
+      "name": "Elara",
+      "role": "Guide & Catalyst",
+      "description": "A Mycelian scout from the Withering Realms. Her people are symbiotic with fungal networks, acting as the realm's immune system. She is fierce, desperate, and sees in Alistair the 'bone-deep surgeon' prophesied to diagnose the world's sickness.",
+      "arc": "From a desperate believer in a shaky prophecy to a leader who helps forge a new, practical hope. Learns that salvation requires not just a chosen one, but collective action and sacrifice."
+    },
+    {
+      "name": "Lumen",
+      "role": "Antagonist / Patient",
+      "description": "The fading Heart of the World, manifest as a giant, crystalline tree-like structure at the Spire of Convergence. Its rhythmic pulses are the world's magic and life. It is not evil, but sick\u2014afflicted by a 'cancerous' god, the Usurper, that feeds on its energy.",
+      "arc": "The central 'patient'. Its arc is from a state of corrupted, parasitic illness (channeling magic to the Usurper) to being cleansed and restored to a healthy, autonomous state through Alistair's intervention."
+    },
+    {
+      "name": "The Usurper (Kaelen)",
+      "role": "Antagonist",
+      "description": "A once-mortal mage who, centuries prior, fused himself with the Heart's core to stop a cataclysm. He has since become a parasitic deity, believing his control is necessary order. He manifests as a figure of shifting stone and searing light, a personification of a rigid, controlling pathology.",
+      "arc": "Represents the ultimate medical antagonist: a well-intentioned but metastatic force. His arc ends not with redemption, but with excision\u2014he is 'operated' on and dismantled by Alistair, his energy returned to Lumen."
+    }
+  ],
+  "themes": [
+    "Healing vs. Curing: The distinction between systemic restoration and quick, destructive fixes.",
+    "The Anatomy of a World: Exploring society, magic, and ecology as interconnected physiological systems.",
+    "Sacrifice & Legacy: The choice between personal salvation and leaving a lasting foundation for renewal.",
+    "The Precision of Mercy: How a surgeon's detached skill can be the ultimate form of compassion.",
+    "The Corruption of Good Intentions: How the desire to save can become a possessive, destructive force."
+  ],
+  "narrative_voice": "Close third-person, primarily from Alistair's perspective. The prose is precise and observational, mirroring a surgeon's clinical eye in both modern and fantasy settings. Descriptions of magic and decay are framed in anatomical and pathological terms.",
+  "tone": "Begins with stark, modern realism and profound personal despair. Shifts to eerie, biological horror and epic fantasy grandeur. Evolves into a tone of determined, desperate healing, culminating in bittersweet hope and solemn sacrifice.",
+  "plot_summary": "Disgraced surgeon Alistair Finch is summoned through the Tarnished Gate by Elara to a dying fantasy world. Its ailment is not a dark lord, but a systemic sickness: the world's magical Heart is corrupted by a parasitic entity, the Usurper. Alistair's medical expertise allows him to diagnose the realm as a colossal patient. Rejecting brute force, he leads a quest to the Heart's core\u2014the Spire of Convergence\u2014conceptualizing the journey as a surgical procedure. He must navigate the world's failing 'organs' (political, ecological, magical) and confront the Usurper, who sees his own parasitic control as necessary medicine. In a final confrontation, Alistair performs a metaphysical 'surgery' to separate the Usurper from the Heart. He succeeds, but is mortally wounded and petrified by the unleashed energies. With the Gate cleared and the world healing, Alistair makes his final choice: instead of returning home, he uses his last moments to anchor himself in the new world's soil, becoming a stone marker from which the first new life sprouts\u2014completing his arc from healer of bodies to foundational part of a world's rebirth."
+}

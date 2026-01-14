@@ -1,0 +1,8 @@
+{
+  "issues_found": true,
+  "issues": [
+    "Chapter 1 and Chapter 6 both reference a 'landmark study' from different years (2021 in Ch.6, 2022 in Ch.10) and different journals (JAMA Network Open, The Lancet Healthy Longevity) but use nearly identical introductory phrasing: 'If you were asked to name the single greatest threat...' (Ch.6) and 'If you were to map the most significant determinants...' (Ch.10). This creates a repetitive stylistic pattern that may confuse or bore the reader, suggesting a lack of varied narrative framing.",
+    "The final chapter (Ch.10) introduces a new, critical concept\u2014'the fourth, often invisible dimension' of environment and daily patterns\u2014as a primary determinant of longevity. However, this integrated, systemic view is not clearly foreshadowed or built upon in the excerpts from the earlier chapters (Ch.1 focuses on biological mechanisms, Ch.6 on stress/sleep). This makes the 'Integrated Protocol' feel like a new thesis rather than a culmination of previously established ideas, creating a minor discontinuity in the book's argumentative arc."
+  ],
+  "severity": "low"
+}

@@ -1,0 +1,137 @@
+Chapter 2: The Dying World’s Diagnosis
+
+Their procession to Elyria marched through a corpse.
+
+Grim and silent, Captain Kael’s men moved with ceremonial precision. Boots scuffed grey dust that fell straight back to the earth, defeated. A gallery of grotesque still-lifes comprised the forest. Trees stood frozen mid-agony, bark sloughing away to reveal porous, stone-like marrow. Brittle, grey lichen crackled underfoot like shattered glass where moss should have been. No scent of pine or damp earth lingered in the air, only a pervasive, alkaline dryness, like the inside of a tomb long-sealed.
+
+Wrapped in a borrowed cloak that smelled of dust and old sweat, Alistair fixed his eyes on the back of Kael’s helmet. His own clothes—a ruined suit, now—were a ridiculous artifact in this place. A surgeon’s mind tried and failed to diagnose the landscape. Systemic necrosis on a planetary scale. But necrosis implied life, first. This was something else. A petrification, a hollowing out. He flexed his hands, the familiar ache in his knuckles a grounding pain. *I am not here. This is shock. This is a psychotic break following acute trauma.* Yet the dust clawed at his throat. The silent, grim men held a tangible reality.
+
+“The Withering.” Kael’s low voice rasped suddenly, making Alistair start. After hours of silence, the captain gestured with a gauntleted hand at the desolation. “It does not kill quickly. It un-creates. Slowly. It turns the vital to the inert. Flesh to stone, stone to dust. The soul is the last to go, they say. Trapped, aware, until the final grain of the body gives way.”
+
+Alistair’s own voice emerged, dry and thin. “A disease?”
+
+Kael’s helmet tilted slightly. “A conclusion. A sentence. It began generations ago, a blight in the farthest fields. Now it is the weather. It is the season.” His shadowed face turned back, the intensity of his gaze a physical pressure. “You are the reprieve.”
+
+“I’m a surgeon,” Alistair insisted, the protest automatic, hollow. “From a world… without magic. Without prophecies.”
+
+“Your humility becomes you, Mender.” Kael replied, the title holding no irony, only a weary conviction worse than mockery.
+
+Through the haze of perpetual dust, Elyria appeared not as a city of spires or grandeur, but a monument to desperate containment. High walls rose in a patchwork of rough-hewn rock, petrified timber, and fused ceramic, all slathered with a thick, tar-like sealant weeping black tears down its face. Vast gates of dull metal bore fading, complex sigils that hurt the eyes to follow. With a groan, a small sally port swung open, releasing a complex misery of smells: unwashed humanity, slow rot, the sharp tang of chemical preservatives, and beneath it all, that same alkaline dust.
+
+Inside was a study in greyscale. Buildings, once perhaps colorful, were now the hue of ash. Citizens moved through the wide, lifeless thoroughfares with the slow, careful movements of the terminally ill, their clothes drab and patched. Their eyes arrested Alistair—not hopeless, but watchful, fervent. They looked at Kael’s company with disinterest, but a spark ignited when their gaze landed on Alistair’s strange garments. No cheers rose. No mob formed. They simply stopped, and watched, and a low, collective murmur began, a single word breathed like a prayer:
+
+“Mender.”
+
+Cold sweat prickled across Alistair’s back. This was not the angry mob of reporters outside his apartment. This weight was far heavier—the absolute conviction of the doomed.
+
+Awaiting them, the Citadel grew from the city’s heart like a stony fungus. Its narrow halls flickered with lamps burning a sickly green oil. The air grew colder, damper. Finally, they were ushered into a chamber less a throne room and more a cross between an archive and an infirmary.
+
+Scrolls and strange instruments lined shelves. Charts on the walls depicted human anatomy superimposed with swirling, esoteric symbols. In the center, propped on a chair too large for him, sat the Pontifex.
+
+Parchment and twine seemed to compose the man, so frail was his form. His robes, a deep crimson—the only vivid color Alistair had seen—pooled around him like spilled blood. A map of delicate wrinkles covered his face, his eyes milky with cataracts. Yet his head remained upright, held by a terrible, unyielding will. His whisper carried, sharp and precise, in the silent room.
+
+“Captain. You have brought our guest.”
+
+Kael sank to one knee. “As the Word foretold, Your Eminence. He emerged from the Tarnished Gate in the storm.”
+
+Cloudy eyes found Alistair. “Approach, son of the other world.”
+
+Alistair walked forward, his training forcing his posture straight, his slightly trembling hands clasped behind his back. A diagnostic habit. Assess the patient. The patient here was the entire room, the entire world.
+
+“I am Alistair Finch. A physician. A surgeon. I don’t know how I came to be here, but there has been a mistake.”
+
+“A surgeon,” the Pontifex echoed, tasting the word. “A mender of flesh. How apt. The prophecy speaks of the Mender, who would come from beyond the Gate, bearing knowledge unseen in our fading world. Who would heal not just the body, but the spirit. Who would perform the ultimate surgery on the Heart of the World itself, and stay the Withering.”
+
+“Your Eminence,” Alistair said, choosing the title carefully, clinging to clinical logic. “I repair hernias. I remove tumors. I set bones. I have no knowledge of ‘Hearts of Worlds’ or magical plagues. What I see…” A weak gesture towards the window, where the grey light bled through. “This is beyond my science.”
+
+The Pontifex smiled, a thin stretching of lips over grey gums. “Science. You see the Withering as a disease to be studied. That is the first sign. Our healers… they work with poultices and prayers. They slow the petrification in a limb, sometimes, for a season. They treat the symptom. You… you look for the cause. That is what the Mender must do.”e shifted, a rustle of dry cloth, and gestured to an attendant. The man brought forth a small, ornate chest. The Pontifex opened it and removed an object wrapped in velvet. With reverent, trembling hands, he unveiled it.
+
+It was a heart.
+
+Or rather, it had been. Now it was a lump of mixed material—part dull, fleshy muscle, part gleaming, metallic ore, part grey, petrified stone. Veins of crystal and streaks of rust ran through it. It was horrifying, unnatural, yet it held a dreadful symmetry.
+
+“This,” the Pontifex whispered, “was taken from a saint who died three centuries ago, at the very dawn of the Withering. It is the closest we have to a specimen of the World’s Heart. It is the seat of the malady. The organ that must be healed.”
+
+Alistair stared, his surgeon’s mind revolting and yet fascinated. The boundaries between tissue types were not clean, they were invasive, transformative. It was like watching a time-lapse of aggressive, polymorphic cancer, but one that incorporated inorganic matter. “It’s impossible. You can’t operate on a metaphor.”
+
+“It is not a metaphor!” The Pontifex’s whisper cracked like a whip. “It is a physical, sacred organ, buried in the deepest, most withered place of the world. The path to it is guarded by the worst of the decay. Only the Mender, with his unseen skills, can reach it. Only his hands can cut away the corruption and suture the wound in reality itself.” He leaned forward, his milky eyes wide. “Your protests are noted, Alistair Finch. They are the humility of the true savior. But the proof is upon you. You are here. The Gate, silent for a thousand years, opened for you. The storm obeyed the prophecy.”
+
+Alistair’s arguments died in his throat. He saw the unshakeable belief in the old man’s face, in the rigid set of Kael’s shoulders, in the very dust of this dying place. To them, his denial was a ritual. A part of the story. He was trapped in a narrative with a pre-written ending.
+
+“I cannot do what you ask,” he said, his voice flat with finality.
+
+“Then you will do what you can,” the Pontifex said, as if agreeing. He nodded to Kael. “Bring in the child.”
+
+A side door opened. A man and woman, dressed in fine but faded silks, entered. Their faces were etched with a grief so profound it was stillness itself. Between them, holding their hands, was a girl of perhaps six. She was beautiful, with large, dark eyes and curls the color of honey. Or rather, half of her was.
+
+A line of stark division ran from the crown of her head, down between her eyes, over the bridge of her nose, and down her body. The right side was vibrant, alive, the skin flushed with health. The left side was a statue. Her hair was stone filaments. Her eye on that side was a polished, grey orb, unblinking. Her small left arm was a rigid, articulated mannequin’s limb, fingers frozen in a gentle curl. She walked with a slight, stiff drag.
+
+Alistair’s breath caught. The clinical part of him screamed in fascination. Hemibody petrification. No known mechanism. Preservation of gross form with complete loss of biological function. The human part of him recoiled in horror.
+
+“This is Lady Caelia,” the Pontifex intoned. “The Withering took her mother at her birth. It began in her own flesh on her naming day. Our healers have stalled its spread at the midline. For now. It is a fragile stasis. In a month, a year, it will cross. She will become a fully conscious statue, until her mind crumbles to dust.”
+
+The mother stifled a sob. The father’s jaw was clenched so tight a muscle twitched in his cheek.
+
+“This is your first test, Mender,” the Pontifex said, his voice softening into something terrible. “Heal her.”
+
+The room held its breath. Alistair approached the girl, slowly, as one would a wounded bird. He knelt, bringing himself to her eye level. Her living eye looked at him with a curiosity that was not childish, but ancient and weary. Her stone eye was a void.
+
+“Hello, Caelia,” he said softly, his professional calm settling over him like a shield. “May I examine you?”
+
+She nodded, her living side producing a small, graceful movement.
+
+He reached out, then hesitated. He touched her living wrist first, feeling the warm, rapid flutter of her pulse. Then, steeling himself, he touched the petrified hand.
+
+It was cool, not cold. The texture was not like marble, but like dry, polished chalk. It had a faint give, like dense pumice, but no pulse, no warmth. He gently tried to flex a stone finger. It did not move. There was no joint, no tendon. It was a single, continuous piece. He looked at the dividing line on her face. It was not a scar or a seam. It was a perfect frontier, where living pores and peach fuzz met absolute, smooth sterility.
+
+“There’s no inflammation,” he murmured, almost to himself. “No sign of immune response or rejection. It’s as if this half of her body simply agreed to become… something else.” He looked up at the parents. “Has she sensation? In the affected side?”
+
+The mother shook her head, tears streaming down her living cheek. “None. But she says… she says she can feel a pressure. A silence where her arm should be. And she dreams with the stone eye. Bad dreams.”
+
+Alistair stood, his mind racing through textbooks that were galaxies away. Chemotherapy? Radiation? Surgery? You couldn’t cut this out. It wasn’t a tumor; it was the state of the tissue itself.
+
+“I need my tools,” he said, the words automatic.
+
+Kael gestured, and a soldier brought forward Alistair’s own surgical kit, salvaged from his fallen world. The familiar, lacquered case was a shock of normality. He opened it. The steel instruments gleamed under the green lamps: scalpels, forceps, clamps, needle drivers. They were tools for a world of blood and suppuration, not for this quiet, dry conversion.
+
+He selected a fine scalpel. The parents tensed. The Pontifex watched, unblinking.
+
+“Caelia,” Alistair said, his voice the one he used for anxious patients. “I’m going to test the tissue. On the very edge. You’ll feel a pinch on your good side, and pressure on the other. Do you understand?”
+
+She nodded again.
+
+He positioned the blade at the frontier, on the petrified side, a millimeter from the living skin. With the precise, feather-light touch of a microsurgeon, he attempted to make an incision.
+
+The scalpel skidded. It didn’t cut. It didn’t even scratch. It was like trying to slice a diamond with a butter knife. He increased the pressure, carefully. Nothing. The petrified flesh was of a perfect, unyielding hardness.
+
+A cold dread began to pool in Alistair’s stomach. He moved the scalpel to the living side, just across the line. At the slightest touch, a bead of perfect, crimson blood welled up. Caelia flinched. Her mother gasped.
+
+So. The living tissue was normal, vulnerable. The petrified tissue was impervious. The boundary was absolute.
+
+Surgery was impossible. You could not resect this. You could not graft over it. The problem wasn’t removal; it was reversal. He needed to turn stone back into living, breathing, dividing cells. He needed not a scalpel, but a philosopher’s stone.
+
+He looked at the hope in the parents’ faces, at the grim expectation in the Pontifex’s, at the terrifying faith in Kael’s. He saw the girl, half in this world, half in some silent, mineral oblivion.
+
+His own failure in his world flashed before him—the monitor flatlining, the family’s wail, the cold condemnation of the board. He had run from that. He had fallen into a world that did not want his apologies or his legal defenses. It wanted miracles.
+
+He was not a miracle worker. He was a man who understood mechanics. And in a sudden, horrifying flash of clinical insight, he saw the only mechanical solution.
+
+The petrified tissue was inert. It was dead, in all but poetic terms. It was a foreign body attached to a living host. The host was compromised, trapped in a slow, spreading siege. In a normal world, the treatment for a gangrenous limb, for a necrotic mass threatening the whole body, was amputation.
+
+But this was not a limb. It was half of a child. You could not amputate half a head, half a torso. The division was not along surgical lines. It was a perfect, bilateral split.
+
+Unless…
+
+The thought rose, unbidden and abominable, from the deepest, most clinical part of his psyche. It was not a thought of healing, but of salvage. If the petrified tissue could not be made alive, and could not be removed… could the living tissue be separated? Could you, theoretically, sever the living half from the stone half along that pristine frontier? Not to save the whole child, but to save the part of her that remained? It would be the most horrific, complex, and impossible surgery ever conceived—a full hemicorporectomy along a non-anatomical plane, requiring the invention of entirely new techniques for separating shared organs, for rerouting systems where they crossed the midline. It was a nightmare of speculative surgery. It was monstrous.
+
+And as he stared at the dividing line, at the perfect frontier between life and not-life, he realized with a sinking, absolute certainty that he could see how to do it. His mind, trained in disassembly, in cutting out corruption, began mapping the procedure against the ghost-anatomy of the child. The vascular grafts. The neural isolation. The speculative containment of the petrified side’s influence.
+
+He saw it. In vivid, surgical detail.
+
+He dropped the scalpel. It clattered on the flagstones, shockingly loud.
+
+“Well, Mender?” the Pontifex whispered, the title now a blade. “What is your diagnosis? What is the procedure?”
+
+Alistair looked from the frail holy man to the half-stone child, to his own hands—the hands that had failed, the hands that were now being asked to perform a blasphemy dressed as a miracle. The words that came out were not a lie, but a confession of a horror he had not yet committed.
+
+“The procedure,” he said, his voice hollow, stripped of all but grim, clinical truth, “is not in any medical textbook.”

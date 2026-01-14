@@ -1,0 +1,52 @@
+{
+  "title": "The Neuroeconomist's Ledger: Rewire Your Brain for Financial Freedom",
+  "genre": "self_help",
+  "subgenre": "financial self-help / neuroscience popular science",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "Modern urban environments (caf\u00e9s, home offices, city streets)",
+      "The internal landscape of the reader's mind and memories",
+      "Metaphorical spaces (the 'Brain Vault', neural pathways, ledgers)"
+    ],
+    "atmosphere": "A blend of clinical clarity and warm mentorship; moves from anxious and cluttered to orderly and empowered; uses everyday settings to ground abstract neuroscientific concepts."
+  },
+  "characters": [
+    {
+      "name": "The Reader",
+      "role": "Protagonist / Student",
+      "description": "A stand-in for the audience, likely experiencing financial stress, confusion, or a feeling of being out of control with money despite having adequate income. Embodies common neural patterns like avoidance, impulsivity, or anxiety.",
+      "arc": "From a state of financial reactivity and neural hijacking to becoming the architect, auditor, and compassionate engineer of their own financial brain. Learns to observe, audit, and rewire their money blueprint."
+    },
+    {
+      "name": "Sarah (Vignette Character)",
+      "role": "Example of 'The Reactive Brain'",
+      "description": "A 34-year-old graphic designer with a good income but chronic financial anxiety. Characterized by avoidance (unopened envelopes), impulsive comfort spending, and physical tension linked to money. Her savings are minimal relative to her earnings.",
+      "arc": "Serves as a 'before' snapshot. Her journey is implied but not followed; she represents the starting point the reader is meant to recognize and transcend."
+    },
+    {
+      "name": "Leo (Vignette Character)",
+      "role": "Example of 'The Engineered Brain'",
+      "description": "A 34-year-old public-school teacher with presumably a lower income than Sarah. Characterized by calm, intentional systems, and automated financial behaviors. His actions are fluid, deliberate, and free of emotional charge.",
+      "arc": "Serves as an 'after' snapshot or an aspirational model. Demonstrates the calm, systematic output of a brain that has been consciously rewired for financial health."
+    },
+    {
+      "name": "The Author/Narrator",
+      "role": "The Neuroeconomist Guide",
+      "description": "A knowledgeable, compassionate, and systematic mentor. Part neuroscientist, part financial coach, part therapist. Speaks with authority about the brain (amygdala, prefrontal cortex, dopamine loops) and the practicalities of money management with equal fluency.",
+      "arc": "Stays constant as the guiding voice. Their arc is the successful translation of complex science into actionable, hopeful steps for the reader's transformation."
+    }
+  ],
+  "themes": [
+    "Neuroplasticity as Financial Power",
+    "The Ritual Over the Resolution",
+    "Auditing the Self",
+    "Financial Freedom as Neurological Freedom",
+    "The Compound Interest of Neural Rewiring",
+    "From Reactivity to Response",
+    "The Mind as an Abundant World"
+  ],
+  "narrative_voice": "Second-person instructional ('you'), blended with first-person plural ('we') to create camaraderie. Voice is authoritative yet empathetic, clinical yet vivid. Frequently uses metaphor (vaults, ledgers, architecture, grooves, hooks) to make brain science tangible. Shifts between explaining biological mechanisms and offering direct, step-by-step practices.",
+  "tone": "Hopeful, empowering, and structured. Begins with relatable anxiety (as in the caf\u00e9 scene) and steadily progresses toward a tone of calm mastery and expansive possibility. Maintains a sense of scientific rigor without being cold, emphasizing that the reader's struggles are not moral failures but biological patterns that can be changed.",
+  "plot_summary": "The book is a transformative journey, framed as a scientific experiment on the self. It begins by diagnosing the reader's 'Money Blueprint'\u2014the often-invisible neural pathways formed by past experiences that dictate current financial behaviors (avoidance, stress, impulsivity). Using the contrasting vignettes of Sarah and Leo, it establishes the core problem: the brain's limbic system is often in charge of finances. The central plot follows the reader as they learn to become the 'neuroeconomist' of their own mind. Through a series of audits, rituals, and conscious practices\u2014like the 'Quarterly Neural Audit' and 'Dopamine Dividend'\u2014the reader systematically identifies toxic financial thought loops and physically rewires their brain to associate money with calm, system, and empowered choice. The climax is not a monetary figure, but a neurological state: the shift from being a prisoner of ancient circuitry to its architect. The ending shows the reader living in a self-built world of internal abundance, where financial management is a loop of curious, compassionate maintenance, leading to profound and lasting freedom."
+}

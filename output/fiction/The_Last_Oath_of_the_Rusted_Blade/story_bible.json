@@ -1,0 +1,51 @@
+{
+  "title": "The Last Oath of the Rusted Blade",
+  "genre": "Fantasy",
+  "subgenre": "Low Fantasy / Post-Apocalyptic Fantasy",
+  "setting": {
+    "time_period": "A broken age, long after a magical cataclysm known as the 'Withering' or the 'Silencing' blighted the land. Technology and society have regressed to a quasi-medieval state, but one defined by scarcity and decay rather than high adventure.",
+    "locations": [
+      "The Guttering Candle: A wretched tavern in a nameless, dying town, symbolizing stagnation.",
+      "Greywall: A fallen fortress, site of Kael's past trauma and failed oath.",
+      "The Blighted Wastes: A vast, grey, and lifeless landscape the caravan must cross.",
+      "The Verdant Promise: The hidden, fertile valley revealed by the sword's map.",
+      "The Black Teeth Mountains: A dangerous range inhabited by bandit kings and predators, representing the next immediate threat."
+    ],
+    "atmosphere": "Grim, weary, and tactile, dominated by sensations of decay (rust, dust, rot, sour smells) and exhaustion. This slowly gives way to fragile, hard-won pockets of hope, determination, and the stark beauty of resilience."
+  },
+  "characters": [
+    {
+      "name": "Kael",
+      "role": "Protagonist, former knight",
+      "description": "A man in his late thirties, worn down by guilt and failure. He is physically capable but emotionally hollow. He wears patched, poor clothing but carries a fine, tooled scabbard holding his rusted sword, Oathkeeper.",
+      "arc": "From a broken man haunted by a past oath he failed to keep, to a reluctant leader who finds a new, deeper purpose. His journey is not about restoring the blade's magic, but about reforging his own will and committing to a tangible, future-focused oath of renewal."
+    },
+    {
+      "name": "Anya",
+      "role": "De facto leader of the caravan, botanist/seeker",
+      "description": "Sharp, pragmatic, and driven by a quiet, scientific hope. She is not a warrior but possesses a different kind of strength\u2014knowledge of the old world and a relentless determination to find a way for life to persist.",
+      "arc": "From a cynical survivor guarding a secret hope, to a open collaborator and partner in building a new future. She learns to trust not just in her knowledge, but in others' capacity for change."
+    },
+    {
+      "name": "Brask",
+      "role": "Caravan master, veteran scout",
+      "description": "Grizzled, practical, and survivalist. He trusts what he can see, smell, and fight. Initially skeptical of Kael and the quest for a 'mythical' valley, his loyalty is to the safety of the people in his charge.",
+      "arc": "From viewing the world solely as a series of threats to be managed, to becoming a defender of a nascent hope. He shifts from pure pragmatism to invested stewardship."
+    },
+    {
+      "name": "Oathkeeper (The Sword)",
+      "role": "Symbol, artifact, and plot device",
+      "description": "A once-magical blade, now rusted irrevocably into its scabbard. It is a physical manifestation of Kael's shame and broken past. Its true value is revealed not as a weapon, but as a vessel for a map\u2014a literal and metaphorical guide to a future worth fighting for."
+    }
+  ],
+  "themes": [
+    "Redemption Through Action: Atonement is found not in dwelling on past failure, but in committing to meaningful, present work.",
+    "The Nature of Hope: Hope is not a vague feeling, but a deliberate choice, a map etched in steel, and the hard labor of planting a seed in barren ground.",
+    "Legacy vs. Renewal: Letting go of the glory and trauma of the dead past to build something new and fragile.",
+    "Leadership as Service: True leadership emerges from protection and cultivation, not just command or martial skill.",
+    "The Cycle of Life and Decay: Exploring what grows in the ruins, and that even in blight, the potential for life persists."
+  ],
+  "narrative_voice": "Close third-person, primarily from Kael's perspective, deeply sensory and introspective. The prose is gritty and physical, mirroring the setting, but capable of lyrical warmth when depicting moments of hope or revelation.",
+  "tone": "Begins with grim melancholy and weary realism. Gradually acquires a determined, gritty hopefulness. The tone is never naive or overly romantic; the hope is earned, hard-edged, and aware of continuing dangers.",
+  "plot_summary": "Kael, a disgraced knight whose magical sword is rusted fast in its scabbard, lives in self-imposed exile in a dying world. He is recruited by Anya, leader of a desperate caravan seeking a mythical fertile valley. During the perilous journey, Kael is forced to use his sword as a blunt tool, cracking the rust to reveal not a gleaming blade, but a delicate map etched into the metal\u2014a guide to the very valley they seek. This transforms the symbol of his failure into a guide for collective survival. The group reaches the valley (The Verdant Promise) and begins the work of settlement. However, the final hook reveals that their nascent hope has attracted attention: the predatory bandit kings of the Black Teeth mountains have seen their fires, setting the stage for the next conflict. Kael's new oath\u2014to protect and nurture this new beginning\u2014will now be tested not against the desolate land, but against the violent remnants of the old world."
+}

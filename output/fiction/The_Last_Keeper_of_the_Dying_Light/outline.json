@@ -1,0 +1,151 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Fading Parlor",
+      "summary": "Elara performs her delicate work on a client, concealing her own shadowless state, before receiving a mysterious and urgent new commission.",
+      "key_events": [
+        "Elara stitches 'borrowed light'\u2014captured from sunbeams and fireflies\u2014into the fading shadow of a dying client.",
+        "The client experiences a temporary resurgence of vitality, a bittersweet victory.",
+        "Elara navigates her workshop, her own lack of a shadow hidden by careful positioning and dim light.",
+        "A sealed note arrives, requesting her services for a 'unique and dire condition,' with a fee triple her usual rate."
+      ],
+      "ending_hook": "Elara opens the note to find a single, unsettling sketch: a human shadow contorted into a monstrous, many-legged shape."
+    },
+    {
+      "number": 2,
+      "title": "The Man with the Changing Shadow",
+      "summary": "Elara meets her new client, Alistair Finch, and witnesses the terrifying, autonomous movement of his shadow firsthand.",
+      "key_events": [
+        "Elara travels to Alistair's secluded, book-filled estate.",
+        "She meets Alistair, a historian of obscure lore, who is frail but sharp-witted.",
+        "In a sunlit room, his shadow detaches from his feet, crawling up the wall to form a shifting tableau of impending disaster: crumbling spires, screaming faces.",
+        "Alistair reveals the shadow's scenes predict real, future calamities, and its changes are accelerating."
+      ],
+      "ending_hook": "Alistair's shadow suddenly points a taloned, shadowy finger directly at Elara, and for a moment, she feels a cold, familiar absence within her resonate."
+    },
+    {
+      "number": 3,
+      "title": "The Unraveling Thread",
+      "summary": "Elara's attempts to mend Alistair's shadow fail spectacularly, forcing her to confess her own condition and consider a dangerous path.",
+      "key_events": [
+        "Elara's finest light-threads snap or are consumed by the volatile shadow.",
+        "In frustration and fear, Alistair accuses her of being a fraud.",
+        "Cornered, Elara steps into full light, revealing she has no shadow at all.",
+        "She confesses she doesn't know why she's alive without one, only that her 'borrowing' began after a childhood trauma she can't remember.",
+        "Alistair, consulting an ancient text, suggests her answer lies in the 'Lightless Hinterlands,' a mythical place he believes is real."
+      ],
+      "ending_hook": "Alistair's shadow morphs into a perfect map, leading to a region marked on no modern chart\u2014the place where Elara was born."
+    },
+    {
+      "number": 4,
+      "title": "The Bargain and the Departure",
+      "summary": "Elara agrees to journey to the Hinterlands to find the source of shadows, making a pact with Alistair and confronting her own precarious existence.",
+      "key_events": [
+        "Elara agrees to seek the Hinterlands, not just for Alistair, but to understand the cost of her own borrowed years.",
+        "She gathers her tools and a vial of 'primordial light,' her most precious substance.",
+        "Alistair gives her his research and a warning: the Hinterlands are a place where memory and reality blur.",
+        "Elara visits a former client, now near death, and feels a pang of guilt for the light she has always used but never truly understood."
+      ],
+      "ending_hook": "As she leaves the city, the first of Alistair's shadow-predictions comes true: a distant clocktower spontaneously cracks, mirroring the shadow's earlier prophecy."
+    },
+    {
+      "number": 5,
+      "title": "The Gray Wastes",
+      "summary": "Elara travels through the increasingly desolate landscapes bordering the Hinterlands, where light behaves strangely and shadows have a mind of their own.",
+      "key_events": [
+        "The sun grows pale, and colors leach from the world.",
+        "Elara encounters 'drifters'\u2014people with faint, listless shadows who seem to have lost pieces of their past.",
+        "Her vial of primordial light glows with a protective warmth, repelling grasping, half-formed shades.",
+        "She finds a village where people ritualistically paint their shadows on the ground each morning."
+      ],
+      "ending_hook": "A drifter, touching Elara's hand, recoils and whispers, 'You are not a borrower. You are a thief. And the Lightless One will know its own.'"
+    },
+    {
+      "number": 6,
+      "title": "Echoes in the Dark",
+      "summary": "Elara enters the true Lightless Hinterlands, where her memories begin to resurface as tangible, haunting phenomena.",
+      "key_events": [
+        "All natural light ceases; only her carried light sources work.",
+        "Landscapes from her fragmented childhood appear and dissolve: a phantom porch swing, the scent of her mother's perfume.",
+        "She is pursued by 'Echoes'\u2014shadowy, silent figures that mimic her long-lost family.",
+        "She realizes the Hinterlands are not a place, but a state of being\u2014the repository for lost shadows and the memories tied to them."
+      ],
+      "ending_hook": "An Echo solidifies into the clear form of her younger self, holding a candle, and points accusingly at Elara's heart before running into the dark."
+    },
+    {
+      "number": 7,
+      "title": "The Keeper of the Well",
+      "summary": "Elara finds the source of shadows\u2014a ancient, lightless well\u2014and its guardian, a being who explains the true nature of her trade.",
+      "key_events": [
+        "Elara discovers the Well of Shades, a silent pool from which all human shadows are first drawn at birth.",
+        "She meets the Keeper, an androgynous being made of solidified darkness and starlight.",
+        "The Keeper reveals shadows are not just death indicators, but containers for a person's spent time, memories, and regrets.",
+        "Lux Tailors don't borrow light; they steal these shadow-containers from the Well, granting time but leaving the original owners as memory-less drifters."
+      ],
+      "ending_hook": "The Keeper gestures to the Well, and in its depths, Elara sees the vivid, living shadows of her own parents\u2014the source of the 'light' she has been using for years."
+    },
+    {
+      "number": 8,
+      "title": "The Cost Accounted",
+      "summary": "Faced with the horrifying truth of her power's source, Elara must confront the full weight of her actions and her own stolen childhood.",
+      "key_events": [
+        "Elara learns her own shadow was sacrificed as a child by a desperate, previous Keeper (her grandparent) to save her from a illness, severing her from her past.",
+        "Her 'talent' is a familial curse: an innate connection to the Well that lets her manipulate shadows without one of her own.",
+        "She witnesses the ghosts of those whose shadow-time she has used, trapped in a half-life at the Well's edge.",
+        "The Keeper explains Alistair's shadow: it's not dying, but overloaded, absorbing prophetic echoes from the Well's turmoil caused by her thefts."
+      ],
+      "ending_hook": "The Keeper offers a choice: restore her own shadow and reclaim her lost memories (and her impending mortality), or use her skill to permanently mend Alistair's shadow, which would require a sacrifice greater than her own life."
+    },
+    {
+      "number": 9,
+      "title": "The Weaving of Truth",
+      "summary": "Elara chooses a third path: to face the monstrous shadow directly, using her skills not to steal, but to truly mend, beginning with herself.",
+      "key_events": [
+        "Elara refuses the Keeper's binary choice, deciding to confront Alistair's shadow at its source.",
+        "She performs a radical act: using thread spun from her own essence (since she has no shadow), she begins to stitch her own lost memories back together.",
+        "This creates a faint, new silhouette\u2014not a stolen shadow, but a 'silhouette of will.'",
+        "With this new understanding, she devises a plan to weave Alistair's prophetic shadow back into harmony with him, integrating its visions rather than fighting them."
+      ],
+      "ending_hook": "Her new, faint shadow suddenly tugs her towards a specific path in the dark\u2014it knows the way back to Alistair, now connected to the Well's flow."
+    },
+    {
+      "number": 10,
+      "title": "The Return to a Darkening City",
+      "summary": "Elara races back to a city now plagued by the cascading prophecies of Alistair's unbound shadow, which has grown powerful and destructive.",
+      "key_events": [
+        "Elara finds the city in chaos, with minor disasters from the shadow's prophecies unfolding.",
+        "Alistair's estate is the epicenter; his shadow has grown, physically manifesting tendrils of darkness that warp reality in its rooms.",
+        "Alistair is trapped, physically bound to the shadow, which is now writing a final prophecy of total annihilation.",
+        "Elara must navigate the nightmare estate, facing physical manifestations of her own fears and regrets."
+      ],
+      "ending_hook": "She finds Alistair at the core, but the monstrous shadow has fully consumed him\u2014his eyes are pools of darkness, and he speaks with the Well's many voices."
+    },
+    {
+      "number": 11,
+      "title": "The Final Stitch",
+      "summary": "In a climactic confrontation, Elara engages in a metaphysical tailoring, weaving the chaotic shadow-stuff back into Alistair's soul and accepting her own fate.",
+      "key_events": [
+        "Elara uses her self-made threads and the last of the primordial light not to attack, but to 'listen' to the shadow's chaotic visions.",
+        "She identifies the core thread\u2014Alistair's own terror of dying without leaving a legacy\u2014and begins mending from there.",
+        "The process is excruciating, draining her own vitality and causing her new silhouette to flicker.",
+        "She offers the shadow a vessel for its prophecies: not the world, but the endless tapestry of the Well itself.",
+        "As the shadow calms, Alistair returns, and his shadow settles, now normal but deep and rich with accepted memory."
+      ],
+      "ending_hook": "The act completes the cycle Elara broke long ago. Her faint silhouette stabilizes, but she feels the true, mortal weight of time settle upon her. She has six months."
+    },
+    {
+      "number": 12,
+      "title": "The First Light of a New Dawn",
+      "summary": "In the aftermath, Elara embraces her role as the true Last Keeper, not by guarding the Well, but by teaching a new, ethical way to honor light and shadow.",
+      "key_events": [
+        "Alistair, restored, uses his research to help Elara document the truth.",
+        "Elara does not return to the Hinterlands. Instead, she transforms her parlor into a new kind of workshop.",
+        "She becomes a 'Remembrance Tailor,' helping the dying not by stealing time, but by weaving their fading shadows into beautiful, tangible keepsakes for loved ones\u2014a conscious, gentle return to the Well.",
+        "Her own shadow, now present and slowly fading, is a mark of honor, not fear.",
+        "She sits with Alistair, watching a sunrise, feeling the warmth on her skin and the cool, companionable presence of her own finite shadow on the ground behind her."
+      ],
+      "ending_hook": "As a new client arrives, not seeking more time, but seeking meaning, Elara picks up her needle\u2014not of borrowed light, but of honest thread\u2014and begins her final, most important work."
+    }
+  ]
+}

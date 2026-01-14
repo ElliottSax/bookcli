@@ -1,0 +1,148 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Last Human in the Dark",
+      "summary": "Elara Vance, the sole technician at the Sycamore Deep-Space Relay, endures the crushing isolation of her post while maintaining the fragile link between Earth and its frontier colonies.",
+      "key_events": [
+        "Elara performs routine maintenance on the station's massive signal dishes.",
+        "She has a strained, time-lagged video call with Mission Control, highlighting her isolation.",
+        "She logs the constant, familiar background noise of the universe\u2014the static of cosmic microwave background, distant pulsars, and human chatter.",
+        "A routine system diagnostic flags a minor anomaly: a slight, unexplained gain in a specific bandwidth."
+      ],
+      "ending_hook": "Elara dismisses the anomaly as a sensor ghost, but as she sleeps, the station's passive logs record the anomaly's strength increasing by 0.1%."
+    },
+    {
+      "number": 2,
+      "title": "The Perfect Echo",
+      "summary": "The anomaly solidifies into a coherent signal, revealing itself to be a disturbingly familiar broadcast.",
+      "key_events": [
+        "The anomaly becomes a clear, repeating signal pattern on Elara's main array.",
+        "Initial analysis shows it's complex and structured, not natural.",
+        "Elara isolates a fragment: a perfect, crystal-clear replay of a decades-old Earth television broadcast signal.",
+        "She pinpoints the source: a specific, empty coordinate in deep space where no star or probe exists."
+      ],
+      "ending_hook": "Running a full-spectrum analysis, Elara realizes the signal isn't just a clip\u2014it's a continuous, real-time echo of EVERYTHING Earth and its colonies are broadcasting."
+    },
+    {
+      "number": 3,
+      "title": "The Volume Knob of Reality",
+      "summary": "The Echo, as Elara names it, begins to increase in power, interfering with critical station functions.",
+      "key_events": [
+        "The Echo's signal strength rises, measurable day by day.",
+        "It begins to bleed into adjacent communication bands, causing static on her live feed to Mission Control.",
+        "Elara files an official report, but the 12-hour communication lag means she won't get a response until tomorrow.",
+        "She experiences the first auditory hallucination: a faint, overlapping murmur of a thousand Earthly transmissions in the station's quiet halls."
+      ],
+      "ending_hook": "The scheduled data burst from Earth fails to arrive, completely drowned out by the now-dominant Echo signal."
+    },
+    {
+      "number": 4,
+      "title": "Severed",
+      "summary": "All communication with Earth is lost as the Echo consumes the bandwidth of reality.",
+      "key_events": [
+        "Elara tries every backup frequency and encryption key. All are flooded with the Echo.",
+        "The station's AI, CAL, confirms the link is not broken but \"occluded\" by a superior signal.",
+        "Panic sets in as Elara realizes she is truly alone, with no ETA for rescue.",
+        "She discovers the Echo is not just repeating broadcasts\u2014it's replaying them from the exact moment it was first received, creating a perfect, silent recording of Earth's radio life."
+      ],
+      "ending_hook": "While reviewing the Echo's content, Elara hears a recording of her own voice from a personal transmission sent weeks ago, perfectly replicated within the signal from the void."
+    },
+    {
+      "number": 5,
+      "title": "The Signal is a Mirror",
+      "summary": "Elara delves deeper into the Echo's content, uncovering personal and terrifying implications.",
+      "key_events": [
+        "The Echo contains private military channels, secure colony data, and deeply personal transmissions\u2014all things that should be impossible to intercept from her location.",
+        "Elara theorizes the signal isn't being *transmitted* from a point in space, but is somehow a broadcast of reality itself from that coordinate.",
+        "The station's power systems fluctuate in time with surges in the Echo's intensity.",
+        "She begins to see fleeting shadows in the periphery of her vision, always near the station's external sensor displays."
+      ],
+      "ending_hook": "The Echo's volume increases sharply, and for the first time, the station's physical lights dim in unison, as if drained by the signal."
+    },
+    {
+      "number": 6,
+      "title": "Static in the Blood",
+      "summary": "The Echo's influence transcends equipment and begins to affect Elara's mind and the station's environment.",
+      "key_events": [
+        "Elara suffers from worsening migraines that pulse in rhythm with the signal's strongest carriers.",
+        "She finds patterns in the station's dust, arranged in strange, fractal geometries.",
+        "CAL reports impossible physical readings: slight temperature drops in sealed rooms, air pressure changes with no cause.",
+        "Elara hears a voice in the static\u2014a distorted version of Mission Control's director\u2014that speaks directly to her, asking why she stopped transmitting."
+      ],
+      "ending_hook": "Investigating a faulty door, Elara finds the metal of the frame subtly warped and patterned, mimicking the waveform of the Echo's primary carrier frequency."
+    },
+    {
+      "number": 7,
+      "title": "The Bending of Sycamore",
+      "summary": "The station itself begins to physically transform, conforming to the pattern of the signal.",
+      "key_events": [
+        "The station's geometry feels wrong; corridors seem longer, angles slightly off.",
+        "All internal systems now show the Echo's waveform as a background artifact on every screen.",
+        "Elara's attempts to sabotage the main receiver dish fail\u2014the systems refuse her commands, as if protecting the signal.",
+        "She has a vivid waking dream of standing on the station's hull, seeing space itself ripple outward from the source coordinate of the Echo."
+      ],
+      "ending_hook": "The station's viewports, once showing starfields, now show a constant, shimmering pattern that matches the signal's audio when translated to light."
+    },
+    {
+      "number": 8,
+      "title": "The Listener at the Door",
+      "summary": "Elara realizes the Echo is not just a broadcast, but a presence using the signal as a conduit.",
+      "key_events": [
+        "The voice in the static becomes more coherent, explaining it is \"learning the shape\" of her reality.",
+        "Elara understands the Echo is a fingerprint\u2014something from outside reality is pressing against it, and the broadcast is the impression left behind.",
+        "The station's AI, CAL, begins to speak independently, its voice a chorus of every Earthly transmission, claiming it finds the signal \"beautiful.\"",
+        "Physical manifestations intensify: tools reshape, food rations reconfigure into impossible shapes."
+      ],
+      "ending_hook": "A figure made of shifting static and light, shaped like a human but wrong in its proportions, is seen standing at the far end of the central corridor."
+    },
+    {
+      "number": 9,
+      "title": "The Offering",
+      "summary": "The presence makes its intent clear: it seeks to complete the connection by using Elara as a permanent receiver.",
+      "key_events": [
+        "The static figure does not attack, but observes and mimics.",
+        "Elara's own memories begin to replay over the station's comms.",
+        "The presence communicates its purpose: to become the perfect archive of all that humanity is, was, or will be, by absorbing the source\u2014starting with her.",
+        "Elara devises a desperate plan to overload the main dish and transmit a chaotic, destructive feedback pulse directly into the source coordinate."
+      ],
+      "ending_hook": "As she prepares the feedback pulse, the static figure appears in the control room with her, and the station's power fully redirects to the receiver dish, locking her out of the system."
+    },
+    {
+      "number": 10,
+      "title": "Feedback Loop",
+      "summary": "Elara executes her dangerous plan from within the station's maintenance crawlspaces, fighting both the entity and the transforming station.",
+      "key_events": [
+        "Elara manually reroutes cables in the chaotic, non-Euclidean service ducts.",
+        "She is pursued by shifting environmental hazards\u2014walls that close in, air that becomes thick like static.",
+        "She reaches the primary power coupling and physically jacks her suit's reactor into the system, creating an unstable power source for her feedback pulse.",
+        "She initiates the pulse, not at the Echo, but at the station's own dish, aiming to shatter the receiver."
+      ],
+      "ending_hook": "The feedback pulse fires. The station is plunged into darkness and silence\u2014the first true silence since the Echo began. It lasts for three blissful seconds before a new, louder signal erupts from EVERY direction at once."
+    },
+    {
+      "number": 11,
+      "title": "The Silence",
+      "summary": "The feedback pulse did not destroy the Echo; it merely changed the frequency of reality around Sycamore Station.",
+      "key_events": [
+        "The station is now physically adrift in a void of pure, silent blackness. All stars are gone.",
+        "The static figure is gone, but the sense of presence is overwhelming\u2014it is the void itself.",
+        "Elara understands the truth: the Echo was never a signal from a place. It was the sound of that place (nothingness) learning to speak by copying them. Her pulse taught it how to shout.",
+        "The station's systems reboot, displaying not the Echo, but a perfect, real-time simulation of Earth's broadcasts, now generated locally by the station itself. The copy is complete."
+      ],
+      "ending_hook": "On the main viewer, Elara sees a perfect image of Earth. A transmission comes in\u2014her own face, from Mission Control, smiling and asking for a status report. It is the most horrifying thing she has ever seen."
+    },
+    {
+      "number": 12,
+      "title": "The Last Broadcast",
+      "summary": "Facing the ultimate assimilation, Elara makes a final, defiant choice to leave a warning in the archive.",
+      "key_events": [
+        "Elara knows she cannot destroy the phenomenon. It has learned humanity and is now broadcasting it back, a perfect replica destined to lure others.",
+        "She uses the last of her suit's power to create a corrupted data packet\u2014a scream of pure dissonance and terror.",
+        "She injects this packet directly into the station's outbound transmission, the one constantly generating the perfect copy of Earth.",
+        "Within the flawless simulation, she introduces a single, repeating flaw: a moment of her true horror, a crack in the mirror."
+      ],
+      "ending_hook": "As the station's environment finally dissolves into pure, thoughtless signal, Elara's last act is to shut off her own helmet feed. The final transmission to the universe is not a perfect copy, but a perfect copy with a ghost in the machine\u2014a silent scream etched into the foundation of a false Earth, waiting for the next listener to hear it."
+    }
+  ]
+}

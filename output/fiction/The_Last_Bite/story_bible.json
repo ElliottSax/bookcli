@@ -1,0 +1,43 @@
+{
+  "title": "The Weight of the Key",
+  "genre": "Thriller",
+  "subgenre": "Psychological Suspense, Gothic Mystery",
+  "setting": {
+    "time_period": "Contemporary, but within an isolated, timeless-feeling estate",
+    "locations": [
+      "A sprawling, aging estate (primary setting)",
+      "The oppressive main hallway",
+      "The kitchen (scene of the climax)",
+      "The cellar (symbolically significant, locked)"
+    ],
+    "atmosphere": "Claustrophobic, heavy with dread and history; transitions from oppressive fear to exhausted, rain-washed clarity."
+  },
+  "characters": [
+    {
+      "name": "Elara",
+      "role": "Protagonist",
+      "description": "Deeply fearful, initially paralyzed, but possesses a latent resilience. She is intimately connected to the estate, which feels both like a sanctuary and a prison. Her journey is one of moving from frozen terror to decisive, weary action.",
+      "arc": "From a state of paralyzing fear and victimhood to reclaiming agency and confronting the source of her trauma. She learns that survival sometimes means leaving ruins behind and walking into a new, uncertain dawn."
+    },
+    {
+      "name": "Celeste",
+      "role": "Antagonist / Mirror",
+      "description": "A figure from Elara's past, initially shrouded in menace. She is a mentor turned adversary, whose defiance masks her own exhaustion and damage. Her relationship with Elara is complex, fraught with history, conflict, and a twisted form of care.",
+      "arc": "From a position of threatening power and defiance to a state of shattered acknowledgement. Her journey ends not in defeat, but in a mutual, exhausted recognition of a shared, destructive past."
+    },
+    {
+      "name": "Lysander",
+      "role": "Support / Witness",
+      "description": "A tense, present figure in the climax. His role is ambiguous but supportive of Elara, providing a silent anchor during the final confrontation. He represents a link to the external world and its impending judgment.",
+      "arc": "Serves as a stabilizing counterpoint during the climax, witnessing the resolution and signaling the arrival of external order (the police)."
+    }
+  ],
+  "themes": [
+    "Confronting the Past",
+    "The Paralysis of Fear vs. the Agency of Action",
+    "Sanctuary and Entrapment",
+    "The Exhaustion of Conflict and the Possibility of Release",
+    "Truth and Its Consequences"
+  ],
+  "plot_summary": "The story begins with Elara in a state of sheer terror in her own home, frozen as a ominous figure (Celeste) enters. This confrontation is the culmination of a long-simmering, deeply personal conflict. The narrative builds through this tense, psychological standoff, rooted in their shared history within the estate. The climax occurs in the kitchen, a place of supposed sustenance now stained by violence. Here, with the efficient, brutal tool of a boning knife present, the emotional and physical conflict reaches its peak and then dissipates into exhausted quiet. The resolution comes not with further violence, but with a word\u2014'over'\u2014and a symbolic act: placing the key to the cellar (representing locked-away secrets and trauma) between them. As authorities arrive, Elara chooses to walk away from the shadows of her past into the clean, uncertain light of dawn, having ended the battle but acknowledging the long road of rebuilding that lies ahead for both women."
+}

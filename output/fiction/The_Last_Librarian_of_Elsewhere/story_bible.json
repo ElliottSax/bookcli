@@ -1,0 +1,56 @@
+{
+  "title": "The Librarian of Lost Things",
+  "genre": "Fantasy",
+  "subgenre": "Portal Fantasy, Low Fantasy, Found Family",
+  "setting": {
+    "time_period": "Contemporary with Timeless/Otherworldly Elements",
+    "locations": [
+      "A modern hospital and its gardens (Opening)",
+      "The Stacks: A sentient, cross-dimensional library that exists between worlds, containing knowledge, stories, and echoes of all realities.",
+      "The Scriptorium: A workspace within the library for writing and cataloging."
+    ],
+    "atmosphere": "Begins with clinical despair and mortal finality, transitioning to a mystical, serene, and deeply personal sanctuary. The library is alive, quiet but humming with latent magic, smelling of ozone, old paper, and peace."
+  },
+  "characters": [
+    {
+      "name": "Leo",
+      "role": "Protagonist, The Librarian",
+      "description": "Begins as a terminally ill man in a hospital, consumed by despair and the acceptance of death. Becomes the guardian and cornerstone of The Stacks. He is physically marked by his journey (a gentle ache in his bones as a testament), and his magic is intuitive and cooperative, based on shared intention with the library rather than command.",
+      "arc": "From accepting death to embracing a new, profound life. His journey is not about being cured, but about finding a purpose greater than his own survival. He transitions from a state of loss to becoming a weaver of stories and a guardian of a found, cross-dimensional family. His power lies in curation, connection, and affirmation."
+    },
+    {
+      "name": "The Stacks",
+      "role": "Sentient Setting / Character",
+      "description": "A living, infinite library that exists between dimensions. It has a heartbeat, a pulse, and a consciousness. It chooses its guardians and responds to emotion and intention. It is a sanctuary for lost knowledge, stories, and beings.",
+      "arc": "Finds its new guardian and cornerstone in Leo. It moves from a passive repository to an active participant in a new story, growing and changing through the affirmations cataloged by its librarian."
+    },
+    {
+      "name": "Cogsworth",
+      "role": "Companion / Familiar",
+      "description": "A mechanical or mystical creature (implied by the name and his solid weight) who perches on Leo's shoulder. A part of Leo's found family within the library.",
+      "arc": "Represents the tangible, loyal companionship of Leo's new life."
+    },
+    {
+      "name": "Bryn",
+      "role": "Companion / Friend",
+      "description": "A member of the found family. Their voice is a comforting echo in Leo's new home.",
+      "arc": "Part of the supportive community Leo builds/finds."
+    },
+    {
+      "name": "Poggle",
+      "role": "Companion / Scribe",
+      "description": "A friendly spirit or being who works in the new scriptorium, indicated by the sound of their quill.",
+      "arc": "Represents the collaborative, creative work that now fills Leo's world."
+    }
+  ],
+  "themes": [
+    "Found Family",
+    "Sanctuary and Belonging",
+    "Legacy Through Stories (not blood)",
+    "Acceptance and Transformation (not cure)",
+    "The Magic of Connection and Curation",
+    "Finding Purpose in the Face of Mortality",
+    "Home as an Active, Living Choice"
+  ],
+  "plot_summary": "A terminally ill man named Leo, in a moment of utter despair in a hospital garden, is transported to or chosen by 'The Stacks,' a sentient, cross-dimensional library. Instead of dying, he becomes its new Librarian and cornerstone. The story follows his transformation from a dying man to the guardian of a magical sanctuary. He builds a found family with other displaced beings (Cogsworth, Bryn, Poggle) and learns that his magic is one of gentle intention, curation, and affirmation. The climax is not a battle, but a moment of peaceful integration: Leo inscribing the core truths of his new life\u2014'Family, Found. Sanctuary, Shared. Story, Continuing.'\u2014into the very fabric of the library, solidifying his place and purpose. The ending is a quiet, joyful beginning, focused on the ongoing work and wonder of his eternal role."
+}

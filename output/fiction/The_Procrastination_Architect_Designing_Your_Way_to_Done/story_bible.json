@@ -1,0 +1,44 @@
+{
+  "title": "The Procrastination Architect: Designing Your Way to Done",
+  "genre": "self_help",
+  "subgenre": "productivity_personal_development",
+  "setting": {
+    "time_period": "Contemporary / Present Day",
+    "locations": [
+      "The protagonist's home office (primary symbolic setting)",
+      "The reader's own personal spaces (implied)",
+      "The internal landscape of the mind"
+    ],
+    "atmosphere": "Initially cluttered, stagnant, and guilt-ridden, transforming into a space of clarity, intentionality, and creative potential. The atmosphere evolves from oppressive to liberating, mirroring the reader's internal journey."
+  },
+  "characters": [
+    {
+      "name": "The Reader (as Protagonist)",
+      "role": "The central figure undergoing transformation; the 'apprentice architect'.",
+      "description": "An intelligent, creative individual with abundant ideas and good intentions, but perpetually stuck in the gap between planning and execution. Feels like a stranger in their own life, surrounded by the physical and mental artifacts of stalled projects.",
+      "arc": "From being a passive inhabitant of chaotic, unmade decisions to becoming the active architect of their time, environment, and habits. Learns to redesign internal and external spaces, moving from frustration to empowered agency."
+    },
+    {
+      "name": "The Procrastination Architect (Narrative Persona)",
+      "role": "Guide, mentor, and fellow traveler.",
+      "description": "The embodied voice of the book\u2014part coach, part designer, part reformed procrastinator. Speaks with the authority of lived experience and the methodology of a systems thinker. Functions as a compassionate expert who provides tools, not just pep talks.",
+      "arc": "Serves as a constant, stabilizing guide. Their 'arc' is reflected in the deepening complexity and trust of the tools they offer, moving from basic environmental fixes to profound mental model shifts."
+    },
+    {
+      "name": "The Internal Saboteurs (Perfectionism, Distraction, Overwhelm)",
+      "role": "Antagonistic forces / design challenges.",
+      "description": "Personified mental habits and emotional blocks. Perfectionism is the harsh critic that paralyzes. Distraction is the seductive escape artist. Overwhelm is the fog that obscures the blueprint. They are not enemies to be defeated, but flawed design features to be understood and remodeled.",
+      "arc": "Initially appear as overwhelming adversaries. Through the architectural lens, they are deconstructed, analyzed, and their energy is redirected. Perfectionism's prison becomes a gallery for experimentation; Distraction's chaos becomes curated breaks."
+    }
+  ],
+  "themes": [
+    "Agency Through Design: Transforming passive suffering into active problem-solving by applying design principles to behavior.",
+    "The Sacred Space of Consideration: Reframing procrastination not as a moral failing, but as a (misguided) attempt at planning, which can be channeled productively.",
+    "Intentionality as Foundation: Building a life aligned with values through deliberate daily actions, not grand, fleeting gestures.",
+    "Environmental Psychology: The profound impact of physical and mental spaces on motivation and capability.",
+    "The Toolmaker's Mindset: Shifting from seeking motivation to building reliable, personal systems."
+  ],
+  "narrative_voice": "Intimate, reflective, and instructional first-person plural ('you' and 'we'). It often uses the architectural metaphor as a consistent lens. The voice is confessional in the opening (sharing the messy office), becomes methodical and tool-oriented in the middle, and elevates to inspirational and philosophical by the end.",
+  "tone": "Empathetic yet pragmatic; hopeful without being saccharine. Combines the clarity of a technical manual with the warmth of a personal conversation. Shifts from the initial tone of relatable frustration to one of empowered possibility.",
+  "plot_summary": "The book begins by diagnosing the 'Blueprint of Delay'\u2014the physical and mental clutter where good intentions go to die. Using the protagonist's stalled home office as a metaphor, it establishes the core problem: living in a life designed by accident, not intention. The reader is then guided through a series of 'design phases': first auditing their current 'project landscape,' then learning to draft 'Project Canvases' to clarify vision. Subsequent chapters act as renovations: overhauling the environment, wiring systems for motivation ('circuits'), laying 'pipes' for sustainable habits, and finally, the most advanced work\u2014remodeling the internal psychological spaces occupied by perfectionism and fear. The journey culminates not with a perfectly finished product, but with the reader possessing the tools, mindset, and authority of an Architect. The ending returns to the now-symbolic desk, handing the blank blueprint and the tools to the reader, empowering them to design their days and, by extension, their life."
+}

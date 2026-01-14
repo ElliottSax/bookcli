@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Inheritance of Maple & Thread",
+      "summary": "Harper, a stressed city archivist, arrives in the sleepy Vermont town of Amberwood to settle her eccentric Aunt Elara's estate, only to inherit a failing bookshop and a cryptic, hand-bound journal.",
+      "key_events": [
+        "Harper receives the news of her reclusive aunt's 'peaceful' death.",
+        "She arrives at 'The Last Page,' a charming but dilapidated bookshop.",
+        "Meets the gruff but kind lawyer, Mr. Finch, who gives her the keys and a single, peculiar journal.",
+        "Harper finds the shop in disarray but senses its former warmth.",
+        "Inside the journal's front cover, she finds a pressed autumn leaf and an inscription: 'For the final reader.'"
+      ],
+      "ending_hook": "As Harper flips through the journal late that night, she notices the first letters of certain entries seem to spell out a deliberate, ominous word: BEWARE."
+    },
+    {
+      "number": 2,
+      "title": "A Whisper in the Stacks",
+      "summary": "Harper explores the bookshop and meets the locals, including a friendly baker and a suspicious historical society president, while the journal's acrostic puzzle begins to reveal itself.",
+      "key_events": [
+        "Harper meets Leo, the optimistic owner of the bakery next door, who offers help and coffee.",
+        "She is visited by Constance Vance, the imposing head of the Amberwood Historical Society, who expresses undue interest in the journal.",
+        "Harper systematically deciphers the first acrostic clue, pointing to a 'foundation stone.'",
+        "She hears unexplained noises in the bookshop after hours.",
+        "Discovers a hidden, locked drawer in her aunt's restoration desk."
+      ],
+      "ending_hook": "Using a key hidden in the journal's binding, Harper opens the drawer to find a strange, old map of the town's library and a membership pin for the 'Veridian Quill Society.'"
+    },
+    {
+      "number": 3,
+      "title": "The Veridian Quill",
+      "summary": "Harper investigates the secret literary society, learning it was a group of townsfolk, including her aunt, who created elaborate book-themed puzzles and treasure hunts decades ago.",
+      "key_events": [
+        "Research reveals the Veridian Quill was active 30 years ago, dedicated to 'the preservation of mystery and the written word.'",
+        "Leo confirms his grandfather was a member; he becomes Harper's reluctant ally.",
+        "The next journal clue references a 'shelved king' and 'forgotten lore.'",
+        "Harper finds a newspaper clipping about an unsolved local theft of a rare book collection.",
+        "She realizes her aunt's death certificate lists 'natural causes,' but the circumstances feel off."
+      ],
+      "ending_hook": "Returning to the shop after dinner with Leo, Harper finds the journal has been moved from where she left it, and a single, rare page has been carefully torn from its middle."
+    },
+    {
+      "number": 4,
+      "title": "The Shelved King",
+      "summary": "Pursuing the clue, Harper and Leo explore the town library's archives, uncovering a connection between the society's treasure hunt and the long-ago theft.",
+      "key_events": [
+        "The 'shelved king' leads them to a specific biography of a forgotten local philanthropist in the library's basement.",
+        "Inside the book's hollowed-out pages, they find a small, ornate metal leaf\u2014a token from the Quill.",
+        "The friendly librarian, Mrs. Greene, warns them vaguely to 'let sleeping mysteries lie.'",
+        "Harper confronts Constance Vance about her interest; Constance claims she only wants to preserve town history.",
+        "They decipher the next clue, pointing to the 'heart of the covered bridge.'"
+      ],
+      "ending_hook": "That night, a brick is thrown through the bookshop's front window with a note tied to it: 'Stop turning pages that aren't yours.'"
+    },
+    {
+      "number": 5,
+      "title": "Beneath the Bridge",
+      "summary": "Undeterred by the threat, Harper and Leo search the historic covered bridge, finding a hidden compartment that reveals the society's final, unfinished hunt was for a legendary 'Autumn Treasury.'",
+      "key_events": [
+        "They find a rusted metal box lodged in the bridge's timberwork.",
+        "Inside is a faded photograph of the young Veridian Quill members, including a vibrant Elara and a young Constance Vance.",
+        "A note explains the 'Autumn Treasury' was not money, but a collection of priceless, author-annotated first editions hidden as a time capsule.",
+        "The note also hints at a falling out among the members that ended the hunt.",
+        "Harper spots someone watching them from the tree line."
+      ],
+      "ending_hook": "Back at the shop, Harper matches a ring in the photo to one Constance Vance wears today, confirming she was a founding member\u2014and likely knows much more than she's saying."
+    },
+    {
+      "number": 6,
+      "title": "A Binding Secret",
+      "summary": "Harper focuses on her aunt's bookbinding craft, discovering that the physical construction of the journal itself holds the next layer of clues in the form of a rebus made of marbled endpapers and stitch patterns.",
+      "key_events": [
+        "Harper studies her aunt's tools and techniques, finding a pattern in the journal's stitching that corresponds to dates.",
+        "The rebus points to the town's old clock tower.",
+        "She has a tense tea with Constance, who admits the society disbanded after a member, a man named Alistair, disappeared with the final clue.",
+        "Constance suggests Elara became paranoid in her later years.",
+        "Harper receives an anonymous package containing the torn journal page, returned but with a critical word burned away."
+      ],
+      "ending_hook": "Examining the damaged page under UV light, Harper sees a marginal note in her aunt's hand: 'C.V. saw everything. She is the key.'"
+    },
+    {
+      "number": 7,
+      "title": "The Clock Tower's Chime",
+      "summary": "Harper and Leo sneak into the decommissioned clock tower, finding a mechanism that only aligns on the autumn equinox, which is days away.",
+      "key_events": [
+        "They find a compartment behind the clock face that holds another Quill token and a fragment of a poem.",
+        "The poem fragment clearly references the location of the Autumn Treasury.",
+        "Mr. Finch, the lawyer, is unexpectedly in the tower, claiming he was checking the property for the estate; his demeanor is nervous.",
+        "Harper pieces together that the equinox event is the final trigger to reveal the treasure's location.",
+        "She realizes multiple people are following the same trail she is."
+      ],
+      "ending_hook": "While reviewing the clock tower clues, Harper finds a tiny, pressed flower in the journal\u2014a rare, toxic variety that she remembers seeing in Constance Vance's private greenhouse."
+    },
+    {
+      "number": 8,
+      "title": "Aunt Elara's Last Binding",
+      "summary": "Harper discovers her aunt was secretly rebinding the stolen first editions to protect them, and that her death may be connected to this act. She also finds Elara's personal diary.",
+      "key_events": [
+        "In a hidden basement workshop, Harper finds beautifully rebound versions of the stolen books, along with receipts for materials.",
+        "Elara's personal diary reveals she took the books from Alistair to prevent him from selling them off, and that she feared someone in the town discovered her secret.",
+        "The diary describes being followed and her home being searched.",
+        "Harper learns the toxic flower can cause symptoms mimicking a heart attack.",
+        "Leo discovers Mr. Finch has deep, hidden debts."
+      ],
+      "ending_hook": "The final entry in Elara's diary reads: 'If I am gone, it was Constance. She always cared more for the treasure than the mystery. Find the Treasury before she does. Use the equinox.'"
+    },
+    {
+      "number": 9,
+      "title": "Equinox",
+      "summary": "On the autumn equinox, Harper and Leo use the combined clues to locate the Treasury, but they are not alone. Constance and Mr. Finch reveal their true intentions.",
+      "key_events": [
+        "The clues lead them to a forgotten family mausoleum in the town cemetery.",
+        "As the setting sun hits a specific stained-glass window, it illuminates a hidden vault in the floor.",
+        "Constance and Mr. Finch confront them there. Finch confesses he knew about the treasure and tipped off Constance, hoping for a cut to solve his debts.",
+        "Constance admits she believed Elara stole the treasure for herself after Alistair's disappearance.",
+        "They open the vault to find the Autumn Treasury\u2014a small, exquisite chest of the annotated first editions."
+      ],
+      "ending_hook": "As Constance reaches for the chest, Harper spots something else in the vault: the skeletal remains of a man, a Veridian Quill pin on his lapel\u2014Alistair."
+    },
+    {
+      "number": 10,
+      "title": "The Final Chapter of Alistair",
+      "summary": "The discovery of Alistair's body turns the treasure hunt into a crime scene. The town is rocked, and Harper must piece together what happened thirty years ago.",
+      "key_events": [
+        "The police are called. Constance is in shock, claiming she had no idea.",
+        "Evidence suggests Alistair was struck on the head and died in the vault, which then locked accidentally.",
+        "Elara's diary entries imply she suspected foul play but never knew the body was there.",
+        "Harper finds the final, missing piece of the puzzle: Alistair was trying to steal the Treasury alone and fell, or was pushed.",
+        "Constance, overcome with guilt, confesses she and Alistair argued at the mausoleum; she left him there alive, thinking he would cool off."
+      ],
+      "ending_hook": "While the town reels, Harper receives a quiet visit from the unassuming librarian, Mrs. Greene, who says, 'There's one last thing your aunt wanted you to have,' and hands her a small, perfectly bound blank book."
+    },
+    {
+      "number": 11,
+      "title": "A New Prologue",
+      "summary": "In the aftermath, Harper decides the Treasury's rightful place is as a public collection. She also uncovers her aunt's final wish for her and the bookshop.",
+      "key_events": [
+        "Harper, with Leo's help, proposes the first editions form the 'Elara Collection' at the town library.",
+        "Constance, facing negligence charges, gives a full statement and resigns from the historical society.",
+        "Mr. Finch is disbarred for his misconduct.",
+        "Harper discovers the blank book from Mrs. Greene contains invisible ink notes from Elara, a personal letter welcoming her home and passing on the 'true treasure'\u2014the shop and the community.",
+        "Harper realizes she feels more at home in Amberwood than she ever did in the city."
+      ],
+      "ending_hook": "As she unpacks a box in the shop, Harper finds a modern Veridian Quill pin and a note from Leo, Mrs. Greene, and other townsfolk: 'The story continues. Meeting tonight?'"
+    },
+    {
+      "number": 12,
+      "title": "The First Page of Winter",
+      "summary": "Harper embraces her new life, reopens the bookshop with a new purpose, and finds herself the keeper of both old mysteries and new beginnings.",
+      "key_events": [
+        "'The Last Page' reopens as a thriving bookshop and community hub, with a special corner for bookbinding and puzzle-solving.",
+        "The reformed 'Amberwood Quill Society' holds its first meeting in the shop's back room, with Harper as its reluctant but pleased president.",
+        "Harper and Leo share a moment, hinting at a budding romance.",
+        "She starts her own hand-bound journal, beginning with the words, 'Chapter One: The shop bell chimed on a crisp winter morning...'",
+        "The final scene shows her placing her aunt's journal on a special shelf, its mystery solved but its story honored."
+      ],
+      "ending_hook": "As she locks up the shop for the night, a stranger enters, holding a tattered, mysterious book, and says, 'I was told you're the person who can solve impossible puzzles...'"
+    }
+  ]
+}

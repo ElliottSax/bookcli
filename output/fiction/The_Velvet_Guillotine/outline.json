@@ -1,0 +1,148 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Last Call",
+      "summary": "Washed-up safecracker L\u00e9o Moreau is drowning his failures in a Montmartre bar when he receives an unexpected and threatening visit.",
+      "key_events": [
+        "L\u00e9o, haunted by a past job that left a man dead, drinks away his meager savings.",
+        "A slick, intimidating man named Durand delivers a sealed envelope.",
+        "The envelope contains incriminating photos of L\u00e9o's estranged daughter, implicating her in a crime she didn't commit.",
+        "A note demands he meet at midnight to discuss 'one last job' or the photos go to the police."
+      ],
+      "ending_hook": "L\u00e9o stares at the photo of his daughter, realizing his retirement is over."
+    },
+    {
+      "number": 2,
+      "title": "The Devil's Bargain",
+      "summary": "L\u00e9o meets his blackmailer and learns the terrifying scale of the job he must perform.",
+      "key_events": [
+        "The meeting is in a neon-lit, rain-slicked alley with Durand and his boss, the enigmatic 'La Veuve' (The Widow).",
+        "La Veuve, a figure of cold power, explains the target: the 'Scarlet Tears' necklace from the vault of crime lord Hugo Saint-Clair.",
+        "She provides blueprints of Saint-Clair's modernist fortified mansion on the Seine.",
+        "L\u00e9o's expertise with a rare, silent 1970s vault model is the key. Refusal means his daughter's ruin."
+      ],
+      "ending_hook": "La Veuve smiles without warmth: 'The necklace is cursed, Monsieur Moreau. Let us hope the curse favors you.'"
+    },
+    {
+      "number": 3,
+      "title": "Casing the Ivory Tower",
+      "summary": "L\u00e9o begins surveillance on Saint-Clair's impenetrable fortress, discovering unsettling details.",
+      "key_events": [
+        "L\u00e9o observes the mansion's routines, guard shifts, and river-based security.",
+        "He reconnects with a cynical, aging forger named Simone to get necessary papers.",
+        "He learns of the necklace's legend: it brings ruin to any who possess it, but Saint-Clair seems immune.",
+        "L\u00e9o notices a high-ranking police official visiting Saint-Clair, a familiar and corrupt face from his past."
+      ],
+      "ending_hook": "From his hiding spot, L\u00e9o sees Saint-Clair for the first time\u2014a man of calm, terrifying authority\u2014and feels a deep sense of dread."
+    },
+    {
+      "number": 4,
+      "title": "Ghosts and Gear",
+      "summary": "L\u00e9o assembles his tools and his fractured, reluctant crew for the impossible heist.",
+      "key_events": [
+        "L\u00e9o recruits two old associates: Alain, a jumpy driver with debts, and Felix, a bitter ex-electrician.",
+        "Tension is high; the crew knows Saint-Clair's reputation for brutality.",
+        "L\u00e9o procures specialized thermal lances and sound-dampening equipment, depleting La Veuve's advance.",
+        "He visits his daughter in secret, lying about leaving the country, deepening his guilt."
+      ],
+      "ending_hook": "As he tests the thermal lance, its blue flame casts hellish shadows. Felix mutters, 'We're not just cracking a safe. We're opening a coffin.'"
+    },
+    {
+      "number": 5,
+      "title": "Neon and Nerve",
+      "summary": "The night of the heist arrives. The crew infiltrates the mansion during a lavish, decadent party.",
+      "key_events": [
+        "Disguised as waitstaff, they enter the buzzing, drug-fueled party.",
+        "L\u00e9o and Felix break away to the sub-basement, bypassing initial electronic locks.",
+        "They encounter the vault door\u2014a beautiful, brutalist masterpiece.",
+        "As L\u00e9o begins the delicate work, they hear a scream and a gunshot from the party above."
+      ],
+      "ending_hook": "The vault door clicks open, revealing not just glittering jewels, but a plain, ledger-sized metal box sitting prominently in the center of the room."
+    },
+    {
+      "number": 6,
+      "title": "The Scarlet Truth",
+      "summary": "The heist turns into a massacre. L\u00e9o grabs the wrong prize.",
+      "key_events": [
+        "Saint-Clair's head of security, a hulking man named Rocher, storms the vault with armed men.",
+        "A bloody firefight erupts; Felix is killed. Alain, waiting outside, panics.",
+        "In the chaos, L\u00e9o shoves the 'Scarlet Tears' into his bag but instinctively also grabs the heavy metal ledger box.",
+        "He escapes through a sewage outflow into the Seine, Rocher's bullets hitting the water around him."
+      ],
+      "ending_hook": "Alone on a grimy riverbank, L\u00e9o opens the ledger. It's not jewels, but names, dates, and payments\u2014a map of national corruption. He understands: this was the real target."
+    },
+    {
+      "number": 7,
+      "title": "A Widow's Confession",
+      "summary": "L\u00e9o confronts La Veuve, who reveals her true motive: revenge against the system that killed her magistrate husband.",
+      "key_events": [
+        "L\u00e9o, now a hunted man, forces a meeting with La Veuve.",
+        "She admits she never wanted the necklace. The ledger, compiled by her husband, names everyone from police prefects to ministers on Saint-Clair's payroll.",
+        "She intended to leak it anonymously, using L\u00e9o as a deniable thief.",
+        "Now, with Saint-Clair and the corrupt state both alerted, L\u00e9o is the primary target holding the evidence."
+      ],
+      "ending_hook": "As they argue, Durand bursts in: 'Saint-Clair has put a price on your head. And the DST (French intelligence) just raided your flat. They're not asking questions.'"
+    },
+    {
+      "number": 8,
+      "title": "Rats in the Labyrinth",
+      "summary": "L\u00e9o goes underground, pursued by both mob enforcers and sinister government agents.",
+      "key_events": [
+        "L\u00e9o uses old safecracker hideouts in the Catacombs and abandoned Metro stations.",
+        "He's chased by Rocher's brutal foot soldiers through a neon-lit wholesale market.",
+        "A separate, sleek team of government agents uses surveillance and threats, pressuring his few remaining contacts.",
+        "L\u00e9o realizes the only way out is to use the ledger, but publishing it makes him a target for the entire French establishment."
+      ],
+      "ending_hook": "Cornered in a phone booth, he makes a desperate call to the only journalist he ever trusted, only to hear a strange click on the line\u2014the call is already traced."
+    },
+    {
+      "number": 9,
+      "title": "The Daughter in the Crosshairs",
+      "summary": "Saint-Clair kidnaps L\u00e9o's daughter to force an exchange: the ledger for her life.",
+      "key_events": [
+        "L\u00e9o learns his daughter, Claire, has been taken from her university dorm.",
+        "He receives a call: bring the ledger to the top of the half-constructed Tour Montparnasse at dawn.",
+        "La Veuve offers help, but L\u00e9o distrusts her. He must act alone.",
+        "He devises a desperate, risky plan involving the forger Simone and a fake ledger."
+      ],
+      "ending_hook": "Ascending the skeletal skyscraper in the pre-dawn gloom, ledger in hand, L\u00e9o sees Claire held by Rocher, and Saint-Clair waiting calmly beside a government agent he recognizes from the ledger."
+    },
+    {
+      "number": 10,
+      "title": "Betrayal at 210 Meters",
+      "summary": "The exchange on the skyscraper turns into a three-way showdown.",
+      "key_events": [
+        "L\u00e9o presents the fake ledger. The government agent, Inspector Roux, immediately identifies it as a forgery.",
+        "Roux reveals he wants the real ledger destroyed to protect the state, not to prosecute Saint-Clair.",
+        "A tense standoff erupts between Roux's men, Saint-Clair's thugs, and L\u00e9o.",
+        "La Veuve's sniper (Durand) intervenes from a nearby roof, causing chaos. Rocher is killed."
+      ],
+      "ending_hook": "In the confusion, L\u00e9o and Claire escape down the construction elevator, but Saint-Clair escapes with the fake ledger, and Roux swears to hunt L\u00e9o to the ends of the earth for the real one."
+    },
+    {
+      "number": 11,
+      "title": "Setting the Guillotine",
+      "summary": "With no options left, L\u00e9o decides to weaponize the ledger publicly, ensuring his death will not bury the truth.",
+      "key_events": [
+        "L\u00e9o and Claire hide in Simone's attic workshop. He explains the ledger's contents to his horrified daughter.",
+        "He contacts the journalist again, arranging a dead-man's switch: copies will be mailed to multiple press outlets if he doesn't call by a certain time.",
+        "He sends Claire into hiding with Simone, cutting all ties to protect her.",
+        "L\u00e9o chooses the ultimate stage for his last act: the iconic, decaying Palais Garnier opera house."
+      ],
+      "ending_hook": "Alone in the shadowy opera house, ledger on his lap, L\u00e9o calls Roux and Saint-Clair, telling them where to find him and the evidence: 'Come and get it. The curtain goes up at midnight.'"
+    },
+    {
+      "number": 12,
+      "title": "Finale in Velvet and Blood",
+      "summary": "The final confrontation in the opera house, where truth is the only weapon left.",
+      "key_events": [
+        "Roux arrives with a team of 'cleaners.' Saint-Clair arrives with his last loyal enforcers. La Veuve watches from a dark balcony.",
+        "A three-way shootout echoes through the gilded halls. L\u00e9o uses his knowledge of the building's secret passages to stay ahead.",
+        "He rigs the opera house's PA system, broadcasting a reading of the ledger's key names to a police frequency Roux cannot block.",
+        "L\u00e9o confronts Saint-Clair on the stage, under the grand chandelier. Roux corners them both."
+      ],
+      "ending_hook": "As police sirens converge (alerted by the broadcast), L\u00e9o tosses the real ledger into the orchestra pit. Roux shoots Saint-Clair. In the chaos, L\u00e9o slips into the shadows, a ghost in his own city. The ledger is recovered by honest cops, the scandal explodes, and L\u00e9o Moreau vanishes, his fate unknown, the velvet guillotine having finally fallen on the corrupt."
+    }
+  ]
+}

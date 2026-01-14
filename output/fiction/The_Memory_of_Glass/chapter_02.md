@@ -1,0 +1,145 @@
+Chapter 2: The Impossible Scene
+
+Dead air filled the conference room—not still, but dead, as if all the oxygen had been replaced with a heavier, inert gas that made thinking a labor and breathing a conscious effort. Tracing the cool, pitted grain of the oak table from a leather chair too large for her, Evelyn noted the room’s ghosts: old cigars, lemon polish, and the faint, acrid tang of Thorne’s anxiety. He was a man built of solid angles and quiet certainty; his unease was a new scent, like ozone before a storm.
+
+Across from her, Detective Thorne cleared his throat, a dry stone scraping against another. Papers rustled.
+
+“Ms. Vance,” he began, his voice carefully neutral, a scalpel held with perfect, impersonal precision. “We’ve received the full forensic report from the Halstead Gallery scene.”
+
+Evelyn nodded, her face a mask of calm. Her world was built on the integrity of sound, of touch, of the precise echo of a space. The last forty-eight hours had assaulted that integrity. The wet, tearing gasp, the shattering glass, the final, soft collapse—it all played on a loop behind her eyes, a film with only a soundtrack. Pristine. Incontrovertible. To her.
+
+“I’ll lay it out plainly,” Thorne said. “There are… inconsistencies.”
+
+“Inconsistencies.” The word sat like a foreign object in her mouth.
+
+“The murder weapon was a shard of glass from the shattered Lamentation case. Approximately nine inches long, a vicious triangle. It was found fifteen feet from Mr. Sterling’s body.”
+
+Her brow furrowed. “Thrown?”
+
+“No blood trail.” Thorne’s words dropped like lead weights. “Not a drop. If it was thrown or carried after the act, it would have left traces. The floor is sealed maple. It would show even a mist. The shard was clean of any path. It simply… appeared there.”
+
+A cold thread unwound in her stomach. Her auditory map reconstructed itself: the point of impact (the case shattering), the attacker’s position (three steps forward, the rustle of wool), the victim’s stumble back (two steps, the scuff of a leather sole), the collapse (the heavy, final thud). The shard, the instrument of that wet sound, should have been near the body. Within the circle of that terrible intimacy.
+
+“The wounds on Mr. Sterling,” Thorne continued. Leaning forward, elbows on the table, his voice lowered as if sharing a secret he wished he didn’t know. “The fatal thrust was under the sternum, angled upward, into the heart. A classic, close-quarters kill. The angle suggests the assailant was slightly shorter than Sterling, or was holding the weapon low.”
+
+Sterling had been six feet tall. Evelyn was five-foot-four. The fact hung in the dead air, unspoken.
+
+“And the fingerprints?” Her own voice sounded distant.
+
+A longer pause. The faint squeak of Thorne’s chair betrayed a shift in his weight.
+
+“The only prints on the shard—clear, unambiguous, and in blood—are Alistair Sterling’s own. His right hand. A perfect grip, as if he’d seized it.”
+
+The cold thread in her gut turned to ice. “That’s impossible.”
+
+“The security log for the Halstead Gallery’s main door,” Thorne pressed on, relentless now, “shows it was sealed via keycard at 8:07 PM by you. It was not opened again until security responded to your panic alarm at 10:23 PM. The service entrance was bolted from the inside. The climate control vents are six inches by six inches. No one entered. No one left.”
+
+Contracting around the suffocating facts, the room pressed its walls inward. Evelyn’s map, so vivid, so real, was being erased by the physical evidence. A blind woman’s fantasy. A traumatic hallucination.
+
+“What are you suggesting, Detective?” A whisper.
+
+Thorne exhaled, a long, weary sound. “I’m not suggesting anything, Ms. Vance. I’m presenting facts. Your statement describes a violent struggle, a second person, a murder. The physical evidence describes… something else. A man alone in a room who, for reasons unknown, impales himself with a piece of glass, then somehow manages to throw that glass fifteen feet across the room with no blood transfer before he dies. Or, alternatively, a scenario where the only other person present heard things that… did not occur as described.”
+
+Hallucination. The word hung in the air.
+
+“I know what I heard,” Evelyn said, but the steel in her voice had rusted, bending under the weight of his facts.
+
+“I believe you believe that,” Thorne said, and the pity in his tone was worse than accusation.
+
+Pressure began building before Thorne had even left the building—a vibration in the air around her, a shift in the texture of the silence in the museum’s administrative wing. Hesitant taps of Italian loafers on the stone floor paused in the doorway of her restoration lab, the scent of sandalwood and indecision preceding her employer, Charles Winthrop, Director of the Aldrich Museum.
+
+“Evelyn,” he said, his voice too hearty, a forced warmth. “Dreadful business. Simply dreadful.”
+
+She kept her hands anchored on her worktable, on the familiar topography of her brushes, her solvents, the cool cheek of a porcelain palette. “Charles.”
+
+His presence displaced the air as he moved into the room. “The board… there’s concern. The publicity. The contradictions in the police report. It’s a sensitive time. The new wing funding…”
+
+“A man is dead.” Flat.
+
+“Of course! Of course.” He cleared his throat. “And no one doubts you experienced something profoundly traumatic. To be locked in, in the dark, with… with that. It would shatter anyone’s nerves. The mind plays tricks, Evelyn. It creates narratives to protect itself.”
+
+Turning her head toward the sound of his voice, she answered. “My mind doesn’t play tricks. It’s my primary tool. It’s what I have.”
+
+“And it’s a remarkable tool,” he soothed, oozing condescension. “But even the finest instrument can be damaged under strain. The board feels… and I must say I agree… that it might be best for everyone if you considered amending your statement. To reflect the… ambiguity of the situation. A traumatic episode, a fall, a tragic accident for poor Sterling—these things happen. A protracted investigation, a murder trial… it would be a circus. It would bury the museum. And you.”
+
+The threat was velvet-wrapped, but she felt its hard edges. Her position here, her life’s work, her sanctuary—all contingent on her being reliable, precise, a quiet miracle. Not a hysteric, a fabulist, a blind woman who heard phantoms.
+
+“You want me to recant.”
+
+“I want you to heal,” he insisted. “Without the pressure of being the sole witness to an impossible crime. The police have no suspect, no motive, no physical evidence of an intruder. You’re putting yourself through hell for a phantom, Evelyn. Let it go.”
+
+After he left, the silence in the lab was different. It was no longer a companionable space for concentration; it was a vacuum, accusing and empty. Her hands trembled as she reached for her headphones. She plugged them into the digital recorder the police had returned—a copy of her original statement, her voice describing the events in real time, as she had relived them for Thorne.
+
+She pressed play.
+
+“I’m at the north wall, verifying the texture of the Delacroix underpainting with a tactile scan… I hear a click from the main door. Not the release of the lock, but the handle. Someone’s testing it. It’s 9:14 PM…”
+
+Her own voice was calm, methodical. She listened, dissecting every second. The quality of the silence before the intrusion. The footsteps—not Sterling’s familiar, slightly dragging gait (a old tennis injury, he’d once told her), but a lighter, more deliberate step. The rustle of clothing. Wool on wool. A man’s jacket.
+
+Then the voices. Sterling’s, first: startled, then wary. “What are you doing here? How did you—?” The other voice, a low murmur, unintelligible on the recording, but in her memory, she strained to hear it, to shape the sound into a word. A struggle. The crash of the case. The wet, terrible sound. The thud.
+
+She played it again. And again. Ten times. Twenty. Each time, the sequence was flawless, causally linked, real. There was no gap, no jump, no dreamlike illogic. It was a recording of a murder.
+
+Yet the glass shard was fifteen feet away. Sterling’s own fingerprints were on it. The door never opened.
+
+The contradiction was a fissure in her reality. She felt herself teetering on its edge. Which was more likely? That the laws of physics had bent in the Halstead Gallery? Or that Evelyn Vance, whose entire existence was built on the fidelity of her perception, had broken?
+Doubt is a subtle poison. It doesn’t flood the system; it infiltrates. It found its way into everything. Pouring tea, she questioned the sound of the liquid hitting the cup—was it full, or half-empty? The echo in her apartment hallway seemed off, suggesting a door left ajar that wasn’t. The tactile memory of the glass shard in her mind—its imagined weight, its sharpness—felt more real to her than the police report’s dry facts, but which was truth?
+
+She needed an anchor. A motive. If it was murder, why?
+
+A call to a contact at the Times, a former classmate now in the culture section, yielded it. The information was given in a hushed, excited tone, gossip wrapped as professional concern.
+
+“Sterling was the ultimate authenticator, Evie. The last word. Rumor is he was about to go public with his biggest call ever. The Sanctuary of the Lost. You know it?”
+
+Evelyn’s blood went still. Every art historian knew it. A mythical Renaissance masterpiece, purportedly by a young, pre-fame Titian, lost for centuries in a private collection. Its provenance was a minefield of forgery rumors and family lawsuits. Its emergence would upend auction houses, museums, academic careers. Worth hundreds of millions. Reputations—and fortunes—hung on its authentication or denunciation.
+
+“He was going to authenticate it?” Evelyn asked.
+
+“That’s the word. A press conference was being scheduled. He’d finished his final analysis. His word would have made it real. Made a lot of people very rich. And made a lot of others—those who’d bet against it—look like fools, or worse.”
+
+So. It wasn’t a random act. It was about a secret, about to be unveiled. A truth, about to be spoken. Someone had killed to silence it, or to control the narrative. The motive was vast, dark, and elegant. It fit.
+
+But the how mocked her. The sealed room. The ghostly weapon. The self-inflicted fingerprints. It was a locked-room mystery written by a malicious god, designed to make the only witness doubt her own mind.
+Night in her apartment was absolute. Evelyn sat in her armchair, a island in the dark sea of her living room. The headphones were clamped over her ears, a second skin. The digital recorder’s display glowed with a soft green light she couldn’t see, but she could feel its faint heat on her thumb.
+
+She was on the hundredth playback. Maybe the two-hundredth. It was no longer an investigation; it was an incantation. A prayer to the god of memory. Prove you are real. Prove I am sane.
+
+Her focus had narrowed from the sequence to the textures of the sound itself. The grain of the silence. The resonant frequency of the room as bodies moved through it. The sub-audible breath behind Sterling’s words.
+
+“What are you doing here? How did you—?”
+
+Pause. Rewind. Play.
+
+“—how did you—?”
+
+There. A faint, almost subliminal vibration underpinning the word “you.” She’d always assumed it was the stress of the syllable, the catch in his throat.
+
+She isolated the fragment, amplified it. Listened.
+
+It wasn’t vocal. It was mechanical. A faint, high-pitched hum. A steady, pure frequency, just at the upper edge of hearing. Like the whine of old fluorescent lights, or a capacitor about to fail. But the Halstead Gallery had LED lighting, silent and cool.
+
+She played the next few seconds, through the scuffle, the crash. The hum was there. A constant, thin wire of sound threading through the violence. It stopped abruptly at the moment of the final thud.
+
+Her heart began a slow, hard pound against her ribs. She had never heard that hum before. Not in a hundred listenings. It was new. An artifact uncovered by the obsessive archaeology of her replay.
+
+Was it a flaw in the recording? A trick of her straining mind, now adding details to shore up the crumbing edifice of her memory?
+
+She rewound to the very beginning of the intrusion, to the sound of the door handle clicking. She amplified, filtering out the low frequencies.
+
+There it was. Even fainter. The hum began a full two seconds before the handle moved. It was present before the attacker even touched the door.
+
+It was not a sound made by a person. It was a sound in the room. A sound that had been there, a part of the scene, and she had missed it. Until now.
+
+The impossibility of the physical scene—the thrown shard, the fingerprints, the sealed door—collided with this new, tiny, impossible fact. A sound that hadn’t existed in her memory, now did. Reality was not just crumbling; it was mutating.
+
+Evelyn slowly removed the headphones. The silence of her apartment was profound, but it was different now. It felt expectant. Charged.
+
+The hum was a key. But to what? A machine? A device? Something that could explain the impossible physics of the Halstead Gallery?
+
+She knew, with a cold, crystalline certainty, that she could tell no one. Not Thorne, who was already balancing on the edge of dismissing her. Not Winthrop and the board, who would see it as further proof of her unraveling. This was hers alone. A faint, high-pitched thread in the dark.
+
+And if her memory could spontaneously generate a new, precise, technical sound, what else might it be capable of? What if the hum wasn’t a clue, but a symptom? The first crack in the lens of her own mind?
+
+She sat in the absolute dark, the ghost of that frequency still ringing in her inner ear, a siren song from a place where physics lied and memories grew new, terrifying cells. The hook was set. She was no longer just a witness.
+
+She was the one locked in the room with the impossible. And the door, for her, would never truly open again.

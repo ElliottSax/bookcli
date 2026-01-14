@@ -1,0 +1,48 @@
+{
+  "title": "The Recalculation Clause",
+  "genre": "romance",
+  "subgenre": "Contemporary Workplace Romance",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "Manhattan, New York City (primary)",
+      "The 42nd-floor corporate offices of Vance & Locke (a prestigious mergers & acquisitions firm)",
+      "Elara's sleek, cold apartment",
+      "The firm's more functional, 'lower-floor' workspaces",
+      "A nondescript rooftop bar",
+      "The vibrant, human-centric offices of the new venture"
+    ],
+    "atmosphere": "A stark contrast between the cold, pressurized, sterile world of high-stakes corporate finance and the warm, collaborative, authentic spaces where genuine connection and creativity flourish. The atmosphere evolves from one of isolated precision to one of shared purpose."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Protagonist, former finance prodigy",
+      "description": "Late 20s/early 30s. Brilliant, fiercely disciplined, and emotionally guarded. Once the youngest partner track star at Vance & Locke, she presents a flawless, icy exterior. Her wardrobe is armor, her speech is calibrated. Beneath lies a deep fear of failure and a longing for connection she has long suppressed.",
+      "arc": "Falls from grace due to a catastrophic professional oversight. Forced to rebuild from nothing, she sheds her rigid, solitary persona. Learns the value of collaboration, vulnerability, and trust, ultimately finding greater success and personal fulfillment by embracing imperfection and love."
+    },
+    {
+      "name": "Leo Gallagher",
+      "role": "Love interest, rival, eventual partner",
+      "description": "Early 30s. Charismatic, intuitive, and strategic in a fundamentally human way. A talented but unconventional financial analyst who operates on empathy and pattern recognition as much as spreadsheets. He is grounded, observant, and values people over pure profit.",
+      "arc": "Begins as a perceived adversary from a different department, witnessing Elara's fall. Becomes her reluctant, then willing, ally in her comeback. His arc involves learning to trust his own methods in the face of elite corporate dogma and risking his heart on a woman famous for her walls."
+    },
+    {
+      "name": "Matthias Grieg",
+      "role": "Antagonist / Catalyst",
+      "description": "50s-60s. The formidable, old-money CEO of Grieg Holdings. Ruthless, patient, and sees business as a chess game. He is the one who discovers Elara's error and orchestrates her downfall, later becoming the ultimate test for her rebuilt venture and partnership.",
+      "arc": "Serves as the personification of the cold, punitive corporate world Elara once idolized. His final offer is not a redemption arc for him, but the ultimate crucible for Elara and Leo's new philosophy, forcing them to prove their model can withstand the old guard's greatest pressure."
+    }
+  ],
+  "themes": [
+    "Redemption & Second Chances",
+    "The Cost of Perfectionism vs. the Strength of Authenticity",
+    "Collaboration vs. Solitary Ambition",
+    "Re-defining Success (Professional and Personal)",
+    "Trust as the Ultimate Risk and Reward",
+    "Building Something Real vs. Curating an Image"
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective. The voice is sophisticated and sharp, mirroring the financial world's precision, but becomes gradually warmer and more introspective as Elara's emotional walls come down. It balances analytical observation with growing emotional insight.",
+  "tone": "Begins with a tense, high-stakes, and chilly corporate thriller vibe. Evolves into a gritty, hopeful, and intellectually satisfying romantic drama. The tone blends the sharpness of boardroom strategy with the warmth of developing intimacy, culminating in a feeling of empowered partnership.",
+  "plot_summary": "Finance prodigy Elara Vance's perfect life shatters when a hidden due diligence error, exposed by rival analyst Leo Gallagher, causes a billion-dollar deal to collapse. Professionally ruined and emotionally isolated, Elara is forced to start over from the ground up. Leo, intrigued by her raw talent and recognizing a shared outsider status, proposes an unlikely alliance. Forced to work together, their initial friction sparks a deep intellectual and emotional connection. They build a new, ethical venture founded on transparency and collaboration\u2014a stark contrast to their old cutthroat world. Their success culminates in a face-off with Matthias Grieg, the magnate who originally destroyed Elara. He presents a colossal, high-risk deal that could validate their new model or destroy it. With their hard-won trust and partnership\u2014now both professional and romantic\u2014as their foundation, Elara and Leo choose to face the challenge together, redefining success on their own terms."
+}

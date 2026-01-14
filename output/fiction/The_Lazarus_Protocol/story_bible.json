@@ -1,0 +1,53 @@
+{
+  "title": "The Lazarus Protocol",
+  "genre": "thriller",
+  "subgenre": "techno-thriller / biopunk thriller",
+  "setting": {
+    "time_period": "Near-future / 2040s",
+    "locations": [
+      "The decaying, rain-slicked urban sprawl of a major city (Southside)",
+      "The clandestine 'clinic' in a converted storage room of the Southside Community Center",
+      "Advanced, sterile corporate labs of Prometheus Biotechnologies",
+      "Government and public health emergency response centers",
+      "Secure detention facilities"
+    ],
+    "atmosphere": "A world of stark contrasts: desperate, shadowy poverty vs. sleek, amoral corporate power; the intimate, humid tension of a makeshift clinic vs. the cold, digital sprawl of a global pandemic. The mood is oppressive, paranoid, and morally complex, soaked in rain and the glow of medical monitors."
+  },
+  "characters": [
+    {
+      "name": "Dr. Elara Vance",
+      "role": "Protagonist / Anti-hero",
+      "description": "A brilliant, guilt-ridden geneticist in her late 30s. Haunted and driven, operating on the fringes of society. Her hands are steady in the lab but her soul is fractured.",
+      "arc": "From a fugitive scientist seeking redemption through illegal, one-patient treatments, to the reluctant architect of a global crisis, and finally to the public-facing engineer of a mitigation\u2014forced to accept that saving the world doesn't absolve her of her role in endangering it."
+    },
+    {
+      "name": "Silas Thorne",
+      "role": "Antagonist",
+      "description": "The charismatic, ruthless CEO of Prometheus Biotechnologies. A visionary who sees human morality as an obstacle to progress. Charming, calculating, and utterly convinced of his own ideological purity.",
+      "arc": "From a powerful, untouchable mogul to a captured fugitive, his grand vision of controlled catastrophe exposed and crumbling. Represents the corruption of scientific ambition by profit and power."
+    },
+    {
+      "name": "Maria & Mateo",
+      "role": "Moral Catalyst / Human Cost",
+      "description": "Maria is a grandmother of worn leather and quiet faith. Mateo is her 10-year-old grandson, dying of Duchenne's muscular dystrophy. They represent the raw, personal need that drives Elara's work.",
+      "arc": "Their story is the emotional core that launches the plot. They represent the innocent collateral in a war of ideologies, a reminder of the individual lives behind the data points."
+    },
+    {
+      "name": "Dr. Aris",
+      "role": "Ally / Institutional Conscience",
+      "description": "Weary head of the city's public health department. Pragmatic, burdened by bureaucracy, but fundamentally ethical. He becomes the bridge between Elara's rogue science and official response.",
+      "arc": "From skeptical bureaucrat to crucial believer and mobilizer. Learns to trust instinct and unconventional truth over protocol in the face of an unprecedented threat."
+    }
+  ],
+  "themes": [
+    "The Double-Edged Sword of Scientific Progress",
+    "Redemption vs. Responsibility",
+    "Corporate Malpractice and Bio-Capitalism",
+    "The Inequality of Access to Healthcare",
+    "The Weaponization of Biology",
+    "The Individual vs. Systemic Failure"
+  ],
+  "narrative_voice": "Close third-person, primarily focused through Elara Vance's perspective. The prose is clinical yet visceral, mirroring her mindset: detailed, analytical, but constantly undercut by raw sensory input and emotional weight. Shifts to other perspectives (Thorne, Aris) to broaden the scope of the crisis.",
+  "tone": "Urgent, paranoid, morally gray, and emotionally charged. Blends the technical precision of a medical drama with the high-stakes tension of a conspiracy thriller. Moments of intimate human struggle are juxtaposed with cold, global-scale catastrophe.",
+  "plot_summary": "Dr. Elara Vance, a disgraced geneticist, performs illegal gene therapies on dying patients from a makeshift clinic. Her attempt to save a boy, Mateo, using a revolutionary vector becomes the catalyst for disaster when her former employer, Prometheus Biotechnologies, weaponizes her research into 'Project Nemesis'\u2014a engineered pandemic. CEO Silas Thorne plans to sell the cure at an astronomical profit. Framed and hunted, Elara must evade corporate assassins and public outrage to decode her own science and engineer a countermeasure. The story climaxes not with a traditional cure, but with a desperate, publicly broadcast genetic mitigation\u2014a 'stalemate' that drastically reduces lethality. Thorne is captured, but Elara is left to grapple with the global suffering she inadvertently enabled, achieving a fraught, ambiguous redemption as the world watches."
+}

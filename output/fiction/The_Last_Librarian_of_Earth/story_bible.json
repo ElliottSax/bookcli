@@ -1,0 +1,57 @@
+{
+  "title": "The Last Librarian of Earth",
+  "genre": "fantasy",
+  "subgenre": "mythic fantasy, contemplative fantasy",
+  "setting": {
+    "time_period": "A far-future, post-cataclysmic Earth, transitioning from a dying age to a new, mythic one.",
+    "locations": [
+      "The Athenaeum: A vast, ancient, and mostly empty library, the last repository of physical books on Earth. Its halls are silent, dust-choked, and filled with the weight of forgotten knowledge.",
+      "The Rare Manuscripts Room: Elara's sanctuary within the Athenaeum, holding the oldest and most fragile texts.",
+      "The Grove of Mnemosyne: A living, mythic landscape centered around the great Myth-Tree\u2014an organic, neural network of stories that has replaced physical books. It is vibrant, whispering, and alive with narrative energy.",
+      "The University of Mnemosyne: An institution dedicated to studying and experiencing the Myth-Tree, representing the new world's relationship with story."
+    ],
+    "atmosphere": "Begins with profound melancholy, silence, and the weight of endings in the decaying Athenaeum. Transforms into a tone of wonder, gentle mystery, and living memory in the Grove\u2014a shift from dust to moss, from silence to whisper, from preservation to experience."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Protagonist, the last Librarian.",
+      "description": "A woman in her late sixties, pale, thin, with hands stained by ink and dust. She is meticulous, quiet, and deeply connected to the physicality of books. Her world is the Athenaeum.",
+      "arc": "From a dying custodian of dead knowledge, grappling with mortality and legacy, to the catalyst for a transformation. She likely becomes the bridge between the old world of static books and the new world of living stories, possibly becoming one of the foundational 'Untranslatable' motifs herself."
+    },
+    {
+      "name": "Silas",
+      "role": "Night custodian, supporting character.",
+      "description": "A gentle, observant man who shares the silent space of the Athenaeum. He represents the last human connection in Elara's old life.",
+      "arc": "From a concerned colleague to a potential witness and ally in Elara's final, transformative act. He may be the one who remembers her as the Librarian, passing the tale into the new age."
+    },
+    {
+      "name": "Head Archivist Kaelen",
+      "role": "Guide and scholar of the new age.",
+      "description": "Tall, with a face lined with gentle wisdom and eyes the colour of twilight. He wears grey robes and a pendant containing a fossilized leaf from the Myth-Tree. He is patient, pedagogical, and carries a faint sadness.",
+      "arc": "Serves as the expositional voice for the new world's understanding of story. His arc is one of stewardship and reverence, guiding others to understand the Myth-Tree not as a text to be decoded, but as a truth to be felt. He is the inheritor of Elara's legacy."
+    },
+    {
+      "name": "Lira",
+      "role": "Student, representing the new generation.",
+      "description": "A young woman with bright, curious eyes, eager for academic breakthroughs.",
+      "arc": "Learns to shift her perspective from analysis to experience, embodying the new world's approach to narrative through Kaelen's teaching."
+    },
+    {
+      "name": "The Myth-Tree / The Untranslatables",
+      "role": "Antagonist / Setting / Catalyst (ambiguous).",
+      "description": "A living ecosystem of narratives. It is not a plant but a coalescence of story-energy. Its 'Untranslatables'\u2014recurring motifs like the Silver Quill, the Locket, the Soldier\u2014are its foundational rhythms, archetypes that are felt rather than read.",
+      "arc": "It is the result of the story's central transformation. It grows from the death of the old world of books, becoming the new vessel for human memory and myth. It is the culmination of Elara's legacy."
+    }
+  ],
+  "themes": [
+    "Legacy vs. Immortality: What remains when we are gone? Physical objects or living, evolving memory?",
+    "The Nature of Story: The shift from story as a fixed, recorded object to story as a living, experiential truth.",
+    "Memory & Preservation: The tension between archiving (which fixes) and remembering (which can transform).",
+    "Transformation Through Sacrifice: How an ending can be a necessary catalyst for a new, more vibrant beginning.",
+    "The Ineffable: The core truths of human experience that resist translation but demand to be felt."
+  ],
+  "narrative_voice": "Third-person limited, deeply introspective and sensory. Begins closely aligned with Elara's perspective (tasting dust, feeling cold stones of diagnosis), then shifts to a more observational, mythic tone in the ending, aligning with Kaelen's pedagogical and wonder-filled perspective.",
+  "tone": "Begins with elegiac melancholy and intimate despair, transitions through a moment of profound, likely magical, transformation, and concludes with serene wonder, scholarly reverence, and a sense of peaceful, cyclical renewal.",
+  "plot_summary": "Elara Vance, the last librarian on a dying Earth, receives a terminal diagnosis. In her despair among the silent books of the Athenaeum, an event (likely triggered by her profound connection to the stories and her impending death) catalyzes a metamorphosis. The static, physical knowledge of the old world transforms into a living, organic myth-system\u2014the Myth-Tree. Generations later, in the new world that has grown around this tree, Archivist Kaelen teaches students that stories are not texts to be decoded, but truths to be experienced. Elara's final act and personal motifs have become the foundational, 'untranslatable' rhythms of this new reality, ensuring her legacy is not preserved in dust, but alive in perpetual whisper."
+}

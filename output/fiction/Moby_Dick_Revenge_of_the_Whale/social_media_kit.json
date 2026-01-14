@@ -1,0 +1,119 @@
+{
+  "title": "Moby Dick: Revenge of the Whale",
+  "twitter_posts": [
+    {
+      "platform": "twitter",
+      "post_type": "announcement",
+      "content": "NEW RELEASE! Moby Dick: Revenge of the Whale is here! A action_horror_mashup you won't put down.",
+      "hashtags": [
+        "#romantasy",
+        "#bookstagram",
+        "#faeromance"
+      ],
+      "character_count": 0
+    },
+    {
+      "platform": "twitter",
+      "post_type": "hook",
+      "content": "\"Some stories change you forever.\" - Moby Dick: Revenge of the Whale",
+      "hashtags": [
+        "#romantasy",
+        "#bookstagram",
+        "#faeromance"
+      ],
+      "character_count": 0
+    },
+    {
+      "platform": "twitter",
+      "post_type": "engagement",
+      "content": "Readers, what's your favorite action_horror_mashup trope?",
+      "hashtags": [
+        "#romantasy",
+        "#bookstagram",
+        "#faeromance"
+      ],
+      "character_count": 0
+    }
+  ],
+  "instagram_posts": [
+    {
+      "platform": "instagram",
+      "post_type": "launch",
+      "content": "It's here.\n\nMoby Dick: Revenge of the Whale is officially OUT NOW.\n\nThe white whale isn't just a whale\u2014it's a kaiju. Captain Ahab assembles a crew of monster hunters with harpoon cannons and steam-powered armor to take down the beast...\n\nLink in bio!",
+      "hashtags": [
+        "#romantasy",
+        "#fantasyromance",
+        "#booktok",
+        "#bookstagram",
+        "#faeromance",
+        "#enemiestololovers",
+        "#spicybooks",
+        "#bookish",
+        "#currentlyreading",
+        "#bookworm",
+        "#booklover",
+        "#readersofinstagram"
+      ],
+      "character_count": 0
+    }
+  ],
+  "tiktok_scripts": [
+    {
+      "type": "pov",
+      "hook": "POV: You just finished Moby Dick: Revenge of the Whale",
+      "script": "And you're emotionally destroyed in the best way possible...",
+      "trending_sound_suggestion": "dramatic emotional sound",
+      "duration_seconds": 15
+    }
+  ],
+  "facebook_posts": [
+    {
+      "platform": "facebook",
+      "post_type": "launch",
+      "content": "I'm so excited to share this with you!\n\nMoby Dick: Revenge of the Whale is now available!\n\nThe white whale isn't just a whale\u2014it's a kaiju. Captain Ahab assembles a crew of monster hunters with harpoon cannons and steam-powered armor to take down the beast\n\nI hope this story finds the readers who need it.",
+      "hashtags": [
+        "#romantasy",
+        "#fantasyromance",
+        "#booktok",
+        "#bookstagram",
+        "#faeromance"
+      ],
+      "character_count": 0
+    }
+  ],
+  "hashtag_sets": {
+    "twitter": [
+      "#booktok",
+      "#bookstagram",
+      "#faeromance"
+    ],
+    "instagram": [
+      "#romantasy",
+      "#fantasyromance",
+      "#booktok",
+      "#bookstagram",
+      "#faeromance",
+      "#enemiestololovers",
+      "#spicybooks",
+      "#bookish",
+      "#currentlyreading",
+      "#bookworm",
+      "#booklover",
+      "#readersofinstagram"
+    ],
+    "tiktok": [
+      "#romantasy",
+      "#fantasyromance",
+      "#faeromance",
+      "#enemiestololovers",
+      "#fyp"
+    ],
+    "facebook": [
+      "#romantasy",
+      "#fantasyromance",
+      "#booktok",
+      "#bookstagram",
+      "#faeromance"
+    ]
+  }
+}

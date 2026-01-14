@@ -1,0 +1,44 @@
+{
+  "title": "The Last Letter from the Lighthouse",
+  "genre": "romance",
+  "subgenre": "literary romance, contemporary romance with elements of gothic atmosphere",
+  "setting": {
+    "time_period": "Contemporary (present day), with flashbacks to the 1980s via letters and memories.",
+    "locations": [
+      "Edinburgh, Scotland: Elara's initial flat, a place of self-imposed isolation and meticulous work.",
+      "Haven's End: A remote, windswept peninsula village on the Scottish coast. A place of community, harsh beauty, and lingering history.",
+      "Haven's End Lighthouse: The central, decommissioned lighthouse. A stone tower holding secrets, grief, and ultimately, renewal. Its lantern room becomes a studio and a sanctuary."
+    ],
+    "atmosphere": "Atmospheric, melancholic yet hopeful. Combines the precise, quiet solitude of cartography with the wild, emotional turbulence of the coastal landscape. Shifts from cold isolation to gradual warmth, from haunting grief to luminous love."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Protagonist",
+      "description": "A reclusive cartographer in her mid-30s, renowned for her exquisite, hand-drawn maps. She is precise, guarded, and carries a deep, unspoken trauma related to the sea. Her world is one of controlled lines and safe distances.",
+      "arc": "From a woman frozen by grief and fear, hiding in the minutiae of her work, to someone who bravely charts the emotional and physical terrain of her own heart. She learns to integrate loss into her life without being defined by it, and opens herself to love and community."
+    },
+    {
+      "name": "Leo MacKenzie",
+      "role": "Love Interest / Antagonist (initially)",
+      "description": "The keeper of the lighthouse's history and the village's unofficial guardian. Gruff, reserved, and deeply connected to Haven's End. He is initially hostile to Elara's presence, seeing her as an invasive outsider threatening his sanctuary and his unresolved past.",
+      "arc": "From a man trapped in the role of a solitary sentinel, protecting a ghost and his own pain, to someone who allows the walls around his heart to be dismantled. He moves from resistance to vulnerability, learning to share his history and his future."
+    },
+    {
+      "name": "The Ghost of Alistair MacKenzie",
+      "role": "Catalyst / Spectral Presence",
+      "description": "Leo's older brother, the former lighthouse keeper who disappeared at sea in 1985. He exists through the unsent letters he wrote to a woman named Clara, which Elara discovers. His voice, full of yearning, hope, and dread, provides the bridge between past and present.",
+      "arc": "His story is one of tragic resolution. Through his letters, he moves from a spectral mystery to a fully realized person whose lost love and fate provide the key to healing for Leo and Elara."
+    }
+  ],
+  "themes": [
+    "The Cartography of the Heart: Mapping emotional landscapes as meticulously as physical ones; the idea that love and healing require brave exploration.",
+    "Grief and Inheritance: How we carry the losses of those before us, and how we choose to honor or be imprisoned by them.",
+    "Isolation vs. Community: The false safety of solitude versus the challenging, nourishing embrace of connection (with a person, a place, a community).",
+    "Light in the Darkness: The lighthouse as a literal and metaphorical beacon\u2014for lost ships, for lost souls, and for love.",
+    "The Power of Words Left Unsaid: The weight of unsent letters, unspoken feelings, and the liberation that comes from giving them voice."
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective, with a lyrical, precise quality that mirrors her cartographic mind. Occasionally shifts to the poignant, first-person voice of Alistair's letters.",
+  "tone": "Atmospheric, emotionally resonant, and slowly unfolding. Begins with a chill, melancholic stillness that gradually warms into a tone of hope, tenderness, and hard-won light. Romantic without being saccharine, grounded in sensory detail and emotional truth.",
+  "plot_summary": "Reclusive cartographer Elara Vance accepts a lucrative, anonymous commission to map the remote village of Haven's End and its decommissioned lighthouse\u2014a place she has avoided due to a traumatic loss connected to the sea. Arriving in the stormy village, she meets Leo MacKenzie, the brooding guardian of the lighthouse, who resents her intrusion. As Elara begins her meticulous survey, she discovers a cache of unsent letters written in 1985 by Leo's brother, Alistair, the last keeper, to a woman named Clara. The letters reveal a passionate, doomed love story. Elara's mapping project becomes intertwined with piecing together this historical romance, forcing her to confront her own frozen grief. The growing, tense attraction between Elara and Leo is complicated by the ghosts of the past. The climax reveals the connections between Alistair's loss, Elara's trauma, and the identity of the anonymous client. Ultimately, by charting the lighthouse's physical and emotional landscape, Elara and Leo help each other heal, transforming the lighthouse from a monument to loss into a beacon for their own future. The story ends with them together in the lantern room, Elara's final map\u2014which includes a personal legend of love\u2014complete, symbolizing their new, shared world."
+}

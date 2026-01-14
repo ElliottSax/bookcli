@@ -1,0 +1,91 @@
+**Chapter 9: A Body in the Bellfrey**
+
+The rain had settled into a permanent state of being, a fine, cold mist that seeped through the cracks in the station-house windows and beaded on the wool of Elias Crowe’s overcoat where it hung, a damp sentinel, on the back of his chair. The air inside was thick with the smell of wet plaster, stale coffee, and the sharp, metallic tang of fear, undercut by the faint, sweet decay of the old building’s timbers. Samuel Reed sat across from him, a man reduced to his essential components: trembling hands, sunken eyes, and a voice that scratched its way out of his throat like a creature digging free from a shallow grave. The single, bare bulb overhead cast pits of shadow beneath his brow and cheekbones, painting him as a skull already half-revealed.
+
+“I loved her,” Samuel said, not for the first time. The statement had become a mantra, a shaky justification for everything that followed. “Clara. She’s… light. You understand? In this town, she’s the only thing that doesn’t feel like it’s sinking into the mud.” His gaze was fixed on a water stain spreading across the ceiling tile like a sepia continent, a map of decay. *My world*, he thought, *is just a smaller version of that stain. And I’m bleeding into it.*
+
+Elias Crowe said nothing. He let the silence pool, let it fill the small, box-like interrogation room until Samuel had to speak again to keep from drowning in it. The detective’s own mind was a quiet workshop, fitting the rough-hewn planks of Samuel’s story against the known architecture of the crime. The boy’s anguish was real, but truth was a layered thing; the most honest confession could still be built on a foundation of lies.
+
+“Silas Thorne was a sickness. A leech,” Samuel continued, his fingers tracing a whorl in the table’s wood grain as if following a path to a different outcome. “He had his hooks in her family, in that damned debt. He’d look at her… not with desire, but with ownership. Like she was a prize he’d already paid for.” Samuel’s fists clenched, the knuckles blooming white. “I went to the The Stillwater Clock Tower (central landmark) that night to make him stop. To tell him if he touched her, I’d…”
+
+“You’d what, Samuel?” Elias Crowe’s voice was a neutral instrument, a scalpel waiting.
+
+“I don’t know!” The cry was raw, echoing off the hard surfaces. “Frighten him. Hurt him. But I didn’t take a weapon. I just had my hands.” He held them up, as if seeing them for the first time—broad, calloused, capable of shaping wood or crushing a windpipe. “I went up after the bonfire started. Everyone was distracted, faces orange in the firelight, drinking that sweet, spiked cider that tastes like burned apples. It was easy to slip away. The dark between the fire and the trees just… swallowed me.”
+
+“The The Stillwater Clock Tower (central landmark) door was locked.”
+
+“The *main* door,” Samuel corrected, a flicker of pride in his local knowledge surfacing through the dread. “The service door. Around the back, at the base, where they used to bring coal for the old furnace. The lock’s been broken for years. Anyone from the historical society knows it. You just lift and shove. The wood’s swelled. It groans like a tired man.”
+
+Elias Crowe nodded. This matched what he’d found—the scrape marks on the jamb, the absence of forced entry on the formal entrance. “Go on.”
+
+Samuel’s gaze turned inward, fixed on the memory. “The stairs… they’re worse at night. The stone sucks all the warmth away. Your breath hangs in front of you, a little ghost leading you up. All you can hear is the wind groaning in the shaft and the drip-drip-drip of condensation from the clockworks above, like the place is weeping. I was almost at the top, at the door to the bellfrey room, when I realized I could see a light. A faint, yellow glow under the door, painting a thin, accusing line on the stone.”
+
+He paused, swallowing hard, the sound loud in the quiet room. “I thought it was him. Silas Thorne, waiting. I pushed the door open. It was heavier than I remembered. And he was there, alright. Standing by the great gears, his back to me, looking out one of the louvers. But he wasn’t alone.”
+
+Elias Crowe leaned forward, the legs of his chair scraping like a bone on stone. “Who?”
+
+“I don’t know! It was shadows. Someone was over in the far corner, where the mechanism for the west face is. A shape, darker than the rest, just… still. Silas Thorne heard me. He turned. He wasn’t surprised. He just smiled that thin, rotten smile of his and said, ‘The puppy’s followed the scent.’ Then he looked past me, to the corner. ‘Deal with this,’ he said.”
+
+“To the other person?”
+
+“Yes. And then… then the shape moved. Just a shift, a pooling of darkness into a new form. I panicked. I didn’t wait. I just lunged at Silas Thorne. We crashed into the gears. It was loud, so loud—metal ringing, him grunting, our feet scuffling on the grit-covered floor. I got my hands around his throat. I felt his pulse hammering against my palms. I squeezed. I saw his eyes bulge, his face go purple in the lamplight.” Samuel was crying now, silent tears cutting through the grime on his cheeks. “But I let go. I swear on Clara’s life, I let go. He slumped down, out cold against a gear tooth, breathing ragged, wet sounds. I stood there, my heart trying to beat its way out of my ribs. And I remembered the other one.”
+
+“What did you do?”
+
+“I ran. I just turned and fled. I didn’t look back at the corner. I took the stairs two, three at a time, my boots slipping on the worn centers. I hit the bottom, burst out into the alley. The cold air hit me like a slap. I could still hear the bonfire, the laughter. It sounded like it was coming from another world.” He wiped his face with a rough hand. “That’s when I heard it. From high above. A deep, grinding *clunk*, like a giant swallowing. Then the first, resonant *bong* of the hour. The clock. It had been silent for decades, and it started striking just then. I… I thought it was a coincidence. The mechanism engaging. But it felt like a sentence. Each strike was a nail.”
+
+Elias Crowe studied him. The man’s terror was too visceral, too undigested to be a performance. He believed he was telling the truth. Or a version of it. But the shadow in the corner changed everything.
+
+“This other person in the room. Man? Woman?”
+
+“I couldn’t tell. It was just a shape. But they were there. And they weren’t supposed to be.” Samuel’s voice dropped to a whisper. “Silas Thorne wasn’t talking to me. He was talking to *them*.”
+
+“Who wasn’t supposed to be at the bonfire, Samuel? Who did people cover for?”
+
+Samuel’s eyes darted to the door, as if the walls of Stillwater themselves were listening, the very plaster embedded with old secrets. “I can’t. They’ll… it’s not just me. It’s Clara. Her family.”
+
+“It’s going to be only you if you don’t give me something,” Elias Crowe said, the words flat and heavy. “You’re the one with your hands on the victim’s throat. The one who fled. The only one in custody.”
+
+A long, defeated exhale. Samuel seemed to shrink further into his chair. “Ask Eleanor Vance. She knows. She always knows. She was at the bonfire, but she left early. Said she had a headache. But I saw her walking toward the library… her shoes were clean. Everyone else had mud from the field caked halfway to their knees.”
+
+Eleanor Vance. The town archivist, the keeper of its secrets. The one who had granted him access to the The Stillwater Clock Tower (central landmark) with such reluctant grace, her eyes holding the weight of all the town’s unspoken histories.
+
+Elias Crowe left Samuel in the holding cell, a cage of his own guilt, and returned to the The Stillwater Clock Tower (central landmark) as night deepened into a velvet blackness punctured only by the haloed glow of the few streetlights that worked. He bypassed the bellfrey room, a sealed crime scene, and descended into the gearroom beneath it. This was the The Stillwater Clock Tower (central landmark)’s gut—a cavernous space of brick and timber, dominated by the massive, suspended weight assemblies like stone intestines and the labyrinthine drive train that powered the four faces above. The air was cold enough to ache in his lungs and smelled of ancient grease, rust, and the ghost of ozone from long-dead electrical repairs.
+
+He played his flashlight beam over the machinery. It was a masterpiece of 19th-century engineering, a symphony of iron and brass now silent and skeletal. His light caught on something that didn’t belong. High up, near the ceiling where the central drive shaft ascended through the floor to the room above, a series of old, sturdy iron hooks were driven into the main timber support. They were original, part of the pulley system used for hoisting heavy components during repairs.
+
+Dangling from one of them, almost invisible against the dark wood, was a length of modern, blue-and-green nylon climbing webbing. Elias Crowe dragged a heavy workbench over, the iron legs shrieking in protest against the stone floor. Standing on it, he could reach the webbing. It wasn’t just a loop. It was a makeshift harness, knotted with a secure, professional-looking bowline. And beside it, on another hook, was a second line, this one with a heavy-duty black carabiner clipped to the end.
+
+His mind assembled the pieces with a cold clarity. The harness went around a person. The carabiner clipped to a central ring. The other end of the rope, thrown over a higher hook, could be used to hoist. Someone could be lifted, quietly, from this gearroom, up through the access hatch in the bellfrey floor… a hatch Elias Crowe now noticed was not properly bolted shut from this side, just resting in its frame. They could enter the The Stillwater Clock Tower (central landmark) room without using the stairs, without needing the key. They could already be there, waiting in the dark corner, when Silas Thorne arrived. Or when Samuel arrived.
+
+He climbed down, his pulse a steady drumbeat in his ears. The killer didn’t need the stairs. They needed knowledge. Intimate, mechanical knowledge of the The Stillwater Clock Tower (central landmark)’s guts. And patience.
+
+He went next to the library, the scene feeling a lifetime away. Mrs. Vance’s domain was dark, smelling of dust, old paper, and the beeswax she used on the reading desks. He went straight to the oak-paneled wall where the intercom was housed. Using his pocket knife, he carefully pried off the decorative grille. Behind it, the wires were not the simple, cloth-wrapped copper of a vintage system. They were newer, shielded, a sleek gray serpent in the dust. He traced them with his fingers. They didn’t just go to a speaker in the The Stillwater Clock Tower (central landmark). One pair snaked back, into the wall, heading… where? He followed the line of the wall to Eleanor Vance’s private office. Inside, behind her meticulously organized desk, was a small, antique cupboard of cherrywood. It was locked. A quick, forceful jerk with a pry bar splintered the wood around the brass clasp.
+
+Inside was not a book or a bottle of sherry. It was a small, solid-state audio recorder, and a simple amplifier. A professional monitoring system. You could listen from here. You could hear every word spoken in the The Stillwater Clock Tower (central landmark) room. A cold knot tightened in Elias Crowe’s stomach. This wasn’t about communication. It was about surveillance. Someone had been listening. They heard Silas Thorne’s meetings, his blackmail, his schemes. They heard Samuel’s confrontation. They heard it all.
+
+And they knew how to work the clock.
+
+The pieces clicked into place with an almost audible finality. The killer was someone with a deep, historical connection to the The Stillwater Clock Tower (central landmark) and the town. Someone who knew about the 1947 fire, who understood the tragedy it covered up. Someone who could manipulate gears and weights, who could engage the silent mechanism to seal a room and create an alibi based on time itself. Someone Eleanor Vance would protect, or perhaps, was complicit with.
+
+The rain had hardened into a needling downpour by the time Elias Crowe marched into Mayor Briggs’s office in the The Stillwater Clock Tower (central landmark). The room was all dark wood and civic portraits staring with bland severity, the air rich with the smell of lemon polish and expensive, unsmoked cigars. Briggs was behind his wide desk, looking like a man trying to hold a dam together with his bare hands, his jowls sagging with the strain.
+
+“Mayor,” Elias Crowe said, dispensing with pleasantries. He laid it out, cold and hard. Samuel’s confession. The harness in the gearroom. The listening device in the library. “This wasn’t a crime of passion. It was an execution, planned with surgical precision. The killer used the town’s own history, its own monument, as the weapon. They knew about the fire. The real story. And Silas Thorne knew they knew. That’s why he was up there. It wasn’t a meeting; it was a reckoning. Samuel just walked into the middle of it.”
+
+Briggs’s face had gone the color of old putty. “This is… fantastical, Detective. Climbing harnesses? Listening devices? This is Stillwater, not some spy novel. People here have arguments over property lines and church socials, they don’t… they don’t *ascend through clock towers*.”
+
+“It’s Stillwater,” Elias Crowe corrected, his voice low and relentless. “Where the past isn’t past. It’s just waiting in a dark corner. Where you all cover for each other. Who did you cover for on Solstice Night, Mayor? Who slipped away from that bonfire that you’re all so desperate to protect? Was it Eleanor Vance? Or was she protecting someone else?”
+
+Briggs opened his mouth, a denial ready, but his eyes betrayed a bottomless, weary fear. It was the look of a man who had traded truth for peace years ago and was now being presented with the overdue bill. Before he could speak, the phone on his desk erupted in a shrill, jarring ring. He stared at it as if it were a venomous snake. On the third ring, he snatched it up.
+
+“Briggs.” His voice was taut. He listened. The color drained completely from his face, leaving him waxen, a statue of dread. His eyes found Elias Crowe’s, wide with a horror that was fresh and immediate. “Where?” A pause, his knuckles white on the receiver. “Yes. Keep everyone back. Don’t touch anything. We’re coming.”
+
+He lowered the receiver, his hand trembling. The plastic cradle rattled as he replaced it.
+
+“That was Deputy Miller,” he said, the words barely audible over the drumming rain. “They’ve found Eleanor Vance.”
+
+A cold wire of dread pulled tight in Elias Crowe’s chest. “Found her?”
+
+“At the base of the The Stillwater Clock Tower (central landmark) stairs.” Briggs’s voice cracked. “He said… he said it looks like she fell.”
+
+*Or was pushed*, Elias Crowe thought, the image of the shadow in the corner solidifying in his mind. The hook was set, deep and tearing. The The Stillwater Clock Tower (central landmark), it seemed, was not finished claiming its due. The past was not just speaking; it was cleaning house. Elias Crowe turned and ran into the weeping night, the echoes of a dead clock seeming to chime in the pounding of his own heart, each beat a question: *Who’s next?*

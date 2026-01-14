@@ -1,0 +1,50 @@
+{
+  "title": "The Last Loom of Llanfair",
+  "genre": "horror",
+  "subgenre": "folk horror, cosmic horror",
+  "setting": {
+    "time_period": "Present day, with deep historical flashbacks to the 18th century and earlier.",
+    "locations": [
+      "London Museum Conservation Lab (opening): Sterile, institutional, a place of ordered history.",
+      "The Village of Llanfair: An isolated, anachronistic village in a damp Welsh valley. Feels perpetually stuck in a grey, misty past.",
+      "The Weavers' Cottage: A low, stone building at the edge of the village, housing the titular Loom. Inside is dense with the smell of wool, damp earth, and something older.",
+      "The Valley & The Standing Stones: The ancient, brooding landscape surrounding Llanfair, holding a silent, malevolent presence."
+    ],
+    "atmosphere": "A pervasive, creeping dread rooted in tradition, isolation, and the violation of natural order. Shifts from clinical despair in London to oppressive, folkloric terror in Llanfair. The atmosphere is one of inescapable inheritance and a reality that is literally unraveling."
+  },
+  "characters": [
+    {
+      "name": "Elara Hughes",
+      "role": "Protagonist / Unwitting Catalyst",
+      "description": "A gifted but disgraced textile conservator in her late 40s. Precise, passionate about preservation, but now haunted by professional failure. Has a deep, almost somatic connection to fabric and weave structures.",
+      "arc": "From seeking redemption through a technical challenge, to becoming the vessel for and disruptor of an ancient horror. Her expertise becomes a curse as she physically and spiritually intertwines with the entity, transforming from a restorer into a broken, powerful conduit."
+    },
+    {
+      "name": "Margred",
+      "role": "Antagonist / Guardian",
+      "description": "The stern, elderly matriarch of Llanfair and keeper of the loom. Speaks with grim authority. Sees the cosmic horror not as evil, but as a brutal fact of existence that must be managed through ruthless ritual.",
+      "arc": "From unwavering guardian of the status quo to a figure of shattered faith. Her entire worldview, built on a cruel but stable bargain, collapses as Elara's actions break the ritual, revealing the fragility of her control."
+    },
+    {
+      "name": "Old Idris",
+      "role": "The Witness / Voice of Doom",
+      "description": "An ancient, frail villager who remembers the last 'changing of the weaver'. Speaks in cryptic warnings and folk rhymes. Serves as the village's living memory and conscience.",
+      "arc": "From passive, fearful observer to an active participant in the final ritual's failure. His dropping of the ceremonial staff symbolizes the final break in tradition he always feared."
+    },
+    {
+      "name": "The Entity / The Pattern",
+      "role": "Antagonistic Force",
+      "description": "A nameless, prescient cosmic horror bound to the valley and the loom. It doesn't think or feel as humans do; it *weaves*. It perceives time, fate, and lives as threads to be manipulated, consumed, and integrated into its eternal, hungry tapestry. It is the literal fabric of the curse."
+    }
+  ],
+  "themes": [
+    "The Horror of Inheritance: Being bound by debts and curses you did not create.",
+    "Tradition as a Prison: The brutal cost of maintaining 'the old ways' for collective survival.",
+    "The Corruption of Craft: Artistic and skilled work twisted into a vessel for monstrosity.",
+    "Cosmic Indifference: The entity is not malicious, but its needs are utterly incompatible with human life, making it terrifying.",
+    "The Unraveling of Reality: Literal and metaphorical fraying of the boundaries between past/present, self/other, and pattern/chaos."
+  ],
+  "narrative_voice": "Third-person limited, closely focused on Elara's perspective. The prose is descriptive and tactile, emphasizing texture, decay, and weave. As the horror progresses, the narration itself becomes slightly distorted, with moments of fragmented perception and layered resonance mirroring Elara's transformation.",
+  "tone": "Dread-filled, melancholic, and increasingly uncanny. Starts with a sense of professional and personal despair, evolving into a claustrophobic folk horror, and culminating in a visceral, cosmic terror. The tone is serious, atmospheric, and rooted in physical sensation.",
+  "plot_summary": "Disgraced conservator Elara Hughes is offered a mysterious final job: restoring a unique, ancient loom in the isolated Welsh village of Llanfair. Desperate for redemption, she accepts. She discovers the loom is no mere artifact, but the heart of a terrible ritual. The village sacrifices a chosen weaver to the loom every generation, binding a hungry cosmic entity that weaves the fate of the valley. Elara, with her profound skill, becomes entangled in the pattern. Her attempt to 'conserve' the loom\u2014to fix its fraying structure\u2014is misinterpreted by the entity as an invitation to merge. During the sacrificial ritual, her intervention disrupts the cycle. Instead of consuming a single life, the entity's influence spills out, saturating the valley and beginning to unravel reality itself. Elara, her body and soul marked by the entity (her hair turned white, her perception threaded), becomes a walking breach in the covenant. The story ends not with a defeat of the horror, but with its catastrophic liberation, and Elara transformed into a harbinger of its new, unbounded hunger."
+}

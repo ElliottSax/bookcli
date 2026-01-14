@@ -1,0 +1,417 @@
+{
+  "title": "Moby Dick: Revenge of the Whale",
+  "total_issues": 24,
+  "chapters_reviewed": 12,
+  "avg_quality": 82.2,
+  "common_issues": [
+    "style: 24"
+  ],
+  "chapter_reports": [
+    {
+      "chapter_name": "chapter_01.md",
+      "word_count": 2759,
+      "sentence_count": 255,
+      "avg_sentence_length": 10.8,
+      "issues": [
+        {
+          "chapter": "chapter_01.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 9 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        },
+        {
+          "chapter": "chapter_01.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'thing' used 3 times",
+          "context": "thing",
+          "suggestion": "Consider reducing usage of 'thing'"
+        }
+      ],
+      "repetition_warnings": [
+        "'like' appears 18 times",
+        "'gardiner' appears 17 times",
+        "'ishmael' appears 17 times",
+        "Sentences starting with 'it': 28 times",
+        "Sentences starting with 'and': 12 times",
+        "Sentences starting with 'he': 10 times"
+      ],
+      "passive_voice_count": 13,
+      "adverb_count": 16,
+      "quality_score": 78.7
+    },
+    {
+      "chapter_name": "chapter_02.md",
+      "word_count": 3188,
+      "sentence_count": 303,
+      "avg_sentence_length": 10.5,
+      "issues": [
+        {
+          "chapter": "chapter_02.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 6 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        },
+        {
+          "chapter": "chapter_02.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'thing' used 5 times",
+          "context": "thing",
+          "suggestion": "Consider reducing usage of 'thing'"
+        }
+      ],
+      "repetition_warnings": [
+        "'ishmael' appears 28 times",
+        "'ahab' appears 19 times",
+        "Sentences starting with 'he': 29 times",
+        "Sentences starting with 'it': 28 times",
+        "Sentences starting with 'and': 12 times"
+      ],
+      "passive_voice_count": 9,
+      "adverb_count": 17,
+      "quality_score": 82.4
+    },
+    {
+      "chapter_name": "chapter_03.md",
+      "word_count": 2863,
+      "sentence_count": 257,
+      "avg_sentence_length": 11.1,
+      "issues": [
+        {
+          "chapter": "chapter_03.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 5 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        }
+      ],
+      "repetition_warnings": [
+        "'ishmael' appears 21 times",
+        "Sentences starting with 'he': 21 times",
+        "Sentences starting with 'it': 19 times",
+        "Sentences starting with 'and': 8 times",
+        "Sentences starting with 'you': 8 times"
+      ],
+      "passive_voice_count": 9,
+      "adverb_count": 21,
+      "quality_score": 85.2
+    },
+    {
+      "chapter_name": "chapter_04.md",
+      "word_count": 2388,
+      "sentence_count": 204,
+      "avg_sentence_length": 11.7,
+      "issues": [
+        {
+          "chapter": "chapter_04.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 4 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        },
+        {
+          "chapter": "chapter_04.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'thing' used 4 times",
+          "context": "thing",
+          "suggestion": "Consider reducing usage of 'thing'"
+        }
+      ],
+      "repetition_warnings": [
+        "'will' appears 15 times",
+        "Sentences starting with 'he': 20 times",
+        "Sentences starting with 'it': 16 times",
+        "Sentences starting with 'they': 10 times",
+        "Sentences starting with 'you': 9 times"
+      ],
+      "passive_voice_count": 7,
+      "adverb_count": 14,
+      "quality_score": 86.3
+    },
+    {
+      "chapter_name": "chapter_05.md",
+      "word_count": 3433,
+      "sentence_count": 349,
+      "avg_sentence_length": 9.8,
+      "issues": [
+        {
+          "chapter": "chapter_05.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'very' used 3 times",
+          "context": "very",
+          "suggestion": "Consider reducing usage of 'very'"
+        },
+        {
+          "chapter": "chapter_05.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 3 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        },
+        {
+          "chapter": "chapter_05.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'thing' used 5 times",
+          "context": "thing",
+          "suggestion": "Consider reducing usage of 'thing'"
+        }
+      ],
+      "repetition_warnings": [
+        "'ishmael' appears 26 times",
+        "Sentences starting with 'it': 17 times",
+        "Sentences starting with 'he': 16 times",
+        "Sentences starting with 'you': 12 times",
+        "Sentences starting with '\u201cthe': 9 times"
+      ],
+      "passive_voice_count": 23,
+      "adverb_count": 18,
+      "quality_score": 75.1
+    },
+    {
+      "chapter_name": "chapter_06.md",
+      "word_count": 2840,
+      "sentence_count": 241,
+      "avg_sentence_length": 11.8,
+      "issues": [
+        {
+          "chapter": "chapter_06.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'very' used 3 times",
+          "context": "very",
+          "suggestion": "Consider reducing usage of 'very'"
+        }
+      ],
+      "repetition_warnings": [
+        "'ship' appears 20 times",
+        "Sentences starting with 'it': 22 times",
+        "Sentences starting with 'he': 19 times",
+        "Sentences starting with 'they': 7 times"
+      ],
+      "passive_voice_count": 9,
+      "adverb_count": 32,
+      "quality_score": 81.9
+    },
+    {
+      "chapter_name": "chapter_07.md",
+      "word_count": 2609,
+      "sentence_count": 235,
+      "avg_sentence_length": 11.1,
+      "issues": [
+        {
+          "chapter": "chapter_07.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'very' used 3 times",
+          "context": "very",
+          "suggestion": "Consider reducing usage of 'very'"
+        },
+        {
+          "chapter": "chapter_07.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 3 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        }
+      ],
+      "repetition_warnings": [
+        "'ahab' appears 18 times",
+        "'whale' appears 16 times",
+        "Sentences starting with 'it': 22 times",
+        "Sentences starting with 'he': 18 times",
+        "Sentences starting with 'and': 8 times"
+      ],
+      "passive_voice_count": 6,
+      "adverb_count": 14,
+      "quality_score": 84.8
+    },
+    {
+      "chapter_name": "chapter_08.md",
+      "word_count": 2828,
+      "sentence_count": 296,
+      "avg_sentence_length": 9.6,
+      "issues": [
+        {
+          "chapter": "chapter_08.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'very' used 4 times",
+          "context": "very",
+          "suggestion": "Consider reducing usage of 'very'"
+        },
+        {
+          "chapter": "chapter_08.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 7 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        },
+        {
+          "chapter": "chapter_08.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'thing' used 5 times",
+          "context": "thing",
+          "suggestion": "Consider reducing usage of 'thing'"
+        }
+      ],
+      "repetition_warnings": [
+        "'heart' appears 18 times",
+        "Sentences starting with 'it': 22 times",
+        "Sentences starting with 'he': 16 times",
+        "Sentences starting with 'we': 9 times"
+      ],
+      "passive_voice_count": 6,
+      "adverb_count": 15,
+      "quality_score": 84.5
+    },
+    {
+      "chapter_name": "chapter_09.md",
+      "word_count": 3164,
+      "sentence_count": 290,
+      "avg_sentence_length": 10.9,
+      "issues": [
+        {
+          "chapter": "chapter_09.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 4 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        },
+        {
+          "chapter": "chapter_09.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'thing' used 4 times",
+          "context": "thing",
+          "suggestion": "Consider reducing usage of 'thing'"
+        },
+        {
+          "chapter": "chapter_09.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'things' used 3 times",
+          "context": "things",
+          "suggestion": "Consider reducing usage of 'things'"
+        }
+      ],
+      "repetition_warnings": [
+        "'ahab' appears 20 times",
+        "Sentences starting with 'it': 18 times",
+        "Sentences starting with 'he': 15 times",
+        "Sentences starting with 'they': 13 times",
+        "Sentences starting with 'and': 9 times"
+      ],
+      "passive_voice_count": 12,
+      "adverb_count": 21,
+      "quality_score": 79.7
+    },
+    {
+      "chapter_name": "chapter_10.md",
+      "word_count": 3941,
+      "sentence_count": 383,
+      "avg_sentence_length": 10.3,
+      "issues": [],
+      "repetition_warnings": [
+        "'ahab' appears 27 times",
+        "Sentences starting with 'he': 25 times",
+        "Sentences starting with 'it': 22 times",
+        "Sentences starting with 'they': 10 times"
+      ],
+      "passive_voice_count": 12,
+      "adverb_count": 19,
+      "quality_score": 86.3
+    },
+    {
+      "chapter_name": "chapter_11.md",
+      "word_count": 3450,
+      "sentence_count": 377,
+      "avg_sentence_length": 9.2,
+      "issues": [
+        {
+          "chapter": "chapter_11.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 3 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        },
+        {
+          "chapter": "chapter_11.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'things' used 5 times",
+          "context": "things",
+          "suggestion": "Consider reducing usage of 'things'"
+        }
+      ],
+      "repetition_warnings": [
+        "'ahab' appears 39 times",
+        "'queequeg' appears 22 times",
+        "'ishmael' appears 21 times",
+        "Sentences starting with 'it': 36 times",
+        "Sentences starting with 'he': 25 times",
+        "Sentences starting with 'they': 9 times"
+      ],
+      "passive_voice_count": 6,
+      "adverb_count": 23,
+      "quality_score": 80.1
+    },
+    {
+      "chapter_name": "chapter_12.md",
+      "word_count": 3217,
+      "sentence_count": 322,
+      "avg_sentence_length": 10.0,
+      "issues": [
+        {
+          "chapter": "chapter_12.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'very' used 3 times",
+          "context": "very",
+          "suggestion": "Consider reducing usage of 'very'"
+        },
+        {
+          "chapter": "chapter_12.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'just' used 5 times",
+          "context": "just",
+          "suggestion": "Consider reducing usage of 'just'"
+        },
+        {
+          "chapter": "chapter_12.md",
+          "line": 0,
+          "issue_type": "style",
+          "message": "Weak word 'things' used 3 times",
+          "context": "things",
+          "suggestion": "Consider reducing usage of 'things'"
+        }
+      ],
+      "repetition_warnings": [
+        "'ahab' appears 26 times",
+        "Sentences starting with 'it': 21 times",
+        "Sentences starting with 'they': 16 times",
+        "Sentences starting with 'and': 11 times",
+        "Sentences starting with 'he': 10 times"
+      ],
+      "passive_voice_count": 13,
+      "adverb_count": 15,
+      "quality_score": 81.0
+    }
+  ]
+}

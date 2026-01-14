@@ -1,0 +1,56 @@
+{
+  "chapters": [
+    {
+      "file": "chapter_01.md",
+      "words": 1974,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_02.md",
+      "words": 2705,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_03.md",
+      "words": 2527,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_04.md",
+      "words": 2213,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_05.md",
+      "words": 2966,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_06.md",
+      "words": 2569,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_07.md",
+      "words": 1913,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_08.md",
+      "words": 2338,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_09.md",
+      "words": 2266,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_10.md",
+      "words": 1635,
+      "scenes": 1
+    }
+  ],
+  "analysis": "**HOOK: 8 | TENSION: 4 | TRANSITIONS: 6 | FIX: Introduce narrative tension through a concrete, human-scale problem.**\n\n**Analysis:**\n\nThe **hook (8)** is strong intellectually, immediately establishing a provocative, evidence-based premise that challenges the reader's assumptions about learning. It creates a \"gap\" in knowledge the book promises to fill.\n\n**Tension (4)** is the primary pacing issue. The prose is expository and analytical, building a case rather than narrative or emotional tension. The stakes are intellectual (inefficiency) rather than visceral (a consequence of not learning). The tension present is the \"problem-solution\" framework of a non-fiction thesis, not the escalating stakes of a story.\n\n**Scene transitions (6)** are logical and clear at the chapter level, using rhetorical questions and direct references to previous chapters (e.g., \"Chapter 5 dismantled the myth...\"). Within the excerpts, the flow is smooth but purely conceptual,",
+  "total_words": 23106
+}

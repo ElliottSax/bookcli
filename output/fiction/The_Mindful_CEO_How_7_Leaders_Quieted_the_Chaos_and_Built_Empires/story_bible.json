@@ -1,0 +1,59 @@
+{
+  "title": "The Mindful CEO: How 7 Leaders Quieted the Chaos and Built Empires",
+  "genre": "self_help",
+  "subgenre": "business_leadership_personal_development",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "Corporate offices (penthouses, boardrooms)",
+      "Global business hubs (Manhattan, Silicon Valley, London, Singapore)",
+      "Personal spaces of CEOs (homes, private studies, retreats)",
+      "The internal landscape of the mind"
+    ],
+    "atmosphere": "High-pressure, fast-paced corporate environments contrasted with deliberate, cultivated pockets of calm and focus; shifts from chaotic sensory overload to structured, intentional clarity."
+  },
+  "characters": [
+    {
+      "name": "Michael Thorne",
+      "role": "Primary Case Study / Archetypal Chaotic CEO",
+      "description": "CEO of Axiom Corp. Mid-40s, outwardly successful but internally frayed. Lives in a state of perpetual reaction, fueled by adrenaline and anxiety. His opening scene depicts the peak of his unsustainable chaos.",
+      "arc": "Serves as the 'before' picture and narrative through-line. His journey from reactive chaos to mindful command illustrates the book's core principles in action, moving from being a tenant of his mind to its architect."
+    },
+    {
+      "name": "Sarah",
+      "role": "COO of Axiom Corp",
+      "description": "Practical, grounded, and concerned. Represents the voice of the team impacted by a leader's chaos. Her early, unanswered calls symbolize the breakdown in communication and trust.",
+      "arc": "From a frustrated executive managing her boss's volatility to a strategic partner benefiting from his newfound clarity and stability."
+    },
+    {
+      "name": "Chloe",
+      "role": "Executive Assistant",
+      "description": "Observant, meticulous, and quietly concerned. Her untouched breakfast trays are silent metrics of Thorne's decline.",
+      "arc": "Witnesses the tangible change in her boss's demeanor and effectiveness, moving from walking on eggshells to engaging in productive partnership."
+    },
+    {
+      "name": "The 7 Leaders",
+      "role": "Case Studies / Mentors",
+      "description": "A diverse group of successful CEOs and founders from various industries (tech, manufacturing, finance, retail). Each embodies a different facet of mindful leadership and provides a real-world example of a specific protocol or principle.",
+      "arc": "Collectively, they demonstrate that mindfulness is not one-size-fits-all but a customizable toolkit. Their stories provide proof of concept and practical variation."
+    },
+    {
+      "name": "The Reader",
+      "role": "Protagonist-in-Training",
+      "description": "Addressed directly as a high-achieving professional (aspiring or current leader) who recognizes the unsustainable cost of their own chaos and seeks a better way.",
+      "arc": "Guided from identifying their own 'chaotic genius' myth, through the four-phase protocol of building mindful infrastructure, to becoming the architect of their own 'empire of quiet.'"
+    }
+  ],
+  "themes": [
+    "Sustainable Success vs. Burnout",
+    "The Illusion of Control vs. True Command",
+    "Internal Infrastructure: Building Systems for the Mind",
+    "Discipline as Freedom",
+    "Quiet Confidence vs. Loud Chaos",
+    "The Compound Interest of Small, Consistent Actions",
+    "Leadership as Self-Governance First"
+  ],
+  "narrative_voice": "Direct, authoritative, and coaching-oriented. Blends gripping, novelistic vignettes (like Michael Thorne's opening) with clear, instructional exposition. Often uses the second-person \"you\" to engage the reader personally, shifting between storyteller and tactical coach.",
+  "tone": "Urgent yet hopeful; rigorous and unsentimental but ultimately empowering. Combines the gravity of a diagnostic report with the motivating energy of a special ops briefing. Avoids vague spirituality, favoring concrete, operational language.",
+  "plot_summary": "The book dismantles the romanticized 'Myth of the Chaotic Genius' leader through the opening story of Michael Thorne's breakdown. It then introduces seven counter-examples\u2014leaders who built empires not from frenzy, but from cultivated focus. The core narrative is the reader's own transformation, guided through a four-phase protocol: 1) **Awareness & Audit** (mapping personal chaos triggers), 2) **Design** (creating a single, stupidly simple mindful protocol), 3) **Deployment & Discipline** (executing with surgical precision to build self-trust), and 4) **Integration & Scaling** (systematically building an internal infrastructure of calm). The journey moves from external reaction to internal command, arguing that the ultimate competitive advantage is a mind that can be quieted and directed at will."
+}

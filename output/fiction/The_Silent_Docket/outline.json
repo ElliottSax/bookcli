@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Pro Bono Gambit",
+      "summary": "Celebrated defense attorney Elara Vance, fresh from another controversial acquittal, is pressured by her firm to take a pro bono case to improve her public image. She reluctantly agrees to represent Leo Finch, whose wife, Maya, vanished without a trace ten years ago.",
+      "key_events": [
+        "Elara wins the acquittal of a clearly guilty tech CEO, drawing public scorn.",
+        "Her managing partner insists she take a 'clean' pro bono case.",
+        "She meets the desperate, persistent Leo Finch and reviews the thin, cold case file.",
+        "The original investigation was closed quickly, citing lack of evidence.",
+        "Elara notices the initial ruling judge was the esteemed Federal Judge Alistair Thorne."
+      ],
+      "ending_hook": "As Leo pleads with her to find the truth, Elara spots Judge Thorne's name in the file and feels an unexpected, cold prickle of recognition."
+    },
+    {
+      "number": 2,
+      "title": "Beneath the Surface",
+      "summary": "Elara begins a superficial review of the Finch case, but a strange anomaly in the court docket record\u2014a sealed hearing she can't access\u2014piques her professional curiosity. She digs deeper into Judge Thorne's career.",
+      "key_events": [
+        "Elara finds a reference to a sealed motion hearing in the case docket, weeks after Maya was declared missing.",
+        "Her request to unseal it is mysteriously delayed by the clerk's office.",
+        "She researches Thorne: a pillar of the legal community, known for ruthless efficiency and a spotless record.",
+        "A contact in the courthouse whispers that Thorne has a 'private docket' of cases that never see the light of day.",
+        "Elara receives an anonymous, untraceable email with a single phrase: 'Let sleeping dogs lie.'"
+      ],
+      "ending_hook": "Ignoring the warning, Elara uses a back-channel to pull the sealed hearing order, discovering it wasn't about Maya Finch at all, but about 'preserving judicial security.'"
+    },
+    {
+      "number": 3,
+      "title": "Pattern Recognition",
+      "summary": "Driven by suspicion, Elara expands her search beyond Maya Finch. She discovers two other missing persons cases from over the years that had brief, sealed interactions with Judge Thorne's court before being abandoned.",
+      "key_events": [
+        "Elara identifies two other vanishings: a court clerk (15 years ago) and a juror (8 years ago).",
+        "Each case had a single, sealed proceeding before Judge Thorne shortly after the disappearance.",
+        "All three victims were connected to Thorne's courtroom.",
+        "Leo reveals Maya was a freelance court reporter who sometimes worked in Thorne's district.",
+        "Elara's car is broken into, but only her notebook on the Finch case is taken."
+      ],
+      "ending_hook": "Reviewing her notes, Elara realizes the disappearances occur at precise, multi-year intervals\u2014and the next interval is due now."
+    },
+    {
+      "number": 4,
+      "title": "The Judge's Chamber",
+      "summary": "Elara decides to confront the source directly. She arranges a meeting with Judge Thorne under the guise of discussing judicial procedure, aiming to gauge his reaction to the Finch case.",
+      "key_events": [
+        "Thorne is charming, intelligent, and speaks of judicial integrity with conviction.",
+        "He subtly reminds Elara of her own ethically questionable wins, implying he knows her secrets.",
+        "When she mentions Maya Finch, his demeanor shifts to one of cold, paternal disappointment.",
+        "He warns her that some truths undermine the very foundation of the system they both serve.",
+        "After leaving, Elara finds a vintage fountain pen\u2014identical to one on Thorne's desk\u2014secretly placed in her coat pocket."
+      ],
+      "ending_hook": "The pen feels like a claim, a marker. That night, she receives a photo of herself leaving the courthouse, timestamped, with the subject line: 'Chapter One.'"
+    },
+    {
+      "number": 5,
+      "title": "The Silent Docket",
+      "summary": "Elara's hacker friend uncovers a hidden digital thread: a non-public case list accessible only from Thorne's private server. It's dubbed 'The Silent Docket'\u2014a list of names, dates, and case codes.",
+      "key_events": [
+        "The hacker finds the hidden list; it contains seven names, including Maya and the other two victims.",
+        "Each entry has a code corresponding to a physical case file location, not a digital one.",
+        "Three entries are blank, labeled 'pending.'",
+        "The system logs show the list was accessed the day after Elara met with Leo Finch.",
+        "Elara's office is professionally swept, revealing a sophisticated listening device."
+      ],
+      "ending_hook": "As she stares at the 'pending' entries, her phone pings with a calendar alert she didn't set: a reminder for a 'final argument' dated one month from today."
+    },
+    {
+      "number": 6,
+      "title": "The First Witness",
+      "summary": "Elara tracks down the family of the first victim, the court clerk. She learns the clerk had been preparing a misconduct complaint against Thorne for coercing a verdict.",
+      "key_events": [
+        "The clerk's brother reveals she feared Thorne was 'playing God' with verdicts.",
+        "She had hidden notes, but they vanished with her.",
+        "The brother gives Elara a faded photo of the clerk with other court staff, including a young Thorne.",
+        "Elara is followed by a black sedan with government plates.",
+        "She is pulled over for a bogus traffic stop by a police officer who delivers a verbal message: 'The Judge suggests you dismiss yourself from the case.'"
+      ],
+      "ending_hook": "Back home, the photo from the clerk's brother is on her table. Someone has drawn a red circle around a young woman in the background\u2014a woman who looks exactly like Elara."
+    },
+    {
+      "number": 7,
+      "title": "A Ghost in the Machine",
+      "summary": "Elara investigates the woman in the photo, discovering she was a law intern who died in a hit-and-run 20 years ago. The case was overseen by a young prosecutor: Alistair Thorne.",
+      "key_events": [
+        "The intern, Clara, was reportedly having an affair with a married judge (not Thorne).",
+        "The scandal was buried after her death; the married judge resigned.",
+        "Thorne, as the prosecutor, called no witnesses and the driver was never found.",
+        "Elara realizes her own physical resemblance to Clara is striking.",
+        "Leo Finch is attacked but survives, with a note reading 'Next time he dies.'"
+      ],
+      "ending_hook": "Thorne calls Elara personally, offering to drop all threats against Leo if she closes the case. He says, 'Some ghosts should stay buried, Elara. For your mother's sake.'\u2014revealing he knows about her long-dead mother, a secret she's told no one."
+    },
+    {
+      "number": 8,
+      "title": "Bloodlines and Blind Spots",
+      "summary": "Reeling, Elara investigates her own past. She uncovers that her mother, who she believed died in an accident, was actually Clara\u2014the intern. Thorne wasn't just the prosecutor; he was her mother's secret lover and Elara's biological father.",
+      "key_events": [
+        "Elara's birth certificate is forged; her 'father' was a cover.",
+        "Thorne had her mother killed to protect his career when she threatened to reveal the pregnancy.",
+        "He has been watching Elara's rise from afar, a perverse point of pride.",
+        "The Silent Docket is his method of removing threats to his power and legacy.",
+        "Elara's name is now on the 'pending' list\u2014not as a victim, but as a 'verdict.'"
+      ],
+      "ending_hook": "Thorne invites her to his secluded estate for dinner, stating, 'It's time for your final briefing, counselor. Let's settle this case, once and for all.'"
+    },
+    {
+      "number": 9,
+      "title": "The Dinner Party",
+      "summary": "Elara goes to Thorne's estate, wired and with a panic plan in place. He lays out his twisted philosophy: he is the ultimate judge, jury, and executioner for those who threaten the 'purity' of his judicial realm.",
+      "key_events": [
+        "Thorne confesses to the murders, framing them as 'dismissals with prejudice.'",
+        "He reveals he orchestrated her career, guiding her to become the perfect, amoral defender\u2014his counterpart in the system.",
+        "He offers her a choice: join him as his heir and learn the full extent of his power, or become the next entry on the Docket.",
+        "Elara's wire is discovered; Thorne's security disables it.",
+        "He shows her a live feed of Leo Finch, bound and gagged in a remote location."
+      ],
+      "ending_hook": "Thorne gives her 24 hours to decide: prove her loyalty by personally triggering Leo's death, or die with him. 'Let's see if my blood runs in your veins,' he says."
+    },
+    {
+      "number": 10,
+      "title": "The Devil's Bargain",
+      "summary": "Elara pretends to accept Thorne's offer to buy time. She gains limited access to his network, aiming to find Leo and secure the physical evidence of the Silent Docket.",
+      "key_events": [
+        "She plays the dutiful heir, studying Thorne's methods.",
+        "She locates Leo being held at an abandoned courthouse annex.",
+        "She copies the full Silent Docket and Thorne's confession to a secure drive.",
+        "Thorne tests her by ordering her to tamper with evidence in a live case.",
+        "She sends the drive to a rival journalist with a dead-man's switch trigger."
+      ],
+      "ending_hook": "As she prepares to flee and free Leo, Thorne appears on the monitor behind her. 'A good performance,' he says calmly. 'But I wrote the script. The annex is a trap.' The live feed of Leo cuts to a pre-recorded loop."
+    },
+    {
+      "number": 11,
+      "title": "Mistrial",
+      "summary": "Elara is captured and brought to the real location: the historic, decommissioned courthouse where Thorne holds his 'trials.' She is forced to defend herself in a kangaroo court, with Thorne as judge.",
+      "key_events": [
+        "Thorne 'prosecutes' her for betraying the family and the law.",
+        "Leo is present, forced to be the jury of one.",
+        "Elara turns the tables, using her skills to prosecute Thorne, detailing each murder.",
+        "She reveals she live-streamed the entire dinner confession to the journalist, who is now publishing it.",
+        "Thorne, enraged, moves to execute them both personally."
+      ],
+      "ending_hook": "Police sirens wail outside\u2014the journalist alerted the FBI. Thorne smiles, knowing his influence may still protect him. 'You have evidence,' he sneers, 'but I have the bench.' He grabs Elara, holding a blade to her throat as the doors burst open."
+    },
+    {
+      "number": 12,
+      "title": "Final Judgment",
+      "summary": "In the standoff, Elara uses Thorne's own teachings against him, triggering a physical struggle. The confrontation forces a brutal resolution and a new, uncertain future for Elara.",
+      "key_events": [
+        "A tense standoff with FBI agents. Thorne uses Elara as a shield.",
+        "Elara reminds him a true judge accepts his verdict, shattering his god-like self-image.",
+        "In a moment of hesitation, she disarms him, leading to his capture.",
+        "The evidence goes public, causing a seismic scandal in the legal world.",
+        "Leo is freed, and the families of the victims get long-awaited answers."
+      ],
+      "ending_hook": "Months later, Thorne awaits trial, still exerting influence from prison. Elara, now a pariah in big law but a public paradox\u2014hero and unethical hacker\u2014watches the news. A new, encrypted message arrives: 'The Docket is never silent. New judge. New list. Interested?' She deletes it, then slowly, deliberately, begins to type a reply."
+    }
+  ]
+}

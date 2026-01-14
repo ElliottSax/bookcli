@@ -1,0 +1,50 @@
+{
+  "title": "The Procrastination Gym: 90-Day Reps for a Stronger Will",
+  "genre": "self_help",
+  "subgenre": "practical_psychology / behavioral_change",
+  "setting": {
+    "time_period": "Contemporary / Timeless",
+    "locations": [
+      "The reader's own mind and daily environments (bedroom, home office, workspace)",
+      "The metaphorical 'gym'\u2014a mental construct for training willpower",
+      "Everyday spaces transformed into arenas for practice"
+    ],
+    "atmosphere": "Direct, clinical yet motivational; transforms from a fog of guilt and avoidance to a clear, structured space of self-mastery. Shifts from oppressive and self-accusatory to empowered and mechanical."
+  },
+  "characters": [
+    {
+      "name": "The Reader",
+      "role": "Protagonist / Trainee",
+      "description": "A person stuck in cycles of procrastination, who has internalized the label of 'lazy' and feels governed by regret and avoidance. They are the sole focus; every other entity is a metaphorical part of their psyche.",
+      "arc": "Transforms from a passive victim of their own impulses to an active 'lifter' and craftsman of their will. Learns to see procrastination as a weakness of mental muscle, not a moral failing, and builds a reliable system for action."
+    },
+    {
+      "name": "The Prefrontal Cortex (The CEO)",
+      "role": "Internal Ally / Executive Function",
+      "description": "The cool, analytical, future-focused part of the brain. It represents logic, planning, and long-term benefit.",
+      "arc": "Strengthens from being consistently overruled to becoming the reliable leader of the internal negotiation, backed by the trained 'muscles' of the system."
+    },
+    {
+      "name": "The Limbic System (The Inner Toddler)",
+      "role": "Internal Antagonist / Immediate Gratification",
+      "description": "The emotional, reactive, present-focused part of the brain. It seeks comfort, safety, and pleasure now. It is the source of the 'hazy, warm, infinitely reasonable murmur' that advocates for delay.",
+      "arc": "Is not defeated, but is managed, negotiated with, and strategically satisfied. Its power is acknowledged but contained by the new systems and routines."
+    },
+    {
+      "name": "The Author/Narrator (Coach)",
+      "role": "Guide / Head Trainer",
+      "description": "A direct, no-nonsense, but empathetic voice. Uses blunt metaphors (weakness, gym, mechanics) to reframe the reader's experience, stripping away shame and providing a practical training regimen.",
+      "arc": "Serves as a constant guide, whose voice the reader internalizes over the 90 days, eventually becoming the reader's own inner coach."
+    }
+  ],
+  "themes": [
+    "Willpower as a Trainable Muscle, Not a Moral Virtue",
+    "The Mechanics of Action vs. The Myth of Motivation",
+    "Self-Compassion as a Tool for Performance (Not an Excuse)",
+    "Progress Through Systems, Not Through Perfection",
+    "Identity Shift: From 'Lazy Person' to 'Person Who Lifts Weights'"
+  ],
+  "narrative_voice": "Second-person imperative ('you'), direct address. Blends the authoritative voice of a coach with the explanatory tone of a cognitive scientist. Uses vivid metaphors (courtroom, negotiation table, gym, chain) to make abstract brain functions tangible.",
+  "tone": "Blunt, motivational, clinical, and empowering. Starts by aggressively dismantling shame ('It's not laziness, it's weakness'), then becomes steadily more encouraging as it provides tools. Ends on a note of calm, unshakeable confidence.",
+  "plot_summary": "The book is a 90-day transformational journey structured like a fitness program. It begins with a 'diagnosis,' reframing procrastination not as laziness but as a weakness of the brain's executive function\u2014a 'muscle' that can be trained. The reader is guided through dismantling the shame of procrastination and understanding the neuroscience of the internal conflict between the 'Prefrontal Cortex (CEO)' and the 'Limbic System (Inner Toddler).' The core of the book is a progressive training regimen of 'reps'\u2014small, daily cognitive and behavioral exercises designed to strengthen focus, manage resistance, and build 'chains' of reliable action. The narrative culminates in the reader forging a new identity: no longer reliant on fickle motivation, but equipped with a dependable mechanical system for tackling difficult tasks, moving through the world with the calm confidence of a craftsman or a seasoned athlete."
+}

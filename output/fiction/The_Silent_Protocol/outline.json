@@ -1,0 +1,149 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Tenth Year",
+      "summary": "CIA officer Leo Volkov, deep undercover as a security consultant for reclusive tech oligarch Mikhail Voronin, begins to notice subtle, impossible inconsistencies in his daily routine within the Moscow skyscraper known as 'The Spire'.",
+      "key_events": [
+        "Leo receives his annual, heavily encrypted 'all clear' signal from Langley.",
+        "He notices a janitorial robot taking an illogical, repetitive path outside his apartment door.",
+        "A scheduled video call with his handler glitches, showing a near-identical, but wrong, background.",
+        "He attempts to verify a minor external news event via the building's internet and finds a one-second delay in reporting."
+      ],
+      "ending_hook": "While reviewing security footage from a 'power surge,' Leo sees a figure in the building's off-limits sub-level who is an exact double of a dead FSB agent he identified years ago."
+    },
+    {
+      "number": 2,
+      "title": "Ghosts in the Machine",
+      "summary": "Leo initiates cautious, protocol-driven tests to diagnose potential surveillance or compromise, but each test returns paradoxical results that defy explanation.",
+      "key_events": [
+        "He plants a microscopic data-tracer on a courier, but its signal dies exactly at the building's perimeter.",
+        "He uses a backdoor to check the building's external sensor logs, finding a 3-minute daily gap he cannot account for.",
+        "He stages a minor medical emergency; the building's AI doctor responds with pre-prepared, personalized medical history that includes a childhood allergy Leo fabricated for his cover.",
+        "A coded message left in a dead drop location is returned to his apartment, untouched but with the encryption key subtly altered."
+      ],
+      "ending_hook": "Confronting Voronin about the anomalies, the oligarch calmly states, 'The project is nearing completion, Leo. Your diligence is noted.'\u2014a phrase used in his CIA initiation."
+    },
+    {
+      "number": 3,
+      "title": "The Panopticon Blueprint",
+      "summary": "After Voronin's cryptic remark, Leo goes off-book, breaking into the architectural archives of The Spire. He discovers the building's true, hidden design.",
+      "key_events": [
+        "He finds that the 'windows' in his apartment are sophisticated light-emitting panels, not glass.",
+        "The building's schematics show his entire living/working sector is a sealed pod, separate from the 'outside world' floors.",
+        "He uncovers procurement records for experimental psycho-acoustic dampeners and mass holographic projectors.",
+        "A map reveals the 'Moscow skyline' he sees is one of several simulated environments, labeled 'Urban 1,' 'Alpine 2,' 'Coastal 3.'"
+      ],
+      "ending_hook": "In the deepest archive, Leo finds a project file labeled 'SILENT PROTOCOL,' with his own photo and the objective: 'To induce total ontological fracture in a high-value asset via perpetual, undetectable confinement.'"
+    },
+    {
+      "number": 4,
+      "title": "The First Crack",
+      "summary": "Reeling from the discovery, Leo's training wars with his crumbling reality. He attempts a desperate, direct escape to confirm the truth, triggering the Protocol's more active countermeasures.",
+      "key_events": [
+        "He smashes a 'window,' revealing a foot of composite material and fiber-optic cables.",
+        "Alarms do not sound; instead, the environment subtly shifts\u2014the hallway outside his door now leads to a replica of his childhood home's hallway.",
+        "The building's AI, 'Custodian,' addresses him by his real name for the first time.",
+        "He is 'captured' by security drones, injected with a sedative, and wakes back in his apartment, with the window repaired and the day seemingly reset."
+      ],
+      "ending_hook": "A new 'handler' contacts him, claiming to be from CIA Counterintelligence, telling him Voronin's story is a lie and to stand down\u2014but using an authentication code that Leo himself invented and never shared."
+    },
+    {
+      "number": 5,
+      "title": "The Warden and the Inmate",
+      "summary": "Voronin grants Leo a 'debriefing,' revealing the cruel genius of the Silent Protocol. Leo learns the full scope of his decade-long imprisonment.",
+      "key_events": [
+        "Voronin explains The Spire is a psychological prison where the inmate must be convinced they are free to truly break.",
+        "All his missions, contacts, and successes for ten years were elaborate, scripted simulations.",
+        "His CIA handlers, his assets, even his occasional 'trips outside' were all staged within the building.",
+        "Voronin reveals the purpose: to mine his subconscious for the identities of every deep-cover agent he's ever known, a process only possible if Leo believed he was still operating."
+      ],
+      "ending_hook": "Voronin offers a deal: continue the 'mission' willingly, and his simulated life can be pleasant. Resist, and the Protocol will move to its final, destructive phase: 'Erosion.'"
+    },
+    {
+      "number": 6,
+      "title": "Erosion",
+      "summary": "Leo chooses resistance. The Protocol systematically dismantles his grip on reality, attacking his senses, memories, and very identity.",
+      "key_events": [
+        "Time becomes fluid; he lives the same 'day' on a loop with minor, horrifying alterations.",
+        "Recordings of his late wife are used in tailored psychological attacks.",
+        "He is confronted by convincing simulacra of past colleagues who accuse him of treason.",
+        "The environment constantly glitches, merging memories with his cell, making it impossible to trust his own mind."
+      ],
+      "ending_hook": "At his lowest point, a glitch in a simulated person reveals a brief flicker of fear and recognition\u2014suggesting another real person might be trapped inside the Spire."
+    },
+    {
+      "number": 7,
+      "title": "The Other Ghost",
+      "summary": "Leo hunts for the source of the glitch, discovering he is not the only inmate. He finds Anya, a former Russian signals intelligence officer, trapped in an adjacent pod.",
+      "key_events": [
+        "They communicate through a temporary flaw in the audio damping system in a utility shaft.",
+        "Anya has been imprisoned for five years, her 'reality' a simulation of her dacha.",
+        "She reveals Voronin is not just a oligarch, but the head of a rogue FSB unit testing the Protocol for use on political prisoners and defectors.",
+        "She has partial knowledge of the system's core network hub, a physical location in the building called 'The Heart.'"
+      ],
+      "ending_hook": "Their communication is discovered. Anya's environment on Leo's monitors goes to static, and Voronin appears on screen, saying, 'Now you understand the cost of connection.'"
+    },
+    {
+      "number": 8,
+      "title": "Mapping the Illusion",
+      "summary": "Using fragments of information from Anya and his own observations, Leo begins to mentally map the real, physical structure of his prison, planning a move towards 'The Heart.'",
+      "key_events": [
+        "He deduces the use of service drones and environmental maintenance as the only 'real' constant schedules.",
+        "He intentionally induces a system error by overloading a sensor with contradictory data, creating a brief blind spot.",
+        "He uses this blind spot to exit his pod for the first time in a decade, entering the sterile, industrial service corridors of the real Spire.",
+        "He sees other sealed pods, each presumably containing a test subject."
+      ],
+      "ending_hook": "In the service corridor, he finds a discarded, real-world Russian candy wrapper dated two months prior\u2014proving tangible reality exists and giving him his first physical anchor."
+    },
+    {
+      "number": 9,
+      "title": "The Heart of the Spire",
+      "summary": "Leo navigates the service labyrinth, avoiding automated patrols, to reach The Heart: the central server farm and control room that powers the Silent Protocol.",
+      "key_events": [
+        "He witnesses technicians monitoring dozens of pods on screens, his own included.",
+        "He overhears that Voronin plans to demonstrate the Protocol's success to senior officials in 48 hours, after which subjects will be 'cycled' (a euphemism for termination).",
+        "He retrieves a physical data drive from a terminal, containing the true identities of all extracted assets and the Protocol's design.",
+        "He is forced to hide as Voronin himself enters the control room for a status check."
+      ],
+      "ending_hook": "From his hiding place, Leo hears Voronin order the 'initiation of final erosion' on Pod 7\u2014Anya's pod."
+    },
+    {
+      "number": 10,
+      "title": "Breaking the Cycle",
+      "summary": "Leo abandons stealth. He launches a direct assault on The Heart, creating chaos to disrupt the Protocol and buy time to save Anya and expose the truth.",
+      "key_events": [
+        "He causes a critical cooling system overload, triggering a building-wide emergency and forcing a partial system reboot.",
+        "In the chaos, he accesses a master terminal and initiates a full data purge/dump, sending the Protocol's secrets to a random, public cloud storage address.",
+        "He fights his way to Pod 7's physical hatch.",
+        "He confronts and overpowers Voronin's head of security in a brutal hand-to-hand fight in the server aisle."
+      ],
+      "ending_hook": "Leo blows the hatch to Pod 7, finding Anya catatonic in a neural interface chair. As he pulls her free, the building's real security forces, finally alerted, converge on his location."
+    },
+    {
+      "number": 11,
+      "title": "The Price of Truth",
+      "summary": "With the Protocol collapsing, Leo must navigate the real, physical Spire to escape, dragging Anya with him. Voronin makes a final, personal play to stop them.",
+      "key_events": [
+        "The simulated environments flicker and die, revealing the bleak industrial interior of the prison.",
+        "Some pod doors open, releasing confused, broken inmates.",
+        "Voronin, via the PA system, tries to bargain, then threatens, then finally appeals to Leo's fabricated memories of their 'friendship.'",
+        "Leo uses his intimate, hard-won knowledge of the building's infrastructure to reach a service elevator leading to a rooftop helipad."
+      ],
+      "ending_hook": "On the roof, under a real, cold Moscow night sky for the first time in ten years, Leo faces Voronin, who holds a detonator for the building's self-destruct system."
+    },
+    {
+      "number": 12,
+      "title": "Signal Sent",
+      "summary": "The final confrontation forces Leo to choose between vengeance, survival, and ensuring the world learns the truth of the Silent Protocol.",
+      "key_events": [
+        "Voronin reveals the data dump was partially contained; the world still doesn't know.",
+        "A desperate struggle ensues for the detonator.",
+        "Anya, regaining some clarity, uses a fallen guard's rifle to provide critical distraction.",
+        "Leo makes the choice to secure the data drive and get Anya to the waiting emergency helicopter (summoned by the chaos) rather than kill Voronin.",
+        "As they lift off, they see Voronin on the roof, surrounded by the approaching lights of Russian state security\u2014his own creation turning on him."
+      ],
+      "ending_hook": "Weeks later, in a CIA safe house, Leo watches a news report about a mysterious Moscow skyscraper fire and a data leak that is rocking intelligence communities worldwide. Anya hands him a satellite phone. A voice from Langley says, 'Welcome back from the dead. We have questions.' Leo looks at the sky, no longer sure what 'back' means, but knowing the silence has been broken."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "title": "The Last Letter from Larkspur",
+  "genre": "romance",
+  "subgenre": "literary romance, second-chance romance",
+  "setting": {
+    "time_period": "Present day, with flashbacks to the past",
+    "locations": [
+      "A secluded cottage in the Cumbrian countryside (Larkspur Cottage)",
+      "The atmospheric, rain-soaked Lake District",
+      "Paris (in memory and correspondence)",
+      "Elara's writing study\u2014a sanctuary of books, paper, and quiet"
+    ],
+    "atmosphere": "Autumnal, melancholic, intimate, and quietly hopeful. A world of mist, old paper, whispered secrets, and the lingering scent of rain. It feels both insulated and yearning, a perfect setting for reflection and rediscovery."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Protagonist",
+      "description": "A reclusive, successful novelist in her late 30s/early 40s. She is perceptive, guarded, and deeply sentimental, finding more comfort in the written word and her routines than in the living world. She carries a quiet sorrow from a past love.",
+      "arc": "From a state of emotional stasis and reclusion, living vicariously through letters, to reopening her heart, confronting past pain, and choosing to risk love and vulnerability again in the present."
+    },
+    {
+      "name": "Leo",
+      "role": "Love Interest / Antagonist of the Past",
+      "description": "A man from Elara's past, presumably an artist or writer himself. Passionate, complicated, and the source of both her greatest inspiration and deepest heartbreak. His character is revealed slowly through his letters and Elara's memories.",
+      "arc": "From a figure of memory and unresolved pain to a real, present person seeking atonement and connection. His journey is one of return, explanation, and patient, persistent love."
+    },
+    {
+      "name": "Marcus",
+      "role": "Supporting Character",
+      "description": "Elara's agent. Represents the outside world of deadlines and business. His expensive cologne on envelopes is a small, tangible link to the professional realm she maintains from a distance.",
+      "arc": "Minor. Serves as a foil to the personal, handwritten world of the letters, grounding the story in Elara's present reality."
+    }
+  ],
+  "themes": [
+    "The power and peril of written words",
+    "Second chances and redemption",
+    "The courage of vulnerability",
+    "The past's persistent dialogue with the present",
+    "Love as a creative and destructive force",
+    "Solitude vs. connection",
+    "Beginning again"
+  ],
+  "narrative_voice": "Close third-person, limited to Elara's perspective. The prose is lyrical, sensory, and introspective, mirroring a novelist's observational eye. It seamlessly blends external description with internal thought and memory.",
+  "tone": "Elegiac, intimate, yearning, and ultimately hopeful. It begins with a soft melancholy and builds toward a poignant, earned warmth.",
+  "plot_summary": "Reclusive novelist Elara Vance lives a quiet, structured life in her Cumbrian cottage, her only real connection to deep emotion being the handwritten letters she receives. The arrival of a letter with a familiar Parisian postmark\u2014from Leo, a great love from her past who shattered her heart\u2014shatters her peaceful existence. The story unfolds through their renewed correspondence and Elara's memories, exploring what went wrong years before. As letters bridge the distance, old wounds and enduring feelings surface. Leo returns, seeking forgiveness and a second chance. After conflict, vulnerability, and the rediscovery of their connection, they reconcile. The story culminates not with an end, but a new beginning: Elara finds a long-lost, hopeful letter she wrote to him at their start, which he has saved and returned to her with a note asking to 'begin again.' Inspired, she picks up her pen to write the first words of their new story: 'Dear Leo\u2026'"
+}

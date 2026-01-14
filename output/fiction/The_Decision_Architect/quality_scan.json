@@ -1,0 +1,11 @@
+{
+  "chapters": 10,
+  "total_words": 28100,
+  "quality_score": 70,
+  "sample_reviews": [
+    "chapter_01.md: SCORE: 7/10 | ISSUES: Exposition-heavy, dense prose, lacks narrative hook\n\n**Writing Quality:** 7/10. Competent and clear, but academic and dry for fiction. The prose is information-dense, resembling a non-fiction book or lecture.\n\n**Dialogue Naturalness:** N/A. No dialogue is present in the excerpt.\n\n**Pacing:** 6/10. Slow and methodical. It functions as a textbook-style introduction, not propelling a story or character forward.\n\n**Specific Issues:**\n1. **Not Narrative Fiction:** The excerpt is expository non-fiction (pop psychology), not a story with characters, plot, or scenes.\n2. **Info-Dumping:** Presents a concentrated block of research summaries and concepts without narrative integration.\n3. **No Hook:** Lacks a character, conflict, or immediate story question to engage a fiction reader.",
+    "chapter_06.md: SCORE: 7/10 | ISSUES: genre mismatch, dense exposition, incomplete sentence\n\n**Writing Quality:** 8/10. Prose is polished, authoritative, and uses strong metaphors.\n**Dialogue Naturalness:** N/A. No dialogue present in the excerpt.\n**Pacing:** 6/10. The text is information-dense, reading more like a non-fiction article or textbook than a narrative.\n\n**Specific Issues:**\n1. **Genre Mismatch:** The excerpt reads as popular science/non-fiction, not fiction. The tone is expository, citing studies and experts.\n2. **Dense Exposition:** It presents concepts (hyperbolic discounting, neurology) in a lecture-like block without narrative action or character.\n3. **Incomplete Sentence:** The final sentence cuts off mid-thought (\"The same mechanism underlie\").",
+    "chapter_10.md: SCORE: 7/10 | ISSUES: Non-fiction tone in fiction, info-dumping, pacing is academic/slow\n\n**Specific Issues:**\n1. **Genre Mismatch:** The excerpt reads as non-fiction (self-help/academic), not narrative fiction. There is no story, character, or plot.\n2. **Info-Dumping:** It is a dense lecture of concepts, studies, and quotes without narrative integration.\n3. **Pacing/Engagement:** The academic prose and structural formatting (headers, citations) halt any narrative flow, making it feel like a textbook."
+  ],
+  "scanned_at": "2026-01-02 13:36:50"
+}

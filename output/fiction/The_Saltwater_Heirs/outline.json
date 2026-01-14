@@ -1,0 +1,148 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Diagnosis",
+      "summary": "Eleanor Havelock, the 78-year-old matriarch, receives a rare neurological diagnosis\u2014Mariner's Palate\u2014that causes her to taste ancestral memories in seawater. She is drawn to the family's abandoned whaling captain's house in New Bedford.",
+      "key_events": [
+        "Eleanor experiences a vivid, disorienting 'taste' of a storm at sea while drinking tap water.",
+        "A neurologist explains her condition links taste to genetic memory, activated by sodium.",
+        "Eleanor returns to the crumbling Havelock mansion, feeling a pull to the past.",
+        "She discovers a hidden wall compartment in the study containing twelve sealed vials of seawater, each labeled with a date and a longitude/latitude."
+      ],
+      "ending_hook": "Eleanor uncorks the first vial, brings it to her lips, and is violently plunged into the memory of her great-great-grandfather at the moment he harpoons his first whale."
+    },
+    {
+      "number": 2,
+      "title": "The Prodigal Son, 1841",
+      "summary": "Through the first vial, Eleanor experiences the memory of Silas Havelock, her ambitious ancestor, who commits a ruthless act to secure his first command and the family's founding fortune.",
+      "key_events": [
+        "Eleanor tastes the cold Atlantic, blood, and whale oil.",
+        "She witnesses young Silas, not yet a captain, on a chaotic whaling ship.",
+        "Silas secretly sabotages the ship's compass, causing it to be lost long enough for the ailing captain to die of fever.",
+        "He then heroically navigates them home using the stars, securing his reputation and command."
+      ],
+      "ending_hook": "Back in the present, Eleanor vomits saltwater, reeling from the knowledge that the family empire was built on a calculated murder."
+    },
+    {
+      "number": 3,
+      "title": "The Captain's Wife, 1858",
+      "summary": "The second vial reveals the story of Constance Havelock, Silas's wife, who managed the business on shore and made a brutal financial decision that doomed a rival family.",
+      "key_events": [
+        "Eleanor tastes ink, salt, and bitter tea.",
+        "She experiences Constance's frustration at being land-bound while Silas is at sea for years.",
+        "Constance intercepts news of a rival whaler's sinking and uses insider knowledge to buy their debts and seize their assets before the widow is notified.",
+        "She writes a triumphant letter to Silas, cementing the Havelock monopoly."
+      ],
+      "ending_hook": "Eleanor feels a ghostly pang of Constance's guilt, which she channeled into building the family library\u2014a library Eleanor now sits in, surrounded by books bought with ruined lives."
+    },
+    {
+      "number": 4,
+      "title": "The Castaway, 1872",
+      "summary": "A vial from the Indian Ocean reveals a shameful secret of abandonment. Eleanor experiences the memory of a young deckhand, a Havelock cousin, left for dead to cover up a captain's mistake.",
+      "key_events": [
+        "The water tastes of coconut, desperation, and sun-bleached wood.",
+        "Eleanor sees Captain Josiah Havelock (Silas's son) panic during a mutiny scare.",
+        "He exiles a loyal but injured cousin, Isaiah, on a barren atoll, promising to return.",
+        "The ship sails on; the promise is forgotten in the pursuit of a spermaceti-rich pod."
+      ],
+      "ending_hook": "Eleanor, gasping, feels Isaiah's final hopeless gaze at the horizon. She finds his name later that day in the family Bible, marked only with 'Lost at Sea.'"
+    },
+    {
+      "number": 5,
+      "title": "The Lighthouse Keeper's Daughter, 1890",
+      "summary": "A vial from the Maine coast holds a memory of stolen love and a hidden pregnancy that was erased from the family record.",
+      "key_events": [
+        "The water tastes of pine, cold stone, and fresh rain.",
+        "Eleanor lives the memory of her great-aunt Flora, who fell in love with the son of a lighthouse keeper.",
+        "When Flora became pregnant, her father, a Havelock, paid off the family and had the young man shipped to the West Coast.",
+        "Flora was sent to a 'sanitarium' and returned months later, childless and hollow."
+      ],
+      "ending_hook": "Eleanor finds a faded, hidden photograph of Flora holding an infant, and realizes she may have living relatives unknown to the family tree."
+    },
+    {
+      "number": 6,
+      "title": "The Strike-Breaker, 1911",
+      "summary": "A vial from New Bedford harbor reveals the memory of Eleanor's grandfather, Aldous, using violent means to break a dockworkers' strike, creating a generational rift in the town.",
+      "key_events": [
+        "The water tastes of smoke, sweat, and copper (blood).",
+        "Eleanor witnesses Aldous hiring thugs to intimidate striking workers.",
+        "A fire breaks out at the picket line; Aldous orders the Havelock gates locked, trapping men inside.",
+        "He later donates to the families of the deceased, laundering his guilt into public philanthropy."
+      ],
+      "ending_hook": "Eleanor remembers her own father's bitter, unexplained feud with the local union president\u2014a feud whose origin she now understands."
+    },
+    {
+      "number": 7,
+      "title": "The Shift",
+      "summary": "Struggling with the weight of the memories, Eleanor's present-day life fractures. She confides in her estranged granddaughter, Maya, a marine biologist.",
+      "key_events": [
+        "Eleanor's erratic behavior concerns her lawyer and housekeeper.",
+        "She reaches out to Maya, the only family member skeptical of the Havelock 'myth.'",
+        "She shows Maya the vials. Initially skeptical, Maya is convinced when Eleanor perfectly describes the 1872 atoll's topography.",
+        "They argue over whether to continue; Maya wants truth, Eleanor fears it."
+      ],
+      "ending_hook": "Maya takes a vial to have its water chemically analyzed, seeking scientific proof of the memories' origins."
+    },
+    {
+      "number": 8,
+      "title": "The War Profiteer, 1943",
+      "summary": "A vial from the South Pacific reveals how the Havelocks profited from WWII, selling faulty supplies to the Navy and causing the deaths of sailors.",
+      "key_events": [
+        "The water tastes of diesel, hot metal, and deep-sea pressure.",
+        "Eleanor experiences the memory of her father, Wallace, as a young executive.",
+        "He knowingly approves a shipment of substandard steel cable for naval use to meet a lucrative contract.",
+        "He later reads a report of a destroyer's loss, linked to cable failure, and files the report away in a locked drawer."
+      ],
+      "ending_hook": "Eleanor finds the actual report, still in her father's old desk. The listed coordinates match the location of a vial she has yet to drink."
+    },
+    {
+      "number": 9,
+      "title": "The Cover-Up, 1968",
+      "summary": "The memory from the found coordinates reveals that Eleanor's beloved uncle didn't die in a sailing accident, but was killed for threatening to expose the wartime crimes.",
+      "key_events": [
+        "The water tastes of gin, cordite, and marsh mud.",
+        "Eleanor relives a bitter argument between her father Wallace and his idealistic brother, Thomas.",
+        "Thomas, having discovered the 1943 documents, threatens to go to the press.",
+        "Eleanor experiences the memory of Thomas's 'accident' from Wallace's perspective\u2014a deliberate push from a dock in the fog."
+      ],
+      "ending_hook": "Eleanor collapses, not from the memory, but from the realization that her own father was a murderer. Her health begins to visibly fail."
+    },
+    {
+      "number": 10,
+      "title": "The Trust",
+      "summary": "Maya returns with proof: the water contains epigenetic markers and stress hormones aligned with the memories. Eleanor must decide the fate of the family's wealth and legacy.",
+      "key_events": [
+        "Maya's analysis confirms the water is a biological archive of traumatic memory.",
+        "Eleanor's lawyer pressures her to sign updated estate papers to preserve the trust.",
+        "Eleanor confronts the full scope: the fortune is a monument to violence, betrayal, and blood.",
+        "She considers destroying the remaining vials and the mansion itself."
+      ],
+      "ending_hook": "Eleanor decides to drink the remaining vials, no matter the cost. \"I have to swallow it all,\" she tells Maya, \"before I can be sick of it for good.\""
+    },
+    {
+      "number": 11,
+      "title": "The Last Voyage",
+      "summary": "In a feverish state, Eleanor drinks the final vials in succession, experiencing a cascading torrent of smaller cruelties, hidden joys, and quiet despair from generations of Havelocks.",
+      "key_events": [
+        "The memories become a blur\u2014a first kiss on a ship, a stolen ship's log, a wept-over letter, a moment of kindness to a cabin boy.",
+        "Eleanor understands the full human spectrum: not all were monsters, but all were complicit in the system.",
+        "She has a vision of the family line as a ship, each generation nailing the next into its rotten timbers.",
+        "Maya finds her on the floor, whispering the names of the forgotten and the wronged."
+      ],
+      "ending_hook": "With her last bit of strength, Eleanor gives Maya a single, clear instruction about the Havelock Trust and the mansion."
+    },
+    {
+      "number": 12,
+      "title": "Ebb Tide",
+      "summary": "In the aftermath, Maya executes Eleanor's final wishes, breaking the cycle and allowing the toxic legacy to dissipate like salt in fresh water.",
+      "key_events": [
+        "Eleanor's will is read: the Havelock fortune is dissolved to create a maritime historical truth commission and scholarships for descendants of whaling communities and strikers.",
+        "The mansion is donated to the city as a museum focused on the true, unvarnished history of the whaling industry.",
+        "Maya, holding the last empty vial, walks to the cliffs and scatters Eleanor's ashes into the Atlantic.",
+        "She takes a sip of fresh water from a spring, tasting only its own clean, singular self."
+      ],
+      "ending_hook": "Maya looks out at the sea, no longer a haunted archive, but simply an ocean. She feels the weight lift, and for the first time, the future seems open, clear, and hers to define."
+    }
+  ]
+}

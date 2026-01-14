@@ -1,0 +1,263 @@
+{
+  "book": "Moby_Dick_Revenge_of_the_Whale",
+  "checked": "2025-12-31T11:05:52.278125",
+  "chapters": {
+    "1": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 2759,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 10.9,
+        "paragraph_count": 59,
+        "adverb_density": 8.7,
+        "passive_voice_percentage": 5.1,
+        "repetition_score": 0.04,
+        "readability_score": 74.3
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 8.7/1000 words"
+      ]
+    },
+    "2": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 3188,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 10.6,
+        "paragraph_count": 64,
+        "adverb_density": 6.9,
+        "passive_voice_percentage": 3.0,
+        "repetition_score": 0.03,
+        "readability_score": 74.8
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 6.9/1000 words"
+      ]
+    },
+    "3": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 2863,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 11.3,
+        "paragraph_count": 60,
+        "adverb_density": 9.78,
+        "passive_voice_percentage": 3.5,
+        "repetition_score": 0.07,
+        "readability_score": 70.7
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 9.78/1000 words"
+      ]
+    },
+    "4": {
+      "passed": false,
+      "score": 60,
+      "metrics": {
+        "word_count": 2388,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 11.8,
+        "paragraph_count": 40,
+        "adverb_density": 7.96,
+        "passive_voice_percentage": 2.9,
+        "repetition_score": 0.0,
+        "readability_score": 74.8
+      },
+      "issues": [
+        "Too short: 2388 words (min: 2500)",
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 7.96/1000 words"
+      ]
+    },
+    "5": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 3433,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 10.0,
+        "paragraph_count": 80,
+        "adverb_density": 7.86,
+        "passive_voice_percentage": 6.3,
+        "repetition_score": 0.06,
+        "readability_score": 71.5
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 7.86/1000 words"
+      ]
+    },
+    "6": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 2840,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 11.9,
+        "paragraph_count": 69,
+        "adverb_density": 12.68,
+        "passive_voice_percentage": 3.7,
+        "repetition_score": 0.11,
+        "readability_score": 69.8
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 12.68/1000 words"
+      ]
+    },
+    "7": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 2609,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 11.2,
+        "paragraph_count": 70,
+        "adverb_density": 6.13,
+        "passive_voice_percentage": 2.6,
+        "repetition_score": 0.12,
+        "readability_score": 70.0
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 6.13/1000 words"
+      ]
+    },
+    "8": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 2828,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 9.7,
+        "paragraph_count": 72,
+        "adverb_density": 7.78,
+        "passive_voice_percentage": 2.0,
+        "repetition_score": 0.11,
+        "readability_score": 69.6
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 7.78/1000 words"
+      ]
+    },
+    "9": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 3164,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 11.0,
+        "paragraph_count": 69,
+        "adverb_density": 7.59,
+        "passive_voice_percentage": 4.1,
+        "repetition_score": 0.03,
+        "readability_score": 72.7
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 7.59/1000 words"
+      ]
+    },
+    "10": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 3941,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 10.4,
+        "paragraph_count": 87,
+        "adverb_density": 6.34,
+        "passive_voice_percentage": 2.9,
+        "repetition_score": 0.13,
+        "readability_score": 73.6
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 6.34/1000 words"
+      ]
+    },
+    "11": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 3450,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 9.3,
+        "paragraph_count": 107,
+        "adverb_density": 9.86,
+        "passive_voice_percentage": 1.9,
+        "repetition_score": 0.06,
+        "readability_score": 74.7
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 9.86/1000 words"
+      ]
+    },
+    "12": {
+      "passed": false,
+      "score": 80,
+      "metrics": {
+        "word_count": 3217,
+        "dialogue_percentage": 0.0,
+        "avg_sentence_length": 10.1,
+        "paragraph_count": 91,
+        "adverb_density": 6.53,
+        "passive_voice_percentage": 3.4,
+        "repetition_score": 0.09,
+        "readability_score": 71.0
+      },
+      "issues": [
+        "Low dialogue: 0.0% (min: 15%)"
+      ],
+      "warnings": [
+        "High adverb density: 6.53/1000 words"
+      ]
+    }
+  },
+  "overall_passed": false,
+  "overall_score": 78.3,
+  "failing_chapters": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ]
+}

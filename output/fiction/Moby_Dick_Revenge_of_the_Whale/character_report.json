@@ -1,0 +1,439 @@
+{
+  "title": "Moby Dick: Revenge of the Whale",
+  "characters": [
+    {
+      "name": "Ahab",
+      "aliases": [],
+      "physical_traits": [
+        "s eyes were",
+        "broken old man",
+        "his face illuminated",
+        "the old sailor",
+        "his eyes fell",
+        "his face a",
+        "his face softened",
+        "his face upturned",
+        "s eyes",
+        "the face of",
+        "the old man",
+        "his face ashen",
+        "locked eyes with",
+        "s eyes found",
+        "pitiless face to",
+        "burning eyes found",
+        "his eyes alight",
+        "your eyes open",
+        "s face went",
+        "his beard"
+      ],
+      "personality_traits": [
+        "quiet",
+        "fierce"
+      ],
+      "relationships": {
+        "Folly": "king",
+        "You": "enemy",
+        "Starbuck": "king",
+        "And": "king"
+      },
+      "first_appearance": "chapter_01.md",
+      "mention_count": 210
+    },
+    {
+      "name": "Ishmael",
+      "aliases": [],
+      "physical_traits": [
+        "his face hardening",
+        "broken old man",
+        "young ishmael",
+        "his young mind",
+        "and old rage",
+        "the old salts",
+        "his face a",
+        "s eyes",
+        "his eyes that",
+        "s eyes watered",
+        "his eyes swept",
+        "his eyes",
+        "fired eyes passed",
+        "the hair on",
+        "his face pale",
+        "s eyes found",
+        "his hair",
+        "his eyes saw",
+        "pitiless face to",
+        "his eyes wide",
+        "the face within",
+        "s skin crawl",
+        "your eyes open",
+        "s eyes behind",
+        "s face"
+      ],
+      "personality_traits": [
+        "quiet",
+        "cruel",
+        "loud",
+        "smart"
+      ],
+      "relationships": {
+        "Starbuck": "friend",
+        "And": "ally",
+        "But": "friend",
+        "Queequeg": "friend"
+      },
+      "first_appearance": "chapter_01.md",
+      "mention_count": 182
+    },
+    {
+      "name": "And",
+      "aliases": [],
+      "physical_traits": [
+        "burning eyes found"
+      ],
+      "personality_traits": [
+        "quiet"
+      ],
+      "relationships": {
+        "Ishmael": "ally",
+        "Ahab": "king"
+      },
+      "first_appearance": "chapter_01.md",
+      "mention_count": 107
+    },
+    {
+      "name": "Starbuck",
+      "aliases": [],
+      "physical_traits": [
+        "his face more",
+        "his eyes",
+        "his face ashen",
+        "the old salts",
+        "his face pale",
+        "his face grim",
+        "his face a",
+        "s face was",
+        "his eyes hollow",
+        "his face was",
+        "whose face was",
+        "burning eyes found",
+        "s eyes",
+        "his face hollow"
+      ],
+      "personality_traits": [
+        "quiet"
+      ],
+      "relationships": {
+        "Ishmael": "friend",
+        "Ahab": "king"
+      },
+      "first_appearance": "chapter_02.md",
+      "mention_count": 104
+    },
+    {
+      "name": "Queequeg",
+      "aliases": [],
+      "physical_traits": [
+        "his face set",
+        "s eyes scanned",
+        "his eyes profound",
+        "pitiless face to",
+        "glowing face",
+        "s face was",
+        "his eyes wide",
+        "his face a",
+        "his face serene",
+        "his face impassive"
+      ],
+      "personality_traits": [
+        "quiet"
+      ],
+      "relationships": {
+        "Tashtego": "ally",
+        "Ishmael": "friend"
+      },
+      "first_appearance": "chapter_02.md",
+      "mention_count": 95
+    },
+    {
+      "name": "You",
+      "aliases": [],
+      "physical_traits": [
+        "the skin from",
+        "young ishmael",
+        "black eyes of",
+        "your eyes open",
+        "the face of",
+        "your eyes are",
+        "your eyes"
+      ],
+      "personality_traits": [],
+      "relationships": {
+        "Ahab": "enemy"
+      },
+      "first_appearance": "chapter_02.md",
+      "mention_count": 90
+    },
+    {
+      "name": "Pequod",
+      "aliases": [],
+      "physical_traits": [
+        "his eyes were",
+        "his eyes",
+        "of old battles"
+      ],
+      "personality_traits": [
+        "loud"
+      ],
+      "relationships": {},
+      "first_appearance": "chapter_01.md",
+      "mention_count": 84
+    },
+    {
+      "name": "His",
+      "aliases": [],
+      "physical_traits": [
+        "his face in",
+        "his eyes fell",
+        "his face a",
+        "tattooed face was",
+        "s face was",
+        "his face softened",
+        "his face",
+        "eyes wide",
+        "his eyes widened",
+        "his hair was",
+        "and scar",
+        "his eyes swept",
+        "of old voyages",
+        "his eyes",
+        "dark eyes missed",
+        "his hair and",
+        "of old pain",
+        "his face was",
+        "his eyes wide",
+        "his eyes blazed",
+        "his face showed",
+        "and beard were",
+        "his eyes were",
+        "his skin bleached",
+        "his eyes scanned"
+      ],
+      "personality_traits": [
+        "loud",
+        "cruel",
+        "fierce",
+        "kind"
+      ],
+      "relationships": {},
+      "first_appearance": "chapter_01.md",
+      "mention_count": 73
+    },
+    {
+      "name": "But",
+      "aliases": [],
+      "physical_traits": [
+        "the face within",
+        "his eyes like",
+        "his eyes that",
+        "s eyes behind"
+      ],
+      "personality_traits": [
+        "quiet",
+        "loud"
+      ],
+      "relationships": {
+        "Ishmael": "friend"
+      },
+      "first_appearance": "chapter_01.md",
+      "mention_count": 48
+    },
+    {
+      "name": "Stubb",
+      "aliases": [],
+      "physical_traits": [
+        "his eyes",
+        "jovial face set",
+        "his eyes glinted",
+        "s face",
+        "his face"
+      ],
+      "personality_traits": [
+        "quiet",
+        "fierce"
+      ],
+      "relationships": {},
+      "first_appearance": "chapter_02.md",
+      "mention_count": 35
+    },
+    {
+      "name": "Flask",
+      "aliases": [],
+      "physical_traits": [
+        "their eyes hard",
+        "his eyes",
+        "observant eyes missing",
+        "the old nantucket",
+        "his face a"
+      ],
+      "personality_traits": [
+        "fierce"
+      ],
+      "relationships": {
+        "Daggoo": "king",
+        "Perth": "king"
+      },
+      "first_appearance": "chapter_05.md",
+      "mention_count": 31
+    },
+    {
+      "name": "Daggoo",
+      "aliases": [],
+      "physical_traits": [
+        "his eyes",
+        "observant eyes missing",
+        "s face a"
+      ],
+      "personality_traits": [],
+      "relationships": {
+        "Perth": "king",
+        "Flask": "king",
+        "Bone": "king",
+        "Smasher": "king"
+      },
+      "first_appearance": "chapter_04.md",
+      "mention_count": 29
+    },
+    {
+      "name": "For",
+      "aliases": [],
+      "physical_traits": [
+        "fired eyes passed"
+      ],
+      "personality_traits": [
+        "quiet"
+      ],
+      "relationships": {},
+      "first_appearance": "chapter_02.md",
+      "mention_count": 28
+    },
+    {
+      "name": "Its",
+      "aliases": [],
+      "physical_traits": [
+        "its skin was"
+      ],
+      "personality_traits": [
+        "fierce"
+      ],
+      "relationships": {},
+      "first_appearance": "chapter_06.md",
+      "mention_count": 25
+    },
+    {
+      "name": "Not",
+      "aliases": [],
+      "physical_traits": [],
+      "personality_traits": [],
+      "relationships": {},
+      "first_appearance": "chapter_01.md",
+      "mention_count": 18
+    },
+    {
+      "name": "Gardiner",
+      "aliases": [],
+      "physical_traits": [
+        "petrified face seemed",
+        "s eyes lingered",
+        "his eyes not",
+        "his eyes like",
+        "clouded eyes in"
+      ],
+      "personality_traits": [
+        "loud"
+      ],
+      "relationships": {},
+      "first_appearance": "chapter_01.md",
+      "mention_count": 18
+    },
+    {
+      "name": "Tashtego",
+      "aliases": [],
+      "physical_traits": [
+        "his eyes narrowed",
+        "two short",
+        "his face"
+      ],
+      "personality_traits": [],
+      "relationships": {},
+      "first_appearance": "chapter_04.md",
+      "mention_count": 14
+    },
+    {
+      "name": "Men",
+      "aliases": [],
+      "physical_traits": [],
+      "personality_traits": [],
+      "relationships": {},
+      "first_appearance": "chapter_06.md",
+      "mention_count": 12
+    },
+    {
+      "name": "Perth",
+      "aliases": [],
+      "physical_traits": [
+        "his face a",
+        "observant eyes missing"
+      ],
+      "personality_traits": [],
+      "relationships": {
+        "Daggoo": "king",
+        "Flask": "king"
+      },
+      "first_appearance": "chapter_08.md",
+      "mention_count": 12
+    },
+    {
+      "name": "Rachel",
+      "aliases": [],
+      "physical_traits": [],
+      "personality_traits": [],
+      "relationships": {},
+      "first_appearance": "chapter_01.md",
+      "mention_count": 10
+    }
+  ],
+  "issues": [
+    {
+      "character": "Now",
+      "issue_type": "name_spelling",
+      "chapter": "Multiple",
+      "description": "Similar names found: 'Now' and 'Not' - possible typo?",
+      "evidence": [
+        "Now: 7 mentions",
+        "Not: 18 mentions"
+      ]
+    },
+    {
+      "character": "Ahab",
+      "issue_type": "name_spelling",
+      "chapter": "Multiple",
+      "description": "Similar names found: 'Ahab' and 'Captain Ahab' - possible typo?",
+      "evidence": [
+        "Ahab: 210 mentions",
+        "Captain Ahab: 6 mentions"
+      ]
+    },
+    {
+      "character": "Bones",
+      "issue_type": "name_spelling",
+      "chapter": "Multiple",
+      "description": "Similar names found: 'Bones' and 'Bone' - possible typo?",
+      "evidence": [
+        "Bones: 6 mentions",
+        "Bone: 6 mentions"
+      ]
+    }
+  ],
+  "character_count": 44,
+  "consistency_score": 70
+}

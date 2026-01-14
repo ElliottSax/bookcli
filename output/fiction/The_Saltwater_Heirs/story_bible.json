@@ -1,0 +1,56 @@
+{
+  "title": "The Saltwater Heirs",
+  "genre": "literary",
+  "subgenre": "magical realism, family saga",
+  "setting": {
+    "time_period": "Contemporary, with extensive flashbacks to the 19th and early 20th centuries.",
+    "locations": [
+      "A sterile, orderly Boston apartment.",
+      "The decaying Havelock family mansion, 'Breakers Head,' on the stormy, fictional New England coast.",
+      "The Atlantic Ocean\u2014as a physical, psychological, and metaphysical space.",
+      "Archives, libraries, and the clinical offices of Dr. Aris Thorne."
+    ],
+    "atmosphere": "A pervasive, melancholic duality: the controlled, dustless silence of the present versus the chaotic, sensory-overload of ancestral memory. The sea is a constant, oppressive, yet magnetic presence\u2014a character in itself. The atmosphere shifts from clinical disorientation to gothic decay to a final, stark clarity."
+  },
+  "characters": [
+    {
+      "name": "Eleanor Havelock",
+      "role": "Catalyst and Matriarch",
+      "description": "78, precise, intellectual, and fiercely private. A retired historian who has built a life of orderly solitude in Boston, walling herself off from her family's coastal legacy.",
+      "arc": "From a state of controlled denial to being violently inundated by the repressed memories and traumas of her seafaring ancestors. Her journey is one of reluctant, painful re-embodiment, forcing her to confront what she spent a lifetime escaping, ultimately choosing to pass the truth\u2014and the choice\u2014to the next generation."
+    },
+    {
+      "name": "Maya Singh",
+      "role": "Protagonist and Heir",
+      "description": "24, sharp, adrift, and burdened by student debt and a vague sense of obligation. The least likely of Eleanor's potential heirs\u2014a biracial graduate student with no sentimental attachment to the Havelock name or fortune.",
+      "arc": "From a state of cynical, aimless opportunism (seeing the inheritance as a financial solution) to becoming the reluctant archivist of a painful truth. She moves from being a decoder of external legacies to confronting her own internalized hooks of guilt and expectation. Her arc culminates in a hard-won liberation, choosing an undefined future of her own making."
+    },
+    {
+      "name": "Dr. Aris Thorne",
+      "role": "Guide and Neurological Interpreter",
+      "description": "A calm, methodical neurologist with a specialty in epigenetic memory and psychosomatic heredity. Serves as the scientific anchor for the novel's magical realism.",
+      "arc": "Static in personality, but his understanding evolves. He acts as a translator for Eleanor and Maya, helping them frame their mystical experiences within a plausible, biological framework, thus grounding the metaphysical in the physical."
+    },
+    {
+      "name": "Captain Josiah Havelock",
+      "role": "Ancestral Memory / Antagonist",
+      "description": "A 19th-century whaling captain, whose brutal, storm-lashed final voyage is the core traumatic memory imprinted on the family line. He embodies violence, ambition, and the crushing weight of the sea.",
+      "arc": "His arc is revealed in fragments. He represents the unprocessed guilt (from violence against the sea, his crew, and indigenous peoples) that demands to be witnessed and laid to rest, rather than repeated."
+    },
+    {
+      "name": "The Sea / The Water",
+      "role": "Antagonist, Character, and Medium",
+      "description": "Not a setting, but an active force. It is the carrier of memory, the inflictor of trauma, the source of wealth, and the final cleanser. It tastes of storm, of blood, of salt, and ultimately, of clarity."
+    }
+  ],
+  "themes": [
+    "The Epigenetics of Trauma: How the unspoken horrors and griefs of ancestors physically and psychologically shape their descendants.",
+    "Liberation vs. Legacy: The struggle between the burden of inherited identity (family, wealth, guilt) and the desire for self-creation.",
+    "The Materiality of Memory: Memory as a sensory, physical force (taste, sound, kinesthetic feeling) that can invade the present.",
+    "The Ethics of Inheritance: Exploring what we truly 'inherit'\u2014is it wealth and status, or debt and moral responsibility?",
+    "Water as Archive: The sea as a holder of history and truth, contrasting with the fragile, curated records of human institutions."
+  ],
+  "narrative_voice": "Close third-person, primarily alternating between Eleanor and Maya's perspectives. The prose is lyrical and precise, capable of shifting from the stark, clinical details of the present to the visceral, immersive sensory overload of ancestral memory. The voice carries the taste of saltwater.",
+  "tone": "Atmospheric, melancholic, psychologically intense, and ultimately transcendent. Begins with a sense of eerie, clinical dislocation, moves through gothic dread and historical tragedy, and concludes with a sparse, open-ended clarity and hope.",
+  "plot_summary": "When elderly historian Eleanor Havelock is assaulted by the violent, sensory memory of a drowning ancestor while drinking a glass of water, she is diagnosed with a rare, epigenetic condition: she is literally inheriting the traumatic memories of her seafaring forebears. Knowing she is dying, she summons her potential heirs\u2014distant relatives\u2014to the decaying family mansion. She chooses Maya Singh, the most disinterested, and tasks her with a final project: not to manage the estate, but to piece together the true, horrific source of the family's wealth from fragmented logs and ledgers, to 'diagnose' the family curse. As Maya delves into the archives, she too begins to experience traumatic flashes\u2014the taste of storm, the sound of breaking ships. Her investigation reveals a history of maritime violence and exploitation tied to Captain Josiah Havelock's final voyage. The inheritance is not the money, but the memory itself. In the climax, Maya must choose to either carry the weight of this toxic legacy or perform a ritual of release. Following Eleanor's final instructions, she scatters Eleanor's ashes (the last physical heir) at sea, breaking the cycle. The haunting taste of saltwater leaves her tongue, replaced by the taste of clean water. Liberated, she turns her back on the sea and the inherited past, walking inland toward an open, undefined future of her own making."
+}

@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Bell Tolls at Midnight",
+      "summary": "Detective Elias Crowe is summoned to the historic Stillwater Clock Tower, where the reviled developer Silas Thorne has been found stabbed. The only entrance is a heavy door, locked from the outside with the sole key in the possession of the town's beloved, wheelchair-bound librarian, Eleanor Vance.",
+      "key_events": [
+        "The discovery of Silas Thorne's body in the sealed clock tower room.",
+        "Introduction of Detective Elias Crowe, an outsider with a methodical, quiet demeanor.",
+        "Establishment of the 'locked room' puzzle: one door, one key, no other access.",
+        "Initial interview with a shaken Eleanor Vance, who insists the key never left her possession.",
+        "The first mention of the town's annual 'Stillwater Solstice' bonfire the previous night."
+      ],
+      "ending_hook": "As Crowe examines the tower's exterior, a townsperson remarks, \"Everyone was at the bonfire. Everyone saw everyone else.\""
+    },
+    {
+      "number": 2,
+      "title": "A Town of Witnesses",
+      "summary": "Crowe begins taking statements and discovers the entire town claims to have been together at the annual solstice bonfire at the time of the murder, providing a mutual, unbreakable alibi.",
+      "key_events": [
+        "Crowe canvasses the town, hearing the same story from the mayor, shopkeepers, and residents.",
+        "The bonfire is described as a sacred, all-attend town tradition.",
+        "Introduction of key townsfolk: Mayor Briggs, handyman Leo Finch, historian Beatrice Cole.",
+        "Crowe's growing suspicion that the alibi is too perfect, too uniform.",
+        "A flashback shows the bonfire's communal, almost ritualistic, atmosphere."
+      ],
+      "ending_hook": "The coroner's report arrives with a shock: the murder weapon was a distinctive, antique letter opener, last seen in the town museum's collection."
+    },
+    {
+      "number": 3,
+      "title": "The Keeper of the Key",
+      "summary": "Crowe delves deeper into Eleanor Vance's life and her seemingly ironclad connection to the key. He also learns of Thorne's controversial project: to demolish the clock tower and library for a resort.",
+      "key_events": [
+        "A detailed look at Eleanor's routine, her reputation as the town's moral center.",
+        "Revelation of Thorne's development plans and the fierce, unified town opposition.",
+        "Examination of the key and lock show no signs of tampering or duplication.",
+        "Eleanor reveals a deep, personal history with the clock tower, built by her great-grandfather.",
+        "Crowe finds a hidden, decades-old town ledger in the library, hinting at older secrets."
+      ],
+      "ending_hook": "Eleanor, with tears in her eyes, whispers a cryptic warning: \"Some locks aren't on doors, Detective.\""
+    },
+    {
+      "number": 4,
+      "title": "Beneath the Still Water",
+      "summary": "Investigating Thorne's past, Crowe uncovers that he was a Stillwater native who left decades ago under a cloud of rumor, only to return as a wealthy developer. The town's hatred appears deeply personal.",
+      "key_events": [
+        "Crowe discovers Thorne was once engaged to a local woman who died tragically years ago.",
+        "The woman was Eleanor Vance's younger sister, Clara.",
+        "Rumors suggest Thorne was involved in a land swindle that bankrupted several families.",
+        "Introduction of Clara's former suitor, now the reclusive groundskeeper, Samuel.",
+        "A hidden file in Thorne's mobile home reveals he was researching town property deeds from the 1940s."
+      ],
+      "ending_hook": "Crowe finds a faded photograph of Thorne, Clara, and a group of young friends at the clock tower, one face deliberately scratched out."
+    },
+    {
+      "number": 5,
+      "title": "The Mechanism of a Lie",
+      "summary": "Focusing on the alibi, Crowe analyzes bonfire photos and videos, finding subtle inconsistencies. The collective story begins to show hairline fractures.",
+      "key_events": [
+        "Crowe obtains crowd footage from the bonfire, noticing odd patterns of movement.",
+        "He theorizes a 'rotating alibi' where people covered for each other in shifts.",
+        "Confronts Mayor Briggs, who stonewalls, appealing to town solidarity.",
+        "The handyman, Leo Finch, is revealed to have expertise in antique clockwork and mechanics.",
+        "Crowe finds a modern, hidden intercom system in the library, its purpose unclear."
+      ],
+      "ending_hook": "Late at night, Crowe's temporary office in the motel is broken into, but only the old town ledger is stolen."
+    },
+    {
+      "number": 6,
+      "title": "Ghosts in the Gearwork",
+      "summary": "Crowe gains access to the clock tower's mechanical chamber, discovering it's more complex than it appears. He also learns the true history of the 'Stillwater Solstice'\u2014it commemorates a past tragedy.",
+      "key_events": [
+        "Exploration of the clock tower's interior gear and bell mechanisms.",
+        "The historian, Beatrice, reveals the solstice bonfire began after a fatal fire in 1947 that killed three children.",
+        "The fire was blamed on a vagrant, but town gossip hints at a cover-up among founding families.",
+        "Crowe finds a small, concealed compartment in the clockroom, empty but with fresh scratches.",
+        "Evidence suggests someone could have hidden in the tower *before* it was locked."
+      ],
+      "ending_hook": "Beatrice gives Crowe a pre-fire town map, showing the clock tower stood on land owned by the Vance family... land Thorne was about to legally claim."
+    },
+    {
+      "number": 7,
+      "title": "The Alibi Unravels",
+      "summary": "Crowe pressures the weakest link in the town's chain\u2014a guilt-ridden young mother\u2014and gets a partial confession: people *did* slip away from the bonfire, but they were covering for someone specific.",
+      "key_events": [
+        "The witness admits she left to check on her sleeping child but saw Eleanor Vance sitting alone, staring at the clock tower.",
+        "She also saw Leo Finch heading toward the library with his toolbag.",
+        "The collective alibi was orchestrated not to protect the killer, but to give the town time to 'manage the situation.'",
+        "Crowe realizes the town isn't lying about *being* at the bonfire; they're lying about *seeing everyone* at all times.",
+        "He confronts Eleanor with this new timeline."
+      ],
+      "ending_hook": "Eleanor doesn't deny it. Instead, she says, \"We weren't keeping someone in, Detective. We were keeping *you* out.\""
+    },
+    {
+      "number": 8,
+      "title": "The Stillwater Pact",
+      "summary": "Faced with a wall of silence, Crowe pieces together the 1947 fire. It wasn't an accident; it was murder to cover up an illegitimate child born to a prominent family, a child who was secretly sent away.",
+      "key_events": [
+        "The scratched-out face in the photo was the 'vagrant' blamed for the fire\u2014a Vance family black sheep.",
+        "Thorne's recent deed research proved he was that illegitimate child, returning to claim his inheritance and expose the shame.",
+        "The town's founding families made a pact to bury the truth, which the modern town upheld.",
+        "The murder weapon ties back to the Vance family estate.",
+        "Crowe understands the motive: Thorne wasn't killed for his development plans, but for threatening to exhume the town's foundational sin."
+      ],
+      "ending_hook": "Samuel, the groundskeeper, is found attempting to flee town. In his bag is the missing ledger, with a page that changes everything."
+    },
+    {
+      "number": 9,
+      "title": "A Body in the Bellfrey",
+      "summary": "Samuel confesses to confronting Thorne in the tower, but insists he only knocked him out. He reveals he saw someone else already in the tower when he arrived\u2014someone who was supposed to be at the bonfire.",
+      "key_events": [
+        "Samuel's love for Clara and hatred for Thorne is confirmed, but he claims he didn't kill him.",
+        "He describes hearing the clock mechanism engage after he fled, sealing the room.",
+        "Crowe re-examines the gearroom and finds a makeshift harness\u2014someone could have been lifted to the tower room without using the stairs or key.",
+        "The intercom in the library was a monitoring system, allowing someone to hear events in the tower.",
+        "All evidence points to the killer needing intimate knowledge of the tower's mechanics and the town's secrets."
+      ],
+      "ending_hook": "As Crowe presents his findings to Mayor Briggs, the mayor receives a panicked call: Eleanor Vance has been found at the base of the clock tower stairs."
+    },
+    {
+      "number": 10,
+      "title": "The Librarian's Truth",
+      "summary": "Injured but alive, Eleanor confesses her part. She knew Thorne was her cousin, the lost heir. She gave him the key to see the tower, hoping to appeal to his heritage. She heard the struggle over the intercom but was too late.",
+      "key_events": [
+        "Eleanor admits she lied about the key being on her person all night; she gave it to Thorne.",
+        "She heard the confrontation between Thorne and Samuel, then a third voice.",
+        "She rushed to the tower, found the door locked from the outside (with the key inside), and heard the mechanism whirring.",
+        "Her fall was an accident in her panic.",
+        "She reveals the killer must have used the old maintenance shaft, operated from the gearroom below."
+      ],
+      "ending_hook": "Crowe realizes the killer was in the gearroom the whole time, operating the machinery. He looks at Leo Finch's workshop schematics of the clock tower."
+    },
+    {
+      "number": 11,
+      "title": "The Handyman's Secret",
+      "summary": "Crowe confronts Leo Finch, whose family was ruined by the 1947 cover-up. Leo admits to building the harness system years ago for maintenance. He was in the gearroom during the bonfire, monitoring Thorne via intercom.",
+      "key_events": [
+        "Leo confesses he saw Samuel attack Thorne and flee.",
+        "He then saw Thorne, dazed but alive, get to his feet.",
+        "Consumed by generational rage, Leo engaged the mechanism, ascended the shaft, and finished the deed with the stolen letter opener.",
+        "He then descended, locked the door from the outside using a trick with the key, and returned to the bonfire.",
+        "The town, sensing the truth, closed ranks not to protect him, but to protect the original 1947 secret Thorne would have exposed."
+      ],
+      "ending_hook": "Just as Crowe moves to arrest Leo, Mayor Briggs and a group of townsfolk block the door, their faces grim. \"We need to talk, Detective,\" the Mayor says."
+    },
+    {
+      "number": 12,
+      "title": "Still Water Runs Deep",
+      "summary": "Facing the entire town, Crowe must choose between legal justice and a twisted form of communal justice. He presents the truth, but the resolution is not a simple arrest.",
+      "key_events": [
+        "The town elders offer a confession: they will turn in Leo and provide evidence, but only if the 1947 secret remains buried.",
+        "They argue exposing it would destroy living descendants and the town's spirit.",
+        "Crowe wrestles with the ethics. The murder is solved, but the larger crime is the generational lie.",
+        "In a compromise, Leo is arrested for murder, but the full historical record is sealed.",
+        "Eleanor, inheriting Thorne's claim, donates the tower and land to the town in perpetuity."
+      ],
+      "ending_hook": "Crowe leaves Stillwater, the locked room puzzle solved but the town's deeper lock forever fastened. He watches the clock tower from the road, its bell tolling for secrets past and present, wondering if some doors are better left closed."
+    }
+  ]
+}

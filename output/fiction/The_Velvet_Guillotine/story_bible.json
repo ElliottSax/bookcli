@@ -1,0 +1,53 @@
+{
+  "title": "The Velvet Guillotine",
+  "genre": "mystery",
+  "subgenre": "Noir, Political Thriller",
+  "setting": {
+    "time_period": "Interwar period, 1920s or early 1930s",
+    "locations": [
+      "Paris, primarily Montmartre",
+      "Le Perroquet Gris (The Grey Parrot) - a seedy, failing absinthe bar",
+      "Luxurious but sinister government offices and private mansions",
+      "Wet, cobblestone side-streets smelling of rain and decay",
+      "A small, anonymous safe house on the city's outskirts"
+    ],
+    "atmosphere": "Claustrophobic, melancholic, and shadow-drenched. A world of blurred edges, toxic beauty (like absinthe), and pervasive regret. The glamour of Paris is a thin veneer over moral rot and institutional corruption."
+  },
+  "characters": [
+    {
+      "name": "L\u00e9o Moreau",
+      "role": "Protagonist, former locksmith/safecracker",
+      "description": "A man in his late 40s or early 50s, with long, clever hands now marred by a tremor and a thickened knuckle from an old injury. He is a ghost of his former skilled self, drowning his failure and memories in absinthe. Wears the pallor of the drowned.",
+      "arc": "From a hollow, failed specialist numbing himself in a bar, to being reluctantly pulled back into his old skills for a righteous cause. He achieves a monumental victory (exposing the conspiracy) but at the cost of his own identity, freedom, and peace. His arc ends not in triumph, but in a somber, self-severed existence\u2014a walking ghost who has traded his life for truth."
+    },
+    {
+      "name": "The Client (implied)",
+      "role": "Antagonist / Catalyst",
+      "description": "A figure from the corridors of power, likely polished and ruthless. Represents the corrupt system L\u00e9o is forced to engage with and ultimately destroy.",
+      "arc": "From a position of untouchable, hidden power to being exposed and toppled by the very tool they sought to use (L\u00e9o)."
+    },
+    {
+      "name": "The Little Girl",
+      "role": "Symbol of Innocence / Moral Compass",
+      "description": "A child, wrapped in a too-big blanket. She holds a crumpled photograph of her father. She is the human stake in the mystery, the reason for L\u00e9o's promise.",
+      "arc": "From a state of fear and confusion to a fragile safety at dawn. She represents the future and the personal, human cost of the political corruption. Her unwavering belief in her father's promise is the story's final, fragile thread of hope."
+    },
+    {
+      "name": "The Charity Woman",
+      "role": "Representative of the Uncorrupted",
+      "description": "A kind woman from a charity \"not on any ledger.\" She operates outside the corrupt system, providing genuine aid.",
+      "arc": "Static, but serves as a beacon of decency in the story's conclusion, caring for the girl when the institutional world has failed."
+    }
+  ],
+  "themes": [
+    "The Cost of Truth",
+    "Redemption Through Sacrifice",
+    "Corruption of Institutions",
+    "The Ghosts of Past Skills",
+    "The Prison of Freedom",
+    "A Promise as an Unbreakable Thread"
+  ],
+  "narrative_voice": "Close third-person, focused intensely on L\u00e9o Moreau. Lyrical yet weary, with a noir sensibility. It blends sharp, sensory detail (the smell of wet stone, the feel of a lock) with melancholic introspection.",
+  "tone": "Dark, melancholic, and atmospheric with a pervasive sense of inevitable decay. The tone is cynical yet underpinned by a fragile, hard-won sense of moral purpose. The ending is bittersweet\u2014a victory that feels like a defeat, a liberation that is also a form of exile.",
+  "plot_summary": "L\u00e9o Moreau, a once-legendary safecracker now drowning his failure in absinthe in a Montmartre dive bar, is pulled from his stupor for one last job. He is tasked with using his unique skills not to steal, but to uncover\u2014to open a metaphorical safe containing a state secret so explosive it could topple the government. As he navigates a labyrinth of corruption, moving from seedy bars to opulent, sinister offices, he is driven by a personal promise tied to an innocent life. The climax is not a physical confrontation, but the silent, decisive act of revealing the truth. He succeeds, triggering a monumental scandal, but in doing so must sever his own identity and vanish. The story ends with L\u00e9o as a ghost walking free yet imprisoned by his sacrifice, while the innocent he fought to protect watches the dawn, holding onto the promise that connects her to the vanished man who changed the world."
+}

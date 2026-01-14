@@ -1,0 +1,11 @@
+{
+  "chapters": 10,
+  "total_words": 21504,
+  "quality_score": 20,
+  "sample_reviews": [
+    "chapter_01.md: SCORE: 3/10 | ISSUES: Non-fiction presented as fiction, overly dense/academic prose, no narrative elements (plot, character, dialogue)",
+    "chapter_06.md: SCORE: 2/10 | ISSUES: Non-fiction presented as fiction, dense exposition with no narrative, textbook-like pacing\n\n**Specific Issues:**\n1. **Genre Mislabeling:** This is non-fiction (self-help/business writing), not fiction. There is no story, characters, or plot.\n2. **Pacing & Structure:** It reads like a textbook or article, with academic citations and dense explanatory prose, lacking any narrative drive.\n3. **Exposition-Only:** The text is purely explanatory, offering no scene, action, dialogue, or sensory detail to engage a fiction reader.",
+    "chapter_10.md: SCORE: 7/10 | ISSUES: Non-fiction tone in fiction, info-dumping, pacing slowed by excessive exposition\n\n**Breakdown:**\n1.  **Writing Quality (7/10):** Technically proficient, clear, and well-structured, but the style is academic and dry, resembling a textbook or business article.\n2.  **Dialogue Naturalness (N/A):** No dialogue is present in the excerpt to evaluate.\n3.  **Pacing (5/10):** Extremely slow. The narrative halts for multiple paragraphs of theoretical explanation and cited studies before any scene or character interaction begins.\n4.  **Specific Issues:**\n    *   **Genre Mismatch:** The excerpt reads like non-fiction (self-help/business communication), not narrative fiction. It lacks characters, scene, and plot.\n    *   **Info-dumping:** It front-loads dense blocks of conceptual explanation and research citations without integrating them into a story."
+  ],
+  "scanned_at": "2026-01-02 13:30:24"
+}

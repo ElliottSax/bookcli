@@ -1,0 +1,47 @@
+{
+  "title": "The Prenup Clause",
+  "genre": "romance",
+  "subgenre": "Contemporary Romance / Enemies-to-Lovers / Small-Town Romance",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "Coastal California town (fictional)",
+      "The Mariposa Inn (a historic, slightly worn bed-and-breakfast)",
+      "Driftwood Surf School (next door to the inn)",
+      "The bluffs and beaches of the Pacific coast",
+      "The sun-dappled garden and cluttered, cozy interiors of the inn"
+    ],
+    "atmosphere": "Sun-soaked, salty-aired, and filled with the contrast between meticulous order and laid-back chaos. Evokes the feeling of endless summer, with a undercurrent of grief, legacy, and new beginnings."
+  },
+  "characters": [
+    {
+      "name": "Elara Finch",
+      "role": "Protagonist",
+      "description": "A meticulous, list-making event planner from San Francisco. Organized, controlled, and grieving the loss of her free-spirited Aunt Clara, who raised her. She wears her anxiety like armor and believes in systems, plans, and fine print.",
+      "arc": "From a woman who believes love and life must be governed by contracts to someone who embraces beautiful, messy uncertainty. She learns to honor her aunt's legacy not by preserving the inn as a museum, but by infusing it with new life and love, finding her own balance between order and spontaneity."
+    },
+    {
+      "name": "Kai Rhodes",
+      "role": "Protagonist / Love Interest",
+      "description": "Owner of the Driftwood Surf School. A laid-back, charismatic, and deeply kind surf instructor who lives in the moment. He's rooted in the community, intuitive, and communicates through action and music more than words. His reggae playlist is a character in itself.",
+      "arc": "From seeing Elara as a rigid, city-slicker adversary to understanding her grief and the fears behind her control. He learns that commitment isn't a cage, and that building a future sometimes requires thoughtful plans\u2014not just good vibes. He moves from charming neighbor to steadfast partner."
+    },
+    {
+      "name": "Aunt Clara (deceased)",
+      "role": "Catalyst / Spiritual Presence",
+      "description": "Elara's late aunt, the former owner of The Mariposa Inn. A vibrant, chaotic, big-hearted force of nature who loved her garden, her community, and her niece fiercely. Her presence is felt throughout the story in the inn's details, the garden, and the memories she left behind.",
+      "arc": "Though absent, her legacy is the central conflict and ultimate unifier. Her final wish\u2014embodied in a quirky prenup clause\u2014forces Elara and Kai together, forcing them to confront what they truly want from life and love."
+    }
+  ],
+  "themes": [
+    "Order vs. Spontaneity",
+    "Grief and Legacy",
+    "The True Meaning of 'Home'",
+    "Love as an Unwritten Contract",
+    "Letting Go of Control to Find Happiness",
+    "Building Something New from the Past"
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective, with a voice that is witty, slightly anxious, and detail-oriented, mirroring her character. It softens and becomes more lyrical as she opens up emotionally.",
+  "tone": "Warm, heartfelt, and gently humorous. Balances the melancholy of grief with the buoyancy of coastal life and the fizzy, antagonistic chemistry of the central romance. Ultimately uplifting and hopeful.",
+  "plot_summary": "When Elara Finch returns to her late Aunt Clara's coastal inn to arrange the memorial service, she clashes immediately with the inn's next-door neighbor, the infuriatingly laid-back surf instructor Kai Rhodes, whose reggae music disrupts her meticulous planning. To her horror, she discovers Clara's will contains a bizarre 'prenup clause' for the inn: to inherit it fully, Elara must be married within a year. Desperate to save her aunt's legacy and seeing no other option, Elara proposes a marriage of convenience to Kai, who needs the stability of a guaranteed neighbor to secure a loan for his surf school. They draw up a detailed, emotionless contract. But as they navigate their fake relationship for the town, repair the aging inn, and confront their shared grief over Clara, their carefully written clauses begin to crumble. The list-maker and the free-spirit find their opposites attracting, moving from antagonism to partnership. When the original contract's term ends, they must choose between the safe, legal conclusion or dissolving the agreement to build a real, unwritten love on their own terms\u2014a choice that leads them to a heartfelt commitment, symbolized by a simple sea glass ring, and a future built not on fine print, but on genuine partnership."
+}

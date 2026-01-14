@@ -1,0 +1,52 @@
+{
+  "title": "The Memory of Glass",
+  "genre": "mystery",
+  "subgenre": "Art World Mystery / Sensory Thriller",
+  "setting": {
+    "time_period": "Contemporary / Present Day",
+    "locations": [
+      "The White Room: A hermetically sealed, climate-controlled art conservation chamber within the prestigious Vance Gallery. A sterile, silent void where sound is the primary sense.",
+      "Vance Gallery: A renowned, sleek modern art gallery in a major city, a public facade of cool perfection.",
+      "Evelyn's Apartment: A lived-in, tactile space filled with textures and her personal record collection, a sanctuary from the sterile gallery.",
+      "Police Station: A stark, noisy contrast to Evelyn's world.",
+      "The Workshop: A messy, creative space where broken things are made whole in a new way."
+    ],
+    "atmosphere": "A tense duality between sterile, oppressive silence and rich, revealing soundscapes. The atmosphere shifts from clinical isolation to visceral, sensory discovery, where the past is physically embedded in objects and recordings."
+  },
+  "characters": [
+    {
+      "name": "Evelyn Vance",
+      "role": "Protagonist, Art Conservator",
+      "description": "A woman in her late 30s who lost her sight in her teens. She perceives the world through sound, vibration, and memory with preternatural acuity. Highly intelligent, meticulous, and isolated within her sonic map of the world. Daughter of gallery founder Alistair Vance.",
+      "arc": "From a passive interpreter of the world's sonic map to an active investigator using her unique perception to solve a crime. She moves from preserving the past to confronting it, finding strength in her difference and discovering that true clarity often comes from embracing fracture and noise."
+    },
+    {
+      "name": "Detective Leo Thorne",
+      "role": "Antagonist / Red Herring / Complicated Ally",
+      "description": "A weary, pragmatic homicide detective. Initially suspects Evelyn due to her proximity and unique access. His world is one of facts and forensics, clashing with Evelyn's sensory intuition.",
+      "arc": "From viewing Evelyn as a suspect or a vulnerable witness to recognizing the validity of her unique perception. Learns to listen in a new way, moving from skepticism to a grudging partnership and respect."
+    },
+    {
+      "name": "Alistair Vance",
+      "role": "Victim / Figure of the Past",
+      "description": "Evelyn's late father, a celebrated and charismatic gallery owner. His murder is the catalyst. His legacy is one of artistic perfection, but the investigation reveals hidden layers, secrets, and a possible darker side to his curated world.",
+      "arc": "Posthumous arc from an idealized figure of artistic integrity to a complex man with enemies and secrets, whose final, unfiltered recording holds the key to the truth."
+    },
+    {
+      "name": "The Listener (Unrevealed)",
+      "role": "True Antagonist / Shadow",
+      "description": "An unknown figure implicated by the final record. Someone who was present in the White Room, who listened to Alistair work, and who is now listening to Evelyn. Represents the pervasive, threatening silence that is actually occupied.",
+      "arc": "Represents the ongoing mystery. Their arc is the uncovering of their identity and motive, moving from a hidden presence in the silence to a tangible threat."
+    }
+  ],
+  "themes": [
+    "Perception vs. Reality: How different senses (sight vs. sound) construct different truths.",
+    "The Beauty of Damage: That broken things can hold more truth and beauty than perfect facades (Kintsugi philosophy).",
+    "The Corruption of Perfection: The sterile, controlled art world hiding violence and deceit.",
+    "Sonic Memory: The past as a recording, embedded in objects and spaces, waiting to be played back.",
+    "Isolation and Connection: Evelyn's physical isolation versus her deep connection to the hidden histories of objects and sounds."
+  ],
+  "narrative_voice": "Close third-person, primarily from Evelyn's perspective. The prose is rich with synesthetic, sensory detail (especially auditory and tactile), mapping the world through her perception. It becomes more visceral and less clinical as the mystery deepens.",
+  "tone": "Atmospheric, tense, and intellectually suspenseful. Begins with a cool, clinical precision that gradually fractures into something warmer, more chaotic, and more threatening. Undercurrent of melancholy and profound curiosity.",
+  "plot_summary": "Evelyn Vance, a blind art conservator who perceives the world through sound, discovers her father, gallery owner Alistair Vance, murdered in the pristine silence of the White Room conservation chamber. The apparent suspect is Detective Thorne, who was investigating Alistair for fraud. Using her unique ability to 'read' the sonic history of the space and the shattered glass artwork at the crime scene, Evelyn uncovers a truth Thorne missed: her father was creating a secret, honest record of his confession on vinyl, embedded within the glass. Thorne is apprehended, but the case feels unresolved. The hook arrives\u2014a new vinyl recording of her father working, with evidence of a second, unknown listener in the room. Evelyn realizes the killer is still free, someone who shared that silent space and is now listening to her, turning her greatest asset\u2014her attunement to sound\u2014into a vulnerability. The mystery is not closed; it has just begun playing a new track."
+}

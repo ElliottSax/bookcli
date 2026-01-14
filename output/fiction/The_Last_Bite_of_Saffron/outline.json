@@ -1,0 +1,149 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Poisoned Palate",
+      "summary": "Elara Vance, running her food truck, learns that the infamous critic Anton Volkov has died at an exclusive supper club after tasting a perfect replica of the 'Saffron Symphony,' a dish lost with her mentor's death.",
+      "key_events": [
+        "Elara serves late-night customers at her truck, 'The Rusty Skillet.'",
+        "News breaks on a food blog about Volkov's dramatic death at the secretive 'Cellar Door' supper club.",
+        "The fatal dish is described in detail\u2014it's unmistakably her mentor Chef Aris Thorne's legendary, impossible recipe.",
+        "Elara receives a cryptic, anonymous note: \"They're coming for you again.\""
+      ],
+      "ending_hook": "A detective arrives at her truck, not to ask questions about Volkov, but to inform her that Aris Thorne's cold case has been reopened."
+    },
+    {
+      "number": 2,
+      "title": "Ghosts in the Kitchen",
+      "summary": "Elara is forced to revisit her past as she's questioned about both deaths. She decides she must infiltrate the underground culinary world to find answers.",
+      "key_events": [
+        "Detective Kaito Reyes interviews Elara, revealing Volkov was murdered with a rare, culinary-grade toxin.",
+        "Elara visits the closed-down restaurant where Aris died, flooded with painful memories.",
+        "She uses an old contact to get an invite to the next 'Cellar Door' event.",
+        "She discovers her mentor's private recipe journal is missing from his archived belongings."
+      ],
+      "ending_hook": "Her invitation to the supper club arrives, but it's marked with a strange symbol that was Aris's secret sigil for 'danger.'"
+    },
+    {
+      "number": 3,
+      "title": "Supper Club Underground",
+      "summary": "Elara attends the elusive Cellar Door, posing as a wealthy gastronome, and meets the host, the enigmatic Chef Lysander.",
+      "key_events": [
+        "Elara descends into a hidden, opulent dining room beneath a wine warehouse.",
+        "She meets Lysander, a charming but intense chef who speaks of food as 'alchemy.'",
+        "She recognizes a sous-chef in the kitchen\u2014Marlow, a disgruntled former rival from her old fine-dining days.",
+        "During the meal, a whispered conversation suggests Volkov was blackmailing several chefs."
+      ],
+      "ending_hook": "Lysander serves a palate cleanser that features a flavor combination known only to Aris and Elara, making direct eye contact with her."
+    },
+    {
+      "number": 4,
+      "title": "The Recipe Heir",
+      "summary": "Elara investigates Lysander's past and discovers a hidden connection to her mentor. Meanwhile, another attendee of the fatal dinner is threatened.",
+      "key_events": [
+        "Research reveals Lysander staged at Aris's restaurant briefly, years ago, under a different name.",
+        "Elara tracks down a sommelier from the fatal dinner who is now terrified; he gives her a partial list of that night's guests before fleeing.",
+        "She finds a hidden compartment in her old chef's knife roll containing a faded photo of Aris with a young Lysander.",
+        "Detective Reyes warns her to back off, as the toxin has been linked to a specialized black-market network."
+      ],
+      "ending_hook": "The sommelier is found dead, an apparent suicide, with saffron threads clutched in his hand."
+    },
+    {
+      "number": 5,
+      "title": "Bitter Rivals and Old Flames",
+      "summary": "The list leads Elara to confront figures from her past, including her ex-boyfriend and now-star chef, Leo, and her former best friend, pastry chef Simone.",
+      "key_events": [
+        "Leo denies involvement but reveals Volkov was about to publish a career-ending review of his new restaurant.",
+        "Simone, now a food influencer, is hostile and blames Elara for destroying their friendship and careers a decade ago.",
+        "Elara realizes the perfect replication of the Saffron Symphony required knowledge from Aris's inner circle.",
+        "She is nearly hit by a car outside Simone's bakery."
+      ],
+      "ending_hook": "Leo secretly passes her a USB drive, saying, \"Aris gave this to me for safekeeping. I was too jealous to ever give it to you.\""
+    },
+    {
+      "number": 6,
+      "title": "The Mentor's Legacy",
+      "summary": "The USB contains fragmented video diaries from Aris, hinting at a grand, unfinished culinary project and his fears of being stolen from.",
+      "key_events": [
+        "Aris speaks of a 'Culinary Circle' seeking to control innovation through intimidation and theft.",
+        "He mentions a 'prot\u00e9g\u00e9 who turned viper' but doesn't name them.",
+        "He references a safe deposit box containing his 'true masterpiece.'",
+        "In the final video, he seems paranoid, saying, \"The Saffron Symphony is the key, but also the poison.\""
+      ],
+      "ending_hook": "The video cuts out as Aris hears a noise in his restaurant's kitchen\u2014the night he died."
+    },
+    {
+      "number": 7,
+      "title": "The Black Market Gourmet",
+      "summary": "Elara traces the toxin to a shadowy dealer who trades in rare ingredients and information, learning the poison was specifically requested for Volkov.",
+      "key_events": [
+        "Using her underground contacts, Elara finds the dealer in a hidden spice market.",
+        "The dealer, known as 'The Curator,' implies the buyer was a chef seeking 'poetic justice.'",
+        "She obtains a list of ingredients for the replicated Saffron Symphony, noting one is a rare saffron variant thought extinct.",
+        "The Curator warns her that the Culinary Circle is real and is watching her."
+      ],
+      "ending_hook": "As she leaves, she spots Marlow (the rival sous-chef) slipping into The Curator's back room."
+    },
+    {
+      "number": 8,
+      "title": "A Feast of Lies",
+      "summary": "Elara stages a confrontation at a high-profile chef's gala, hoping to force the killer's hand, but the plan backfires spectacularly.",
+      "key_events": [
+        "Elara publicly accuses Lysander of stealing Aris's work, creating a scene.",
+        "Lysander produces a signed document, claiming Aris willingly gifted him the recipe framework years ago.",
+        "Simone unexpectedly supports Lysander, revealing Elara's history of 'unstable behavior.'",
+        "Detective Reyes is forced to detain Elara for disrupting the investigation."
+      ],
+      "ending_hook": "Released from questioning, Elara finds her food truck has been vandalized, with the word \"LIAR\" painted in saffron paste."
+    },
+    {
+      "number": 9,
+      "title": "The Lost Masterpiece",
+      "summary": "Following Aris's clue, Elara finds the safe deposit box, which contains not a recipe, but evidence pointing to the true motive for both murders.",
+      "key_events": [
+        "The box holds Aris's annotated copy of 'The Art of Cookery' from 1747, with coded notes in the margins.",
+        "Deciphered, the notes reveal the Saffron Symphony was more than a dish; it was a proof-of-concept for a sustainable, revolutionary farming method that would disrupt global spice trade.",
+        "Aris's last entry names his 'viper': the prot\u00e9g\u00e9 who sold the secret to a corporate food conglomerate.",
+        "A shareholder report in the box implicates the conglomerate's CEO\u2014and Anton Volkov was their silent partner."
+      ],
+      "ending_hook": "Lysander confronts Elara at the bank, not with anger, but with fear. \"Now you see it,\" he says. \"They killed Aris for his future, not his food. And they'll kill us too.\""
+    },
+    {
+      "number": 10,
+      "title": "The Cook's Confession",
+      "summary": "Under pressure, a key suspect breaks, but the confession leads to a trap. Elara and Lysander form an uneasy alliance.",
+      "key_events": [
+        "Marlow, cornered, confesses to stealing Aris's journal for Lysander but claims he didn't know about the murders.",
+        "He reveals the conglomerate pressured Volkov to sabotage any chef close to replicating Aris's work.",
+        "Marlow agrees to give them the journal, but the meet is a setup; they're ambushed by a corporate security team.",
+        "Elara and Lysander escape using their kitchen skills in a chaotic, culinary-themed chase through a farmers market."
+      ],
+      "ending_hook": "Safe but shaken, Lysander admits he recreated the dish to lure out Aris's killer, never intending anyone to die. He gives Elara the stolen journal."
+    },
+    {
+      "number": 11,
+      "title": "The Final Course",
+      "summary": "The journal contains the final piece of the puzzle. Elara organizes a clandestine dinner, inviting all suspects, to present her findings and unmask the killer.",
+      "key_events": [
+        "Using her truck, Elara prepares a meal that tells the story of Aris's discovery, betrayal, and murder.",
+        "Detective Reyes and the suspects (Leo, Simone, Marlow, corporate representatives) are in attendance.",
+        "She explains how the killer needed to silence Volkov because the critic, facing his own mortality, had decided to expose the conglomerate's dealings.",
+        "She demonstrates how only one person had the skill, opportunity, and motive to poison the specific dish served to Volkov."
+      ],
+      "ending_hook": "Elara turns to the killer and says, \"You didn't just kill for money or revenge. You killed to keep the future of food in the wrong hands.\" The killer stands, a chef's knife gleaming in their hand."
+    },
+    {
+      "number": 12,
+      "title": "A New Recipe",
+      "summary": "The confrontation culminates, the truth is revealed, and Elara finds a way to honor her mentor's legacy while reclaiming her own future.",
+      "key_events": [
+        "The killer is revealed to be Simone, who, driven by ambition and resentment, became the conglomerate's inside agent. She poisoned Volkov to protect her stake in the stolen technology.",
+        "A struggle ensues, but Detective Reyes arrests Simone, with evidence provided by Elara and Lysander.",
+        "Elara's name is publicly cleared in Aris's death. The conglomerate faces investigation.",
+        "Elara, with Lysander's help, publishes Aris's revolutionary work open-source, giving it to the world.",
+        "She reopens her food truck, but now with a new purpose and a new, hopeful name."
+      ],
+      "ending_hook": "As she serves her first dish at the renamed truck, a familiar face joins the line\u2014Detective Reyes, off-duty, asking for her recommendation with a genuine smile. She hands him a plate, saying, \"Try this. It's a work in progress.\""
+    }
+  ]
+}

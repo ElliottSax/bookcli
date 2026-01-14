@@ -1,0 +1,45 @@
+{
+  "title": "The Last Girl at the End of Time",
+  "genre": "horror",
+  "subgenre": "cosmic horror, psychological horror, post-apocalyptic",
+  "setting": {
+    "time_period": "Indeterminate, post-event. A timeless 'after' following a ritual that fractured reality.",
+    "locations": [
+      "Lark's Hollow: A once-quaint, isolated mountain town, now a distorted reflection of itself with wrong-angled buildings and unnatural silence.",
+      "The Town Square: The epicenter of the ritual, marked by cold cobblestones and a permanent bruise-purple sky.",
+      "The Apothecary: Old Man Henderson's shop, a place of potential knowledge and unnatural leaning.",
+      "The World Beyond: A waking, scarred landscape hinted at in the ending, with broken roads and a newly restored, yet terrifyingly vast, blue sky."
+    ],
+    "atmosphere": "A profound, existential silence punctuated by sensory wrongness. Deep, soul-chilling cold, metallic ozone and cloying rot smells, static and bruised skies. A feeling of being utterly alone in a universe that has been fundamentally wounded."
+  },
+  "characters": [
+    {
+      "name": "Elara",
+      "role": "Protagonist, Sole Survivor, Sentinel",
+      "description": "A young woman with fragmented memories. She is physically marked by the ritual (copper taste, stiffness, headache) and psychically scarred. She is pragmatic, observant, and resilient, forced to navigate a reality she no longer understands.",
+      "arc": "From a confused victim waking in a nightmare, to understanding she is the unintended product and container of a cosmic ritual. She evolves from seeking her past to accepting her new role as a lock on a door, a living warning system, and a map to a cosmic wound. Her journey becomes one of lonely, purposeful exploration."
+    },
+    {
+      "name": "The Presence / The Enemy",
+      "role": "Antagonist, Cosmic Entity",
+      "description": "An unimaginable, vast consciousness from outside time and space. It was summoned or attracted by the ritual in Lark's Hollow. It doesn't think in human terms; its 'touch' is an act of ontological consumption or rewriting. It is now wounded and repelled, but not destroyed.",
+      "arc": "From a consuming, imminent force bleeding into reality, to a repelled and wounded entity exiled back to its own dimension. Its state has changed from active invasion to a distant, painful resonance that Elara alone can sense."
+    },
+    {
+      "name": "The Townspeople of Lark's Hollow",
+      "role": "Catalysts, Victims",
+      "description": "Seen only in memory and consequence. They performed a ritual (bells, chanting) that sought something\u2014perhaps transcendence, perhaps an end\u2014but instead breached the walls of reality. Their fate is ambiguous but presumed to be total erasure or assimilation.",
+      "arc": "From hopeful or desperate ritualists to being utterly unmade, leaving only the distorted shell of their town and Elara, their final, flawed offering."
+    }
+  ],
+  "themes": [
+    "The Price of Knowledge: The catastrophic result of seeking to understand or touch forces beyond human comprehension.",
+    "Alienation and Isolation: Being the last conscious being in a changed world, and the isolation of carrying a unique, terrifying burden.",
+    "Identity and Memory: Constructing a self from fragments after a traumatic erasure of the past.",
+    "Cosmic Indifference/Hostility: The universe as a place containing active, destructive intelligences for which humanity is incidental.",
+    "Resilience as a Curse: Survival not as a triumph, but as a transformation into a tool or a warning for a threat no one else can perceive."
+  ],
+  "narrative_voice": "Close third-person, focused intensely on Elara's sensory experience and fractured internal state. The prose is lyrical yet visceral, blending stark physical description with metaphors of broken glass, static, and wounds to convey psychological and cosmic dislocation.",
+  "tone": "Dread-filled, melancholic, and profoundly lonely. Moments of eerie beauty (the yellow flower, the new sun) are undercut by the horror of their context. The terror is less about jump scares and more about the sustained, uncanny wrongness of reality and the weight of existential responsibility.",
+  "plot_summary": "Elara wakes alone in her hometown of Lark's Hollow after a catastrophic ritual has ended. The world is physically and metaphysically broken: the sky is a static purple, the buildings stand at wrong angles, and a deep cold and unnatural silence pervade everything. Her memories are shattered, recalling only fragments of bells, chanting, and a terrifying light. As she explores, she realizes she is utterly alone, the last survivor. The story follows her struggle to understand what happened, grappling with the loss of her past and the horrifying reality of her present. She discovers that the ritual succeeded in contacting\u2014or attracting\u2014a vast, cosmic entity (The Enemy) that began to consume reality itself. In a final confrontation, she learns she was not merely spared; she was fundamentally altered. The ritual used her as a focal point, and in the moment of the entity's touch, something broke\u2014in it, and in her. She became a 'lock' that forced it back, wounded. The story ends not with a return to normalcy, but with a transformation. The immediate threat is gone, the sky returns to blue, but Elara is forever changed. She carries within her a resonant scar, a map to the wounded entity's nature. She accepts her new purpose as a sentinel, the only being aware of the cosmic wound, and sets out into the scarred world, not to find home, but to understand her new role as the warning system for a threat that still exists at the edges of reality."
+}

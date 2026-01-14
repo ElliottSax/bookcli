@@ -1,0 +1,67 @@
+{
+  "title": "The Opposite of Vanishing",
+  "genre": "Literary Fiction",
+  "subgenre": "Contemporary Drama",
+  "setting": {
+    "time_period": "Present day, spanning eighteen months",
+    "locations": [
+      {
+        "name": "Tern Harbor",
+        "description": "A fading coastal town in Maine where the protagonist grew up, characterized by weathered clapboard houses, abandoned canneries, and a harbor that has seen better days"
+      },
+      {
+        "name": "Boston",
+        "description": "The protagonist's adopted city, represented through her small apartment in Jamaica Plain and the university archive where she works"
+      },
+      {
+        "name": "The family home",
+        "description": "A Victorian house on Osprey Lane that has been in the family for four generations, now falling into disrepair after the mother's death"
+      }
+    ],
+    "atmosphere": "Elegiac and contemplative, with the ever-present fog and salt air of coastal Maine serving as a metaphor for memory and loss. The story moves between the claustrophobic intimacy of small-town life and the anonymity of urban existence."
+  },
+  "characters": [
+    {
+      "name": "Iris Callahan",
+      "role": "Protagonist",
+      "description": "A 34-year-old archivist who specializes in preserving ephemera - postcards, ticket stubs, handwritten notes. She left Tern Harbor at eighteen and has spent sixteen years building a life defined by what she chose to leave behind. Quiet and observant, she has made herself small to avoid the weight of expectation.",
+      "arc": "Iris begins the novel emotionally absent, having perfected the art of partial presence. Her mother's death forces her return to Tern Harbor, where she must confront not just the physical remnants of her past but the person she might have become. Through cataloging her mother's belongings and reconnecting with those she left behind, she learns that the opposite of vanishing is not simply appearing - it is choosing to be witnessed, with all the vulnerability that entails."
+    },
+    {
+      "name": "Eleanor Callahan",
+      "role": "Deceased mother / presence through absence",
+      "description": "A former marine biologist who gave up her career to raise Iris and care for her own ailing mother. She appears only through letters, photographs, and the memories of others, yet she dominates the narrative. She was complicated - loving but distant, brilliant but unfulfilled.",
+      "arc": "Eleanor's arc is revealed posthumously. Through Iris's discoveries, we learn that Eleanor had been writing a memoir about the women in their family who stayed versus those who left. Her death before completing it becomes the central mystery and gift of the novel."
+    },
+    {
+      "name": "Samuel Reyes",
+      "role": "Secondary protagonist / love interest",
+      "description": "A 38-year-old lobsterman and woodworker who was Iris's first love. He chose to stay in Tern Harbor when she left, a decision she interpreted as a lack of ambition but which was actually a profound act of rootedness. He is raising his teenage daughter alone after his wife's departure.",
+      "arc": "Samuel begins as a reminder of what Iris abandoned. His quiet constancy challenges her assumption that leaving was brave while staying was surrender. Through their rekindled connection, he must also confront his own tendency to define himself entirely by duty and place."
+    },
+    {
+      "name": "Margot Weir",
+      "role": "Supporting character / catalyst",
+      "description": "Eleanor's closest friend and Iris's godmother, a 67-year-old retired English teacher who never married and has made peace with solitude. She holds secrets about Eleanor that she has kept for decades.",
+      "arc": "Margot serves as the bridge between past and present. Her gradual revelations about Eleanor's inner life transform Iris's understanding of her mother. In sharing these truths, Margot also releases herself from the burden of being Eleanor's keeper."
+    },
+    {
+      "name": "Wren Reyes",
+      "role": "Supporting character",
+      "description": "Samuel's 15-year-old daughter, named after a bird like Iris. Artistic and sharp-tongued, she is struggling with her own questions about leaving versus staying. She sees in Iris both a warning and a possibility.",
+      "arc": "Wren begins hostile toward Iris, viewing her as proof that people who leave don't deserve to return. Through their unexpected connection over art and archives, Wren comes to understand that identity is not fixed by geography."
+    }
+  ],
+  "themes": [
+    "The weight of inheritance - both what we receive and what we refuse",
+    "Presence and absence as active choices rather than passive states",
+    "The archaeology of family memory and the stories we tell ourselves",
+    "Place as identity: what it means to stay, to leave, to return",
+    "The courage required to be fully seen",
+    "Grief as a form of continued relationship",
+    "The difference between preservation and living"
+  ],
+  "narrative_voice": "Close third person, primarily following Iris but with occasional shifts to Samuel and Wren. The prose is precise and image-driven, reflecting Iris's archivist sensibility - she notices details others miss but struggles to see the larger patterns of her own life. The narrative moves fluidly between present action and memory, mirroring the novel's thematic concern with how the past persists in the present.",
+  "tone": "Lyrical but restrained, melancholic without being maudlin. There is an undercurrent of dry humor, particularly in the dialogue, that prevents the emotional weight from becoming oppressive. The novel earns its moments of grace through unflinching honesty about loss and regret.",
+  "plot_summary": "When archivist Iris Callahan receives word that her estranged mother Eleanor has died, she returns to Tern Harbor, Maine, for the first time in sixteen years. What was meant to be a brief trip to settle the estate becomes an extended reckoning as Iris discovers that her mother left behind an unfinished memoir and a house full of carefully preserved artifacts from their family's past. Tasked with sorting through four generations of accumulated life, Iris begins to understand that her mother's obsessive preservation was not hoarding but a form of love letter - to the town, to the family line, to the daughter who left.\n\nAs Iris catalogs her mother's belongings, she reconnects with Samuel Reyes, her first love who chose to build his life in the place she fled. Their cautious reunion forces both to examine the narratives they've constructed about their choices. Samuel introduces Iris to his daughter Wren, a teenager whose artistic talent and restlessness remind Iris uncomfortably of her younger self. Through Wren's eyes, Iris sees how her own departure was received by those who remained - not as escape but as abandonment.\n\nThe novel builds toward Iris's decision about what to do with the family home and her mother's incomplete memoir. Guided by revelations from her godmother Margot, Iris discovers that Eleanor had once been offered a prestigious research position that would have taken her away from Tern Harbor - and that she turned it down not out of obligation but out of a love for place that Iris never understood. In the end, Iris chooses to complete her mother's work, not by finishing the memoir but by finding a new form for it: a living archive that honors both staying and leaving, presence and absence. The opposite of vanishing, she realizes, is not permanence but participation - the choice to be part of an ongoing story rather than a footnote in someone else's."
+}

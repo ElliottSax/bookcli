@@ -1,0 +1,64 @@
+{
+  "title": "The Marmalade Manuscript",
+  "genre": "mystery",
+  "subgenre": "Cozy Mystery / Literary Mystery",
+  "setting": {
+    "time_period": "Present day, with flashbacks to the mid-20th century (1950s-60s).",
+    "locations": [
+      "Honeywick: A picturesque, seemingly idyllic village in the Cotswolds.",
+      "Marmalade Nook: Eleanor's inherited stone cottage, cluttered with books, preserves, and hidden history.",
+      "The Village Church & Rectory: The domain of the respected Albright family.",
+      "Pennyworth's Bookshop & Apothecary: A dusty, mysterious shop in the village.",
+      "London Archives: Eleanor's former professional habitat, representing her old life."
+    ],
+    "atmosphere": "A surface layer of pastoral English charm\u2014rolling hills, honey-stone cottages, village fetes\u2014underpinned by a deep, damp sense of lingering secrets, repressed memories, and the bittersweet tang of preserved history (both in jars and in pages). The weather is often damp, with rain blurring the lines between past and present."
+  },
+  "characters": [
+    {
+      "name": "Eleanor Vance",
+      "role": "Protagonist",
+      "description": "A late-20s/early-30s archivist from London, precise, emotionally reserved, and weary of urban anonymity. She is perceptive but burdened by a quiet guilt over her neglected familial connections.",
+      "arc": "From a detached cataloguer of the past to an active, emotionally engaged unraveler of a personal and village history. She learns to connect with her aunt's legacy and her own capacity for courage and confrontation, finding a sense of belonging she lacked in the city."
+    },
+    {
+      "name": "Agatha Vance (deceased)",
+      "role": "Catalyst / Hidden Investigator",
+      "description": "Eleanor's eccentric aunt, the former owner of Marmalade Nook. A maker of mysterious marmalades and a compulsive collector of ephemera\u2014books, letters, recipes, newspaper clippings. She was privately obsessed with a local unsolved disappearance.",
+      "arc": "Posthumously revealed from a figure of quaint eccentricity to a dogged, secret researcher who pieced together a dangerous truth, leaving her findings as a coded legacy for Eleanor to complete."
+    },
+    {
+      "name": "Reverend Michael Albright",
+      "role": "Antagonist / Tragic Figure",
+      "description": "The current, kindly village rector, in his 60s. He is a pillar of the community, respected and beloved. He projects warmth and stability but carries a profound, weary sadness and a palpable tension when the past is mentioned.",
+      "arc": "The revelation of his arc is the mystery's core. He is the keeper of his father's terrible secret, having lived a life of atonement and silent vigilance to protect his father's reputation and the village's peace, while being slowly eroded by the guilt of his complicity through silence."
+    },
+    {
+      "name": "The Late Reverend Charles Albright",
+      "role": "Historical Antagonist",
+      "description": "Michael's father, the former rector. Charismatic, darkly magnetic, with a terrifying temper masked by eloquent piety. A man who used his spiritual authority to mask predatory behavior and profound moral corruption.",
+      "arc": "His hidden history of manipulation and possible crime, culminating in the disappearance of Lily, is the buried truth that the narrative exhumes."
+    },
+    {
+      "name": "Lily",
+      "role": "The Ghost / Victim",
+      "description": "A bright, young village girl from the 1950s/60s, remembered in fragments\u2014a yellow dress, a love of poetry, a radiant lightness. Her unexplained disappearance is the cold case at the story's heart.",
+      "arc": "Her story moves from a vague historical footnote to a reclaimed identity and tragedy, giving voice to the silenced."
+    },
+    {
+      "name": "Mr. Pennyworth",
+      "role": "Keeper of Secrets / Ally",
+      "description": "The elderly, enigmatic proprietor of the village bookshop/apothecary. He possesses an uncanny knowledge of the village's layered history and its inhabitants' hidden connections. Serves as a guide and a source of cryptic clues.",
+      "arc": "Moves from a peripheral, slightly odd figure to a crucial ally who confirms Eleanor's discoveries and provides the final pieces of the puzzle, having silently observed the truth for decades."
+    }
+  ],
+  "themes": [
+    "The Preservation of Truth vs. The Preservation of Peace",
+    "The Legacy of Silence and Complicity",
+    "History as a Palimpsest (layers of story written over hidden truths)",
+    "The Search for Belonging and Identity",
+    "The Domestic as a Site of Mystery (preserves, recipes, cottages, hymnals)"
+  ],
+  "narrative_voice": "Close third-person, primarily from Eleanor's perspective. The prose is precise and observational, mirroring her archival mind, but becomes increasingly lyrical and emotionally resonant as she connects with the past and the landscape.",
+  "tone": "Bittersweet, atmospheric, and quietly suspenseful. It balances the cozy, sensory details of village life and cottage interiors with a growing, chilling unease as polite facades crack. The resolution is poignant rather than triumphant, emphasizing the weight of revealed truth.",
+  "plot_summary": "Archivist Eleanor Vance inherits her eccentric aunt Agatha's cottage in the village of Honeywick. Among the clutter of marmalade recipes and ephemera, she uncovers her aunt's secret investigation into the decades-old disappearance of a young girl, Lily. Eleanor's archival skills allow her to decode clues hidden in Agatha's 'marmalade manuscripts'\u2014coded notes in ledgers, poems in hymnals, and patterns in preserved ingredients. The trail points disturbingly towards the village's beloved institution: the rectory, and the family of rectors, the Albrights. As Eleanor pieces together the story, she realizes the current, kindly Reverend Michael Albright is living a life of quiet atonement for the sins of his charismatic, predatory father. The mystery culminates not in a public scandal, but in a private, devastating confrontation in the rectory kitchen, where Eleanor presents her findings and Reverend Albright, in a moment of shattering relief and grief, confesses to a lifetime of guarding his father's dark secret, finally allowing the buried truth of Lily's fate to come to light."
+}

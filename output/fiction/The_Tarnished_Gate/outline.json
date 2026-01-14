@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Severed Path",
+      "summary": "Dr. Alistair Finch loses everything after a high-profile surgical failure and a damning malpractice suit. Desperate and fleeing public ruin, he stumbles into an ancient, forgotten archway in a city park during a storm.",
+      "key_events": [
+        "Alistair's malpractice verdict is read, stripping him of his license.",
+        "He confronts the grieving family of his patient, deepening his shame.",
+        "Fleeing reporters, he takes refuge in a historic, storm-battered park.",
+        "He finds a strange, metallic archway humming with energy.",
+        "Touching it, he is violently pulled through into blinding light."
+      ],
+      "ending_hook": "Alistair awakens on alien soil, beneath a sickly green sun, with robed figures kneeling around him, chanting a single word: 'Mender.'"
+    },
+    {
+      "number": 2,
+      "title": "The Dying World's Diagnosis",
+      "summary": "Alistair is brought to the crumbling city of Elyria, where he learns of the world's decay\u2014the 'Withering'\u2014and the prophecy of a Healer from beyond the Tarnished Gate who can perform miracles of flesh and spirit.",
+      "key_events": [
+        "He is escorted by the devout, yet grim, Captain Kael.",
+        "He meets the frail Pontifex, spiritual leader of Elyria.",
+        "Shown the 'Withering': living things slowly petrify into grey dust.",
+        "The prophecy is revealed: the Mender will heal the 'Heart of the World'.",
+        "Alistair's protests of being a mere surgeon are seen as holy humility."
+      ],
+      "ending_hook": "The Pontifex presents the first 'test': a child noble, her body half-petrified. The procedure required, Alistair realizes with horror, is not in any medical textbook."
+    },
+    {
+      "number": 3,
+      "title": "The First Sacrifice",
+      "summary": "Facing the dying child and pressured to prove his divinity, Alistair is instructed in the world's brutal 'medical' magic: the Transference. To heal one, the essence\u2014the 'Vital Glimmer'\u2014must be taken from another.",
+      "key_events": [
+        "Alistair is given ancient, scalpels that glow with faint magic.",
+        "The Pontifex explains the theory of Vital Essence transfer.",
+        "A condemned prisoner is brought forth as the 'donor'.",
+        "Alistair, to save the child, performs the agonizing procedure.",
+        "He successfully transfers the Glimmer, healing the child but killing the donor."
+      ],
+      "ending_hook": "The child lives, and the city erupts in celebration, but Alistair sees the dead donor's empty eyes. In his hand, the scalpel now pulses with a faint, stolen warmth."
+    },
+    {
+      "number": 4,
+      "title": "The Anatomy of a Miracle",
+      "summary": "Celebrated as a saint, Alistair is given his own infirmary. He struggles to adapt his surgical skills to this magical system, discovering he has an innate, terrifying talent for sensing and extracting Vital Glimmer.",
+      "key_events": [
+        "Alistair establishes a 'hospital' in a tower of the citadel.",
+        "He trains local apprentices in basic, non-magical anatomy and hygiene.",
+        "He experiments, learning he can take small amounts of Glimmer from plants or animals, but it's weak and inefficient.",
+        "A critically wounded guard arrives; only a major Transference from a volunteer can save him.",
+        "Alistair performs it, saving the guard but leaving the volunteer permanently frail."
+      ],
+      "ending_hook": "Captain Kael coldly informs him that volunteers for the 'noble sacrifice' are dwindling, and soon the Council will mandate the use of criminals... or the 'unworthy'."
+    },
+    {
+      "number": 5,
+      "title": "The Heretic's Clinic",
+      "summary": "Haunted, Alistair secretly treats the poor and the 'unworthy' using his non-magical skills and stolen supplies. He befriends Elara, a heretic scholar who believes the Withering is a spiritual, not physical, disease.",
+      "key_events": [
+        "Alistair sneaks into the slums to treat infections and injuries.",
+        "He meets Elara, who is hunted for her blasphemous theories.",
+        "She shows him ancient texts suggesting the Withering began when the first 'Mender' harvested essence.",
+        "They discover his magical scalpels were forged to contain and magnify stolen life.",
+        "Kael discovers his secret clinic and threatens to expose him."
+      ],
+      "ending_hook": "Elara is captured by the Pontifex's zealots. To save her from execution, Alistair must publicly denounce her and perform a grand, televised Transference for the ruling council."
+    },
+    {
+      "number": 6,
+      "title": "The Public Procedure",
+      "summary": "In a grand plaza, Alistair is forced to perform a high-stakes Transference to heal the Pontifex's wasting illness, using a branded heretic (not Elara) as the donor, solidifying his role as the regime's tool.",
+      "key_events": [
+        "The spectacle is staged to unite the city and crush heresy.",
+        "The donor is a defiant old man who curses Alistair with his last breath.",
+        "Alistair performs the procedure with detached, surgical precision, a part of him shutting down.",
+        "The Pontifex is revitalized, his power cemented.",
+        "Alistair is hailed; the crowd's adoration feels like ashes in his mouth."
+      ],
+      "ending_hook": "After the ceremony, Kael privately offers Alistair a way home: a fabled 'Key' that can reopen the Tarnished Gate, but only after he heals the 'Heart of the World'\u2014a task requiring unimaginable sacrifice."
+    },
+    {
+      "number": 7,
+      "title": "The Cost of the Key",
+      "summary": "Alistair learns the 'Heart of the World' is a colossal, crystalline tree deep in the petrified wastes. To heal it requires a single, massive Transference from a being of pure essence\u2014one of the innocent, long-lived 'Spirit-Touched' folk.",
+      "key_events": [
+        "Kael reveals the full prophecy and the location of the Heart.",
+        "An expedition is mounted to journey to the petrified wastes.",
+        "Elara, now secretly freed by Alistair, joins disguised as a porter.",
+        "They encounter the Spirit-Touched: peaceful, luminous beings in harmony with the dying world.",
+        "Alistair realizes the 'donor' must be a child of this race."
+      ],
+      "ending_hook": "The Pontifex's vanguard captures a young Spirit-Touched boy. Kael presents him to Alistair, stating the final procedure will commence at dawn at the Heart."
+    },
+    {
+      "number": 8,
+      "title": "The Oath Broken",
+      "summary": "At the foot of the dying crystalline Heart, Alistair prepares for the ultimate surgery. Torn between his oath to 'do no harm,' his desperate desire for redemption at home, and the fate of two worlds, he confronts his own corruption.",
+      "key_events": [
+        "Elara pleads with him, arguing that killing the Heart's guardian race is the true cause of the Withering.",
+        "Alistair reviews his old life, his failure, and the faces of those he's sacrificed here.",
+        "The Pontifex and Kael pressure him, invoking the salvation of millions.",
+        "He holds the glowing scalpel to the sleeping Spirit-Touched child.",
+        "In a flash of clarity, he sees the Glimmer within the child not as a resource, but as a soul."
+      ],
+      "ending_hook": "Instead of beginning the Transference, Alistair uses his scalpel to sever the boy's bonds, declaring himself a heretic. Kael draws his sword, and the Pontifex's guards close in."
+    },
+    {
+      "number": 9,
+      "title": "The Surgeon's Gambit",
+      "summary": "Chaos erupts. Alistair, Elara, and the freed child flee into the labyrinth of roots beneath the Heart, pursued by Kael's soldiers. Alistair must use his knowledge of both anatomy and the terrain to survive.",
+      "key_events": [
+        "A frantic chase through the petrified catacombs beneath the tree.",
+        "Alistair performs a brutal, non-magical 'surgery' on a pursuing soldier to disable him.",
+        "Elara reveals a hidden chamber showing the Heart is not sick\u2014it's been poisoned by centuries of stolen essence.",
+        "The child, named Lumen, communicates that the Heart can be cleansed, not healed through more theft.",
+        "Kael corners them at a chasm over a river of glowing essence."
+      ],
+      "ending_hook": "To save the others, Alistair turns to fight Kael, but the Captain disarms him easily. As Kael prepares to strike, the ground trembles\u2014the Heart, reacting to Lumen's distress, begins to actively collapse."
+    },
+    {
+      "number": 10,
+      "title": "The True Procedure",
+      "summary": "As the cavern collapses, Alistair realizes the true 'surgery' is a detoxification. He must channel the poisoned, stagnant essence *out* of the Heart and safely disperse it, using himself as a conduit and his scalpels as filters.",
+      "key_events": [
+        "Lumen shows Alistair how to connect with the Heart's core.",
+        "The procedure is incredibly dangerous\u2014it could petrify him instantly.",
+        "Elara and Lumen hold off Kael and the collapsing structure.",
+        "Alistair plunges his magical scalpels into the Heart's core, beginning the agonizing channeling.",
+        "Poisoned essence floods into him, beginning to turn his own flesh to stone."
+      ],
+      "ending_hook": "The purified essence flows back into the world, and green life briefly flashes across the wastes. But Alistair is left partially petrified, on the verge of death, the corrupted essence trapped within him. The Tarnished Gate, somewhere, flickers open."
+    },
+    {
+      "number": 11,
+      "title": "The Price of Purity",
+      "summary": "Alistair awakens, saved by Lumen's people, but is now a living vessel for the Withering's corruption. The Gate is open, but he is too weak and unstable to travel. Meanwhile, the Pontifex, his power waning with the Heart's cleansing, launches a final assault to seize Alistair and complete the original prophecy by force.",
+      "key_events": [
+        "Alistair is recovering but is now marked with grey petrified veins.",
+        "The Spirit-Touched explain he is now an 'Anchor' for the poison.",
+        "The Gate is seen, active but unstable, in a nearby valley.",
+        "The Pontifex's army arrives, seeking to sacrifice Alistair himself to the Heart to restore the old order.",
+        "Elara and Kael\u2014now questioning his loyalty\u2014must defend the sanctuary."
+      ],
+      "ending_hook": "In the battle's climax, the Pontifex captures Lumen. He offers a trade: the child for the Anchor. Alistair must choose between finally going home through the Gate or giving himself up to save the being who showed him true healing."
+    },
+    {
+      "number": 12,
+      "title": "The Mender's Choice",
+      "summary": "Alistair makes his decision. He surrenders to the Pontifex, but it is a ruse. His final 'surgery' is not a Transference, but a targeted excision\u2014using the last of his strength and the corrupted essence within him, he aims to sever the Pontifex's connection to the stolen magic that sustains him.",
+      "key_events": [
+        "Alistair submits, allowing himself to be taken to the Heart.",
+        "At the moment of 'sacrifice,' he turns the ritual on the Pontifex.",
+        "He performs a psychic, surgical strike, channeling all the poisoned essence he holds into the Pontifex's own life-force.",
+        "The Pontifex crumbles to dust, and the corruptive cycle is broken.",
+        "The Tarnished Gate glows steadily. Alistair is dying, his body nearly fully petrified."
+      ],
+      "ending_hook": "Elara and Lumen bring him to the Gate. He has earned his passage home, but as a broken, dying man. He looks back at the world beginning to heal, then at the path to his own world and a possible malpractice trial. With a final, peaceful breath, he makes his choice\u2014and steps through, not towards home, but into the unknown light, his fate left to the healing world he leaves behind."
+    }
+  ]
+}

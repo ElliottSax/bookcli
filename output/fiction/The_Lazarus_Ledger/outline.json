@@ -1,0 +1,149 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Ghost in the Filing Cabinet",
+      "summary": "Elena Vance, a meticulous forensic archivist, begins her contract digitizing the century-old records of the powerful Lazarus Foundation. While processing donation files, she finds a minor anomaly: a donor whose social security number was issued posthumously.",
+      "key_events": [
+        "Elena is introduced, struggling with financial debt and taking the high-paying Lazarus contract.",
+        "She tours the Foundation's imposing, archive-laden headquarters.",
+        "Her first day reveals the Foundation's pristine public image and vast historical influence.",
+        "The initial anomaly is dismissed as a clerical error by her supervisor."
+      ],
+      "ending_hook": "That night, cross-referencing out of habit, Elena finds a second 'posthumous' donor\u2014a billionaire declared dead in a plane crash five years before his seven-figure donation."
+    },
+    {
+      "number": 2,
+      "title": "A Pattern of Resurrections",
+      "summary": "Elena systematically uncovers more cases, building a secret map of the 'Lazarus Donors'\u2014individuals who made massive contributions after their official deaths. She realizes she's stumbled upon something systemic, not accidental.",
+      "key_events": [
+        "Elena creates a hidden digital ledger of the anomalous donors.",
+        "She identifies commonalities: all were extremely wealthy, all died in ways leaving no body (fires, lost at sea), and all donations occurred within 24 months of their 'death'.",
+        "She attempts a cautious inquiry with a former colleague at the National Archives, who becomes strangely evasive.",
+        "Elena notices her work terminal has been accessed remotely after hours."
+      ],
+      "ending_hook": "A donor file she was reviewing physically disappears from the archive stacks, replaced by a perfect replica missing the anomaly."
+    },
+    {
+      "number": 3,
+      "title": "The First Witness",
+      "summary": "Tracking down a relative of a Lazarus Donor, Elena meets with a grieving sister who reveals her 'deceased' brother sent a cryptic, untraceable letter a year after his funeral.",
+      "key_events": [
+        "Elena lies to her supervisor to take a day off.",
+        "She finds the sister, who is initially hostile but is convinced by Elena's evidence.",
+        "The sister shows the letter: a single phrase, 'The water is calm at Lake Silence,' and a date from two years prior.",
+        "The sister reveals her brother was facing multiple war crimes charges before his 'accidental' death."
+      ],
+      "ending_hook": "Returning home, Elena finds her apartment has been professionally searched, but nothing is taken\u2014a clear warning."
+    },
+    {
+      "number": 4,
+      "title": "Lake Silence",
+      "summary": "Elena travels to the remote location mentioned in the letter, finding an abandoned luxury retreat. She discovers it's a 'waystation' for the Lazarus process.",
+      "key_events": [
+        "Elena arrives at Lake Silence, a eerily perfect community that feels empty.",
+        "She finds a locked cabin and breaks in, discovering it stocked with supplies, new identity documents (for a different person), and a single-use encrypted phone.",
+        "She photographs everything.",
+        "A caretaker arrives, forcing her to flee into the woods."
+      ],
+      "ending_hook": "Hiding, Elena uses the found phone. A voice answers: \"Lazarus Transit. Confirm your package code.\" She freezes, realizing the scale of the operation."
+    },
+    {
+      "number": 5,
+      "title": "Burned",
+      "summary": "Back in the city, Elena's life unravels. The Lazarus Foundation terminates her contract, her bank account is frozen, and her professional credentials are suspended under false allegations.",
+      "key_events": [
+        "Elena is escorted from the Foundation by security, her access revoked.",
+        "Her laptop is remotely wiped.",
+        "Her former colleague at the Archives is found dead, ruled a suicide.",
+        "A mysterious 'benefactor' offers to clear her debts in exchange for her silence and all her data."
+      ],
+      "ending_hook": "Refusing the offer, Elena receives a photo texted to her: a real-time image of her younger brother walking home from college. The message reads: 'Cease. Or he becomes a genuine tragedy.'"
+    },
+    {
+      "number": 6,
+      "title": "Going Underground",
+      "summary": "Elena goes off-grid, using cash and old contacts to protect her family and continue her investigation. She deciphers that the Foundation doesn't just hide people\u2014it hides their secrets.",
+      "key_events": [
+        "Elena sends her brother into hiding with a friend, severing contact.",
+        "She uses a hidden backup of her Lazarus Ledger.",
+        "Her analysis shifts from the donors to what they donated *for*: cross-referencing public scandals, she links donors to unsolved atrocities, suppressed technologies, and political assassinations.",
+        "She realizes the Foundation's philanthropy is funded by, and facilitates, the world's worst evils."
+      ],
+      "ending_hook": "She identifies the next likely 'Lazarus Candidate': a biotech CEO on the verge of exposure for a lethal, covered-up vaccine trial in a developing nation."
+    },
+    {
+      "number": 7,
+      "title": "The Candidate",
+      "summary": "Elena attempts to intercept the CEO before the Foundation can extract him, hoping to expose the truth and stop the cycle. She stages a confrontation at his private lab.",
+      "key_events": [
+        "Elena infiltrates the CEO's high-security facility.",
+        "She confronts him with her evidence, offering him a chance at redemption through public confession.",
+        "He is terrified, not of prison, but of 'the Collectors'\u2014the Foundation's enforcement arm.",
+        "He reveals the price for a Lazarus Transit: 90% of one's wealth and the *physical evidence* of their secret, which the Foundation then permanently safeguards."
+      ],
+      "ending_hook": "Before he can say more, 'Collectors' storm the lab. The CEO is taken. A Collector turns to Elena and says, 'The Ledger is ours. You are now a candidate.'"
+    },
+    {
+      "number": 8,
+      "title": "Inside the Sanctum",
+      "summary": "Captured and brought to a hidden Lazarus Foundation facility, Elena is not killed but given a sales pitch. She is shown the true, monstrous archive the Foundation maintains.",
+      "key_events": [
+        "Elena meets the Director, a calm, persuasive woman who explains the Foundation's philosophy: they contain evil by giving it a quiet place to die, funding global good with its wealth.",
+        "She is shown the 'Black Vault'\u2014a repository containing proof of every donor's secret: weapons, biological samples, documents, and recordings.",
+        "The Director offers Elena a Lazarus Transit: a new life, her debts erased, her brother protected, in exchange for her silence and her Ledger.",
+        "Elena is given 24 hours to decide."
+      ],
+      "ending_hook": "Left in a luxurious holding room, Elena discovers a hidden plea for help scratched into the drawer of a desk by a previous 'guest'\u2014a former dictator she thought was dead."
+    },
+    {
+      "number": 9,
+      "title": "The Bait and Switch",
+      "summary": "Elena pretends to accept the deal to gain access to the Foundation's systems. She plants a digital worm in their core archive while preparing her real plan: not to escape with a new identity, but to collapse the system from within.",
+      "key_events": [
+        "Elena negotiates terms, asking to see the transit process for the biotech CEO.",
+        "She witnesses the 'erasure'\u2014a staged accidental death for the public, and the donor being prepped for his new, monitored life.",
+        "During her system access, she plants her malware and locates the physical 'Black Vault'.",
+        "She sends a delayed broadcast email to a list of journalists, containing a fragment of the Ledger, set to send unless she cancels it."
+      ],
+      "ending_hook": "Instead of heading to her transit point, Elena uses stolen keycodes to break into the high-security Black Vault, aiming to open it to the world."
+    },
+    {
+      "number": 10,
+      "title": "The Vault of Horrors",
+      "summary": "Inside the Black Vault, Elena is confronted by the physical proof of the atrocities the Foundation has monetized. The Director arrives, and their ideological clash comes to a head.",
+      "key_events": [
+        "Elena navigates the vault's aisles, seeing evidence of genocide, engineered pandemics, and stolen state secrets.",
+        "The Director confronts her, arguing that exposing this would cause global chaos and wars, while the Foundation's method contains the poison.",
+        "Elena argues that true justice requires accountability, not secret bargains.",
+        "A physical struggle ensues, triggering a vault security lockdown."
+      ],
+      "ending_hook": "As alarms blare, Elena smashes a vial of a preserved pathogen, forcing a facility-wide quarantine and cutting off the Director's escape. The Collectors are moments away."
+    },
+    {
+      "number": 11,
+      "title": "Ledger's End",
+      "summary": "Trapped in the quarantined vault with the Director, Elena executes her final play. She triggers the full release of the Lazarus Ledger and the vault's location to the world, turning the Foundation's own secrecy against it.",
+      "key_events": [
+        "Elena uses the vault's emergency satellite uplink to broadcast its contents and the full Ledger.",
+        "The Director, in a final act of twisted pragmatism, begins activating a thermite purge to destroy the evidence.",
+        "Elena fights to stop the purge, knowing the digital broadcast needs the physical proof to be credible.",
+        "News reports begin flashing on a screen\u2014global media is picking up the story, and authorities are descending on the facility."
+      ],
+      "ending_hook": "The Collectors breach the vault. Seeing the broadcast is irreversible, their leader makes a decision: to eliminate the Director and Elena to create plausible deniability for the Foundation's surviving hierarchy."
+    },
+    {
+      "number": 12,
+      "title": "The New Calculus",
+      "summary": "In the chaos of the raid, Elena escapes the vault as the Foundation turns on itself. The released secrets cause global shocks, but the powerful organization is wounded, not dead. Elena emerges into a new, more dangerous world.",
+      "key_events": [
+        "A firefight erupts between Collectors loyal to the Director and a faction seeking to save the Foundation.",
+        "Elena escapes in the confusion, aided by a Collector who believes the old way is finished.",
+        "She is extracted by journalists and activists who received her broadcast.",
+        "Weeks later, the public fallout is immense: arrests, scandals, and the Lazarus Foundation officially disbands.",
+        "Elena testifies before a closed congressional committee."
+      ],
+      "ending_hook": "In a safe house, Elena receives a blank envelope. Inside is a single keycard and a note: 'The Ledger was one copy. The Vault was one location. The work continues. Do you wish to audit the real books?' She stares at the keycard, knowing the conspiracy is deeper than she ever imagined, and her skills are now both her curse and her purpose."
+    }
+  ]
+}

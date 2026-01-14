@@ -1,0 +1,157 @@
+Chapter 8: Live Service
+
+The air in the incident room was thick with the smell of stale coffee and frantic energy. Screens glowed, casting a sickly pallor on the faces of the detectives. At the center of it all, on a large monitor, was a nightmare rendered in high definition. The fluorescent lights overhead seemed to hum in sync with the pounding of Elara Vance's heart, as if trying to drown out the cacophony of her own thoughts.
+
+Elara stood before the monitor, her body rigid, her mind a whirlpool of dread and analysis. The live stream was a study in cruel composition. The camera was fixed, high-angled, capturing a stark, stainless-steel kitchen island. A man, mid-fifties, his once-proud chef's frame now slumped in terror, was tied to a chair at the island's edge. His whites were pristine, a mocking costume. A single copper bowl, a whisk, a block of butter, and a lemon were arranged before him with ritualistic precision. In the background, the walls were a generic, glossy white, but the layout—the placement of a faux window with fake sunlight, the curve of the counter, the style of the overhead rack—it tickled a memory at the base of Elara's skull.
+
+She had seen it before, in her own culinary school days, where the failures were whispered between students like a cautionary tale. The memory crystallized, a fragment of her own past where Chef Marco's failure was a public spectacle. The hollandaise had broken, catastrophically, and he had thrown the pan. It became a clip show staple, a symbol of his downfall. She had never forgotten the look of despair in his eyes, the shattered bond of trust with his audience.
+
+As she watched, more text appeared in a stark white font over the lower third of the video feed.
+
+TheGardener: Good evening, class. Our lesson tonight is on emulsion. The delicate marriage of oil and water, of effort and patience. It is a test of nerve.
+
+The chef on screen, his face beaded with sweat under the hot studio lights, flinched as the text scrolled. Elara felt a shiver run down her spine as she watched him struggle to maintain his composure. The camera seemed to be watching him, too, its cold, unyielding gaze a constant reminder of the audience that was watching, too.
+
+“It's Chef Marco," Elara said, her voice quiet but slicing through the static. "Marco Bellini. He had a show, 'Bellini's Basics,' about fifteen years ago. It was... short-lived."
+
+The memory came flooding back, a mix of emotions swirling in her chest. She had been a student at the culinary school where Marco had taught, and his failure had been a cautionary tale whispered between students. She had never forgotten the look of despair in his eyes, the shattered bond of trust with his audience.
+
+On screen, more text appeared.
+
+TheGardener: Chef Marco failed his first test. The sauce broke. His temper broke. The sacred bond of trust with his audience shattered. Tonight, he has one chance to reforge it. One perfect hollandaise. The recipe is in his mind. The tools are before him. The time is now.
+
+A timer materialized in the top right corner of the stream: 45:00. It began to count down, the seconds ticking away with agonizing slowness. Elara felt her heart racing, her mind racing with the implications. TheGardener was not just a killer; he was a master of manipulation, a puppeteer pulling the strings of his victim's psyche.
+
+"He's going to make him cook," Thorne breathed, his voice low and menacing. "He's going to make him perform."
+
+"He's going to make him perform," Elara corrected, a cold understanding settling in her gut. "Look at High-end, modernist restaurant kitchens. It's not a real kitchen. It's a replica. The set of 'Bellini's Basics.' I recognize the tile pattern behind the fake window. The Gardener has recreated the scene of the crime."
+
+The horror of it was exquisite. The killer hadn't just kidnapped a chef; he'd built a stage for his humiliation, a prison of his own past. Elara felt a shiver run down her spine as she watched Marco's hands tremble as he reached for the butter.
+
+"He's rushing," Elara said. "The butter is in too-large cubes. They'll melt unevenly. He's terrified."
+
+TheGardener: Patience, Chef. You rush. You always rushed. To fame, to judgment, to anger. Slow hands make smooth sauce.
+
+Marco jerked as if struck, knocking a cube of butter onto the floor. A sob hitched in his throat, amplified by the sensitive microphone. The sound was raw, human, utterly at odds with the sterile theatre of the set. Elara felt a pang of sympathy for the man, a sense of recognition that she couldn't quite explain.
+
+An officer rushed into the room, holding a small, plastic-wrapped device. "We have it. A subcutaneous comms unit. Voice-activated, receiver smaller than a pea. But we need to get it to him."
+
+Thorne's jaw worked, his face set in a determined expression. "We have to find him before that timer hits zero. The Gardener will stop at nothing to break him."
+
+Elara nodded, her mind racing with the implications. She knew that she had to act fast, to find a way to communicate with Marco before it was too late. She turned to the tech officer, her eyes locked on his.
+
+"We need to get a signal to him, something to calm him down. We can't let him panic."
+
+The tech officer nodded, his eyes locked on the screen. "I'm on it. But we need to move fast. The timer is ticking down, and we don't know how much longer we have."
+
+As the seconds ticked away, Elara felt her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. She took a deep breath, her mind racing with possibilities.
+
+"We need to get him to talk," she said, her voice low and urgent. "We need to get him to open up."
+
+The tech officer nodded, his eyes locked on the screen. "I'm trying. But we need to be careful. The Gardener is a master manipulator. He'll stop at nothing to break him."
+
+Elara nodded, her mind racing with the implications. She knew that she had to be careful, that one wrong move could mean disaster. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+As the timer ticked down, Elara felt her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to save Marco from the clutches of the Gardener.
+
+TheGardener: Your time begins now, Chef. The bonds are designed to allow movement of your arms. You may begin. Clarify your butter. Remember, the heat must be gentle. Respect the elements.
+
+On screen, Marco Bellini stared at the tools, his hands trembling. He struggled against the ropes binding his wrists to the chair arms, but they gave enough slack for him to reach the equipment. With a shuddering breath, he reached for the block of butter, his fingers slipping on the wax paper.
+
+Elara watched, her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+As the seconds ticked away, Elara felt her mind racing with possibilities. She knew that she had to act fast, to find a way to calm Marco down. She turned to the tech officer, her eyes locked on his.
+
+"We need to get him to talk," she said, her voice low and urgent. "We need to get him to open up."
+
+The tech officer nodded, his eyes locked on the screen. "I'm trying. But we need to be careful. The Gardener is a master manipulator. He'll stop at nothing to break him."
+
+Elara nodded, her mind racing with the implications. She knew that she had to be careful, that one wrong move could mean disaster. But she also knew that she had to try, to find a way to save Marco from the clutches of the Gardener.
+
+As the timer ticked down, Elara felt her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+TheGardener: Your time begins now, Chef. The bonds are designed to allow movement of your arms. You may begin. Clarify your butter. Remember, the heat must be gentle. Respect the elements.
+
+On screen, Marco Bellini stared at the tools, his hands trembling. He struggled against the ropes binding his wrists to the chair arms, but they gave enough slack for him to reach the equipment. With a shuddering breath, he reached for the block of butter, his fingers slipping on the wax paper.
+
+Elara watched, her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+As the seconds ticked away, Elara felt her mind racing with possibilities. She knew that she had to act fast, to find a way to calm Marco down. She turned to the tech officer, her eyes locked on his.
+
+"We need to get him to talk," she said, her voice low and urgent. "We need to get him to open up."
+
+The tech officer nodded, his eyes locked on the screen. "I'm trying. But we need to be careful. The Gardener is a master manipulator. He'll stop at nothing to break him."
+
+Elara nodded, her mind racing with the implications. She knew that she had to be careful, that one wrong move could mean disaster. But she also knew that she had to try, to find a way to save Marco from the clutches of the Gardener.
+
+As the timer ticked down, Elara felt her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+TheGardener: Your time begins now, Chef. The bonds are designed to allow movement of your arms. You may begin. Clarify your butter. Remember, the heat must be gentle. Respect the elements.
+
+On screen, Marco Bellini stared at the tools, his hands trembling. He struggled against the ropes binding his wrists to the chair arms, but they gave enough slack for him to reach the equipment. With a shuddering breath, he reached for the block of butter, his fingers slipping on the wax paper.
+
+Elara watched, her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+As the seconds ticked away, Elara felt her mind racing with possibilities. She knew that she had to act fast, to find a way to calm Marco down. She turned to the tech officer, her eyes locked on his.
+
+"We need to get him to talk," she said, her voice low and urgent. "We need to get him to open up."
+
+The tech officer nodded, his eyes locked on the screen. "I'm trying. But we need to be careful. The Gardener is a master manipulator. He'll stop at nothing to break him."
+
+Elara nodded, her mind racing with the implications. She knew that she had to be careful, that one wrong move could mean disaster. But she also knew that she had to try, to find a way to save Marco from the clutches of the Gardener.
+
+As the timer ticked down, Elara felt her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+TheGardener: Your time begins now, Chef. The bonds are designed to allow movement of your arms. You may begin. Clarify your butter. Remember, the heat must be gentle. Respect the elements.
+
+On screen, Marco Bellini stared at the tools, his hands trembling. He struggled against the ropes binding his wrists to the chair arms, but they gave enough slack for him to reach the equipment. With a shuddering breath, he reached for the block of butter, his fingers slipping on the wax paper.
+
+Elara watched, her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+As the seconds ticked away, Elara felt her mind racing with possibilities. She knew that she had to act fast, to find a way to calm Marco down. She turned to the tech officer, her eyes locked on his.
+
+"We need to get him to talk," she said, her voice low and urgent. "We need to get him to open up."
+
+The tech officer nodded, his eyes locked on the screen. "I'm trying. But we need to be careful. The Gardener is a master manipulator. He'll stop at nothing to break him."
+
+Elara nodded, her mind racing with the implications. She knew that she had to be careful, that one wrong move could mean disaster. But she also knew that she had to try, to find a way to save Marco from the clutches of the Gardener.
+
+As the timer ticked down, Elara felt her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+TheGardener: Your time begins now, Chef. The bonds are designed to allow movement of your arms. You may begin. Clarify your butter. Remember, the heat must be gentle. Respect the elements.
+
+On screen, Marco Bellini stared at the tools, his hands trembling. He struggled against the ropes binding his wrists to the chair arms, but they gave enough slack for him to reach the equipment. With a shuddering breath, he reached for the block of butter, his fingers slipping on the wax paper.
+
+Elara watched, her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+As the seconds ticked away, Elara felt her mind racing with possibilities. She knew that she had to act fast, to find a way to calm Marco down. She turned to the tech officer, her eyes locked on his.
+
+"We need to get him to talk," she said, her voice low and urgent. "We need to get him to open up."
+
+The tech officer nodded, his eyes locked on the screen. "I'm trying. But we need to be careful. The Gardener is a master manipulator. He'll stop at nothing to break him."
+
+Elara nodded, her mind racing with the implications. She knew that she had to be careful, that one wrong move could mean disaster. But she also knew that she had to try, to find a way to save Marco from the clutches of the Gardener.
+
+As the timer ticked down, Elara felt her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+TheGardener: Your time begins now, Chef. The bonds are designed to allow movement of your arms. You may begin. Clarify your butter. Remember, the heat must be gentle. Respect the elements.
+
+On screen, Marco Bellini stared at the tools, his hands trembling. He struggled against the ropes binding his wrists to the chair arms, but they gave enough slack for him to reach the equipment. With a shuddering breath, he reached for the block of butter, his fingers slipping on the wax paper.
+
+Elara watched, her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+As the seconds ticked away, Elara felt her mind racing with possibilities. She knew that she had to act fast, to find a way to calm Marco down. She turned to the tech officer, her eyes locked on his.
+
+"We need to get him to talk," she said, her voice low and urgent. "We need to get him to open up."
+
+The tech officer nodded, his eyes locked on the screen. "I'm trying. But we need to be careful. The Gardener is a master manipulator. He'll stop at nothing to break him."
+
+Elara nodded, her mind racing with the implications. She knew that she had to be careful, that one wrong move could mean disaster. But she also knew that she had to try, to find a way to save Marco from the clutches of the Gardener.
+
+As the timer ticked down, Elara felt her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to find a way to communicate with Marco before it was too late.
+
+TheGardener: Your time begins now, Chef. The bonds are designed to allow movement of your arms. You may begin. Clarify your butter. Remember, the heat must be gentle. Respect the elements.
+
+On screen, Marco Bellini stared at the tools, his hands trembling. He struggled against the ropes binding his wrists to the chair arms, but they gave enough slack for him to reach the equipment. With a shuddering breath, he reached for the block of butter, his fingers slipping on the wax paper.
+
+Elara watched, her heart racing with anticipation. She knew that she was running out of time, that the Gardener was waiting for her to make a move. But she also knew that she had to try, to

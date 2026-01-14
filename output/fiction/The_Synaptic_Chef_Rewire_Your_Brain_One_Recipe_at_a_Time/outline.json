@@ -1,0 +1,149 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Welcome to the Synaptic Kitchen",
+      "summary": "Introduces the core metaphor of the book: your brain is a kitchen, habits are recipes, and you are the chef. It dismantles the myth of willpower and introduces the concept of neuroplasticity as the real key to change.",
+      "key_events": [
+        "The 'Willpower Myth' and why it fails us.",
+        "Introduction to the brain's 'kitchen': neurons, synapses, and pathways.",
+        "The core promise: You can 'cook' new automatic behaviors.",
+        "First task: Auditing your current 'mental pantry' (existing habits)."
+      ],
+      "ending_hook": "Your kitchen is waiting. But before you start cooking, you need to know what's already in your pantry\u2014and what might be spoiling your best intentions."
+    },
+    {
+      "number": 2,
+      "title": "Stocking the Pantry: The Ingredients of Neuroplasticity",
+      "summary": "Explains the fundamental 'ingredients' required for brain change: attention, repetition, emotion, and context. Teaches readers how to identify and cultivate these in their daily lives.",
+      "key_events": [
+        "Breaking down the four key 'ingredients' for synaptic cooking.",
+        "The role of focused attention (the 'sharp knife').",
+        "How repetition acts as 'simmering time'.",
+        "Why emotional flavor (reward) is non-negotiable.",
+        "Setting the right kitchen context (environment)."
+      ],
+      "ending_hook": "With a well-stocked pantry, you're ready to follow any recipe. But a great chef doesn't just follow\u2014they understand the 'why' behind every step."
+    },
+    {
+      "number": 3,
+      "title": "Reading the Old Recipes: Decoding Your Current Habits",
+      "summary": "Guides readers through a non-judgmental audit of their existing habit loops. Teaches them to identify the cue, routine, and reward of automatic behaviors, both helpful and harmful.",
+      "key_events": [
+        "The 'Habit Loop' recipe card: Cue, Routine, Reward.",
+        "Exercise: Mapping a daily habit (like checking your phone).",
+        "Identifying 'stale recipes' that no longer serve you.",
+        "Learning to spot the 'cues' that trigger automatic cooking."
+      ],
+      "ending_hook": "You've now decoded the recipes running on autopilot in your kitchen. The power to edit them is now in your hands."
+    },
+    {
+      "number": 4,
+      "title": "Mise en Place: Designing Your Kitchen for Success",
+      "summary": "Focuses on the critical role of environment design. Teaches readers to 'prep their kitchen' by engineering cues and reducing friction for desired habits, making the right action the easiest action.",
+      "key_events": [
+        "The culinary principle of 'Mise en Place' (everything in its place) applied to habit formation.",
+        "Friction Audit: Identifying obstacles in your environment.",
+        "Cue Engineering: Planting visual triggers for new habits.",
+        "The 'One-Tweak Rule' for immediate environmental change."
+      ],
+      "ending_hook": "A well-designed kitchen does half the work for you. Tomorrow, we start cooking with fire\u2014the spark of a new routine."
+    },
+    {
+      "number": 5,
+      "title": "The Appetizer: Crafting Irresistible First Bites",
+      "summary": "Introduces the concept of 'Tiny Recipes'\u2014starting with habits so small they seem trivial. This chapter builds confidence and demonstrates the process of combining ingredients successfully.",
+      "key_events": [
+        "The science of 'small wins' and their compound effect.",
+        "The 'Two-Minute Rule' for any new habit recipe.",
+        "Exercise: Writing a 'Tiny Recipe' card (e.g., 'floss one tooth').",
+        "Celebrating the completion of the micro-habit as the first reward."
+      ],
+      "ending_hook": "You've just served your first, perfect synaptic appetizer. The taste of success is the best seasoning. Now, how do we build on that flavor?"
+    },
+    {
+      "number": 6,
+      "title": "The Main Course: Layering Flavor with Habit Stacking",
+      "summary": "Teaches readers to build complex habit 'meals' by stacking new 'recipes' onto existing, solid ones. This creates linked neural pathways that reinforce each other.",
+      "key_events": [
+        "The 'Dependency Chain' model of habit stacking.",
+        "Identifying reliable 'anchor habits' in your current routine.",
+        "Formula: 'After [CURRENT HABIT], I will [NEW TINY HABIT].'",
+        "Designing a sequential 'menu' for your morning or evening."
+      ],
+      "ending_hook": "Your habits are now beginning to work together like a cohesive menu. But even the best meal can fall flat without the right seasoning."
+    },
+    {
+      "number": 7,
+      "title": "The Secret Sauce: The Art of Immediate Rewards",
+      "summary": "Delves deep into the neuroscience of reward. Teaches readers to craft immediate, satisfying, and intrinsic 'finishing sauces' for their habits, since the brain's long-term payoffs are poor cooks.",
+      "key_events": [
+        "Why the brain discounts long-term rewards.",
+        "Finding the 'natural high' in the habit itself.",
+        "Creating immediate sensory rewards (a favorite song, a delicious sip of tea).",
+        "The 'Completion Stamp': using tracking as its own reward."
+      ],
+      "ending_hook": "You've learned the chef's secret: the reward isn't just the meal, it's the joy of cooking it. Now, how do we keep the kitchen clean when things burn?"
+    },
+    {
+      "number": 8,
+      "title": "Managing the Mess: Rebooting After a Slip",
+      "summary": "Normalizes failure as part of the culinary process. Provides a clear, compassionate protocol for getting back on track without self-criticism, which severs neural pathways.",
+      "key_events": [
+        "Reframing 'failure' as a 'burnt batch'\u2014a normal part of cooking.",
+        "The 'Kitchen Sink Protocol': Pause, Analyze, Adjust, Restart.",
+        "Breaking the 'What-the-Hell Effect' (the spiral after one slip).",
+        "Practicing self-compassion as a neural primer for resilience."
+      ],
+      "ending_hook": "A single burnt dish doesn't make you a bad chef. In fact, the best chefs learn more from their mistakes. Next, we turn up the heat to solidify your skills."
+    },
+    {
+      "number": 9,
+      "title": "Turning Up the Heat: Increasing Difficulty & Complexity",
+      "summary": "Guides readers through the process of 'progressive overload' for habits\u2014how to carefully increase the challenge, duration, or complexity of a recipe to build mastery and automaticity.",
+      "key_events": [
+        "The 'Goldilocks Rule': Habit difficulty must be 'just right.'",
+        "Signs it's time to 'scale up the recipe'.",
+        "Methods: Adding time, adding complexity, raising the standard.",
+        "Exercise: Upgrading one of your 'Tiny Recipes' to a full portion."
+      ],
+      "ending_hook": "Your synaptic muscles are now stronger. You're not just following recipes\u2014you're innovating. But what about the critics in your own head?"
+    },
+    {
+      "number": 10,
+      "title": "Tuning Out the Kitchen Critics: Managing Self-Doubt & Social Pressure",
+      "summary": "Addresses the internal and external narratives that can sabotage habit formation. Provides tools to quiet the inner critic and navigate social environments that don't support new 'recipes.'",
+      "key_events": [
+        "Identifying your 'Internal Food Critic' and its common scripts.",
+        "Crafting empowering 'chef's mantras'.",
+        "Strategies for social gatherings and peer pressure ('No, thank you, I'm full').",
+        "Finding your 'Sous-Chefs'\u2014building a supportive community."
+      ],
+      "ending_hook": "With the critics silenced, your kitchen is a place of pure creation. Now, let's plan a feast that sustains you for a lifetime."
+    },
+    {
+      "number": 11,
+      "title": "The Seasonal Menu: Adapting Habits to Life's Changing Circumstances",
+      "summary": "Teaches flexibility. How to adjust, pause, or swap out habit 'recipes' during travel, stress, illness, or major life changes without abandoning your identity as a Synaptic Chef.",
+      "key_events": [
+        "The 'Habit Seasons' of life.",
+        "Creating 'Travel Recipes' and 'Emergency Rations' (mini-habits for chaotic times).",
+        "The concept of 'habit hibernation' vs. quitting.",
+        "Ritualizing the return to your core menu after disruption."
+      ],
+      "ending_hook": "You are no longer a fair-weather cook. Your skills are resilient and adaptable. You're ready for the final, most important lesson: passing on the craft."
+    },
+    {
+      "number": 12,
+      "title": "Becoming a Master Chef: Crafting a Legacy of Lifelong Learning",
+      "summary": "The culmination. Encourages readers to see themselves as perpetual learners, to experiment with new 'recipes,' and to teach the synaptic cooking method to others, solidifying their own understanding and impact.",
+      "key_events": [
+        "The Synaptic Chef's Creed: A summary of core principles.",
+        "The cycle of Learn, Practice, Teach.",
+        "Designing your own original 'recipe' for a desired behavior.",
+        "Setting a 'Culinary Compass' for ongoing growth beyond the book."
+      ],
+      "ending_hook": "The kitchen is yours. The pantry is stocked. You hold the recipes. Now, go forth and cook a magnificent life\u2014one deliberate, delicious synapse at a time."
+    }
+  ]
+}

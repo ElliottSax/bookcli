@@ -1,0 +1,93 @@
+ g in a forgotten library. "It is the echo of a life. The imprint of a soul. When you take a shadow, you take a piece of that person. Their memories, their fears, their joys—all of it, bound in the darkness. And when you give it to the Well, you are not just feeding it. You are feeding it a life."
+
+Elara's breath hitched. The Well's surface rippled, as if in response to the Keeper's words. The shades along the walls seemed to shift, their forms flickering like candle flames in a draft. The air was thick with the scent of damp earth and something older, something that smelled of time and decay.
+
+"You took their shadows," the Keeper continued, its voice a low, mournful hum. "You took their lives. And you gave them to the Well. To feed it. To keep it alive. To keep yourself alive."
+
+Elara's hands trembled. She pressed them against the cold stone of the Well's edge, her fingers digging into the rough surface. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. She thought of the Citadel, of the way the shadows would writhe in her hands, their cool substance slipping through her fingers like water. She had thought it a craft. A transaction. But now, she saw it for what it was. A sacrifice. A theft.
+
+The shades along the walls seemed to watch her, their eyes dark and accusing. The farmer with dirt under his nails. The young mother. The old scholar. Their faces were not angry. They were simply there, caught in the eddy of her actions, their final moments of fear or confusion stretched into an eternity of quiet waiting. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders.
+
+"And Alistair?" Her voice was a whisper, a plea. The Keeper's silence was a heavy thing, a weight that pressed upon her chest. The Well's darkness seemed to deepen, its surface rippling like a living thing. The shades along the walls flickered, their forms shifting like smoke in the wind.
+
+The Keeper's voice was a low, mournful hum. "He came here, seeking you. Seeking answers. He found the Well. And he understood. He understood what you had done. What you were doing. And he chose to stay. To be with you. To be a part of this."
+
+Elara's heart ached, a deep, hollow pain that seemed to echo through every cell of her body. She thought of Alistair, of his laughter, his smile, his eyes. She thought of the way he had looked at her, with a love that was both fierce and gentle. The thought sent a sob, dry and wrenching, escaping her throat.
+
+The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's breath came in short, ragged gasps, as if she was trying to catch her breath in a storm.
+
+The Keeper's voice was a low, mournful hum. "You have a choice, child. You can turn away. You can walk out of this place and never look back. Or you can stay. You can embrace what you are. What you have become. You can feed the Well. You can feed the darkness. And in doing so, you can keep yourself alive."
+
+Elara's hands trembled. She pressed them against the cold stone of the Well's edge, her fingers digging into the rough surface. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. She thought of the Citadel, of the way the shadows would writhe in her hands, their cool substance slipping through her fingers like water. She had thought it a craft. A transaction. But now, she saw it for what it was. A sacrifice. A theft.
+
+The shades along the walls seemed to watch her, their eyes dark and accusing. The farmer with dirt under his nails. The young mother. The old scholar. Their faces were not angry. They were simply there, caught in the eddy of her actions, their final moments of fear or confusion stretched into an eternity of quiet waiting. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders.
+
+"And if I choose to stay?" Her voice was a whisper, a plea. The Keeper's silence was a heavy thing, a weight that pressed upon her chest. The Well's darkness seemed to deepen, its surface rippling like a living thing. The shades along the walls flickered, their forms shifting like smoke in the wind.
+
+The Keeper's voice was a low, mournful hum. "Then you will become a part of this place. A part of the Well. A part of the darkness. And you will never be free. Never be whole. Never be human."
+
+Elara's breath hitched. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's heart ached, a deep, hollow pain that seemed to echo through every cell of her body. She thought of Alistair, of his laughter, his smile, his eyes. She thought of the way he had looked at her, with a love that was both fierce and gentle. The thought sent a sob, dry and wrenching, escaping her throat.
+
+The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's breath came in short, ragged gasps, as if she was trying to catch her breath in a storm.
+
+The Keeper's voice was a low, mournful hum. "You have a choice, child. You can turn away. You can walk out of this place and never look back. Or you can stay. You can embrace what you are. What you have become. You can feed the Well. You can feed the darkness. And in doing so, you can keep yourself alive."
+
+Elara's hands trembled. She pressed them against the cold stone of the Well's edge, her fingers digging into the rough surface. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. She thought of the Citadel, of the way the shadows would writhe in her hands, their cool substance slipping through her fingers like water. She had thought it a craft. A transaction. But now, she saw it for what it was. A sacrifice. A theft.
+
+The shades along the walls seemed to watch her, their eyes dark and accusing. The farmer with dirt under his nails. The young mother. The old scholar. Their faces were not angry. They were simply there, caught in the eddy of her actions, their final moments of fear or confusion stretched into an eternity of quiet waiting. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders.
+
+"And if I choose to stay?" Her voice was a whisper, a plea. The Keeper's silence was a heavy thing, a weight that pressed upon her chest. The Well's darkness seemed to deepen, its surface rippling like a living thing. The shades along the walls flickered, their forms shifting like smoke in the wind.
+
+The Keeper's voice was a low, mournful hum. "Then you will become a part of this place. A part of the Well. A part of the darkness. And you will never be free. Never be whole. Never be human."
+
+Elara's breath hitched. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's heart ached, a deep, hollow pain that seemed to echo through every cell of her body. She thought of Alistair, of his laughter, his smile, his eyes. She thought of the way he had looked at her, with a love that was both fierce and gentle. The thought sent a sob, dry and wrenching, escaping her throat.
+
+The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's breath came in short, ragged gasps, as if she was trying to catch her breath in a storm.
+
+The Keeper's voice was a low, mournful hum. "You have a choice, child. You can turn away. You can walk out of this place and never look back. Or you can stay. You can embrace what you are. What you have become. You can feed the Well. You can feed the darkness. And in doing so, you can keep yourself alive."
+
+Elara's hands trembled. She pressed them against the cold stone of the Well's edge, her fingers digging into the rough surface. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. She thought of the Citadel, of the way the shadows would writhe in her hands, their cool substance slipping through her fingers like water. She had thought it a craft. A transaction. But now, she saw it for what it was. A sacrifice. A theft.
+
+The shades along the walls seemed to watch her, their eyes dark and accusing. The farmer with dirt under his nails. The young mother. The old scholar. Their faces were not angry. They were simply there, caught in the eddy of her actions, their final moments of fear or confusion stretched into an eternity of quiet waiting. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders.
+
+"And if I choose to stay?" Her voice was a whisper, a plea. The Keeper's silence was a heavy thing, a weight that pressed upon her chest. The Well's darkness seemed to deepen, its surface rippling like living thing. The shades along the walls flickered, their forms shifting like smoke in the wind.
+
+The Keeper's voice was a low, mournful hum. "Then you will become a part of this place. A part of the Well. A part of the darkness. And you will never be free. Never be whole. Never be human."
+
+Elara's breath hitched. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's heart ached, a deep, hollow pain that seemed to echo through every cell of her body. She thought of Alistair, of his laughter, his smile, his eyes. She thought of the way he had looked at her, with a love that was both fierce and gentle. The thought sent a sob, dry and wrenching, escaping her throat.
+
+The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's breath came in short, ragged gasps, as if she was trying to catch her breath in a storm.
+
+The Keeper's voice was a low, mournful hum. "You have a choice, child. You can turn away. You can walk out of this place and never look back. Or you can stay. You can embrace what you are. What you have become. You can feed the Well. You can feed the darkness. And in doing so, you can keep yourself alive."
+
+Elara's hands trembled. She pressed them against the cold stone of the Well's edge, her fingers digging into the rough surface. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. She thought of the Citadel, of the way the shadows would writhe in her hands, their cool substance slipping through her fingers like water. She had thought it a craft. A transaction. But now, she saw it for what it was. A sacrifice. A theft.
+
+The shades along the walls seemed to watch her, their eyes dark and accusing. The farmer with dirt under his nails. The young mother. The old scholar. Their faces were not angry. They were simply there, caught in the eddy of her actions, their final moments of fear or confusion stretched into an eternity of quiet waiting. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders.
+
+"And if I choose to stay?" Her voice was a whisper, a plea. The Keeper's silence was a heavy thing, a weight that pressed upon her chest. The Well's darkness seemed to deepen, its surface rippling like a living thing. The shades along the walls flickered, their forms shifting like smoke in the wind.
+
+The Keeper's voice was a low, mournful hum. "Then you will become a part of this place. A part of the Well. A part of the darkness. And you will never be free. Never be whole. Never be human."
+
+Elara's breath hitched. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's heart ached, a deep, hollow pain that seemed to echo through every cell of her body. She thought of Alistair, of his laughter, his smile, his eyes. She thought of the way he had looked at her, with a love that was both fierce and gentle. The thought sent a sob, dry and wrenching, escaping her throat.
+
+The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's breath came in short, ragged gasps, as if she was trying to catch her breath in a storm.
+
+The Keeper's voice was a low, mournful hum. "You have a choice, child. You can turn away. You can walk out of this place and never look back. Or you can stay. You can embrace what you are. What you have become. You can feed the Well. You can feed the darkness. And in doing so, you can keep yourself alive."
+
+Elara's hands trembled. She pressed them against the cold stone of the Well's edge, her fingers digging into the rough surface. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. She thought of the Citadel, of the way the shadows would writhe in her hands, their cool substance slipping through her fingers like water. She had thought it a craft. A transaction. But now, she saw it for what it was. A sacrifice. A theft.
+
+The shades along the walls seemed to watch her, their eyes dark and accusing. The farmer with dirt under his nails. The young mother. The old scholar. Their faces were not angry. They were simply there, caught in the eddy of her actions, their final moments of fear or confusion stretched into an eternity of quiet waiting. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders.
+
+"And if I choose to stay?" Her voice was a whisper, a plea. The Keeper's silence was a heavy thing, a weight that pressed upon her chest. The Well's darkness seemed to deepen, its surface rippling like a living thing. The shades along the walls flickered, their forms shifting like smoke in the wind.
+
+The Keeper's voice was a low, mournful hum. "Then you will become a part of this place. A part of the Well. A part of the darkness. And you will never be free. Never be whole. Never be human."
+
+Elara's breath hitched. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's heart ached, a deep, hollow pain that seemed to echo through every cell of her body. She thought of Alistair, of his laughter, his smile, his eyes. She thought of the way he had looked at her, with a love that was both fierce and gentle. The thought sent a sob, dry and wrenching, escaping her throat.
+
+The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. The shades along the walls flickered, their forms shifting like smoke in the wind. The air was thick with the weight of their presence, a physical force that pressed upon her shoulders. Elara's breath came in short, ragged gasps, as if she was trying to catch her breath in a storm.
+
+The Keeper's voice was a low, mournful hum. "You have a choice, child. You can turn away. You can walk out of this place and never look back. Or you can stay. You can embrace what you are. What you have become. You can feed the Well. You can feed the darkness. And in doing so, you can keep yourself alive."
+
+Elara's hands trembled. She pressed them against the cold stone of the Well's edge, her fingers digging into the rough surface. The Well's darkness seemed to pulse, a slow, rhythmic throb that echoed in her bones. She thought of the Citadel, of the way the shadows would writhe in her hands, their cool substance slipping through her fingers like water. She had thought it a craft. A transaction. But now, she saw it for what it was. A sacrifice. A theft.
+
+The shades along the walls seemed to watch her, their eyes dark and accusing. The farmer with dirt under his nails. The young mother. The old scholar. Their faces were not angry. They were simply there, caught in the eddy of her actions, their final moments of fear or confusion stretched into

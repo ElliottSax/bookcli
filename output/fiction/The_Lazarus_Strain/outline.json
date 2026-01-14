@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Fallen Man",
+      "summary": "Disgraced virologist Dr. Aris Thorne, working a dead-end job, is approached by a representative of the secretive biotech firm, Prometheus Solutions, with an offer he cannot refuse.",
+      "key_events": [
+        "Aris is shown publicly shamed in a flashback to a research scandal.",
+        "He lives in a sparse apartment, haunted by his past.",
+        "Elara Vance, a poised operative from Prometheus, offers him a lead role on a 'groundbreaking project'.",
+        "The offer includes full restoration of his credentials and unlimited resources.",
+        "Aris, desperate for redemption, accepts."
+      ],
+      "ending_hook": "Aris signs a dense non-disclosure agreement and is whisked away to a remote, state-of-the-art facility known only as 'The Hive'."
+    },
+    {
+      "number": 2,
+      "title": "The Hive",
+      "summary": "Aris arrives at the clandestine Prometheus facility and is introduced to the Lazarus Project: a therapy to resurrect the recently deceased by repairing cellular damage and neural patterns.",
+      "key_events": [
+        "Aris meets the project's director, the charismatic but intense Dr. Silas Reeves.",
+        "He is shown the core technology: a viral vector (the Lazarus Strain) that can rewrite cellular death pathways.",
+        "The first human subject is revealed: Subject Alpha, a John Doe from a local morgue.",
+        "Aris's expertise in viral manipulation is deemed crucial for stabilizing the strain.",
+        "He feels a mix of awe and deep ethical unease."
+      ],
+      "ending_hook": "During a late-night lab session, Aris notices the subject's intake file has been heavily redacted, except for one detail\u2014a unique tribal tattoo on his forearm."
+    },
+    {
+      "number": 3,
+      "title": "Breath of Life",
+      "summary": "The team initiates the resurrection sequence on Subject Alpha. The process is a staggering, chaotic success.",
+      "key_events": [
+        "The Lazarus Strain is administered to Subject Alpha's body.",
+        "The team watches as cellular functions restart in a violent, unpredictable cascade.",
+        "Subject Alpha's eyes snap open, and he goes into violent seizures.",
+        "Against all odds, he stabilizes, showing full brain activity.",
+        "Aris is the first to speak to him as he regains consciousness."
+      ],
+      "ending_hook": "Subject Alpha grips Aris's arm, looks him dead in the eye, and whispers, 'Silas Renner killed me.' Silas Renner is the billionaire founder of Prometheus Solutions."
+    },
+    {
+      "number": 4,
+      "title": "The Accusation",
+      "summary": "Aris confronts the project leadership with Alpha's claim, only to be met with gaslighting and accusations of instability.",
+      "key_events": [
+        "Aris reports the accusation to Dr. Reeves, who dismisses it as 'neural echo' or post-resurrection psychosis.",
+        "Security footage of the awakening is reviewed, but Alpha's whisper is inaudible.",
+        "Renner himself appears via secure video link, calmly denying ever knowing Alpha and praising Aris's work.",
+        "Aris is ordered to focus on stabilizing Alpha's physiology, not his 'delusions'.",
+        "Alpha, now called 'Lazarus', is sedated for 'observation'."
+      ],
+      "ending_hook": "While checking Lazarus's vitals, Aris finds a tiny, scarred-over microchip embedded near the tattoo\u2014a subdermal tracker he wasn't told about."
+    },
+    {
+      "number": 5,
+      "title": "Ghost in the Machine",
+      "summary": "Aris begins a clandestine investigation, using his access to dig into Lazarus's true identity and the origins of the Lazarus Strain.",
+      "key_events": [
+        "Aris bypasses firewalls to find Lazarus's unredacted file: his name is Leo Vance, a former investigative journalist.",
+        "He discovers Leo was reporting on Prometheus's illegal biological weapons research three years ago before his 'accidental' death.",
+        "Aris uncovers hidden lab logs showing the Lazarus Strain was derived from a highly volatile, weaponized pathogen called 'Thanatos'.",
+        "Elara Vance, his point of contact, is revealed to be Leo's sister, unaware of his true fate.",
+        "Aris realizes the resurrection was not a trial, but a cover-up that went wrong."
+      ],
+      "ending_hook": "Aris's unauthorized access is detected. Alarms blare as security seals the sector he's in."
+    },
+    {
+      "number": 6,
+      "title": "Containment Breach",
+      "summary": "A security lockdown traps Aris in the lab just as a critical flaw is revealed: the Lazarus Strain is airborne and mutating in Subject Alpha's body.",
+      "key_events": [
+        "The lockdown is blamed on a 'drill', but Aris knows he's the target.",
+        "Biological alarms trigger\u2014Subject Alpha is shedding viral particles.",
+        "The strain is evolving, becoming transmissible and destabilizing the resurrected tissue.",
+        "Aris works frantically to contain the leak within the lab's isolation unit.",
+        "He makes contact with Elara, revealing the truth about her brother."
+      ],
+      "ending_hook": "Aris contains the immediate leak, but security overrides his lab door. Dr. Reeves enters, not with guards, but with a syringe, telling Aris he's 'too valuable to lose, but too dangerous to trust'."
+    },
+    {
+      "number": 7,
+      "title": "A Deal with the Devil",
+      "summary": "Sedated and restrained, Aris is given an ultimatum by Silas Renner himself: perfect the strain and ensure its commercial future, or be permanently silenced.",
+      "key_events": [
+        "Aris wakes in a luxurious but secure quarters, a gilded cage.",
+        "Renner explains his vision: conquering death, with the 'unfortunate side effects' to be managed.",
+        "Leo's resurrection is framed as an 'accounting error' that needs correcting.",
+        "Renner offers Aris fame, fortune, and a seat at the right hand of a god.",
+        "Aris appears to agree, buying time to plan."
+      ],
+      "ending_hook": "Given limited lab access to begin 'stabilization', Aris secretly codes a kill-switch sequence into the strain's core genome, a digital poison pill."
+    },
+    {
+      "number": 8,
+      "title": "Lazarus Rising",
+      "summary": "Leo, growing stronger and more unstable, breaks free of his confinement with help from Elara, who has turned against Prometheus.",
+      "key_events": [
+        "Elara uses her security clearance to access Leo's isolation chamber.",
+        "Leo's memories are fully integrated, and his body exhibits alarming strength and regenerative ability\u2014side effects of the mutating strain.",
+        "He and Elara have a tearful, frantic reunion.",
+        "They create a diversion, causing a power surge in a secondary lab.",
+        "Their goal: find Aris and get the truth to the outside world."
+      ],
+      "ending_hook": "As they flee through a service duct, they look down into a central atrium and see Renner and Reeves overseeing the preparation of a second subject\u2014a prominent, recently deceased politician."
+    },
+    {
+      "number": 9,
+      "title": "The Thanatos Protocol",
+      "summary": "Aris discovers Prometheus's true endgame: not resurrection for all, but selective immortality for the elite, with the volatile strain as a doomsday weapon against dissent.",
+      "key_events": [
+        "Aris gains access to the project's black budget files: 'The Thanatos Protocol'.",
+        "The protocol outlines using the airborne, mutated strain as a targeted bioweapon that can induce rapid, selective decay.",
+        "Plans for a 'demonstration' on a dissident nation are uncovered.",
+        "Renner intends to sell both immortality and annihilation.",
+        "Aris copies the data onto a secure drive."
+      ],
+      "ending_hook": "Reeves confronts Aris in the server room. A fight ensues, ending with Reeves accidentally exposed to a concentrated aerosol sample of the mutating strain."
+    },
+    {
+      "number": 10,
+      "title": "The Vector",
+      "summary": "Dr. Reeves transforms into the first voluntary, psychotic carrier of the perfected weaponized strain, becoming 'Patient Zero' inside the Hive.",
+      "key_events": [
+        "Reeves undergoes rapid, horrific physical changes, his body warping but not dying.",
+        "He becomes violently aggressive, spreading the pathogen through the ventilation system.",
+        "Full-scale biocontainment breach is declared.",
+        "Aris, Leo, and Elara are forced to work together to navigate the chaotic, infected facility.",
+        "They must reach the central broadcast antenna to send the data out."
+      ],
+      "ending_hook": "Renner, in a panic, initiates a facility self-destruct sequence to erase all evidence, trapping everyone inside with the evolving pathogen."
+    },
+    {
+      "number": 11,
+      "title": "The Choice",
+      "summary": "The trio races against the meltdown and the spreading pathogen. Leo's body begins to terminally destabilize\u2014he is the living epicenter of the outbreak.",
+      "key_events": [
+        "They fight through infected security personnel and failing systems.",
+        "Leo confesses he can feel the strain consuming him; he is a walking time bomb.",
+        "Aris reveals the digital kill-switch he engineered, but deploying it would require a massive viral upload from the central terminal, which would also kill Leo.",
+        "Elara must choose between saving her brother and potentially saving millions.",
+        "Leo makes the choice for her, heading to the terminal to sacrifice himself."
+      ],
+      "ending_hook": "As Leo initiates the kill-switch upload, Renner appears, holding Elara at gunpoint, demanding the sequence be reversed."
+    },
+    {
+      "number": 12,
+      "title": "Resurrection's End",
+      "summary": "In a final confrontation, Aris must outsmart Renner while the facility collapses around them. The fate of the Lazarus Strain hangs in the balance.",
+      "key_events": [
+        "Aris distracts Renner, allowing Elara to break free.",
+        "Leo, deteriorating rapidly, tackles Renner, buying Aris the final seconds to lock in the kill-switch command.",
+        "A global signal is sent, broadcasting the Thanatos Protocol data and deactivating the core strain genome.",
+        "The pathogen inside every carrier (including Reeves) begins to denature and die.",
+        "Renner is left trapped in the collapsing facility as Aris and Elara escape to an evacuation point."
+      ],
+      "ending_hook": "Weeks later, Aris and Elara testify before a closed congressional hearing. As they leave, a man in a black car hands Aris a blank card with a single symbol on it\u2014the logo of another shadowy organization\u2014suggesting the knowledge of resurrection is now forever in the world, waiting for the next hand to wield it."
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "title": "The Poisoned Petal",
+  "genre": "mystery",
+  "subgenre": "Cozy Mystery / Botanical Mystery",
+  "setting": {
+    "time_period": "Present day, late summer",
+    "locations": [
+      "Rosehaven: A picturesque, horticulturally-obsessed English town.",
+      "Elara's Cottage & Garden: A charming, slightly wild cottage with a well-tended garden, serving as both home and sanctuary.",
+      "The Rosehaven Garden Show Grounds: The manicured, competitive heart of the town's social calendar.",
+      "Local greenhouses, nurseries, and the homes of various gardening enthusiasts."
+    ],
+    "atmosphere": "A surface layer of idyllic, postcard-perfect English village life, brimming with floral beauty and community spirit, which conceals deep-rooted rivalries, hidden secrets, and the potential for deadly natural poisons. The tone shifts from sunny and vibrant to shadowy and suspenseful, always grounded in the sensory world of plants and gardens."
+  },
+  "characters": [
+    {
+      "name": "Elara Finch",
+      "role": "Protagonist, Consultant Botanical Liaison",
+      "description": "A sharp, observant botanist in her late 30s with a deep, intuitive understanding of plants. Prefers the company of her corgi, Nutmeg, and her greenhouse to most people. Has a quiet wit and a forensic eye for botanical detail.",
+      "arc": "From a reluctant outsider, wary of the town's hidden thorns, to an accepted and integral part of the community who uses her unique skills to protect it. Learns to trust her instincts with people as she does with plants, finding a new place to belong."
+    },
+    {
+      "name": "Nutmeg",
+      "role": "Elara's corgi companion and unofficial assistant",
+      "description": "A perceptive, toasted-bread-colored corgi with expressive ears and a stubborn streak. Serves as Elara's emotional barometer and occasional comic relief.",
+      "arc": "Maintains her loyal companionship, but her role evolves from mere pet to a key part of Elara's investigative and emotional support system."
+    },
+    {
+      "name": "Inspector Aris Thorne",
+      "role": "Lead detective on the case",
+      "description": "A methodical, slightly world-weary detective from the county police. Initially skeptical of Elara's involvement but possesses a fundamental respect for evidence and expertise.",
+      "arc": "Moves from viewing Elara as a nuisance to valuing her as a crucial partner. Learns to see the natural world as a potential crime scene."
+    },
+    {
+      "name": "Vivian Croft",
+      "role": "Victim, reigning champion of the Rosehaven Garden Show",
+      "description": "A formidable, elegant woman in her 60s. Her garden was a masterpiece of control and competition. Admired, envied, and feared in equal measure.",
+      "arc": "Posthumously revealed through the investigation; her perfect facade hides a network of secrets, rivalries, and past transgressions."
+    },
+    {
+      "name": "Various Garden Show Competitors & Townsfolk",
+      "role": "Suspects and supporting cast",
+      "description": "A collection of passionate gardeners, each with their own motives, secrets, and relationships (strained or otherwise) with Vivian Croft. Includes the ambitious newcomer, the bitter perennial runner-up, the old friend with a grudge, and the unassuming expert with hidden knowledge.",
+      "arc": "Their public personas are peeled back layer by layer like an artichoke, revealing the complex, sometimes ugly, roots beneath the community's blooming surface."
+    }
+  ],
+  "themes": [
+    "The duality of nature: beauty and poison, growth and decay, cultivation and wildness.",
+    "Secrets buried beneath a perfect surface: in gardens, in communities, and in people.",
+    "The fierce, sometimes deadly, passions that can underlie seemingly gentle hobbies.",
+    "Finding one's place and using one's unique knowledge for good.",
+    "Observation vs. assumption: truly seeing what is there, not what you expect to find."
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara Finch's perspective. The prose is descriptive and sensory, rich with botanical detail and metaphor. It has a gentle, occasionally wry, humor that reflects Elara's inner voice.",
+  "tone": "Atmospheric and character-driven. Begins with a cozy, charming sensibility that gradually darkens into suspense as the mystery unfolds. The threat is intellectual and sinister (poison), not graphic or violent. The overall feeling is one of intelligent intrigue nestled within a vividly rendered natural world.",
+  "plot_summary": "When the formidable garden show champion, Vivian Croft, is found dead amidst her prize-winning blooms, the idyllic town of Rosehaven is shocked. The death is ruled accidental\u2014a tragic reaction to a rare plant toxin. Elara Finch, the town's new botanical consultant with a keen eye for flora, isn't convinced. The botanical evidence feels staged. Reluctantly drawn into the investigation by the pragmatic Inspector Thorne, Elara uses her deep knowledge of plants to navigate a hidden world of bitter rivalries, stolen cultivars, and long-buried secrets within Rosehaven's gardening elite. As she and Nutmeg dig deeper, they discover that the community's beautiful facade conceals roots of envy and ambition capable of murder. The climax reveals a killer who used horticultural expertise as a weapon. In the end, Elara solves the crime, helps restore a fractured peace, and finds herself unexpectedly rooted in the community. The final scene hints at future mysteries, not as threats, but as intriguing puzzles to be solved, symbolized by a mysterious, anomalous bud in her own garden."
+}

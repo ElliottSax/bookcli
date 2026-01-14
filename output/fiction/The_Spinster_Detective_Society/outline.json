@@ -1,0 +1,140 @@
+{
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "The Unlikely Entrepreneur",
+      "summary": "Miss Sherlock Holmes, a confirmed spinster, decides to open London's first female detective agency. She hires a diverse team of 'unemployable' women, including a disgraced governess, a former pickpocket, and a suffragette arsonist.",
+      "word_target": 7083,
+      "key_scenes": [
+        "Miss Holmes finalizes the lease on her new office space.",
+        "She interviews and hires her first three employees.",
+        "The team meets for the first time, with initial tension and curiosity."
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "title": "A Client in Distress",
+      "summary": "The agency receives its first client, a young woman whose husband has been falsely accused of theft. Miss Holmes and her team begin their investigation, uncovering a web of lies and deceit.",
+      "word_target": 7083,
+      "key_scenes": [
+        "The client arrives, visibly distressed, and explains her situation.",
+        "Miss Holmes assigns roles to her team members for the investigation.",
+        "The team conducts initial interviews and gathers evidence."
+      ]
+    },
+    {
+      "chapter_number": 3,
+      "title": "Unraveling the Truth",
+      "summary": "As the investigation progresses, the team discovers that the real culprit is a powerful businessman with connections to the police. They must navigate a dangerous landscape to clear the husband's name.",
+      "word_target": 7083,
+      "key_scenes": [
+        "The team uncovers a trail of financial discrepancies.",
+        "They confront the businessman's secretary, who provides crucial information.",
+        "A tense meeting with the police reveals the extent of the businessman's influence."
+      ]
+    },
+    {
+      "chapter_number": 4,
+      "title": "A New Case Emerges",
+      "summary": "Just as they close the first case, a new client arrives with a missing persons case. This time, the missing person is a young woman who disappeared under mysterious circumstances.",
+      "word_target": 7083,
+      "key_scenes": [
+        "The team celebrates their first success.",
+        "A new client arrives, desperate for help.",
+        "The team begins to piece together the last known movements of the missing woman."
+      ]
+    },
+    {
+      "chapter_number": 5,
+      "title": "Shadows in the Fog",
+      "summary": "The investigation leads the team into the seedy underbelly of London, where they encounter dangerous individuals and hidden secrets. They must stay one step ahead to find the missing woman before it's too late.",
+      "word_target": 7083,
+      "key_scenes": [
+        "The team visits a notorious part of town, gathering clues.",
+        "They narrowly escape an ambush by a group of thugs.",
+        "A clue from a street urchin leads them to a hidden safe house."
+      ]
+    },
+    {
+      "chapter_number": 6,
+      "title": "A Twist of Fate",
+      "summary": "The missing woman is found, but not in the way they expected. She had fled to avoid a forced marriage arranged by her family. The team must now navigate the complex social dynamics to ensure her safety.",
+      "word_target": 7083,
+      "key_scenes": [
+        "The team finds the missing woman in a remote cottage.",
+        "She reveals the true reason for her disappearance.",
+        "The team devises a plan to protect her from her family's wrath."
+      ]
+    },
+    {
+      "chapter_number": 7,
+      "title": "The Suffragette's Secret",
+      "summary": "A suffragette leader seeks the agency's help to uncover a mole within their ranks. The team delves into the world of activism, discovering a web of betrayal and sacrifice.",
+      "word_target": 7083,
+      "key_scenes": [
+        "The suffragette leader visits the agency, explaining the urgency of the situation.",
+        "The team infiltrates a suffragette meeting to gather information.",
+        "They uncover a secret correspondence that points to the mole's identity."
+      ]
+    },
+    {
+      "chapter_number": 8,
+      "title": "Bonds of Sisterhood",
+      "summary": "As the investigation deepens, the team forms strong bonds with the suffragettes, learning about their struggles and sacrifices. They must balance their mission with the growing personal connections.",
+      "word_target": 7083,
+      "key_scenes": [
+        "The team attends a suffragette rally, gaining a deeper understanding of the movement.",
+        "A heart-to-heart conversation between Miss Holmes and a suffragette leader.",
+        "The team works together to protect a suffragette from a violent attack."
+      ]
+    },
+    {
+      "chapter_number": 9,
+      "title": "The Final Confrontation",
+      "summary": "The mole is identified, and the team must act quickly to expose them. The confrontation is intense, with high stakes for both the suffragettes and the agency.",
+      "word_target": 7083,
+      "key_scenes": [
+        "The team sets a trap to catch the mole in the act.",
+        "A dramatic confrontation in a dimly lit room.",
+        "The mole is arrested, and the suffragettes celebrate their victory."
+      ]
+    },
+    {
+      "chapter_number": 10,
+      "title": "A New Beginning",
+      "summary": "The agency gains recognition and respect in London, attracting more clients. Miss Holmes reflects on the journey so far and the impact they've had on the lives of women.",
+      "word_target": 7083,
+      "key_scenes": [
+        "The agency receives a letter of commendation from a prominent figure.",
+        "Miss Holmes and her team discuss their future plans over tea.",
+        "A montage of the team working on various cases, showing their growth and camaraderie."
+      ]
+    },
+    {
+      "chapter_number": 11,
+      "title": "Romance and Revelations",
+      "summary": "Light romantic subplots develop among the team members, adding a touch of warmth and humor. Meanwhile, a new case brings unexpected revelations about their pasts.",
+      "word_target": 7083,
+      "key_scenes": [
+        "A romantic moment between two team members during a quiet evening.",
+        "The team discovers a hidden diary that reveals a team member's past trauma.",
+        "They work together to support the affected team member, strengthening their bond."
+      ]
+    },
+    {
+      "chapter_number": 12,
+      "title": "The Spinster Detective Society",
+      "summary": "The agency officially becomes known as the Spinster Detective Society, a symbol of female empowerment and solidarity. The team looks forward to new challenges and adventures.",
+      "word_target": 7083,
+      "key_scenes": [
+        "A formal announcement of the new name at a press conference.",
+        "The team celebrates their achievements with a dinner party.",
+        "A final scene shows the team brainstorming ideas for their next big case."
+      ]
+    }
+  ],
+  "title": "The Spinster Detective Society",
+  "genre": "cozy_feminist_mystery",
+  "premise": "Miss Sherlock Holmes, confirmed spinster at 35, opens London's first female detective agency\u2014and accidentally starts a movement. Her clients are women failed by the system. Her staff? A motley crew of 'unemployable' women: a disgraced governess, a former pickpocket, a suffragette arsonist.",
+  "style_guide": "Ensemble cast with rotating POVs. Warm, witty, Austenian. Female solidarity and found family. Light romance subplots."
+}

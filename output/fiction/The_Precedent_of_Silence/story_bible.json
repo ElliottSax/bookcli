@@ -1,0 +1,54 @@
+{
+  "title": "The Veridian Verdict",
+  "genre": "Legal Thriller",
+  "subgenre": "Social Justice Drama",
+  "setting": {
+    "time_period": "Contemporary / Present Day",
+    "locations": [
+      "A High-Stakes Courtroom",
+      "The City (implied)",
+      "Anya Petrova's Home (described in testimony)"
+    ],
+    "atmosphere": "A tense, pressurized environment of institutional power versus human vulnerability; shifts from claustrophobic anxiety to cautious, hard-won relief."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Plaintiff's Attorney / Protagonist",
+      "description": "A determined, sharp lawyer who fights for the marginalized against corporate giants. She is tactical, using precision and emotional resonance over theatrics, and is deeply personally invested in her clients' humanity.",
+      "arc": "From a state of high-pressure combat in a seemingly rigged system, to securing a foundational victory that validates her method and purpose. She moves from fighting a single battle to understanding her role in the longer war for justice and healing."
+    },
+    {
+      "name": "Anya Petrova",
+      "role": "Plaintiff / Victim",
+      "description": "A woman physically and emotionally scarred by corporate negligence (chemical burns). Her silent, knotted hands in the courtroom are a powerful testament to her suffering.",
+      "arc": "From being a symbol of damage and evidence in a case, to becoming a person who receives acknowledgment and the first step toward closure and safety."
+    },
+    {
+      "name": "Roth",
+      "role": "Lead Defense Attorney for Veridian Chemical",
+      "description": "The epitome of cold, expensive corporate defense. Initially smug and contemptuous, projecting calm superiority.",
+      "arc": "Undergoes a visible unraveling\u2014from composed arrogance to exhausted, defeated despair as the verdict goes against his client, symbolizing the cracking facade of corporate invincibility."
+    },
+    {
+      "name": "Judge Harrow",
+      "role": "Presiding Judge",
+      "description": "Described with antiquated, grim imagery ('voice dry as pages turning in a tomb'), setting the tone of the courtroom as a place where history and finality are weighed.",
+      "arc": "Serves more as a force of the setting and procedure than a character with an arc, representing the immutable structure of the law itself."
+    },
+    {
+      "name": "Mrs. Flores",
+      "role": "Supporting Plaintiff / Client",
+      "description": "An older woman with a face mapped by pain and resilience. She represents the broader community affected by the defendant's actions.",
+      "arc": "Moves from a lifetime of pain and waiting to a moment of profound relief and vindication. She becomes Elara's anchor and symbol of the human impact beyond the legal win."
+    }
+  ],
+  "themes": [
+    "Corporate Accountability vs. Human Cost",
+    "The Nature of Justice as a Foundation, Not a Finale",
+    "The Power of Personal Story Against Abstract Data",
+    "Institutional Arrogance and Its Collapse",
+    "Healing as a Quieter, Enduring Work After Legal Victory"
+  ],
+  "plot_summary": "The story frames a pivotal lawsuit against Veridian Chemical, a corporation accused of negligent poisoning. It opens in the tense climax of the trial, where attorney Elara Vance delivers a scalpel-sharp closing argument, cutting through the corporation's sterile data with the visceral, human reality of her client, Anya Petrova. The ending reveals the verdict is against Veridian, showing the collapse of the corporate legal team and the profound, tearful relief of the victims. The victory is not portrayed as a simplistic end, but as a crucial foundation for healing and a step toward building a more just world, as Elara and her clients walk away from the courthouse into the hopeful, enduring work that follows."
+}

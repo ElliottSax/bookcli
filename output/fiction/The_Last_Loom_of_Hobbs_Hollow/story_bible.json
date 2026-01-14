@@ -1,0 +1,48 @@
+{
+  "title": "The Inheritance of Knots",
+  "genre": "Fantasy",
+  "subgenre": "Contemporary Fantasy, Magical Realism",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "Portland, Oregon (craft fairs, Maya's studio/apartment)",
+      "The Loom (a mystical, possibly extra-dimensional or ancestral space)"
+    ],
+    "atmosphere": "A blend of gritty, damp urban realism and a hidden, tactile magic rooted in craft and legacy. Shifts from feelings of financial anxiety and artistic failure to mysterious, ominous wonder and finally to grounded, purposeful creation."
+  },
+  "characters": [
+    {
+      "name": "Maya Vance",
+      "role": "Protagonist",
+      "description": "A struggling artisan leatherworker, meticulous and passionate about her craft. She is financially precarious, proud, and carries a deep-seated fear of failure. She is physically attuned to materials and possesses a latent, inherited sensitivity to a deeper magic woven into tangible creation.",
+      "arc": "From a state of helplessness and impending ruin, burdened by the 'knots' of her struggles, to embracing a mysterious and dangerous legacy. She learns that true craft isn't about perfect, untouched control, but about the resilient, mending act of weaving forward\u2014integrating failure, community, and mystery to find a new, grounded purpose."
+    },
+    {
+      "name": "Leo",
+      "role": "Supporting Character / Guide?",
+      "description": "Appears in the ending, following Maya with an axe\u2014suggesting a role as a protector, a threat, or someone else entangled in the loom's legacy. His presence adds tension and implies Maya is not navigating this magic alone.",
+      "arc": "Unclear from excerpts, but his actions suggest a transition from potential conflict (axe) to following her lead, indicating a shift in their dynamic as they face the loom together."
+    },
+    {
+      "name": "Chloe",
+      "role": "Supporting Character",
+      "description": "A weary but present companion in the final scene. Her presence signifies that Maya's journey has moved beyond isolation. She is the witness to Maya's final, realized creation.",
+      "arc": "Serves as an anchor to the human world and a recipient of Maya's hard-won wisdom, representing the community and connection Maya has forged or reclaimed."
+    },
+    {
+      "name": "Ben",
+      "role": "Supporting Character (Opening)",
+      "description": "A fellow vendor at the craft fair, mentioned only as offering a commiserating 'Rough day, huh?' He represents the small kindnesses and shared struggles of the artistic community Maya is part of at the story's start.",
+      "arc": "Likely represents the mundane world Maya fears losing, a touchstone of normalcy and struggle before her descent into the extraordinary."
+    }
+  ],
+  "themes": [
+    "The Magic of Craft and Creation",
+    "Inheritance vs. Self-Determination",
+    "Mending and Resilience",
+    "The Anxiety of Artistic and Financial Failure",
+    "Finding Power in the Ordinary",
+    "Confronting vs. Fleeing the Unknown"
+  ],
+  "plot_summary": "Maya Vance, a leatherworker on the brink of losing her studio, is pushed to the edge by a disastrous, rainy craft fair. This moment of profound failure acts as a catalyst, drawing her into a hidden inheritance\u2014a mystical Loom tied to her family line. She must navigate this dangerous, magical legacy, represented by the Loom and its threads, which is both a source of power and a burden. With companions like Leo (who carries an ambiguous threat/protection) and Chloe, she faces a critical choice: to weave forward into the terrifying unknown of this magic or to retreat to her crumbling old life. Her journey culminates not in mastering the loom to control fate, but in using its principles to mend her own life. She finds profound magic and peace not in grand power, but in the humble, sturdy, and enduring act of creation itself, symbolized by her final, perfectly textured piece named 'enough.'"
+}

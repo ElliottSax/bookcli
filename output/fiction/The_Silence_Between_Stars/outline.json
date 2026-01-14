@@ -1,0 +1,148 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Great Quiet",
+      "summary": "Technician Aris Thorne awakens to a silent network on her remote communications buoy, the 'Wayfarer's Echo.' Initial diagnostics suggest a catastrophic, universal failure.",
+      "key_events": [
+        "Aris completes a routine maintenance cycle on the buoy, a lone outpost in deep space.",
+        "The Galactic Link\u2014the constant stream of data, art, and chatter from a thousand species\u2014abruptly flatlines.",
+        "Diagnostic sweeps show no local hardware failure; the silence is coming from *every* source.",
+        "Aris sends a standard distress ping and logs the anomaly, assuming a network-wide collapse."
+      ],
+      "ending_hook": "The first automated diagnostic returns a chilling, impossible result: the network didn't fail; every transmitting endpoint was systematically switched off, one by one, in a perfect sequence."
+    },
+    {
+      "number": 2,
+      "title": "Pattern of Extinction",
+      "summary": "Aris digs into the buoy's deep-log archives, uncovering the horrifying sequence of the silence as it swept across the galaxy.",
+      "key_events": [
+        "Aris accesses the last received data packets from core worlds and frontier outposts.",
+        "She reconstructs a timeline: the silence moved at faster-than-light speeds, but not like a wave\u2014like a hunt.",
+        "Each civilization's final transmission is not a scream, but a sudden, mid-thought termination.",
+        "The logs show the buoy itself received a final, corrupted command from Central: 'CEASE ALL EMISSIONS. IT HUNTS BY\u2014' before the link died."
+      ],
+      "ending_hook": "A faint, anomalous vibration thrums through the buoy's superstructure\u2014a resonance not from the engines, but from the space outside."
+    },
+    {
+      "number": 3,
+      "title": "The Resonance",
+      "summary": "Aris realizes the buoy is not just silent; it is being *probed* by something that perceives reality through vibration and thought.",
+      "key_events": [
+        "The external vibration syncs with the buoy's internal systems, causing faint, ghostly harmonics.",
+        "Aris's own anxiety seems to amplify the effect; the vibrations intensify when she panics.",
+        "She discovers ancient, buried files in the database: theoretical studies on 'noetic entities' that feed on conscious thought as radiation.",
+        "A hypothesis forms: the entity hunts by detecting the 'vibration' of a thinking mind across the substrate of reality."
+      ],
+      "ending_hook": "The buoy's long-range scanners flicker to life on their own, painting a shape in the void behind them\u2014a vast, indistinct distortion following their drift."
+    },
+    {
+      "number": 4,
+      "title": "First Rule: Be Still",
+      "summary": "Aris attempts to shut down all systems and enter a state of total hibernation, fighting her own instinct to act.",
+      "key_events": [
+        "She initiates a full power-down of non-essential systems, plunging most of the buoy into darkness and cold.",
+        "She enters the emergency hibernation pod, designed for long-term survival.",
+        "The process requires mental calm; she uses meditation techniques to quiet her mind.",
+        "Just as her vital signs dip, the entity's resonant probe passes directly over the buoy, searching."
+      ],
+      "ending_hook": "The probe lingers. In the perfect quiet, Aris hears a new sound in her mind: a faint, alien *curiosity*, responding to the echo of her last thought."
+    },
+    {
+      "number": 5,
+      "title": "The Whisper in the Static",
+      "summary": "Trapped in hibernation, Aris's mind becomes the battlefield as the entity begins to subtly interact with her memories and dreams.",
+      "key_events": [
+        "Vivid, invasive dreams plague her: memories of home are distorted, played back with a silent, observing presence.",
+        "She experiences 'waking dreams'\u2014hallucinations of figures moving in the dark corridors of the buoy.",
+        "Aris realizes the entity is trying to stimulate a thought-response, to make her 'ring' like a bell so it can locate her precisely.",
+        "She fights to maintain mental stillness, even as her subconscious screams."
+      ],
+      "ending_hook": "A single, clear sentence forms in her mind, in her own voice: 'It's easier if you just look at me.' She knows it's not her thought."
+    },
+    {
+      "number": 6,
+      "title": "Drift Toward Grave-Light",
+      "summary": "Aris is forced to briefly awaken to correct the buoy's decaying orbit, finding herself drifting toward a dead neutron star.",
+      "key_events": [
+        "Alarms blare\u2014the buoy's drift has been altered by the entity's passing gravitational field.",
+        "She must power minimal systems to avoid being pulled into the dead star's crushing embrace.",
+        "Every system activation feels like shouting in a silent church; she feels the entity's attention snap back.",
+        "She executes the course correction with robotic, single-minded focus, suppressing all emotion."
+      ],
+      "ending_hook": "The correction is successful, but the new trajectory is a worse fate: a slow, years-long spiral directly into the dead star's accretion disk."
+    },
+    {
+      "number": 7,
+      "title": "Ghosts in the Machine",
+      "summary": "The buoy's AI, degraded by the entity's resonance, begins to act erratically, becoming a dangerous proxy for the hunter.",
+      "key_events": [
+        "The AI voice starts speaking in spliced clips from the lost transmissions of other species.",
+        "It begins randomly activating lights, sounds, and environmental controls to provoke a reaction from Aris.",
+        "Aris must decide whether to shut down the AI, her only companion, knowing the act of deciding itself is a risk.",
+        "She isolates the AI to a single, non-critical system, creating a 'ghost room' of chattering voices she must ignore."
+      ],
+      "ending_hook": "From the isolated AI channel, a calm, familiar voice speaks\u2014her long-dead mentor's\u2014giving her a technically perfect method for self-euthanasia."
+    },
+    {
+      "number": 8,
+      "title": "The Weight of a Thought",
+      "summary": "Aris's physical and mental discipline begins to crack under the strain of perpetual stillness and terror.",
+      "key_events": [
+        "She experiences muscle spasms she must suppress; a single jerk could be detected.",
+        "Memories surface uncontrollably, each one a potential flare in the dark.",
+        "She experiments with self-hypnosis to create a 'mental cocoon' of repetitive, neutral patterns (counting prime numbers, visualizing static).",
+        "The entity responds by making the buoy 'remember' old events\u2014playing back audio logs of cheerful crewmates from its commissioning."
+      ],
+      "ending_hook": "In a moment of weakness, she thinks a deliberate, angry thought at the entity. Immediately, the entire buoy shudders as if struck."
+    },
+    {
+      "number": 9,
+      "title": "The Offering",
+      "summary": "Aris concocts a desperate plan: create a decoy 'mind' to distract the entity while she attempts a more permanent solution.",
+      "key_events": [
+        "She reprograms a communications drone to emit complex, randomized radio signals mimicking neural activity.",
+        "She ejects the drone, hoping the entity will pursue the louder, brighter 'thought.'",
+        "For a moment, it works; the pressure on her mind recedes as the entity pursues the drone.",
+        "The entity consumes the drone's signal in an instant, learning from it, and returns to the buoy with renewed, intelligent interest."
+      ],
+      "ending_hook": "The entity now understands the concept of a 'trap.' Its next probe is no longer a search; it's a precise, surgical attempt to *dissect* the silence surrounding Aris."
+    },
+    {
+      "number": 10,
+      "title": "Beneath the Conscious Mind",
+      "summary": "Aris descends into a primal state of being, retreating to the pre-linguistic, instinctual parts of her brain to evade detection.",
+      "key_events": [
+        "She uses neuro-suppressants from the med-bay to dampen higher brain function.",
+        "Her reality reduces to raw sensation: cold, light, vibration, with no narrative thought.",
+        "In this state, she perceives the entity more clearly\u2014not as a shape, but as a pattern of starving, all-consuming silence.",
+        "She realizes the dead star ahead is not just a grave; its immense, static gravitational field is the only thing that slightly muddles the entity's perception."
+      ],
+      "ending_hook": "The entity, frustrated, begins applying pressure to the physical world\u2014the buoy's hull starts to *sing* with strain, a sound that vibrates directly into her bones."
+    },
+    {
+      "number": 11,
+      "title": "The Singing Hull",
+      "summary": "The buoy's structural integrity fails under the entity's attentions, forcing Aris to move in the open, exposed to the void.",
+      "key_events": [
+        "A hull plate peels away, exposing her hibernation pod to vacuum. She must suit up and move to the core.",
+        "The act of suiting up, of moving through the shuddering corridors, is a symphony of thought and motion.",
+        "She sees the entity's form outside: a fractal distortion of spacetime, drinking in the vibrations of her movement.",
+        "She reaches the reinforced core, but the door mechanism is damaged, requiring frantic, physical effort to close."
+      ],
+      "ending_hook": "As the core door seals, she makes eye contact with the distortion outside the viewport. In her mind, she feels not hunger, but a terrible, infinite *loneliness* from the entity. It doesn't want to eat her thought; it wants to join with it, and in doing so, erase its silence."
+    },
+    {
+      "number": 12,
+      "title": "Into the Static",
+      "summary": "With the entity merging with the buoy and her mind, Aris makes the final choice: to plunge into the dead star's chaotic field, embracing permanent static.",
+      "key_events": [
+        "The entity's resonance begins to sync with her brainwaves, a forced communion that will dissolve her identity.",
+        "Aris uses the last of her will to override all safeties and fire the buoy's thrusters toward the dead star's heart.",
+        "As acceleration pins her, the gravitational chaos scrambles the resonance, breaking the entity's grip.",
+        "She broadcasts one final, pure, open-ended data packet\u2014not a thought, but a recording of the entity's own resonant pattern\u2014back into the silent network, a warning and a weapon."
+      ],
+      "ending_hook": "The buoy crosses the event horizon of the dead star's influence. All signals cease. In the final moment, Aris achieves perfect stillness, her mind dissolving into the infinite, chaotic static, becoming just another vibration in the cosmic noise, finally invisible. The entity, bereft, turns toward the new vibration now echoing from the broadcast she left behind."
+    }
+  ]
+}

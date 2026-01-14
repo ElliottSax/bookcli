@@ -1,0 +1,114 @@
+{
+  "genre": "action_horror_mashup",
+  "detected_tropes": {
+    "enemies_to_lovers": 1.0,
+    "forced_proximity": 1.0,
+    "there_was_only_one_bed": 1.0,
+    "fated_mates": 1.0,
+    "morally_grey_hero": 1.0,
+    "possessive_hero": 1.0,
+    "he_falls_first": 0.8,
+    "grumpy_sunshine": 1.0,
+    "touch_starved": 1.0,
+    "found_family": 0.65
+  },
+  "missing_tropes": [],
+  "trope_coverage": 1.0,
+  "checklist": {
+    "must_have": [
+      {
+        "trope": "Enemies to Lovers",
+        "description": "Characters start as enemies/rivals and fall in love",
+        "keywords_to_include": [
+          "hate",
+          "enemy",
+          "rival"
+        ]
+      },
+      {
+        "trope": "Forced Proximity",
+        "description": "Characters are forced to be near each other",
+        "keywords_to_include": [
+          "trapped",
+          "stuck",
+          "forced"
+        ]
+      },
+      {
+        "trope": "There Was Only One Bed",
+        "description": "Characters must share sleeping space",
+        "keywords_to_include": [
+          "one bed",
+          "share",
+          "sleep"
+        ]
+      },
+      {
+        "trope": "Fated Mates",
+        "description": "Destined to be together by magic/fate",
+        "keywords_to_include": [
+          "mate",
+          "bond",
+          "fated"
+        ]
+      },
+      {
+        "trope": "Morally Grey Hero",
+        "description": "Hero with questionable ethics but loyal to heroine",
+        "keywords_to_include": [
+          "dark",
+          "villain",
+          "ruthless"
+        ]
+      },
+      {
+        "trope": "Possessive Hero",
+        "description": "Hero is extremely protective/possessive",
+        "keywords_to_include": [
+          "mine",
+          "possess",
+          "protect"
+        ]
+      },
+      {
+        "trope": "He Falls First",
+        "description": "Male lead catches feelings before female lead",
+        "keywords_to_include": [
+          "obsessed",
+          "watching",
+          "pining"
+        ]
+      },
+      {
+        "trope": "Grumpy/Sunshine",
+        "description": "Grumpy character paired with optimistic one",
+        "keywords_to_include": [
+          "grumpy",
+          "sunshine",
+          "bright"
+        ]
+      },
+      {
+        "trope": "Found Family",
+        "description": "Characters form a family-like bond",
+        "keywords_to_include": [
+          "family",
+          "belong",
+          "home"
+        ]
+      }
+    ],
+    "should_have": [
+      {
+        "trope": "Touch Starved",
+        "description": "Character craves physical affection after deprivation",
+        "keywords_to_include": [
+          "touch",
+          "starved",
+          "lonely"
+        ]
+      }
+    ],
+    "nice_to_have": []
+  }
+}

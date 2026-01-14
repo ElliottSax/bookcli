@@ -1,0 +1,107 @@
+Chapter 8: The Run
+
+The air in the weaving room had become a second skin, thick with the smell of lanolin from the untreated wool, old dust that rose in visible motes when the floorboards groaned, and something else—a sweet, vegetal decay that seemed to seep from the itself, like the scent of a vase of water long after the flowers have rotted. Elara Hughes’s fingers, moving with a will separate from her own, passed the shuttle through the warp. Clack of the batten, a hollow wooden sound. Swish of the thread, a whisper against her chapped skin. The rhythm was inside her skull now, a kind of parasitic heartbeat syncing with the pulse in her temples. The figure in the weaving—the Bride—was no longer a distant, stylized symbol. Under Elara Hughes’s hands, it had gained dimension, a terrible intimacy. There was the hint of a face, turned slightly, as if listening. The folds of the gown, woven with a thread so black it seemed to be made of cut velvet, held pockets of darkness that drank the light from the single, guttering oil lamp, making the flame above the wick look thin and anemic.
+
+Her own breath felt borrowed. Each inhalation carried the taste of dust and that underlying sweetness, coating her tongue. She could feel the Pattern’s attention like a pressure at the base of her neck, a cold spot in the room that followed her. Sometimes, in the periphery of her vision, the woven threads seemed to shiver, not from any draft, but from something stirring within the tight grid of warp and weft.
+
+Bronwyn’s entrance was so quiet it took a moment to sink in, the soft scuff of a worn leather sole on stone the only herald. She stood in the doorway, a silhouette against the deep blue twilight of the hall, her shape swallowed by a shapeless wool shawl. For days, the old woman had been a ghost, bringing meals of thin broth and hard bread, removing chamber pots with averted eyes, her silence heavier than any threat. But now, she held Elara Hughes’s gaze. The lamplight caught the side of her face, revealing skin the colour and texture of old parchment stretched over sharp bone. But her eyes, a washed-out grey, were fiercely, terrifyingly alive, burning with a decision long in the making.
+
+“They’re at the long table,” Bronwyn whispered, her voice a dry rustle like dead leaves skittering on stone. “The Choosing Feast. They’ll be there for hours, drinking the strong cider from the clay jugs. They’ll be loud.” She paused, her thin lips pressing together. “Then they’ll be slow. Stupid with it.”
+
+Elara Hughes’s hands froze mid-motion. The shuttle, slick from her own sweat, slipped from her numb fingers, hitting the warp with a soft thud before rolling across the half-formed web, trailing a line of crimson thread like a vein laid bare.
+
+“What are you saying?” The words left Elara Hughes’s throat raw. She realized she hadn’t spoken aloud in hours, maybe a day. Her voice sounded foreign, a stranger’s voice in the thick air.
+
+“I’m saying the mountains are dark now. No moon until late. And I’m saying I left the postern gate in the old wall unbarred.” Bronwyn stepped into the room, her movements quick and birdlike, a stark contrast to her usual slow shuffle. From the deep pockets of her apron she pulled a small, greasy cloth bundle, stained dark with oil. She placed it on the bench beside the loom. It gave off a faint, salty smell. “Cheese. Oatcake. It isn’t much. It’ll crumble in your pocket. Your map is in your satchel, by your bed. Take it.”
+
+Hope, so long buried it had turned to a cold, heavy stone in her gut, cracked open in Elara Hughes’s chest. It was a painful, dazzling feeling, like a limb coming back to life with a rush of needles. It hurt to breathe. “Why?” She stared at the old woman, searching for a trap, a trick of the Pattern. “After all this… bringing me here, locking me in… why would you help me?”
+
+Bronwyn’s gaze flickered past Elara Hughes to the , to the emerging Bride whose unfinished face seemed to watch them from the loom. A spasm of old grief twisted her features, deepening every wrinkle into a canyon of sorrow. Her hand rose, not quite touching the woven image, hovering an inch away as if repelled by its cold.
+
+“My daughter,” Bronwyn said, the words flat, “had your colour hair. Not just red. A particular red. Like a flame in the wind, she was. Bright.” She swallowed, the sound audible in the quiet room. “The loom took her voice first. She stopped singing. Then it took her dreams. She’d wake screaming, but no sound would come out. Just her mouth, open like a pit.” The old woman’s hovering hand curled into a claw. “Then it asked for the rest. And they gave it. Old Idris, Margred… they called it ‘joining the design.’” She looked back at Elara Hughes, and her eyes were wells of pure, undiluted hatred—not for Elara Hughes, but for the room, the loom, the very stones of the house that had held her child. “It isn’t a sacrifice. It’s a consumption. A slow chewing. I won’t grease its throat again. Not with you.” She jerked her chin toward the door. “Now, go. While there’s still a ‘you’ left to go. While you still know your own name.”
+
+The plan, as Bronwyn laid it out in hurried, breathless phrases, was absurdly simple, which was its only strength. Simplicity had fewer threads to unravel. The old woman would create a diversion—a dropped lantern in the hayloft over the old stables, she muttered. The oil would catch quick. The old men would shuffle to investigate, the younger ones too deep in their cups and their boasting to move with any speed. Elara Hughes was to slip out the back of the house, through the kitchen garden where the scent of thyme and damp earth might cover her own, find the crumbled section of the village’s ancient perimeter wall, the postern gate barely wider than her shoulders, and run. Not toward the road—that would be watched, or so Bronwyn insisted, her eyes darting to the window—but up, into the teeth of the Black Mountains, using her own map to find a path through the scree and the shadows.
+
+“The mountains are not kind,” Bronwyn said, tying the greasy bundle shut with a piece of twine. Her fingers trembled. “But they are not sentient. They do not want. Remember that. Better the cold indifference of stone than the hungry attention of this place.”
+
+Elara Hughes stood, her legs trembling, stiff from hours at the loom. The room seemed to tilt. The in her peripheral vision pulsed with a deeper darkness. She could feel a faint, insistent tugging at the edges of her mind, the Pattern’s thread growing taut, sensing the shift, the potential snag. She fought it, focusing on the gritty feel of the oatcake bundle in her hand, the solid reality of it.
+
+“When?” Elara Hughes asked, her voice low.
+
+“Now.” Bronwyn’s eyes met hers. “The feast song has just started. It’s a long one. Gives thanks for the wool, the weave, the strength of the village. It buys you time.” She reached out, her dry, cool fingers closing around Elara Hughes’s wrist with surprising strength. “Don’t look back. Not at the house. Not at the loom. If you hear your name, it’s not me calling. You run until your lungs bleed, and then you run on the blood.”
+
+With that, the old woman turned and vanished into the gloom of the hallway, her shawl merging with the shadows, leaving Elara Hughes alone with the thrumming silence of the loom.
+
+For a heartbeat, she was paralyzed. The habit of the weave was a physical pull on her muscles. The room, with its familiar smells and its terrible, growing masterpiece, felt like the only real space in the world. Escape was a mad story, a dream that would dissolve. Then she looked down at her hands, stained with dye and calloused from the shuttle. They were her mother’s hands. But the life they were building here was not her mother’s life. It was a burial shroud, woven in advance.
+
+She moved.
+
+Her satchel was where Bronwyn said, slumped by the narrow bed. Her fingers fumbled with the buckle, the leather stiff and cold. Inside, her few remaining possessions felt like artifacts from another life: the clean, sharp smell of her unused pencils, the smooth paper of her map, a small pocket knife from her father, its bone handle worn smooth. She shoved the oatcake bundle in on top, the smell of grease and oats suddenly overwhelmingly tangible, a promise of a future where she might be hungry enough to eat it.
+
+From downstairs, a muffled burst of laughter rolled through the house, a low, male sound that made the floorboards vibrate faintly. The feast song began, a droning, rhythmic chant in the old language, the words indistinct but the tone solemn and grating. It was her curtain.
+
+She crept to the door of the weaving room, her heart hammering against her ribs so hard she felt it in her throat. The hallway was a tunnel of darkness, lit only by a single rushlight flickering in a sconce far at the end. She knew the way to the back stairs—had memorized it in those first days, looking for any possible exit. Her soft-soled shoes, the ones they’d given her for the cold floors, made no sound as she slipped out.
+
+The house was a different creature at night. The polished wood of the banister felt like ice under her palm. The portraits of severe-faced ancestors lining the stairwell were just pools of deeper blackness, but she felt their painted eyes tracking her descent. The air grew colder as she moved away from the central hearth, carrying the smell of damp stone and old, wet wool hung to dry.
+
+She reached the bottom of the servants’ stair, her breath held. A sliver of yellow light and the raucous, overlapping noises of the feast spilled from the half-open door to the great hall. She caught a glimpse of firelight dancing on the beamed ceiling, the hulking shadows of men leaning over the table, the glint of a pewter tankard. The smell hit her: roasted meat, spilled ale, woodsmoke, and the pungent, fermented tang of the strong cider. It was the smell of celebration, of a community fortified. It turned her stomach.
+
+She turned away, sliding into the darkness of the kitchen passage. The flagstones here were uneven, slick with something she didn’t want to identify. The kitchen itself was cavernous and empty, the great fire banked to embers that pulsed like a slow, red heartbeat. The remnants of the feast were everywhere: piles of dirty platters, a carcass picked clean, the sickly-sweet smell of apple cores rotting in a bowl. She moved through it like a ghost, her shadow leaping and twisting on the walls in the dim glow.
+
+The back door was a heavy thing of oak and iron. She put her hand on the cold latch, her muscles coiled. This was it. The boundary between the prison of the house and the vast, unknown prison of the night. She pressed down. The latch gave with a click that sounded like a thunderclap in the silence.
+
+Cold, clean air washed over her, so sharp it made her eyes water. It was free of the smells of the loom, the feast, the house. It smelled of pine, of frost, of black, wet earth. The kitchen garden lay before her, a geometric patchwork of raised beds, now mostly bare, the skeletons of dead plants rattling softly in a night breeze. Beyond it, a low stone wall, and beyond that, the deeper black of the mountains blotting out the star-strewn sky.
+
+She had just started across the damp grass, her feet sinking slightly into the soft turf, when a crash and a sudden, rising roar of voices came from the front of the house. Bronwyn’s diversion. The hayloft. The sound was followed by a sharp, cracking pop and a bloom of orange light that flickered against the side of the barn, throwing the skeletal branches of a nearby tree into stark, dancing relief. Shouts now, urgent and confused, the pounding of boots on hard ground.
+
+Now. Run.
+
+Elara Hughes’s body obeyed before her mind could second-guess. She sprinted across the garden, her satchel slapping against her hip, her breath already coming in ragged gasps. The cold air burned her lungs. She vaulted the low garden wall, her hands scraping on the rough, mossy stone, and landed in a tangle of brambles on the other side. Thorns tore at her wool dress, her stockings, catching and holding. She ripped free, feeling lines of hot pain on her calves.
+
+Ahead, the village’s outer wall loomed, a darker ridge against the dark. She ran parallel to it, her eyes straining for the crumbled section Bronwyn had described. The village was awake now behind her; more lights flared in windows, doors banged open, voices called to one another—questions, alarms. A dog began to bark, a frantic, staccato sound.
+
+There—a jagged gap where the ancient mortar had given way, stones tumbled into a rough pile. And within it, the darker outline of a small, arched gate, iron-bound wood hanging slightly ajar. The postern. She scrambled over the fallen stones, her hands finding purchase on cold, wet rock. She squeezed through the narrow opening, the rough wood catching on her clothes, for a terrifying moment gripping her tight. She pushed, fabric tearing, and then she was through.
+
+She was outside the wall.
+
+The immensity of the night swallowed her. The Black Mountains rose before her, not as a picture on a map, but as a vast, sloping wall of blackness that blotted out half the sky, its peaks invisible, its presence a physical weight. The ground underfoot changed from tended grass to tussocky moorland, thick with heather that grabbed at her ankles. The only sounds were the wind, a low moan through the unseen crags above, and the distant, fading chaos of the village.
+
+She didn’t stop. Bronwyn’s words echoed: Run until your lungs bleed. She set her face toward the lowest point between two looming shoulders of the mountain, a pass she’d circled on her map weeks ago in a different life, and ran.
+
+The first mile was pure, mindless flight. Every shadow was a pursuer, every rustle in the heather a hand about to close on her ankle. The cold air sawed in and out of her chest. Her legs, weakened by days of sedentary confinement, burned with a fierce, cleansing pain. She welcomed it. It was her own pain, not a gift from the loom.
+
+As the village sounds died completely, leaving only the wind and her own pounding heart, her pace slowed to a stumbling jog. The terrain began to climb, gently at first, then more steeply. The heather gave way to loose scree, stones that shifted and clattered under her weight, sending small avalanches down the slope behind her. She had to use her hands, scrambling on all fours, the sharp edges of rock biting into her palms.
+
+She paused, crouched behind a large, lichen-spotted boulder, and looked back. From this height, the village of Penrhos was just a cluster of tiny, golden lights in a bowl of darkness, like embers in a dead fire. The orange glow from the barn had spread; the fire was taking hold. Among the lights, smaller points of torchlight moved like agitated fireflies. Searching.
+
+A wave of dizziness hit her, and she realized she was trembling not just from cold and exertion, but from the sheer, violent rupture of her escape. The Pattern’s tug was still there, a faint, persistent thread of nausea and dislocation, as if part of her was still back in that room, fingers moving, the batten falling. She focused on the map in her mind, the lines she’d drawn. The Shepherd’s Back, a ridge line. The Grey Falls, a landmark. She had to get above the tree line before dawn.
+
+She pushed on. The temperature dropped as she climbed. Her breath plumed in the air, a ghostly companion. The sounds of the mountain night grew distinct: the trickle of unseen water over rock, the distant, lonely cry of some bird of prey, the creak of ancient trees in the wind below. Once, a stone dislodged by her foot bounced down the slope with a series of clicks that seemed impossibly loud in the silence. She froze, pressed against the cold rock face, waiting for answering shouts. None came. Only the wind.
+
+Hours bled together, marked only by the slow wheeling of the stars overhead and the growing, bone-deep cold that seeped through her wool dress. She found a rhythm: climb for a count of a hundred breaths, rest for twenty, listening. Her fingers grew numb. She fumbled the oatcake bundle from her satchel, her teeth chattering too hard to bite cleanly. She broke off a piece of the hard cheese, its sharp, salty tang exploding on her tongue, a sensation so vivid and ordinary it brought sudden, hot tears to her eyes. She ate greedily, the crumbs falling into the dark.
+
+The terrain grew steeper, more treacherous. She was in a gully now, a scar on the mountainside filled with shattered rock. Climbing was a process of testing each handhold, each foothold, the world reduced to the next few inches of cold stone. The satchel became a clumsy weight, catching on outcrops. For a wild moment, she considered abandoning it, but the map was inside. The map was her only thread forward.
+
+Then, from far below, carried on a caprice of the wind, she heard it.
+
+A bell.
+
+A single, deep, resonant toll that shuddered through the night air. It was not the frantic alarm of the village bell. This was slower, heavier, measured. It came from the house. From the tower where no bell, she was sure, had hung. It tolled once, a sound that seemed to vibrate in the rock beneath her. A pause, thick and waiting. Then a second toll.
+
+It was a call. A summons. Not to the villagers, but to the thing in the loom. To the Pattern. And she felt it answer. The nausea surged, not in her stomach, but behind her eyes, a pressure that made the stars smear. The faint, mental tug became a yank. A wave of profound fatigue washed over her, a seductive whisper that said to lie down, to rest, that the stone was a fine bed, that sleep was all she needed.
+
+“No,” she grunted aloud, the word ripped away by the wind. She dug her fingers into a crack in the rock, the pain a bright anchor. “My name is Elara Hughes Hughes.” She said it to the mountain, to the bell, to the thread in her mind. “I draw maps. I am not part of your design.”
+
+She climbed. The bell tolled a third time, fainter now, more distant. Or perhaps she was just pulling harder against the thread. Her muscles screamed. A fingernail tore, sending a bright spark of pain up her arm. She didn’t stop.
+
+Finally, the gully opened onto a narrow ridge. The wind here was a living force, shrieking around her, threatening to pluck her from the spine of rock. But the view was staggering. She was above the world. The village lights were mere pinpricks, the fire a dull glow. Ahead, the mountains reared higher still, great black masses against a sky now beginning to soften to a deep, indigo grey in the east. Dawn was not far off.
+
+She had done it. She was out. She was above them.
+
+Exhaustion hit her like a physical blow. She crawled into the lee of a massive, wind-sculpted boulder, a hollow that offered a semblance of shelter from the biting wind. Her body shook uncontrollably, waves of shivers wracking her frame. She pulled her knees to her chest, wrapping her arms around them, trying to conserve what little warmth she had left. The satchel was a poor pillow, but she curled around it.
+
+As the first true grey light began to define the terrifying, beautiful landscape around her, the final, most insidious thought came. It came not as a voice, but as a deep, unsettling certainty that uncoiled in the heart of her exhaustion.
+
+The run was only the first stitch. The mountains were not a escape, but a different kind of loom. And the Pattern, she knew with a chill that had nothing to do with the wind, was not behind her in that room. It was in the bell that had called. It was in the thread of connection that still hummed, faint but unbroken, in the core of her mind. It was in the very fact of her flight, which now felt less like an escape and more like the pulling of a crucial thread into a new, larger, and more terrible part of the design.
+
+She closed her eyes, not to sleep, but to shut out the creeping dawn. The rhythm of the loom was gone from her hands. But in the silence of the high ridge, with the wind screaming like a shuttle through an infinite warp, she feared it had only found a new place to beat: inside the hollow cage of her ribs, keeping time with her heart.

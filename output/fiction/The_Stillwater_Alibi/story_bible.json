@@ -1,0 +1,72 @@
+{
+  "title": "The Stillwater Alibi",
+  "genre": "mystery",
+  "subgenre": "Gothic Mystery / Small-Town Noir",
+  "setting": {
+    "time_period": "Contemporary, but with a timeless, isolated feel",
+    "locations": [
+      "Stillwater, a remote New England town",
+      "The Stillwater Clock Tower (central landmark)",
+      "The town square with cobblestones and Victorian architecture",
+      "The Byrne family estate",
+      "The local sheriff's office",
+      "The dense, encroaching woods surrounding the town"
+    ],
+    "atmosphere": "Claustrophobic, damp, and secretive. The weather is a character\u2014constant rain, grey skies, and later, oppressive ice. The town feels like a sealed chamber, resistant to outsiders, holding its secrets in the very brick and mortar. Time feels distorted, almost stagnant."
+  },
+  "characters": [
+    {
+      "name": "Detective Elias Crowe",
+      "role": "Protagonist, Outsider Investigator",
+      "description": "A city detective with a sharp mind and a weary soul. He wears a city-cut coat and drives an unfamiliar sedan, marking him as an immediate foreign element in Stillwater.",
+      "arc": "Arrives to solve a clear-cut murder, but becomes entangled in the town's collective secret. His arc is from seeking factual truth to confronting a more unsettling, existential truth about complicity and the limits of justice. He ends not with victory, but with a haunted understanding."
+    },
+    {
+      "name": "Sheriff Lowell",
+      "role": "Local Authority, Gatekeeper",
+      "description": "A man with a weathered face and a brass-buttoned uniform stretched over a stout frame. He embodies the town's physical and moral weight.",
+      "arc": "Initially presents as a cooperative, if overwhelmed, local sheriff. His arc reveals him as a chief architect of the town's cover-up, a man who chooses communal preservation over individual justice, and who ultimately ensures the official story holds."
+    },
+    {
+      "name": "Eleanor Thorne (Victim)",
+      "role": "Catalyst",
+      "description": "The reclusive archivist of the Stillwater Historical Society. Killed in the clock tower. She was an outsider who married in, and her digging into town records threatened to expose old secrets.",
+      "arc": "Posthumous arc. Her death is the inciting incident, but her life\u2014her persistent, quiet investigation\u2014is the force that drives the plot. She represents the dangerous power of memory in a town that wants to forget."
+    },
+    {
+      "name": "Samuel",
+      "role": "The Conscience",
+      "description": "A lifelong resident, likely older, burdened with intimate knowledge of the town's central sin.",
+      "arc": "Moves from silent complicity to a fragile, partial confession to Crowe. He carries the guilt but lacks the strength for full atonement, ultimately remaining within the town's protective, suffocating fold."
+    },
+    {
+      "name": "Flora Byrne",
+      "role": "Legacy Character",
+      "description": "A figure from the town's past, connected to the original, buried crime that Eleanor Thorne was investigating.",
+      "arc": "Her story is the foundational tragedy. The modern murder is a direct consequence of the attempt to silence her truth decades later."
+    },
+    {
+      "name": "Leo",
+      "role": "The Scapegoat",
+      "description": "A local man, perhaps vulnerable or disliked, who is framed for Eleanor Thorne's murder.",
+      "arc": "His fate is sealed by the town's need for a neat, believable culprit. He represents the sacrifice the community is willing to make to maintain its equilibrium."
+    },
+    {
+      "name": "The Town of Stillwater (Collective Character)",
+      "role": "Antagonist / Atmosphere",
+      "description": "The populace acts as a single organism with a shared secret. It is personified by the weather, the architecture, and the silent, watchful gaze Crowe feels upon arrival.",
+      "arc": "Its arc is one of successful defense. It is disturbed by the murder and Crowe's investigation, but through passive resistance, half-truths, and collective will, it assimilates the threat, closes ranks, and returns to its stagnant, secret-keeping norm."
+    }
+  ],
+  "themes": [
+    "The Toxicity of Secrecy",
+    "Communal Guilt vs. Individual Justice",
+    "The Past as a Living, Corrosive Force",
+    "The Limits of Official Truth",
+    "Insiders vs. Outsiders",
+    "The Choice Between Uncovering Truth and Preserving Peace"
+  ],
+  "narrative_voice": "Third-person limited, closely following Detective Crowe's perspective. The prose is atmospheric, descriptive, and slightly literary, mirroring the Gothic tone. It immerses the reader in Crowe's sensory experience and growing unease.",
+  "tone": "Foreboding, melancholic, and claustrophobic. It combines the procedural elements of a mystery with the dread and atmosphere of a Gothic novel. The resolution carries a tone of profound ambiguity and existential disappointment, rather than triumph.",
+  "plot_summary": "Detective Elias Crowe is called to the isolated town of Stillwater to investigate the murder of archivist Eleanor Thorne in the local clock tower. What seems a straightforward case quickly unravels as he encounters a wall of polite resistance and a ready-made suspect. Crowe discovers Thorne was researching an old tragedy involving Flora Byrne, a secret the town has collectively buried. His investigation reveals that Thorne's murder was a desperate act to protect this secret, orchestrated by the community's tacit approval. Although Crowe uncovers the real killer, the town, led by Sheriff Lowell, consolidates around a false narrative, allowing the true culprit to go free and framing a scapegoat to achieve a 'legal' closure. The climax occurs as the frozen clock tower bell finally tolls midnight, a somber ritual marking the town's choice to re-seal its past. Crowe departs, having technically solved the crime but understanding a deeper, more unsettling truth: in Stillwater, justice is subordinate to preservation, and some doors are meant to remain locked."
+}

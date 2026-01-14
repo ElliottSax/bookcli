@@ -1,0 +1,57 @@
+{
+  "book_title": "Moby Dick: Revenge of the Whale",
+  "primary_comps": [
+    {
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J. Maas",
+      "year": 2015,
+      "why_similar": "Enemies to lovers fae romance",
+      "popularity_tier": "bestseller",
+      "audience_overlap": 10
+    },
+    {
+      "title": "Fourth Wing",
+      "author": "Rebecca Yarros",
+      "year": 2023,
+      "why_similar": "Fated mates with dragons",
+      "popularity_tier": "bestseller",
+      "audience_overlap": 10
+    },
+    {
+      "title": "Kingdom of the Wicked",
+      "author": "Kerri Maniscalco",
+      "year": 2020,
+      "why_similar": "Dark romance with supernatural elements",
+      "popularity_tier": "bestseller",
+      "audience_overlap": 9
+    }
+  ],
+  "secondary_comps": [
+    {
+      "title": "From Blood and Ash",
+      "author": "Jennifer L. Armentrout",
+      "year": 2020,
+      "why_similar": "Forbidden romance with action",
+      "popularity_tier": "bestseller",
+      "audience_overlap": 9
+    },
+    {
+      "title": "A Touch of Darkness",
+      "author": "Scarlett St. Clair",
+      "year": 2019,
+      "why_similar": "Fated mates mythology",
+      "popularity_tier": "popular",
+      "audience_overlap": 8
+    },
+    {
+      "title": "The Bridge Kingdom",
+      "author": "Danielle L. Jensen",
+      "year": 2019,
+      "why_similar": "Enemies to lovers fantasy",
+      "popularity_tier": "popular",
+      "audience_overlap": 8
+    }
+  ],
+  "comp_sentence": "Perfect for fans of A Court of Thorns and Roses and Fourth Wing",
+  "positioning": "Moby Dick: Revenge of the Whale offers the enemies to lovers fae romance of A Court of Thorns and Roses with a unique twist that will captivate readers."
+}

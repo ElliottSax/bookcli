@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Bitter Aftertaste",
+      "summary": "Disgraced food critic Leo Vance, now a private chef, serves a wealthy tech mogul a forgotten medieval dish. Hours later, the client is found dead. Leo's past scandal makes him the police's first person of interest.",
+      "key_events": [
+        "Leo prepares 'Swanne in Galentyne' (a spiced swan dish) for reclusive billionaire Arthur Finch.",
+        "Finch is ecstatic, claiming the dish unlocked a childhood memory.",
+        "Leo returns to his modest apartment, haunted by his fall from grace after a plagiarism scandal.",
+        "Detectives arrive at his door: Finch was poisoned, and Leo was the last to see him alive.",
+        "Leo notices a peculiar, floral scent on the recipe card he used\u2014one he didn't add."
+      ],
+      "ending_hook": "While being questioned, Leo receives a text from an unknown number: a photo of the same recipe card, with a single ingredient circled in red."
+    },
+    {
+      "number": 2,
+      "title": "A Recipe for Suspicion",
+      "summary": "Leo investigates the recipe's origin while a second client from his recent past is murdered. He realizes the killings are connected to the obscure dishes he cooked.",
+      "key_events": [
+        "Leo digs through his medieval culinary texts, tracing the recipe to a 14th-century manuscript.",
+        "He learns a second former client, a philanthropist, has died after he served her 'Porpoise in Savory Sauce'.",
+        "Both deaths are ruled as sophisticated, untraceable poisonings.",
+        "Detective Mara Chen, leading the case, confronts Leo with his access and motive.",
+        "Leo discovers a cryptic marginal note in the manuscript about 'the feast of final judgment'."
+      ],
+      "ending_hook": "A food delivery arrives at Leo's door containing a perfect replica of the porpoise dish\u2014and a note that reads, 'You set the table. I merely clear it.'"
+    },
+    {
+      "number": 3,
+      "title": "The Ghost of Kitchens Past",
+      "summary": "Leo seeks help from his only remaining friend, a historian, and profiles his recent clients to predict the next target.",
+      "key_events": [
+        "Leo visits Dr. Elara Vance, his estranged sister and a medieval historian.",
+        "They identify the recipes as coming from 'The Sated Man's Grimoire,' a text rumored to be used by a guild of poisoners.",
+        "Leo lists his last six clients\u2014all ultra-wealthy with controversial reputations.",
+        "He identifies a pattern: the killer strikes 48 hours after the meal.",
+        "The next potential target is shipping magnate Elias Thorn."
+      ],
+      "ending_hook": "Leo arrives at Thorn's estate to warn him, only to find the man already enjoying the first course of the fated medieval meal, prepared by a 'gift' from a anonymous benefactor."
+    },
+    {
+      "number": 4,
+      "title": "A Palate for Poison",
+      "summary": "Leo attempts to intercept the meal at Thorn's estate, leading to a dangerous confrontation and a clue left by the killer.",
+      "key_events": [
+        "Leo insists on tasting every dish, using his refined palate to detect anomalies.",
+        "He identifies a rare, toxic honey in the sauce, saving Thorn.",
+        "A chaotic kitchen fire erupts, seemingly set as a diversion.",
+        "In the aftermath, Leo finds a small, carved wooden token left among the spices\u2014a chef's knife crossed with a bone.",
+        "Thorn, furious and scared, fires Leo and has him thrown out."
+      ],
+      "ending_hook": "Detective Chen arrests Leo at the gate, citing new forensic evidence placing him at all three scenes. As he's put in the car, he sees a shadowy figure watching from the woods, holding a chef's knife."
+    },
+    {
+      "number": 5,
+      "title": "Confessions in Codex",
+      "summary": "In custody, Leo and Elara decode the killer's messages, realizing the murders are elaborate critiques of the victims' moral failures.",
+      "key_events": [
+        "Elara visits Leo in jail with photocopies from the Grimoire.",
+        "Each murder recipe corresponds symbolically to the victim's sins (e.g., swan for vanity, porpoise for greed).",
+        "The killer is not just murdering but 'commenting' through cuisine.",
+        "Leo recalls a brilliant, obsessive culinary student from his critic days who was expelled for dangerous experiments.",
+        "Detective Chen, intrigued but skeptical, agrees to check the lead."
+      ],
+      "ending_hook": "Chen returns, shaken: the student, Silas Gault, died in a fire years ago. But the case file includes a photo of Gault's prized possession\u2014a carving of a knife crossed with a bone."
+    },
+    {
+      "number": 6,
+      "title": "The Underground Feast",
+      "summary": "Released due to lack of evidence, Leo goes underground to infiltrate a black-market gourmet club where he believes the killer finds both clients and inspiration.",
+      "key_events": [
+        "Using old contacts, Leo gains entry to 'The Epicurean Cellar,' a secret dining club.",
+        "He hears whispers of a ghost chef called 'The Last Course' who takes commissions for the ultimate critique.",
+        "Leo samples a dish and recognizes the distinct, floral scent from the first crime scene.",
+        "He meets a nervous sommelier who offers information for protection.",
+        "They are discovered; the sommelier is later found dead, a poisoned glass of wine beside him."
+      ],
+      "ending_hook": "Leo escapes the Cellar, but in his pocket finds a menu for a twelve-course meal, with the final course titled 'The Critic's Humiliation'\u2014scheduled for the next night at a location to be revealed."
+    },
+    {
+      "number": 7,
+      "title": "A Killer's Critique",
+      "summary": "The killer makes direct contact, forcing Leo to participate in a macabre dinner game to save the next target's life.",
+      "key_events": [
+        "Leo receives a live stream showing a bound client and a kitchen.",
+        "The killer, using a voice modulator, challenges Leo to identify the fatal ingredient in a prepared dish via video, using only description.",
+        "With Elara's help on historical poisons, Leo succeeds, and the client is freed.",
+        "The killer praises Leo's palate, calling him 'the only worthy judge.'",
+        "The killer reveals he chose Leo because his disgrace made him the perfect 'unwitting utensil.'"
+      ],
+      "ending_hook": "The stream ends with a challenge: \"Find me before the final course. Your next clue is in the dish that ruined you.\" Leo realizes he must revisit his own scandalous past."
+    },
+    {
+      "number": 8,
+      "title": "The Plagiarized Dish",
+      "summary": "Leo re-investigates the plagiarism incident that ended his career, discovering Silas Gault's hidden role and the origins of the killer's obsession.",
+      "key_events": [
+        "Leo digs into the recipe he was accused of stealing years prior.",
+        "He finds it was originally published in an obscure journal under a pseudonym.",
+        "Elara traces the pseudonym to Silas Gault, who submitted it while Leo was a judge for a culinary award.",
+        "Leo realizes he unknowingly praised Gault's work, then later published a similar dish as his own, sparking Gault's descent.",
+        "Gault faked his death to begin his long-game revenge on the corrupt culinary elite."
+      ],
+      "ending_hook": "At his old office, Leo finds a hidden package containing Gault's original journal, filled with mad designs for deadly meals. The final entry is a reservation in Leo's name for 'The Last Course.'"
+    },
+    {
+      "number": 9,
+      "title": "Setting the Final Table",
+      "summary": "Leo and Chen deduce the location of the final meal\u2014a decommissioned luxury hotel\u2014and set a trap, with Leo as the bait.",
+      "key_events": [
+        "The journal clues point to the abandoned 'Grandeur Hotel,' where Leo once gave a legendary review.",
+        "Chen sets up a surveillance team, but the killer anticipates police involvement.",
+        "Leo enters the vast, decaying kitchen alone, as instructed.",
+        "He finds a fully set, elegant table for two in the ballroom.",
+        "Course after course is delivered via a dumbwaiter, each a perfected version of the meals from the murders."
+      ],
+      "ending_hook": "The final course arrives. Under the cloche is not food, but a photo of Detective Chen, bound. A speaker crackles: \"Your review, Mr. Vance. One word only. Choose: her life, or my capture.\""
+    },
+    {
+      "number": 10,
+      "title": "The Last Course",
+      "summary": "Face-to-face with Silas Gault, Leo must use his culinary wits in a final deadly tasting to save Chen and himself.",
+      "key_events": [
+        "Gault reveals himself, a gaunt figure scarred by the fire he faked.",
+        "He explains his philosophy: he is 'correcting the palate of a corrupt world.'",
+        "He presents two glasses of wine: one poisoned, one safe. Leo must use his senses to choose.",
+        "Leo identifies the poison by a minuscule olfactory clue\u2014the floral scent.",
+        "Enraged, Gault attacks, and a fight erupts in the kitchen."
+      ],
+      "ending_hook": "Leo disarms Gault, but the killer flees into the hotel's labyrinthine basement, triggering a lockdown. The police storm in, finding Leo holding the knife, with Chen still missing."
+    },
+    {
+      "number": 11,
+      "title": "The Souring Truth",
+      "summary": "With Gault on the run, Leo pieces together the killer's endgame: a mass poisoning at the city's largest charity gala, targeting the entire elite.",
+      "key_events": [
+        "From Gault's notes, Leo deduces the final target is not a person, but an event: the 'Harvest Gala.'",
+        "Gault has infiltrated the catering staff.",
+        "The planned weapon is 'Metheglin,' a spiced mead, laced with a slow-acting toxin.",
+        "Chen is found locked in a pantry, alive\u2014Gault left her as a 'witness.'",
+        "Police are skeptical of Leo's theory, forcing him and Chen to act alone."
+      ],
+      "ending_hook": "At the gala, Leo spots Gault across the crowded hall, dressed as a sommelier. He is moments away from pouring the first glasses of the doomed mead."
+    },
+    {
+      "number": 12,
+      "title": "A Matter of Taste",
+      "summary": "Leo confronts Gault at the gala in a public showdown, using his knowledge of flavor and showmanship to expose the killer and prevent the massacre.",
+      "key_events": [
+        "Leo creates a scene, grabbing the microphone and accusing the sommelier.",
+        "He challenges Gault to a public tasting, betting his own life that he can identify the poisoned batch.",
+        "In front of the stunned crowd, Leo correctly singles out the tainted decanter by its faint, bitter finish.",
+        "Gault, exposed and triumphant in his notoriety, attempts to drink from the poison but is tackled by Chen.",
+        "Gault is arrested, whispering to Leo, \"You finally wrote a worthy review.\""
+      ],
+      "ending_hook": "Weeks later, Leo's name is cleared. He's offered his old critic job but declines. Instead, he and Elara open a small culinary detective agency, with a business card that reads: 'Vance & Vance: Discerning Truth, One Bite at a Time.'"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Unlockable Room",
+      "summary": "Cybersecurity expert Elara Vance returns to her hometown of Maple Hill after years of estrangement, summoned by the mysterious death of her father, the town archivist. She views the scene of his death\u2014the rare book vault\u2014and immediately suspects the 'suicide' ruling is impossible.",
+      "key_events": [
+        "Elara receives the call about her father's death.",
+        "She arrives at the historic Maple Hill Library, tense with unresolved history.",
+        "The local sheriff explains the 'locked room' puzzle: single key found inside the sealed vault with the body.",
+        "Elara views the vault\u2014a sterile, climate-controlled room with one heavy door and no other exits.",
+        "She notices her father's meticulous workspace is subtly disordered."
+      ],
+      "ending_hook": "As the sheriff ushers her out, Elara's eye catches a single, anomalous card deliberately pulled from the old card catalog in the main hall."
+    },
+    {
+      "number": 2,
+      "title": "Analog Ghosts",
+      "summary": "Elara begins her own investigation, clashing with the sheriff who wants the case closed. She delves into her father's cluttered office in the library basement, a fortress of paper records, and discovers his final project: cataloging the town's founding families' 'sealed archives.'",
+      "key_events": [
+        "Elara argues with Sheriff Miller, establishing adversarial tension.",
+        "She explores her father's office, a stark contrast to her digital world.",
+        "Finds a ledger with her own childhood nickname ('Cipher') in the margin.",
+        "Discovers references to the 'Maple Hill Covenant' and restricted family archives.",
+        "Meets the only helpful librarian, elderly Mrs. Greene, who seems fearful."
+      ],
+      "ending_hook": "Mrs. Greene secretly presses a brass library key into Elara's hand, whispering, 'He said to give this to his Cipher if anything happened. It opens the oldest cabinet.'"
+    },
+    {
+      "number": 3,
+      "title": "The First Cipher",
+      "summary": "Using the key, Elara opens a hidden cabinet in the archival stacks, finding her father's private journal. It's written in a personal code blending Latin and library classification numbers. She also finds the first tangible clue: a photograph of four town founders from 1920, with one man's face meticulously scratched out.",
+      "key_events": [
+        "Elara unlocks the hidden cabinet in a remote stack.",
+        "Discovers her father's journal and begins deciphering its code.",
+        "Finds the defaced photograph and a list of book titles that seem nonsensical.",
+        "Her decryption reveals the journal's first clear entry: 'They think the covenant is a story. It is a lock. And I have found the key.'",
+        "She realizes the list of book titles corresponds to locations in the card catalog."
+      ],
+      "ending_hook": "Following the book titles to the catalog, she pulls the referenced drawer to find a specific card turned upside down\u2014it's a call number for a book that doesn't exist in the system."
+    },
+    {
+      "number": 4,
+      "title": "The Ghost Book",
+      "summary": "Elara tracks the phantom call number to a forgotten annex, finding a 'ghost book'\u2014a hollowed-out volume containing a small, archaic key and a ledger page listing seemingly benign town events (parades, fundraisers) next to large dollar amounts.",
+      "key_events": [
+        "Elara searches the annex, a dusty storage room.",
+        "Finds the hollowed-out book and its contents.",
+        "Recognizes the ledger page as a primitive laundering record, masking transactions.",
+        "Cross-references the dates with her father's journal; they match periods of tension.",
+        "Is startled by the library custodian, who seems overly interested in her activities."
+      ],
+      "ending_hook": "That night, someone tries to break into her father's house. They don't steal anything, but Elara finds a single, fresh maple leaf placed on her father's decoded journal."
+    },
+    {
+      "number": 5,
+      "title": "The Covenant's Keepers",
+      "summary": "The break-in forces Elara to seek an ally. She connects with Leo, a local historian and her father's only friend, who reveals the 'Maple Hill Covenant' is a real, secret agreement among founding families to control town land and resources, protected by generations of 'Keyholders'\u2014the last being her father.",
+      "key_events": [
+        "Elara goes to Leo, who confirms her father feared for his life.",
+        "Leo explains the Covenant's history and its modern influence.",
+        "Reveals the vault wasn't just for books; it was the Keyholder's secure meeting room.",
+        "Elara learns the four founding families (including the scratched-out face) still hold power.",
+        "They deduce the ledger page points to a modern blackmail scheme her father uncovered."
+      ],
+      "ending_hook": "Leo mentions the vault's climate control system has a manual, analog override panel\u2014accessible only from *outside* the vault."
+    },
+    {
+      "number": 6,
+      "title": "A Fault in the System",
+      "summary": "Elara uses her technical skills to examine the vault's blueprints and the climate control system. She discovers a way to theoretically create a timed lock mechanism using the system's emergency purge function, which could seal the door from the inside after someone exited.",
+      "key_events": [
+        "Elara studies the library's original mechanical blueprints.",
+        "Identifies the external override panel in a nearby maintenance closet.",
+        "Theorizes a method: engage purge from outside to slam and lock the door, with a delay mechanism.",
+        "This would require precise timing and mechanical knowledge.",
+        "She realizes the killer needed her father inside, compliant, for a meeting."
+      ],
+      "ending_hook": "Reviewing the crime scene photos, she spots a tiny, non-library screw on the floor of the maintenance closet\u2014evidence of tampering."
+    },
+    {
+      "number": 7,
+      "title": "The Silent Partner",
+      "summary": "The phantom ledger leads Elara to investigate the founding families. She focuses on the disgraced founder's descendant, a powerful real estate developer named Silas Thorne, who is pushing to demolish the library for a new complex. He had a public argument with her father weeks before the death.",
+      "key_events": [
+        "Elara investigates Silas Thorne, finding he stands to gain massively from the library's demolition.",
+        "Confronts Thorne, who is charming but threatening, dismissing her 'conspiracy theories.'",
+        "Discovers her father was the sole vote against selling the library land on the historical board.",
+        "Finds a connection between Thorne's company and the laundered funds in the ledger.",
+        "Sheriff Miller warns her to stop harassing upstanding citizens."
+      ],
+      "ending_hook": "Mrs. Greene is found badly shaken, her home vandalized with the same maple leaf symbol. She whispers a name to Elara: 'The Librarian'\u2014not her father, but a title within the Covenant."
+    },
+    {
+      "number": 8,
+      "title": "The Second Keyholder",
+      "summary": "Pursuing 'The Librarian,' Elara deciphers more journal entries pointing to a secret society within the library staff. She identifies a likely candidate: the unassuming, technically-skilled custodian. She catches him attempting to remove a component from the climate control system.",
+      "key_events": [
+        "Elara pieces together that 'The Librarian' is the Covenant's enforcer/cleaner.",
+        "Confronts the custodian, who flees into the library's underground boiler room tunnels.",
+        "In his workshop, she finds schematics for modifying the vault's mechanism and a duplicate vault key in progress.",
+        "The custodian escapes, but she secures evidence.",
+        "The sheriff, however, dismisses the evidence as circumstantial, pressured by town elites."
+      ],
+      "ending_hook": "The custodian is found dead the next morning in the river, an apparent suicide, his workshop cleaned out. Elara knows the real killer is covering tracks."
+    },
+    {
+      "number": 9,
+      "title": "The Meeting in the Vault",
+      "summary": "Using the journal and the custodian's schematics, Elara reconstructs the murder. Her father was lured to the vault for a clandestine meeting with someone he trusted\u2014someone who knew the override. The killer used the purge mechanism to lock him in after leaving, with the key.",
+      "key_events": [
+        "Elara's full reconstruction: the killer scheduled a meeting, entered with her father.",
+        "After the deed, killer exited, activated the timed purge from the maintenance closet.",
+        "The door sealed, locking her father (or his body) inside with the key.",
+        "The system reset, leaving no digital trace, only an analog locked room.",
+        "The motive: her father was going to expose the laundering and the Covenant's modern crimes."
+      ],
+      "ending_hook": "The reconstruction reveals one flaw: the killer would have had to be *inside the library* to activate the purge. The killer wasn't an outsider; they had unimpeded, after-hours access."
+    },
+    {
+      "number": 10,
+      "title": "A Legacy of Lies",
+      "summary": "Elara realizes the killer is one of the founding family members on the library board. She stages a digital hack, posing as her father's ghost, to panic the killer. She sends a cryptic message to all board members, referencing the defaced photograph and the ledger.",
+      "key_events": [
+        "Elara uses a spoofed email to send a message from a 'concerned archivist.'",
+        "The message contains decoded fragments only the killer would understand.",
+        "She monitors the library's security system (which she now controls) for a reaction.",
+        "One board member, the charming and respected mayor's wife, Evelyn Thorne (Silas's sister), breaks protocol and accesses the library's private server late at night.",
+        "Evelyn heads not to the vault, but to the archival stacks."
+      ],
+      "ending_hook": "Watching via security cam, Elara sees Evelyn go directly to the hidden cabinet Elara already emptied\u2014proving Evelyn knew its location and significance."
+    },
+    {
+      "number": 11,
+      "title": "The Final Ledger",
+      "summary": "Elara confronts Evelyn in the archives. Evelyn, cornered, confesses without remorse. She was 'The Librarian's' handler. She lured Elara's father to the vault to negotiate, but he refused to hand over the incriminating ledger. The custodian, her tool, executed the lock mechanism. She reveals the covenant's true secret: it was always about maintaining power through secrets, and her father was the last honest Keyholder.",
+      "key_events": [
+        "Confrontation in the stacks. Evelyn is coldly proud of preserving her family's legacy.",
+        "She reveals the ledger details modern corruption: bribes, land grabs, and the custodian's dirty work.",
+        "Her father died protecting the truth, not just a ledger, but a list of victims.",
+        "Evelyn claims the town is better off with its secrets kept.",
+        "She threatens Elara, implying she has the town's power structure behind her."
+      ],
+      "ending_hook": "Sheriff Miller arrives, but not to arrest Evelyn. He stands with her. Elara is outnumbered, her evidence seemingly powerless against the town's united front."
+    },
+    {
+      "number": 12,
+      "title": "The Last Archive",
+      "summary": "Outmaneuvered, Elara plays her final card. She reveals she has already uploaded the decrypted journal, ledger, and her reconstruction to multiple cloud servers and sent it to state investigators and the media. The analog secrets are now a digital tsunami. Faced with public exposure, the sheriff arrests Evelyn. Elara accepts her role as the new, unwilling Keyholder\u2014guardian of the town's true history.",
+      "key_events": [
+        "Elara reveals her cybersecurity countermove, turning their analog secrecy against them.",
+        "The sheriff, seeing the tide turn, switches sides to save himself.",
+        "Evelyn is arrested, screaming about betrayal.",
+        "Elara visits the vault one last time, making peace with her father.",
+        "She decides to stay temporarily to oversee the proper archiving of the truth, both dark and light."
+      ],
+      "ending_hook": "In the restored order of her father's office, Elara finds one last, un-decoded note from him: 'For Cipher: The most important book is never in the catalog. It's the one we write together. P.S. The maple key opens more than doors.' She looks at the ancient maple tree outside the library window, and smiles, knowing the work continues."
+    }
+  ]
+}

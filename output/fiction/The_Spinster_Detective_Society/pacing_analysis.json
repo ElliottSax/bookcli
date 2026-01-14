@@ -1,0 +1,56 @@
+{
+  "chapters": [
+    {
+      "file": "chapter_01.md",
+      "words": 1861,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_02.md",
+      "words": 3462,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_03.md",
+      "words": 1966,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_04.md",
+      "words": 2872,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_05.md",
+      "words": 1750,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_06.md",
+      "words": 2832,
+      "scenes": 4
+    },
+    {
+      "file": "chapter_07.md",
+      "words": 3963,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_08.md",
+      "words": 1539,
+      "scenes": 6
+    },
+    {
+      "file": "chapter_09.md",
+      "words": 1591,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_10.md",
+      "words": 2011,
+      "scenes": 2
+    }
+  ],
+  "analysis": "HOOK: 7 | TENSION: 4 | TRANSITIONS: 6 | FIX: Overly detailed character introductions in Chapter 6.\n\n**Analysis:**\n\n1.  **Hook Strength (7):** The opening is strong and establishes a clear, intriguing premise\u2014a woman in Victorian London adopting the \"Sherlock Holmes\" name to start a female detective agency. It efficiently sets character, setting, and central conflict (societal expectations vs. ambition). It loses points for a slight dip into exposition after the initial grab.\n\n2.  **Tension Building (4):** The pacing is largely expository and atmospheric, prioritizing setup over immediate narrative drive. In Chapter 1, the tension is potential (the risk of her venture) rather than active. Chapter 6 halts the plot entirely for a detailed, static introduction of a new cast. The \"sense of anticipation\" is told, not shown through action or dialogue, causing the tension to stall.\n\n3. ",
+  "total_words": 23847
+}

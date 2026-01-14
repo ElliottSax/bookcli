@@ -1,0 +1,109 @@
+Chapter 7: Symbiosis
+
+The hunger was not in her stomach. It was in her hands.
+
+It began as a low hum in the marrow of her knuckles, a vibration like a struck tuning fork buried deep in the bone. It travelled up the violin strings of her tendons and settled as a dull, hot ache in the meat of her palms. If she ignored it, the hum became a throb, a syncopated rhythm against her pulse. The throb became a sharp, staccato pain that shot past her elbows, a live wire sparking in the nerves of her forearms before drilling into the soft clay of her temples. For two days, Elara Hughes had tried to resist. She had barricaded the door of the weaver’s cottage with the heavy oak dresser, its feet screeching in protest on the flagstones. She had sat in the farthest corner, where the plaster was blistered with damp, knees drawn to her chest, reciting her doctoral thesis on pre-Roman textile patterns in a desperate, whispered mantra. The clean, dry logic of academia—citations, carbon dating, comparative analysis—was her last fortress.
+
+But the entity didn't attack the fortress. It just poisoned the well.
+
+The migraine on the second afternoon was a white-hot spike driven through her right eye. The world swam in a nauseating blur of melted colour. The smell of old wool and wood-smoke, usually comforting, now curdled in her sinuses into something sweetly rotten, like fruit left too long in a cupboard. When she stumbled to the small, cracked washbasin to splash water on her face, the water in the blue-and-white porcelain bowl turned pink. A single, perfect crimson droplet fell from her nostril, rippling the surface with a delicate plink she felt more than heard, before another followed. The nosebleed was brisk and clinical, not a gush but a steady, solemn tap of a red key. A quiet, physical verdict. Her body was no longer entirely her own. It was a contested territory, and the ancient thing in the loom was enforcing a brutal treaty of attrition.
+
+With the resignation of a prisoner walking to a cell she already occupied, Elara Hughes pushed the dresser aside. The scrape of wood on stone was a long, low groan of defeat. The main room of the cottage was cold, the fire Bronwyn had lit that morning now a fragile architecture of grey ash that collapsed at her passing. But the loom seemed to generate its own warmth, a subtle, fungal heat that radiated from the dark, oil-rubbed wood and the partially woven upon it. The air around it tasted of ozone and turned earth. The work she had left—a chaotic, instinctual section of stormy sky and gnarled roots—was now different. The threads had… settled. The chaos had resolved into a clear, grim story, as if the image had developed in a chemical bath while she slept.
+
+She approached, her breath pluming in the chill, her socked feet silent on the cold flags. The no longer showed just patterns. It told a story.
+
+On the left, a grove of enormous, heart-shaped leaves, woven with such vivid green silk it seemed to pulse with a light of its own. The threads were twisted to catch the dim light, creating a velvety, almost photosynthetic texture. In the centre of the grove stood a woman. She was not rendered in human form, but as a confluence of natural elements: hair of cascading willow fronds, each individual strand picked out in fine, silvery-grey wool; eyes like deep pools of dark water, stitched with layers of indigo and black that swallowed the light; a dress that was the forest floor itself, blooming with embroidered fungi in spongy yellows and bruise-purples, and tiny, thread-born flowers of impossible delicacy. This was the entity. Not a monster, but a presence. A genius loci. The weaving conveyed not malice, but a vast, watchful stillness.
+
+The next panel showed betrayal. Men in rough, Iron Age tunics, their faces stern and fearful little knots of ochre and brown, were driving iron rods—woven with lurid, metallic thread that scratched against the eye—into the ground around her. The woman’s form was contorted, threads of earthy brown and vibrant green snagged and trapped by the harsh, grey lines of iron. The Binding. You could feel the scream in the tension of the warp, the way the weft bunched and strained around the intrusion.
+
+Elara Hughes’s fingers trembled as she traced the air above the weaving, not daring to touch. Her own breath sounded ragged in the silence. The next sequence was a procession. A line of women, each dressed in a simple, dark bridal shift of unbleached hemp, their faces pale ovals of undyed linen. They walked towards a stone altar, their postures rigid with a duty that had long since curdled into dread. The first woman in line was depicted mid-transformation: one hand still human, the other dissolving into a cascade of root-like threads, tangling with the stone beneath her feet. It wasn’t death. It was incorporation.
+
+“You see it now. The shape of the chain.”
+
+Elara Hughes started, her heart slamming against her ribs. Old Idris stood in the doorway to the back room, a shadow leaning on the frame. She hadn’t heard him approach. He smelled of cold soil and the sharp, medicinal tang of the liniment he used on his joints. His milky eyes were fixed on a point just over her shoulder, but his awareness was a physical pressure in the room.
+
+“It’s not a curse,” Elara Hughes said, her voice hoarse from disuse. “It’s a… a transaction. A perpetual sentence.”
+
+“Aye.” He shuffled forward, his gnarled hand skimming the edge of the table, moving through by memory and touch. “The first ones, they thought they were being clever. Trap the spirit of the place. Make it work for the village. Ensure the crops grow, the rivers stay full, the storms pass by. They didn’t understand you can’t cage a river. You can only divert it. And diverted water finds new channels. Erodes new paths.”
+
+He stopped near the loom, his head tilted as if listening to its faint, thermal hum. “The iron held her fast. But a thing that cannot leave must feed. So a bargain was struck. A vessel. A voice. A weaver.” He spat the last word like a pip. “The craft was always hers, see? The pattern-making. The binding of threads. We just… borrowed it. And the rent comes due each generation.”
+
+Elara Hughes looked from his bitter, sightless face to the . The procession of women seemed to stretch into the distance of the cloth, an endless line. “And the rent is a life.”
+
+“A life changed,” Idris corrected, his tone grimly precise. “The Pattern takes root. It becomes the weaver, and the weaver becomes part of the Pattern. A new thread in the . Margred’s grandmother, she could taste the weather on her tongue a week before it came. Her mother heard the grass growing. By the end, they weren’t talking to us anymore. They were talking to the stones. To the worms.” He turned his clouded gaze towards her. “You feel the hunger in your hands. That’s the root seeking soil.”
+
+A violent, visceral revulsion rose in her throat. She wanted to scrub her skin raw. “I didn’t agree to this.”
+
+“Didn’t you?” Idris’s smile was a crack in old leather. “You picked up the shuttle. You threaded the warp. You answered the call in the blood. That’s agreement enough for Her. For the old things, ceremony is everything. You performed the rites.”
+
+The injustice of it was a cold fire in her chest. She had come here for fragments, for data. She had walked into a living museum of horror, its curator a prisoner in the exhibit. “So I just… give in? Let it hollow me out until I’m a husk full of whispers?”
+
+“You fight,” Idris said, his voice dropping to a gravelly whisper. “You fight like Margred fights. You carve out corners of yourself it can’t reach. You cling to the things that are yours alone. A memory. A anger. A piece of music it hates.” He leaned closer, and she caught the faint, sour smell of his breath. “But you must weave. The hunger will break your bones if you deny it. The pain you feel is the root hitting the iron pot. It needs the earth. The loom is the only earth we can give it.”
+
+The truth was a suffocating weight. To survive, she had to feed the thing consuming her. It was a psychic cannibalism. Her hands, which had always been tools of her intellect—taking notes, arranging artefacts, delicately handling fragile textiles—were now traitorous organs with their own desperate needs.
+
+Almost of its own volition, her right hand lifted. The ache in her palm crested into a sharp, pulling sensation, as if a hook were embedded in the centre, tugging her towards the loom. She didn’t sit on the bench so much as collapse onto it. The smooth wood was shockingly cold through her trousers. The shuttle, made of polished bone that was warm to the touch, lay in the warp like a waiting promise.
+
+She selected a hank of thread from the basket. It was a colour she hadn’t noticed before: a deep, arterial crimson, shot through with filaments of black. It felt unnaturally warm and slightly damp, like something freshly unearthed. As her fingers closed around it, the throbbing in her hands subsided, replaced by a wave of profound, shameful relief. The migraine’ pressure behind her eye softened to a dull echo.
+
+This was the symbiosis. Not a partnership, but the relief a drowning man feels when he stops fighting and inhales the sea.
+
+She began to weave. She didn’t decide on an image. Her hands moved with a fluid, alien certainty. The shuttle flew through the shed, click-clack, a sound as old as the hills. She was expanding the story of the procession. She saw the altar now, a slab of granite woven with threads of gritty grey and flecks of mica. She saw the village elders, their faces not triumphant, but grimly satisfied, their eyes small beads of jet. And she saw the grove, in the background of each panel, growing darker, the heart-shaped leaves now edged with the same metallic grey as the binding rods. The entity was not just trapped; it was being changed by the binding, its wildness slowly poisoned by the continuous, sacrificial drain.
+
+She lost time. The world shrank to the rhythmic beat of the beater bar, the whisper of thread through thread, the growing image that felt less like creation and more like excavation. She was unearthing a memory that was not her own. The smell in the room shifted—less ozone, more the petrichor of deep woods after rain, undercut by that persistent, fungal sweetness.
+
+A different, familiar scent cut through it: lye soap and cold wind. Margred stood in the doorway, a silhouette against the fading afternoon light. She held a wooden tray with a bowl of stew and a hunk of bread. She didn’t speak for a long moment, just watched Elara Hughes’s hands move with that terrible, borrowed fluency.
+
+“So it has you,” Margred said finally. Her voice was flat, drained of its usual defensive heat.
+
+Elara Hughes’s hands didn’t stop. Click-clack. “It says it’s hungry.”
+
+“It’s always hungry.” Margred set the tray down on the small table with a solid thump. “Stop for a moment. Eat. That’s a fight you can still win. Deny it the fuel of your weakness.”
+
+The command, so practical and sharp, severed the thread of the trance. Elara Hughes’s hands fell into her lap, trembling with fatigue and release. The image in the was stark, a history of quiet atrocity. She looked at her stew, the steam rising from the thick broth, and her stomach turned. The hunger in her hands was sated, but a deep nausea filled the space it left behind.
+
+“I saw the binding,” Elara Hughes said, not looking up. “They were afraid of her. Of what she was.”
+
+“They were afraid of the not knowing,” Margred corrected, pulling out a stool and sitting heavily. She stared at the , her eyes tracing the iron rods. “A spirit you can bargain with is a tool. A wild, free spirit is a terror. So they made a tool. And broke the world to do it.” She picked up a stray piece of wool from the floor, rolling it between her calloused fingers. “My great-grandmother’s journal. She wrote that in the first years after a binding, the village dogs would howl at the moon until their throats were raw. That the apples grew hard as wood, and their cores were black. The thing they trapped… its sickness leaked out.”
+
+“And now we’re the pressure valve,” Elara Hughes whispered.
+
+Margred gave a single, sharp nod. “We take the sickness in. We weave it into something… manageable. A story. A pattern. We translate its rage into form. And it keeps the village safe. The apples are sweet now. The dogs are quiet.” Her mouth twisted. “A fine bargain. For everyone but us.”
+
+Elara Hughes forced herself to pick up the spoon. The stew was good—hearty, salty—but it tasted like ash. “Idris said to fight. To cling to things it hates.”
+
+A faint, grim light sparked in Margred’s eyes. “He’s right. It hates loud, modern noise. The crackle of static. The sound of engines. It hates the smell of petrol and processed food. It hates…” She paused, and for a second, a real, fragile smile touched her lips. “It hates Gilbert and Sullivan.”
+
+Elara Hughes blinked. “What?”
+
+“The Pirates of Penzance,” Margred said, a defiant pride in her voice. “My father had a record. I used to play it, loud, in my room when the pull was too strong. It would make the threads in my basket shiver. It’s too… silly. Too human. There’s no room for ancient dread in a patter song.” The smile faded. “Find your Gilbert and Sullivan, Elara Hughes. A photograph. A theory. A person from before. Make it a shrine in your head. Visit it every day.”
+
+It was the first genuine advice, the first spark of solidarity, Margred had offered. It felt more precious than any secret technique.
+
+“What’s yours?” Elara Hughes asked softly. “Now, I mean.”
+
+Margred’s gaze drifted to the cottage window, towards the darkening hills. “The thought of leaving,” she said, her voice so low it was almost inaudible. “Not the act. The thought. The map I’ve drawn in my head of the road to the station. The sound the train would make. The idea of a street where no one knows my name, or my mother’s name, or what happens in this cottage. The Pattern can’t follow a daydream. It has no hooks for ‘maybe’.”
+
+The profound loneliness in that confession hung between them. Their prison was not just physical; it was a cage made of inherited duty and warped tradition, where even hope had to be carefully curated into a form too small to trigger the alarms.
+
+Elara Hughes finished the stew, each mouthful a conscious act of rebellion. As she ate, she looked at the . Her eyes were drawn to a lower corner, a section she had no memory of weaving. It showed a modern figure, small and detailed, standing before the loom. The figure’s hands were outstretched, not in supplication, but as if reading the air. Threads, fine as spider silk, flowed from the into the figure’s fingertips. And the figure’s shadow on the woven ground did not match its pose. The shadow was larger, wilder, crowned with antlers of tangled root and thorn.
+
+It was her. It was the symbiosis.
+
+A cold that had nothing to do with the room seeped into her. This wasn’t just recording history. It was prophetic. The loom was weaving her into its own ongoing narrative, drafting her fate in thread.
+
+Margred followed her gaze and went very still. “Ah,” she breathed, a sound of weary recognition. “It shows you the path. It always does. It’s not a prediction. It’s an… expectation.”
+
+“I won’t let it,” Elara Hughes said, but the words sounded hollow, childlike.
+
+“Fight with your hands full, then,” Margred said, standing up. She collected the tray. “Weave what it demands. But steal a thread for yourself now and then. Change the colour. Hide a shape in the pattern it doesn’t understand. A modern shape. A wrong shape. It’s a slow war, fought one pass of the shuttle at a time.”
+
+After Margred left, the cottage felt emptier, the silence more profound. The fungal warmth from the loom beckoned. The hunger in her hands was a distant murmur, a satisfied beast sleeping. But in her mind, a new resolve, fragile and sharp as an ice chip, formed.
+
+She walked to her suitcase, dug past her notebooks and clothes, and found her mobile phone. Dead, of course. No signal for days. But when she pressed the power button, for one glorious second, the brand logo flashed on the screen—a sleek, abstract fruit, the epitome of manufactured modernity. A symbol the Pattern would despise.
+
+She placed the dead phone on the bench beside her, a silent talisman. Then she sat back at the loom. Her hands, obedient once more, picked up a new thread: a sickly, beautiful yellow, the colour of primroses in a grave. She began to weave the next panel, the story pulling at her. But in the border, where a complex knotwork was forming, she deliberately mis-tied a single knot. She created a tiny, perfect geometric anomaly—a Fibonacci spiral, a mathematical sequence her 21st-century mind understood. It was a secret. A flaw. A seed of self.
+
+The loom accepted it. The shuttle flew on. Click-clack.
+
+Outside, the wind picked up, moaning through the gaps in the stone. It sounded like the village dogs, howling at a moon they could no longer properly see. Elara Hughes wove, her body a conduit, her mind a locked room where a single, silly light was kept burning. The horror of her inheritance was absolute. The prison of tradition was sealed. But in the corruption of her craft, she had found her first, feeble weapon: a deliberate mistake. She wove, and she waited, and deep in the contested territory of her own flesh, the war entered a new, silent phase.

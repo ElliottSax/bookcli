@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "A Bittersweet Bequest",
+      "summary": "Harried city archivist Eleanor Vance arrives in Honeywick to settle her eccentric Aunt Agatha's estate, expecting only a brief, sentimental trip.",
+      "key_events": [
+        "Eleanor receives the news of her aunt's peaceful passing.",
+        "She arrives at the overgrown, charming cottage 'Marmalade Nook'.",
+        "Meets the nosy but friendly chair of the village f\u00eate committee, Mrs. Plum.",
+        "Discovers the vast collection of vintage cookbooks, organized with librarian precision.",
+        "The solicitor emphasizes Agatha's specific wish for Eleanor to 'care for the collection.'"
+      ],
+      "ending_hook": "As Eleanor pulls a dusty, orange-spattered cookbook titled 'Preserves of the British Isles' from a shelf, a brittle, handwritten note flutters to the floor, its first line reading: 'They think it was an accident, but the river doesn't lie...'"
+    },
+    {
+      "number": 2,
+      "title": "Stains and Suspicions",
+      "summary": "Eleanor examines the curious note and the cookbook it came from, finding more cryptic annotations that suggest a hidden purpose.",
+      "key_events": [
+        "The note is tucked into a recipe for Seville Orange Marmalade.",
+        "Eleanor finds more pages with tiny, coded markings in the margins\u2014dates, initials, and symbols.",
+        "She learns from a villager that Agatha was known for her award-winning marmalade.",
+        "A local postman mentions Agatha's 'quiet curiosity' about village history.",
+        "Eleanor finds a locked, empty journal in the desk, labeled 'The Honeywick Matter.'"
+      ],
+      "ending_hook": "Holding the note up to the light, Eleanor sees faint impressions on the paper\u2014not from writing, but from a newspaper clipping that once lay beneath it, featuring a headline about a missing local girl from 1956."
+    },
+    {
+      "number": 3,
+      "title": "The Girl from the Gazette",
+      "summary": "Eleanor visits the local archive and discovers the true story of Lily Bright, a vivacious teenager who vanished without a trace in 1956.",
+      "key_events": [
+        "Eleanor finds the original clipping about Lily Bright's disappearance.",
+        "The official story was that she ran away to London, but the case went cold.",
+        "She learns Lily worked part-time at the now-closed village sweet shop.",
+        "Agatha, then a young librarian, had compiled a discreet file of newspaper snippets.",
+        "Eleanor realizes the dates in the cookbook notes correspond to the weeks after Lily vanished."
+      ],
+      "ending_hook": "In Agatha's file, Eleanor finds a photo of Lily with three friends at the village fair\u2014one face is neatly cut out of the picture with scissors."
+    },
+    {
+      "number": 4,
+      "title": "A Recipe for Riddles",
+      "summary": "Eleanor begins to systematically decode her aunt's culinary cipher, realizing each recipe holds a piece of the investigation.",
+      "key_events": [
+        "Eleanor deduces that recipe ingredients correspond to people (e.g., 'bitter almonds' for a suspicious person).",
+        "Cooking instructions seem to describe actions or meetings.",
+        "She identifies the initials of Lily's three friends from the photo.",
+        "One friend, 'T.S.', is now the gruff local butcher, Thomas Sewell.",
+        "Mrs. Plum casually mentions that Thomas and Lily were 'sweethearts, for a time.'"
+      ],
+      "ending_hook": "The final line of the coded marmalade recipe reads: 'For truth to set, it must be poured while hot. Find the jar in the usual place.'"
+    },
+    {
+      "number": 5,
+      "title": "The Usual Place",
+      "summary": "Interpreting the clue, Eleanor searches Agatha's usual hiding spots and finds a physical piece of evidence.",
+      "key_events": [
+        "Eleanor checks Agatha's pantry, potting shed, and the hollow of an old apple tree.",
+        "In a disused beehive at the bottom of the garden, she finds a sealed mason jar.",
+        "Inside is not marmalade, but a delicate pearl hair clip, wrapped in wax paper.",
+        "A tiny, tarnished engraving on the clip reads 'L.B.'",
+        "Mrs. Plum identifies it instantly: 'Oh, that was Lily's. She wore it every day.'"
+      ],
+      "ending_hook": "As Eleanor holds the hair clip, she sees Thomas the butcher watching her from the lane, his expression unreadable before he turns and walks quickly away."
+    },
+    {
+      "number": 6,
+      "title": "Sweet Talk and Sour Notes",
+      "summary": "Eleanor begins tentative inquiries, interviewing Lily's old friends under the guise of researching village history for her aunt's collection.",
+      "key_events": [
+        "She interviews the second friend, Betty, now a nervous florist who claims to remember little.",
+        "The third friend, Robert, left the village years ago for Australia.",
+        "Thomas the butcher is hostile and dismissive, telling her to 'let sleeping dogs lie.'",
+        "The elderly postman recalls Lily had a 'secret admirer' who left notes in the shop till.",
+        "Eleanor finds a coded note in a scone recipe suggesting Agatha suspected a 'wolf in shepherd's clothing.'"
+      ],
+      "ending_hook": "Returning to the cottage, Eleanor finds the back door slightly ajar and all her aunt's cookbooks pulled from the shelves and scattered across the floor."
+    },
+    {
+      "number": 7,
+      "title": "A Tangled Web",
+      "summary": "After the break-in, Eleanor is shaken but more determined. She uncovers a connection to a respected village figure.",
+      "key_events": [
+        "Nothing is stolen, but the cookbooks are in disarray\u2014someone was looking for something.",
+        "Constable Wells files a report but suggests it was likely kids.",
+        "Eleanor discovers a new set of initials in a jam recipe: 'V.V.'",
+        "Research reveals 'V.V.' was the vicar in 1956, Reverend Vernon Croft.",
+        "Mrs. Plum mentions, offhandedly, that the Reverend was a 'great comfort' to Lily's family after she vanished."
+      ],
+      "ending_hook": "In the churchyard, Eleanor finds Reverend Croft's gravestone. The date of his death is exactly one week after Agatha's first coded note in the marmalade book."
+    },
+    {
+      "number": 8,
+      "title": "Burying the Past",
+      "summary": "Eleanor digs into the Reverend's history and finds a discrepancy in his saintly reputation.",
+      "key_events": [
+        "The church archives show Reverend Croft organized youth outings.",
+        "An elderly chorister mentions the Reverend had a 'temper' and a 'fixation on purity.'",
+        "Eleanor finds a coded note in a gingerbread recipe about a 'sweetness used to lure.'",
+        "She learns Lily was seen arguing with a tall man in a long coat near the river the night she disappeared.",
+        "The description of the coat matches the Reverend's ceremonial cassock."
+      ],
+      "ending_hook": "Searching the riverbank described in the first note, Eleanor's foot sinks into the mud and dislodges a small, tarnished silver cross on a broken chain\u2014the kind worn by a clergyman."
+    },
+    {
+      "number": 9,
+      "title": "The Wolf Revealed",
+      "summary": "Eleanor pieces together Agatha's theory: the Reverend, the 'wolf in shepherd's clothing,' was Lily's secret admirer and likely responsible for her disappearance.",
+      "key_events": [
+        "The coded notes now form a coherent narrative of Agatha's suspicion.",
+        "She believed Lily threatened to expose the Reverend's inappropriate advances.",
+        "A 'simmering' note suggests a confrontation by the river.",
+        "Agatha's theory was that the 'accidental drowning' was staged.",
+        "Eleanor realizes the cookbooks were scattered because someone is looking for Agatha's evidence, fearing she wrote it all down."
+      ],
+      "ending_hook": "Thomas the butcher arrives at her door, not with hostility, but with a pale face and a confession: 'I saw them by the river that night. I've been afraid for fifty years.'"
+    },
+    {
+      "number": 10,
+      "title": "A Conscience Unburdened",
+      "summary": "Thomas reveals what he witnessed, confirming Agatha's suspicions and providing a crucial missing piece.",
+      "key_events": [
+        "As a teen, Thomas followed Lily and saw her meet Reverend Croft.",
+        "He witnessed a violent struggle; Lily fell and hit her head on a rock.",
+        "Terrified, he ran away and never told anyone.",
+        "The Reverend reported her missing the next day, suggesting she'd run away.",
+        "Thomas admits he has been watching Eleanor, afraid the truth would come out, and that he was the one who ransacked the cottage looking for Agatha's notes."
+      ],
+      "ending_hook": "Just as Thomas finishes his story, Constable Wells knocks on the door, having been anonymously tipped off about 'harassment' of elderly villagers by the city niece."
+    },
+    {
+      "number": 11,
+      "title": "The Last Jar",
+      "summary": "With the Constable skeptical and the village whispering, Eleanor must find Agatha's final, conclusive piece of evidence to prove the theory.",
+      "key_events": [
+        "Eleanor is cautioned by Constable Wells to drop her 'fantasies.'",
+        "She re-examines the cookbooks and finds one last clue in a recipe for 'Blackberry & Apple Silence.'",
+        "The clue points to the church vestry, to a specific hymnal.",
+        "With Mrs. Plum as a lookout, Eleanor searches the vestry.",
+        "Tucked behind the hymnal is Agatha's final document: a signed, witnessed statement from 1957, detailing her suspicions and the fact she'd found the pearl hair clip by the river, withheld from the police to continue her investigation."
+      ],
+      "ending_hook": "As Eleanor holds the statement, the vestry door creaks open, and the current vicar\u2014Reverend Croft's grandson\u2014stands there, having heard everything."
+    },
+    {
+      "number": 12,
+      "title": "Setting the Truth",
+      "summary": "The truth is finally brought to light, the village reconciles with its past, and Eleanor finds a new purpose.",
+      "key_events": [
+        "The vicar, though shocked, agrees the statement must go to the proper authorities.",
+        "Constable Wells, presented with the evidence, reopens the cold case.",
+        "Lily Bright's remaining family is given closure, though no one living can be prosecuted.",
+        "Eleanor decides to keep Marmalade Nook, using it as a writing retreat.",
+        "She and Mrs. Plum organize a memorial for both Lily and Agatha, celebrating their lives."
+      ],
+      "ending_hook": "At the village f\u00eate, Eleanor enters a jar of marmalade made from Agatha's recipe. As she spreads it on a scone, she notices a new, friendly note from Mrs. Plum tucked into the recipe book\u2014the first page of a brand new, and much happier, village mystery."
+    }
+  ]
+}

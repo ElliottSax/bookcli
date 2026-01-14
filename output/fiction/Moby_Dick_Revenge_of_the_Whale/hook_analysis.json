@@ -1,0 +1,17 @@
+{
+  "title": "Moby Dick: Revenge of the Whale",
+  "genre": "action_horror_mashup",
+  "analysis": {
+    "hook_type": "unknown",
+    "hook_strength": 5,
+    "first_line_score": 5,
+    "first_paragraph_score": 5,
+    "first_page_score": 5,
+    "issues": [
+      "Could not analyze"
+    ],
+    "suggestions": []
+  },
+  "needs_rewrite": true,
+  "alternative_hooks": []
+}

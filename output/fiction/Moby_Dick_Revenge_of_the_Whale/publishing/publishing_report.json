@@ -1,0 +1,68 @@
+{
+  "title": "Moby Dick: Revenge of the Whale",
+  "author": "Anonymous",
+  "created": "2025-12-31T14:09:37.490407",
+  "platforms": {
+    "kdp": {
+      "platform": "kdp",
+      "platform_name": "Amazon KDP",
+      "is_valid": false,
+      "issues": [
+        "Cover width too small: 0px (min 1600px)",
+        "Cover height too small: 0px (min 2560px)"
+      ],
+      "warnings": [
+        "Cover aspect ratio 0.00 differs from recommended 1.6"
+      ],
+      "recommendations": [
+        "Consider generating MOBI format for older Kindles"
+      ]
+    },
+    "kobo": {
+      "platform": "kobo",
+      "platform_name": "Kobo Writing Life",
+      "is_valid": false,
+      "issues": [
+        "Cover width too small: 0px (min 1400px)",
+        "Cover height too small: 0px (min 2100px)"
+      ],
+      "warnings": [
+        "Cover aspect ratio 0.00 differs from recommended 1.5"
+      ],
+      "recommendations": []
+    },
+    "apple": {
+      "platform": "apple",
+      "platform_name": "Apple Books",
+      "is_valid": false,
+      "issues": [
+        "Cover width too small: 0px (min 1400px)",
+        "Cover height too small: 0px (min 2100px)"
+      ],
+      "warnings": [
+        "Cover aspect ratio 0.00 differs from recommended 1.5",
+        "Too many keywords: 7 (max 5)"
+      ],
+      "recommendations": [
+        "Ensure ISBN is registered (required for Apple Books)"
+      ]
+    },
+    "google_play": {
+      "platform": "google_play",
+      "platform_name": "Google Play Books",
+      "is_valid": false,
+      "issues": [
+        "Cover width too small: 0px (min 1600px)",
+        "Cover height too small: 0px (min 2400px)"
+      ],
+      "warnings": [
+        "Cover aspect ratio 0.00 differs from recommended 1.5"
+      ],
+      "recommendations": []
+    }
+  },
+  "assets": {
+    "epub": "/mnt/e/projects/bookcli/output/fiction/Moby_Dick_Revenge_of_the_Whale/Moby_Dick_Revenge_of_the_Whale.epub",
+    "cover": "/mnt/e/projects/bookcli/output/fiction/Moby_Dick_Revenge_of_the_Whale/cover.png"
+  }
+}

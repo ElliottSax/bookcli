@@ -1,0 +1,161 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Fall of Icarus",
+      "summary": "Dr. Elara Vance performs a groundbreaking but unauthorized procedure using her experimental gene therapy, Lazarus, to save a dying child. When the patient suffers a catastrophic, public relapse, she is blamed, disgraced, and her research is seized.",
+      "key_events": [
+        "Elara performs the illegal Lazarus procedure in a makeshift clinic.",
+        "The patient, a young boy, makes a miraculous recovery, walking within days.",
+        "Three weeks later, during a press conference meant to celebrate her, the boy collapses with violent, systemic organ failure.",
+        "Footage of the tragedy goes viral.",
+        "Elara is fired, stripped of her medical license, and her lab is shuttered by NexaGene Pharmaceuticals."
+      ],
+      "ending_hook": "A year later, Elara sees a news report about a mysterious, localized flu outbreak in her former city\u2014the symptoms mirror the boy's final, horrific hours."
+    },
+    {
+      "number": 2,
+      "title": "Ghosts in the Code",
+      "summary": "Investigating the outbreak, Elara discovers a digital fingerprint linking the pathogen's genetic sequence to her stolen Lazarus research. She realizes it's been weaponized.",
+      "key_events": [
+        "Elara, now working in a veterinary clinic, obsessively tracks medical reports.",
+        "She uses an old backdoor to access a public health database.",
+        "She finds a unique, proprietary genetic marker in the outbreak pathogen\u2014one she designed for Lazarus.",
+        "She connects the outbreak's victims: they are all former employees or whistleblowers from a single tech company that bankrupted a rival firm.",
+        "She is contacted by a terrified, anonymous source from within NexaGene."
+      ],
+      "ending_hook": "The source sends her one file before going silent: a project named \"Nemesis\" and a target list containing thousands of names."
+    },
+    {
+      "number": 3,
+      "title": "The Devil's Bargain",
+      "summary": "Elara is approached by Marcus Thorne, a charismatic and ruthless investor who offers to restore her credentials and lab\u2014if she helps him audit NexaGene's secretive biodefense division, which he suspects of fraud.",
+      "key_events": [
+        "Thorne reveals he knows she's been investigating.",
+        "He proposes she go undercover as a consultant for his upcoming hostile takeover bid.",
+        "He provides evidence NexaGene framed her to gain full control of Lazarus.",
+        "Elara, despite her distrust, sees this as her only way inside.",
+        "She undergoes a drastic makeover and assumes a new identity."
+      ],
+      "ending_hook": "On her first day at NexaGene HQ, she is greeted by her former prot\u00e9g\u00e9 and betrayer, Dr. Julian Reed, who is now the head of the Nemesis project."
+    },
+    {
+      "number": 4,
+      "title": "The Gilded Lab",
+      "summary": "Inside NexaGene, Elara navigates a world of cutting-edge science and corporate paranoia. She discovers Nemesis is not a therapy, but a precision bioweapon platform.",
+      "key_events": [
+        "Elara is given limited access to sanitized project data.",
+        "She uses her expertise to decipher the true function of the \"targeting vectors.\"",
+        "She learns Lazarus wasn't a failure; its fatal flaw was intentionally engineered by Reed to create a time-released kill switch.",
+        "She finds a hidden server node but is almost caught by security.",
+        "She identifies the next Nemesis test: a tenant union in a building owned by a NexaGene board member's rival."
+      ],
+      "ending_hook": "Elara must choose: stop the small-scale test and risk her cover, or let innocent people die to maintain her position."
+    },
+    {
+      "number": 5,
+      "title": "Containment Breach",
+      "summary": "Elara attempts to anonymously thwart the test, but her intervention triggers an unexpected, more virulent outbreak. She must contain it using her knowledge, revealing her unique skills to Julian Reed.",
+      "key_events": [
+        "She sabotages the pathogen's dispersal mechanism.",
+        "The unstable pathogen mutates, becoming airborne in the lab facility.",
+        "A quarantine is triggered; Elara takes charge, using unorthodox methods to neutralize the pathogen.",
+        "Her actions save lives but her methodology is a direct signature of her work.",
+        "Julian confronts her, not with anger, but with fascination and a twisted sense of pride."
+      ],
+      "ending_hook": "Julian, believing she has come back to the fold, invites her to the inner circle, revealing the true scale of Nemesis: a city-wide \"demographic correction\" event."
+    },
+    {
+      "number": 6,
+      "title": "The Reckoning Engine",
+      "summary": "Elara is given a tour of the Nemesis core. She learns the conspiracy is led by \"The Syndicate,\" a group of elites using the platform to settle grievances and reshape society, with the upcoming city-wide release as their proof-of-concept.",
+      "key_events": [
+        "She sees the automated fabrication lab that can craft pathogens targeting specific DNA profiles.",
+        "The target list for the city includes entire neighborhoods, professions, and genetic lineages deemed \"undesirable\" or \"oppositional.\"",
+        "She meets the cold, calculating board members behind The Syndicate.",
+        "She is forced to contribute to the final design, subtly coding a hidden vulnerability into the core sequence.",
+        "Marcus Thorne's true allegiance becomes dangerously unclear."
+      ],
+      "ending_hook": "Elara discovers the dispersal device is not a spray, but the city's water supply, and the countdown to contamination is set for 72 hours."
+    },
+    {
+      "number": 7,
+      "title": "Burned",
+      "summary": "Thorne reveals himself as a Syndicate member testing her loyalty. Elara's sabotage is detected. She flees NexaGene, now hunted by both the corporation and Thorne's private security.",
+      "key_events": [
+        "Thorne confronts Elara with evidence of her tampering.",
+        "A violent extraction team is sent to her safehouse.",
+        "She escapes using a makeshift bio-agent (a non-lethal toxin) from her veterinary supplies.",
+        "She goes completely off-grid, retrieving a hidden cache of her original Lazarus research.",
+        "She realizes she can't just stop the release; she must create a universal countermeasure."
+      ],
+      "ending_hook": "Her only potential ally is the initial anonymous source\u2014who she now knows is a dying NexaGene bioethicist hiding in the city."
+    },
+    {
+      "number": 8,
+      "title": "The Antidote",
+      "summary": "Working in the bioethicist's clandestine lab, Elara races to build a \"Lazarus Vector\"\u2014a benign version of the virus that will deliver a genetic cure pre-emptively. She must synthesize it with limited resources.",
+      "key_events": [
+        "The bioethicist dies, giving her full access to his clandestine lab and data.",
+        "She reverse-engineers the Nemesis delivery system to carry a corrective gene sequence.",
+        "She faces a critical shortage of a key reagent.",
+        "She stages a desperate heist at a university lab she once worked in.",
+        "She successfully creates a prototype aerosol antidote."
+      ],
+      "ending_hook": "As she tests the antidote, Julian Reed and his team track her location and surround the building."
+    },
+    {
+      "number": 9,
+      "title": "The Siege",
+      "summary": "Trapped in the lab, Elara uses her knowledge of the building's ventilation and her homemade biocides to defend herself in a terrifying game of cat-and-mouse. She broadcasts the truth about Nemesis to the world.",
+      "key_events": [
+        "Elara seals the lab and releases a non-lethal incapacitating agent into the HVAC system.",
+        "She fights through teams of security using science as her weapon (corrosive agents, flash-synthesized sedatives).",
+        "She uploads all Nemesis data and target lists to a dead-man's switch server.",
+        "She has a final, brutal confrontation with Julian, who justifies Nemesis as \"evolutionary justice.\"",
+        "She escapes as police and media, alerted by her broadcast, descend on the location."
+      ],
+      "ending_hook": "The world now knows, but the Nemesis device is still active and on a timer. The Syndicate, exposed, accelerates the timeline."
+    },
+    {
+      "number": 10,
+      "title": "Zero Hour",
+      "summary": "With the city panicking, Elara deduces the primary insertion point for the water supply attack. She must infiltrate the central water treatment plant to deploy her antidote vector before the weapon is released.",
+      "key_events": [
+        "The city is placed under emergency lockdown.",
+        "Elara, now a public figure, works with a disbelieving but desperate CDC team.",
+        "She identifies the specific pumping station NexaGene compromised.",
+        "The Syndicate launches a cyber-attack to cripple the city's infrastructure and create chaos.",
+        "Elara and a small team of first responders fight their way through the cyber-blackout to the plant."
+      ],
+      "ending_hook": "She reaches the main filtration hub only to find Thorne waiting, holding a dead man's switch: release the antidote, and he triggers immediate, widespread dispersal of a pure weaponized strain from backup tanks."
+    },
+    {
+      "number": 11,
+      "title": "The Cure is Worse",
+      "summary": "Elara faces an impossible choice. She engages in a psychological duel with Thorne, using her understanding of his narcissism and the flawed Lazarus science to outwit him.",
+      "key_events": [
+        "Thorne reveals his personal grievance\u2014his family was ruined by a class-action lawsuit from the very city he now targets.",
+        "Elara points out a fatal flaw in the backup strain's stability, bluffing that it will degrade and target indiscriminately, including him.",
+        "She offers a counter-proposal: use her refined Lazarus protocol to truly heal, not kill, creating a legacy of life rather than revenge.",
+        "As Thorne hesitates, Julian Reed, mortally wounded but repentant, arrives and sacrifices himself to disrupt the switch.",
+        "A chaotic firefight ensues between Thorne's men and arriving federal agents."
+      ],
+      "ending_hook": "Elara seizes her chance and releases the entire supply of antidote vector into the water system, just as Thorne manages to activate the secondary weaponized release."
+    },
+    {
+      "number": 12,
+      "title": "Lazarus Rising",
+      "summary": "In the aftermath, the city becomes a giant petri dish. Elara's antidote and the Nemesis pathogen battle inside the population's bodies. She leads a massive medical effort to treat those who fall ill, while the world watches.",
+      "key_events": [
+        "Thousands sicken, but the mortality rate is a fraction of what The Syndicate intended.",
+        "Elara's vector works, rewriting the genetic code of the weapon in real-time within patients.",
+        "Thorne is captured; The Syndicate is unraveled by global authorities.",
+        "Elara is exonerated and offered her lab back, but she refuses.",
+        "She establishes an independent watchdog foundation for ethical gene-editing.",
+        "In a final scene, she visits the grave of the first boy, the original Lazarus subject, at peace for the first time."
+      ],
+      "ending_hook": "In her new foundation lab, a alert flashes: a genetic anomaly detected in a remote population. It bears the hallmarks of a salvaged Syndicate protocol. Elara looks at the screen, a determined glint in her eye, and whispers, 'Not on my watch.'"
+    }
+  ]
+}

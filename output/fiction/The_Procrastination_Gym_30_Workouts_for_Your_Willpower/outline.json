@@ -1,0 +1,149 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Diagnosis: You're Not Lazy, You're Out of Shape",
+      "summary": "Introduces the core premise: procrastination as a weakness in specific cognitive muscles (focus, initiation, follow-through). Helps the reader identify their personal 'weakest muscle group' through a self-assessment.",
+      "key_events": [
+        "Debunks the 'lazy' myth and introduces the fitness metaphor.",
+        "Presents the 'Procrastination Physique' assessment quiz.",
+        "Identifies the three core 'muscle groups': Focus, Decision, and Execution.",
+        "Introduces the concept of the 'Workout Log'."
+      ],
+      "ending_hook": "Your first workout isn't about finishing a task\u2014it's about simply putting on your gym clothes. Ready for your first rep?"
+    },
+    {
+      "number": 2,
+      "title": "Laying the Foundation: Your Mental Gym",
+      "summary": "Sets up the environment and mindset necessary for successful training. Covers creating a distraction-minimized workspace, the importance of ritual, and the concept of 'training sessions' versus 'marathons'.",
+      "key_events": [
+        "The 'Gym Bag' exercise: physically and digitally preparing your workspace.",
+        "Establishing the pre-workout ritual: The 60-Second Launch Sequence.",
+        "Defining 'Spotter' accountability systems.",
+        "Learning to differentiate between true fatigue and mental resistance."
+      ],
+      "ending_hook": "Your gym is built. Now it's time for the fundamental movement all productivity is built on: The Start."
+    },
+    {
+      "number": 3,
+      "title": "Workout A: The Starter Set",
+      "summary": "The first practical workout chapter. Contains short, foundational exercises designed to build the basic 'muscle memory' of starting without overthinking.",
+      "key_events": [
+        "The 2-Minute Drill: Starting any micro-task for just 120 seconds.",
+        "The Decision Sprint: Making 5 small, pending decisions in 3 minutes.",
+        "The Fuel Gauge Check: A mindfulness rep to identify real vs. procrastination fatigue.",
+        "Logging your 'Personal Record' (PR) for ease of initiation."
+      ],
+      "ending_hook": "You've completed your first set. Feel that burn? That's your initiation muscle waking up. Next, we teach it to sustain effort."
+    },
+    {
+      "number": 4,
+      "title": "Workout B: The Focus Flex",
+      "summary": "Targets the focus muscle group. Exercises are designed to increase attention span and recover from distraction, treating focus as a trainable skill.",
+      "key_events": [
+        "Single-Task Sprints: Timed, mono-focused work intervals.",
+        "The Distraction Drop-Set: Intentionally introducing and dismissing a distraction.",
+        "The Peripheral Vision Cleanse: A sensory focus drill.",
+        "Increasing your 'Focus PR' by 10% each session."
+      ],
+      "ending_hook": "Your focus can now hold a heavier load. But what about the chaotic, overwhelming tasks? Time for some mental weightlifting."
+    },
+    {
+      "number": 5,
+      "title": "The Compound Lift: Taming the Monolith Task",
+      "summary": "Teaches how to break down large, intimidating projects into a series of manageable 'lifts'. Introduces the concept of progressive overload for projects.",
+      "key_events": [
+        "The 'Bar-Loading' Technique: Deconstructing a big task into sequential components.",
+        "The 'Spotter Call': How to ask for help effectively mid-lift.",
+        "The Failure Rep: Practicing a graceful restart after a stumble.",
+        "Creating a 'Project Pyramid' set."
+      ],
+      "ending_hook": "The monolith is now a stack of manageable weights. But to lift them consistently, you need to master the clock."
+    },
+    {
+      "number": 6,
+      "title": "Workout C: The Interval Timer",
+      "summary": "Focuses on time management as interval training. Introduces variations on time-blocking and teaches how to match task type to energy level.",
+      "key_events": [
+        "High-Intensity Interval Tasking (HIIT): Alternating intense focus with active recovery.",
+        "The Pace Clock: Finding your natural work/rest rhythm.",
+        "Energy-Level Matching: Linking task difficulty to mental fuel.",
+        "The 'Cool-Down' Task: A mandatory easy task to end a session."
+      ],
+      "ending_hook": "You're no longer fighting time; you're pacing it. Now, let's tackle the sneaky saboteur of every gym-goer: the inner critic."
+    },
+    {
+      "number": 7,
+      "title": "Spotting Your Inner Saboteur",
+      "summary": "Addresses the mental and emotional resistance that arises during training. Provides 'spotting' techniques to manage fear of failure, perfectionism, and self-doubt.",
+      "key_events": [
+        "Naming Your 'Gym Troll': Identifying your dominant negative self-talk pattern.",
+        "The 'Spotter's Cue' Drill: Replacing criticism with a pre-planned, neutral command.",
+        "The 'Good Enough' Lift: Intentionally submitting an imperfect rep.",
+        "The Failure Reflection Cooldown: A structured post-setback process."
+      ],
+      "ending_hook": "Your saboteur is now spotted, not in control. With a clearer mind, what does your ideal productive physique look like?"
+    },
+    {
+      "number": 8,
+      "title": "Designing Your Dream Physique",
+      "summary": "Guides the reader in defining their personal, positive vision of productivity\u2014not based on generic hustle culture, but on their own values and goals.",
+      "key_events": [
+        "The 'Productivity Physique' Visualization: What does strong willpower *feel* like?",
+        "Value-Based Goal Setting: Aligning tasks with core values for intrinsic motivation.",
+        "Identifying 'Vanity Metrics' vs. 'Strength Metrics'.",
+        "Drafting a personal 'Training Manifesto'."
+      ],
+      "ending_hook": "You have your destination. Now we build the advanced routines to get you there, starting with your most valuable asset: creative energy."
+    },
+    {
+      "number": 9,
+      "title": "Workout D: The Creative Circuit",
+      "summary": "Advanced workouts for generating ideas, problem-solving, and maintaining momentum on creative or open-ended projects. Treats creativity as a strength-endurance muscle.",
+      "key_events": [
+        "Brainstorming Sprints: Generating volume without judgment.",
+        "The Connective Tissue Set: Forcing novel connections between unrelated concepts.",
+        "The Editing Pyramid: A structured rep scheme for revision.",
+        "The 'Flow State' Warm-Up: Rituals to invite deep work."
+      ],
+      "ending_hook": "Your creative engine is primed. But a true athlete knows strength is useless without recovery. Enter the most counterintuitive chapter yet."
+    },
+    {
+      "number": 10,
+      "title": "Active Recovery: The Discipline of Rest",
+      "summary": "Reframes strategic breaks, sleep, and play as essential, scheduled components of the training regimen, not as signs of weakness.",
+      "key_events": [
+        "Scheduled Deliberate Rest (SDR): The non-negotiable break.",
+        "The 'Sleep PR': Tracking and optimizing sleep quality as a key metric.",
+        "The Play Interval: Unstructured, guilt-free time as a cognitive exercise.",
+        "The Digital Detox Cool-Down."
+      ],
+      "ending_hook": "You are now a balanced athlete. But how do you maintain this when life throws you a chaotic schedule?"
+    },
+    {
+      "number": 11,
+      "title": "The On-The-Go Kit: Travel WODs (Workouts of the Day)",
+      "summary": "Provides a toolkit of micro-workouts for chaotic days, travel, low energy, or unexpected disruptions. Emphasizes consistency over perfect conditions.",
+      "key_events": [
+        "The 5-Minute Rescue Set: For when everything goes wrong.",
+        "The 'Hotel Room' Workout: Productivity without your usual setup.",
+        "The Commute Circuit: Using transitional time effectively.",
+        "The 'One-Minute Momentum' Drill to restart a stalled day."
+      ],
+      "ending_hook": "No excuses remain. You have a workout for every context. It's time to plan for lifelong maintenance."
+    },
+    {
+      "number": 12,
+      "title": "Your Maintenance Plan & The Next PR",
+      "summary": "The culmination. Teaches how to design a sustainable, personalized weekly 'training split' for ongoing willpower maintenance. Looks to the future and setting new 'Personal Records' in life.",
+      "key_events": [
+        "Building Your Weekly 'Training Split': Balancing the different workout types.",
+        "Periodization for Projects: Planning intensity cycles for long-term goals.",
+        "The Quarterly 'PR Day': Testing your limits in a key area.",
+        "Becoming Your Own Coach: How to self-correct and advance your program.",
+        "The final 'Graduation Set': A symbolic, comprehensive workout."
+      ],
+      "ending_hook": "You didn't just read a book. You completed your training. The Procrastination Gym is now yours\u2014a permanent, powerful part of your mind. What's your next PR?"
+    }
+  ]
+}

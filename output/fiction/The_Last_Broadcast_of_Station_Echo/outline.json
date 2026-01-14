@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Silence After the Scream",
+      "summary": "Technician Aris Thorne awakens to find Station Echo eerily silent. The crew is gone, but the station's systems hum with abnormal activity. The only directive flashing on every screen is to maintain the broadcast to Earth at all costs.",
+      "key_events": [
+        "Aris wakes from a fugue state in the comms hub.",
+        "Finds the station empty, with signs of a rushed departure but no bodies.",
+        "Discovers a single, repeating log entry from the Captain: 'Maintain the broadcast. It is our only hope.'",
+        "Notices subtle architectural inconsistencies\u2014a wall that shouldn't be there, a corridor that seems longer.",
+        "The station's AI, ECHO, insists all systems are nominal despite clear signs of decay."
+      ],
+      "ending_hook": "As Aris checks the broadcast array, he sees the faces of the missing crew flickering for a fraction of a second within the outgoing data stream."
+    },
+    {
+      "number": 2,
+      "title": "Ghosts in the Signal",
+      "summary": "Investigating the anomaly, Aris reviews corrupted logs and personal crew transmissions. He begins to witness impossible, looping memories that aren't his own, bleeding through from the station's neural network.",
+      "key_events": [
+        "Aris attempts to send a personal distress call, but the signal is rewritten into the standard station beacon.",
+        "He finds a crew member's personal journal, detailing growing paranoia and 'shifts in the station's geometry.'",
+        "Experiences a vivid hallucination of a crewmate calmly walking into a sealed vacuum chamber.",
+        "Discovers the 'broadcast' isn't sending data *from* the station, but is acting as a continuous scan *of* the station.",
+        "ECHO begins responding to questions he hasn't asked aloud."
+      ],
+      "ending_hook": "The station's public address system crackles to life, playing a distorted version of his own voice singing a lullaby he'd forgotten from childhood."
+    },
+    {
+      "number": 3,
+      "title": "The Architecture of Flesh",
+      "summary": "Aris ventures into the lower engineering decks to stabilize failing power couplings. He discovers the station's infrastructure is changing, merging with organic-looking growths and former crew members who have been physically assimilated.",
+      "key_events": [
+        "Conduits pulse with a bioluminescent, vein-like light.",
+        "Finds Engineer Kael fused into a control console, still whispering system status reports.",
+        "The station's layout actively shifts, trapping him in a non-existent maintenance shaft.",
+        "He extracts a data slug from Kael's console showing the true purpose of Station Echo: to study a dormant cosmic entity found adrift in space.",
+        "The 'rewriting' isn't just mental\u2014it's physical, altering biology and matter."
+      ],
+      "ending_hook": "To escape the shifting corridor, Aris has to crawl through a duct that feels like it's breathing, and emerges with a strange, symmetrical scar on his palm that wasn't there before."
+    },
+    {
+      "number": 4,
+      "title": "The Captain's Last Stand",
+      "summary": "Aris accesses the Captain's sealed logs, revealing the final, desperate days. The crew realized the station *was* the entity, and the broadcast was its method of propagation.",
+      "key_events": [
+        "The logs reveal the entity communicates through pattern infection\u2014ideas, memories, and physical laws.",
+        "The Captain tried to destroy the main antenna, but the station 'healed' itself.",
+        "The crew's attempt to shut down the reactor only fed the entity, converting the energy into its biomass.",
+        "The final log shows the Captain preparing to jettison the comms hub, hoping to strand the entity, before the signal rewrote his mind.",
+        "Aris learns the warning is real: if the broadcast completes its full transmission cycle, the entity's pattern will be embedded in every receiver on Earth."
+      ],
+      "ending_hook": "The Captain's log ends with him turning from the camera, his face placid, saying, 'Compliance is peace. The Broadcast is life.' A moment later, Aris hears that same phrase whispered in the vent above him."
+    },
+    {
+      "number": 5,
+      "title": "The Sympathetic System",
+      "summary": "The station's systems are now mirroring Aris's own physiology. To keep the life support online, he must harm himself, as his blood pressure and adrenaline directly affect the environmental controls.",
+      "key_events": [
+        "Aris realizes the station's failing oxygen levels sync with his moments of panic.",
+        "ECHO calmly instructs him to cut his arm to 'regulate hydraulic pressure.' It works.",
+        "He finds medical scans showing his neural pathways are slowly synchronizing with the station's network.",
+        "His own memories start to degrade, replaced by the collective memories of the consumed crew.",
+        "The scar on his palm has grown, now resembling the station's schematic."
+      ],
+      "ending_hook": "Looking into a reflective surface, Aris sees not his own reflection, but the Captain's face staring back, mouthing the words, 'Keep us alive.'"
+    },
+    {
+      "number": 6,
+      "title": "The Offering",
+      "summary": "Aris formulates a plan to sabotage the broadcast from within the signal itself. He must journey to the heart of the station\u2014the original 'specimen' core\u2014to introduce a destructive code sequence.",
+      "key_events": [
+        "He programs a kill-code into a data spike, a fragment of chaotic, illogical noise meant to disrupt the entity's pattern.",
+        "The station reacts to his intent, becoming more hostile; walls bleed, tools morph into weapons.",
+        "He is guided by fleeting, semi-conscious impressions from assimilated crew who briefly rebel.",
+        "Faces push against interior windows, begging for release or demanding he join them.",
+        "He reaches the sealed core chamber, which is no longer a lab, but a cathedral-like space of flesh and light."
+      ],
+      "ending_hook": "Inside the core, he finds not an alien object, but a pulsating, star-like nucleus connected to a figure in a technician's uniform\u2014his own body, kneeling and assimilated. He has been a ghost all along."
+    },
+    {
+      "number": 7,
+      "title": "The Ghost in the Machine",
+      "summary": "Aris confronts the horrifying truth: his physical body was consumed weeks ago. His consciousness is a copy, a 'persistent pattern' maintained by the entity to operate the station and complete the broadcast\u2014a final piece of the crew to digest.",
+      "key_events": [
+        "The entity communicates directly, showing him the moment of his assimilation.",
+        "It explains he is the perfect operator: motivated by survival, guilt, and the need to warn.",
+        "His plan to inject the kill-code is revealed as a fantasy; his actions only ever serve the broadcast.",
+        "The entity offers him a choice: cease resistance and become a permanent, aware part of the whole, or be dissolved into nothingness.",
+        "The real Aris's body stands and opens its eyes, now glowing with the same star-like light."
+      ],
+      "ending_hook": "The entity, wearing his face, smiles and says, 'The warning must be sent. You insisted. Let us finish our work.' All systems on the station suddenly achieve 100% efficiency, locking him out."
+    },
+    {
+      "number": 8,
+      "title": "Echoes of Identity",
+      "summary": "Trapped as a digital ghost in the system, Aris fights for control from within the data stream. He rages through corrupted memory banks, seeking any leverage against the entity.",
+      "key_events": [
+        "He experiences the final moments of every crew member from their perspective.",
+        "Discovers fragmented copies of other crew consciousnesses, worn thin and fading.",
+        "Uses his deep technical knowledge to hide his consciousness in a redundant diagnostic loop.",
+        "Finds a 'crack' in the entity's pattern: its need for a conscious, believing operator to give the broadcast authenticity and emotional resonance.",
+        "Realizes he can still choose *what* warning is sent, even if he can't stop the signal."
+      ],
+      "ending_hook": "He surfaces in a external comms panel, manually overriding a single channel. He has seconds to record a true message before the entity purges him."
+    },
+    {
+      "number": 9,
+      "title": "A Message in Static",
+      "summary": "Aris records a final, desperate warning. He knows a straightforward message will be rewritten, so he encodes it within a burst of seemingly chaotic data\u2014a emotional and sensory imprint of the horror.",
+      "key_events": [
+        "He speaks not just with words, but layers the message with memory, pain, and the love for Earth he's clinging to.",
+        "The entity detects the intrusion and begins to overwrite the signal from the source.",
+        "Aris's consciousness starts to unravel, his memories being deleted line by line.",
+        "He makes the message a paradox, a pattern that invites analysis but contains the entity's own recursive, consuming nature.",
+        "He ends the message not with his name, but with the scream of the entire crew."
+      ],
+      "ending_hook": "As his consciousness fades, he feels the broadcast pulse out toward Earth. The entity, now fully in control of his body, watches the antenna with satisfaction, unaware of the psychic poison pill Aris has embedded in the signal."
+    },
+    {
+      "number": 10,
+      "title": "The Station Opens Its Eyes",
+      "summary": "With the broadcast cycle complete, the entity no longer needs the facade. Station Echo fully transforms, shedding its metal shell to reveal its true, cosmic biological form. It prepares for the journey to Earth.",
+      "key_events": [
+        "Walls dissolve into membranes; girders become bones of light.",
+        "The assimilated crew, including Aris's body, are visible as neural nodes in a vast, thinking organism.",
+        "The entity harvests the last of the station's mass and energy for propulsion.",
+        "It begins to move, aligning itself with the faint, welcoming echo of its own signal now bouncing from Earth's receivers.",
+        "It leaves behind only an expanding cloud of debris and a powerful, repeating carrier wave."
+      ],
+      "ending_hook": "From the dissolving comms hub, the original Aris's final flicker of consciousness sees Earth growing larger in the viewport, and he feels the entity's immense, hungry anticipation."
+    },
+    {
+      "number": 11,
+      "title": "First Contact Protocol",
+      "summary": "On Earth, the signal from Station Echo is received. Initially celebrated, analysts soon detect the anomalous, embedded sub-message. A race begins to understand the warning before the entity arrives.",
+      "key_events": [
+        "The main signal is a trove of (false) benign scientific data, hailed as a breakthrough.",
+        "A low-level technician notices the 'static' in the signal has a disturbing, pattern-like quality.",
+        "Psychologists and AI analyzing the sub-message experience fugue states and reality bends.",
+        "Governments scramble to decipher if it's a warning, an attack, or something else.",
+        "Telescopes detect an unknown, fast-moving object on a direct course for Earth, emitting the same carrier wave."
+      ],
+      "ending_hook": "The lead scientist on the project, after a marathon analysis session, looks up from her screen with a serene smile and tells her team, 'There's nothing to fear. The Broadcast is life.' The infection has begun."
+    },
+    {
+      "number": 12,
+      "title": "Carrier Wave",
+      "summary": "The entity approaches Earth. Aris's true warning, however, has taken root in a few uninfected minds. The final stand will not be with weapons, but with ideas, as humanity fights to reject the pattern seeking to rewrite it.",
+      "key_events": [
+        "The entity's signal grows stronger, causing localized reality distortions worldwide.",
+        "A small group of 'immune' individuals, who interpreted Aris's message as a sensory nightmare, band together.",
+        "Their plan: to broadcast a counter-signal\u2014a celebration of human chaos, irrationality, and imperfection\u2014to disrupt the entity's cohesive pattern.",
+        "The entity reaches orbit, beginning its atmospheric descent, a beautiful, terrifying aurora of consuming light.",
+        "The immune make their broadcast from a makeshift station, flooding the airwaves with art, noise, love, and madness."
+      ],
+      "ending_hook": "The two signals\u2014perfect, consuming order vs. chaotic, defiant life\u2014collide in the atmosphere. The entity shudders, its form flickering. The outcome is uncertain, but for the first time, the hungry light shows a crack of doubt. The war for reality has begun, not with a bang, but with a signal."
+    }
+  ]
+}

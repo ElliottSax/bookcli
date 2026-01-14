@@ -1,0 +1,172 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Sound of Breaking",
+      "summary": "Evelyn Vance, a blind art restorer, is working alone in a sealed gallery when she hears a murder. Her auditory map of the event is precise, but the scene she describes contradicts the physical evidence.",
+      "key_events": [
+        "Evelyn Vance is restoring a delicate glass sculpture in the 'White Room,' a hermetically sealed gallery.",
+        "She hears the distinct sounds of the security system engaging, sealing the room.",
+        "A struggle erupts: a man's voice pleading, the shattering of glass, a heavy thud, and then silence.",
+        "Using her acute hearing, she navigates to the body and confirms the victim, a museum curator, is dead.",
+        "Security finds her with the body; the room is still sealed from the outside.",
+        "She gives a flawless, detailed statement to the lead detective, Aris Thorne."
+      ],
+      "ending_hook": "Detective Thorne returns, his tone changed: \"Ms. Vance, the forensics are back. According to the evidence, what you described... couldn't have happened.\""
+    },
+    {
+      "number": 2,
+      "title": "The Impossible Scene",
+      "summary": "The forensic report creates an irreconcilable contradiction: Evelyn's account vs. the physical facts. Evelyn's credibility and sanity are questioned.",
+      "key_events": [
+        "Thorne lays out the facts: the murder weapon (a glass shard) was found 15 feet from the body, with no blood trail.",
+        "The victim's wounds indicate an upward thrust, but the only fingerprints on the shard are the victim's own.",
+        "The security log confirms the room was sealed the entire time; no one else entered or left.",
+        "Evelyn's employer and the museum's board begin to pressure her to recant, suggesting a 'traumatic episode.'",
+        "Evelyn, doubting her own mind, replays the auditory memory obsessively, finding no flaw.",
+        "She learns the victim was about to publicly authenticate a controversial, long-lost masterpiece."
+      ],
+      "ending_hook": "Alone in her apartment, Evelyn replays the memory for the hundredth time and hears a new detail: a faint, high-pitched hum that wasn't there before."
+    },
+    {
+      "number": 3,
+      "title": "Echoes of the Past",
+      "summary": "Evelyn investigates the victim's last project, uncovering a decades-old art forgery scandal connected to the gallery's unique architecture.",
+      "key_events": [
+        "Evelyn uses her professional network to learn about the curator's secretive authentication project.",
+        "She discovers the 'White Room' was designed by a reclusive architect with a passion for acoustic illusions.",
+        "A retired museum guard hints that the gallery 'wasn't built just to preserve art.'",
+        "Evelyn identifies the high-pitched hum in her memory as the sound of a specific, antiquated electrical transformer.",
+        "She realizes her memory of the event's sequence might be subtly out of order.",
+        "Detective Thorne, acting against orders, shares a clue: a tiny, non-native glass fragment was found at the scene."
+      ],
+      "ending_hook": "The architect's widow tells Evelyn: \"My husband didn't design that room to keep sound out. He designed it to trap sound *in*. Permanently.\""
+    },
+    {
+      "number": 4,
+      "title": "A Room That Remembers",
+      "summary": "Evelyn gains access to the sealed gallery, using it as an acoustic time capsule to test her theory that the room's design altered her perception.",
+      "key_events": [
+        "Using her status, Evelyn convinces Thorne to let her re-enter the White Room with a sound engineer.",
+        "They conduct acoustic tests, revealing the room has bizarre resonant properties and 'audio dead zones.'",
+        "A sound played in one corner can seem to originate from another.",
+        "Evelyn deduces the struggle she heard was an acoustic illusion; the actual murder happened in a different part of the room.",
+        "She identifies the 'non-native' glass as coming from a specific type of antique eyeglass lens.",
+        "The museum director abruptly cancels her access and tries to discredit her publicly."
+      ],
+      "ending_hook": "As she's escorted out, Evelyn's cane taps an uneven floor tile. Beneath it, she feels the distinct shape of a hidden button."
+    },
+    {
+      "number": 5,
+      "title": "The Blind Spot",
+      "summary": "Evelyn and Thorne discover a hidden chamber within the gallery, revealing the murder was a staged performance meant for her ears alone.",
+      "key_events": [
+        "Evelyn and Thorne secretly return to press the hidden button.",
+        "A section of the sound-dampening wall swings open, revealing a narrow maintenance space with direct access to the gallery's air vents.",
+        "Inside, they find the source of the hum: an old audio recorder and speaker system.",
+        "They uncover a set of detailed notes outlining a 'sonic script'\u2014the exact sequence of sounds Evelyn described.",
+        "The murder was a recording, played through hidden speakers to manipulate her.",
+        "The real murder happened elsewhere, and the body was moved during a brief power flicker she'd dismissed."
+      ],
+      "ending_hook": "On the recorder's spool, a label reads in braille: \"For E.V.\" The performance was personally addressed to her."
+    },
+    {
+      "number": 6,
+      "title": "Personal History",
+      "summary": "The brailled label forces Evelyn to confront her past, leading to a suspect from her early life in a school for the blind, who knew her auditory prowess.",
+      "key_events": [
+        "Evelyn is shaken; the killer knows her intimately and predicted her every interpretive move.",
+        "She recalls a brilliant, obsessive classmate, Leo, who was fascinated by sensory perception and illusion.",
+        "Leo was expelled for dangerous experiments involving sound and psychological suggestion.",
+        "Thorne traces Leo to a company that designs high-security museum installations.",
+        "They learn Leo was a subcontractor on the White Room's climate system.",
+        "Evelyn receives an anonymous, taunting audio message: a perfect recreation of her own voice describing the murder."
+      ],
+      "ending_hook": "The audio message ends with a whisper: \"The lie isn't in your memory, Evelyn. It's in the space between the sounds. You taught me that.\""
+    },
+    {
+      "number": 7,
+      "title": "The Architect of Illusion",
+      "summary": "Confronting Leo, Evelyn learns his motive is rooted in a childhood betrayal and a desire to prove her genius is a fraud.",
+      "key_events": [
+        "Evelyn arranges a meeting at an echo-filled train station, using the acoustics to her advantage.",
+        "Leo confesses he designed the 'impossible murder' as the ultimate test of her reputation.",
+        "He reveals the murdered curator was his partner, who double-crossed him on the forgery scheme.",
+        "Leo's goal: to make the world see Evelyn's 'perfect hearing' as a liability, a creator of fiction.",
+        "He proves his point by using a directional speaker to make a voice seem to come from behind Thorne, demonstrating how he fooled her.",
+        "Leo escapes into the crowd, leaving behind a final clue: a frequency etched onto a glass chip."
+      ],
+      "ending_hook": "Back at the lab, the frequency is identified as a resonant pitch for a specific type of glass\u2014the exact type of the sculpture being restored the night of the murder."
+    },
+    {
+      "number": 8,
+      "title": "Resonance",
+      "summary": "Evelyn realizes the shattered sculpture itself is the key. Its destruction wasn't incidental; it was the murder weapon and the carrier of a hidden message.",
+      "key_events": [
+        "Evelyn theorizes the sculpture was a custom-made glass data storage device, a concept from the architect's notes.",
+        "The specific frequency would cause it to shatter in a controlled pattern, releasing its data.",
+        "The 'murder sounds' masked the sculpture's deliberate destruction.",
+        "The real target was never the curator, but the data hidden inside the sculpture.",
+        "The data is a digital ledger proving the decades-old forgery ring, implicating powerful figures in the art world.",
+        "The museum director is revealed to be part of the cover-up, which is why he tried to stop her."
+      ],
+      "ending_hook": "While examining the glass shard evidence, Evelyn feels microscopic etchings on one piece\u2014it's a physical map, in braille."
+    },
+    {
+      "number": 9,
+      "title": "The Braille Map",
+      "summary": "The braille map leads Evelyn and Thorne to a vault containing the original forged paintings, but they walk into a trap set by the director.",
+      "key_events": [
+        "The map leads to a sub-basement of the museum, a private vault.",
+        "Inside, they find the missing originals that were forged, worth millions.",
+        "The museum director confronts them, armed. He admits to killing the curator to protect the forgery ring and his legacy.",
+        "He reveals Leo was his tool; he provided the blueprint of Evelyn's psyche from their shared past.",
+        "The director seals them in the soundproof vault, intending it to be their tomb.",
+        "In the darkness, Evelyn uses the vault's own security mechanisms\u2014keypads with audible clicks\u2014to navigate."
+      ],
+      "ending_hook": "Evelyn tells Thorne, \"He made one mistake. He put us in a room full of buttons. I can *hear* which ones are used the most.\""
+    },
+    {
+      "number": 10,
+      "title": "Sonic Key",
+      "summary": "Using her auditory skills on the vault's keypad, Evelyn deduces the code and escapes, turning the tables on the director.",
+      "key_events": [
+        "Evelyn listens to the subtle acoustic differences as Thorne presses each key on the vault's door pad.",
+        "She identifies the four most worn keys by their slightly duller sound.",
+        "She deduces the sequence by listening to the director's frantic breathing and heartbeat through the door, correlating his stress with Thorne's trial combinations.",
+        "They crack the code and burst out, catching the director attempting to flee with a painting.",
+        "A physical struggle ensues; Evelyn uses the echoing space to track the director's movements and disorient him.",
+        "Thorne subdues the director while Evelyn secures the incriminating evidence."
+      ],
+      "ending_hook": "As police take the director away, he sneers at Evelyn: \"You didn't solve it. You just played your part in the script. Leo's still out there.\""
+    },
+    {
+      "number": 11,
+      "title": "The Final Frequency",
+      "summary": "Evelyn knows Leo's obsession won't let him disappear. She sets a trap using herself as bait, broadcasting a public challenge on his terms.",
+      "key_events": [
+        "Evelyn gives an interview, stating she will recreate the 'sonic script' in the White Room live to demonstrate the flaw in Leo's illusion.",
+        "She knows this will draw him to the scene to either correct her or witness his masterpiece's validation.",
+        "Thorne and his team covertly surround the museum.",
+        "Evelyn enters the sealed gallery alone, her every move broadcast via a microphone.",
+        "She begins her recreation, deliberately altering a key sound\u2014the pitch of the breaking glass.",
+        "As predicted, Leo, unable to tolerate the 'error,' emerges from hiding in the walls to correct her."
+      ],
+      "ending_hook": "Leo steps into the gallery, holding a device. \"You got the note wrong, Evelyn. It wasn't an A-sharp. It was a pure A. Let me show you.\" The doors seal behind him."
+    },
+    {
+      "number": 12,
+      "title": "The Memory of Glass",
+      "summary": "In a final confrontation, Evelyn uses Leo's own obsession with acoustic purity to defeat him, finding peace with the nature of her own perception.",
+      "key_events": [
+        "Evelyn explains she knows the true motive: Leo wasn't just proving a point, he was trying to 'perfect' the recorded event by having her, the ideal witness, endorse it.",
+        "She reveals she planted a secondary, ultrasonic frequency in her broadcast, triggering a feedback loop in Leo's own sound equipment.",
+        "The painful screech disorients him, allowing Thorne's team to breach the room and arrest him.",
+        "With Leo caught, the full forgery ring collapses.",
+        "Evelyn returns to the White Room, now knowing its true acoustic map. She replays the original memory in her mind and finally hears the truth, clean of illusion.",
+        "She accepts that while her memory was manipulated, her senses were never the lie; they were the key that unlocked it."
+      ],
+      "ending_hook": "Weeks later, Evelyn runs her fingers over the reassembled glass sculpture. It's now a web of cracks, a map of the truth. She smiles. \"Some things,\" she says, \"are more beautiful for having been broken.\""
+    }
+  ]
+}

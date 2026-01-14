@@ -1,0 +1,159 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "A Sourdough Tomb",
+      "summary": "Disgraced food critic Elara Finch arrives in the remote mountain town of Bitterroot, seeking anonymity, only to discover the town's beloved reclusive baker, Arthur 'The Starter' Crofton, dead in his own massive sourdough starter vat.",
+      "key_events": [
+        "Elara arrives, hoping her past scandal (accusations of fabricated reviews) won't follow.",
+        "She visits Crofton's bakery, 'The Wild Loaf,' drawn by its legendary reputation.",
+        "Finds the bakery unlocked and Crofton submerged in his central, bubbling starter.",
+        "Sheriff Briggs, skeptical of outsiders, notes her troubled history.",
+        "Elara discovers Crofton's final, unsent newsletter draft on his computer."
+      ],
+      "ending_hook": "The newsletter ends not with a recipe, but with a bizarre, poetic riddle about 'salt, lies, and the 1978 harvest.'"
+    },
+    {
+      "number": 2,
+      "title": "The Proof is in the Code",
+      "summary": "Elara, unable to resist a culinary puzzle, realizes the newsletter's prose contains a hidden, coded recipe. The instructions are nonsensical for baking but seem to reference people and events in Bitterroot.",
+      "key_events": [
+        "Elara deciphers the first clue: 'Knead the truth about the mayor's golden syrup.'",
+        "She learns Crofton was a quiet activist against a new resort development.",
+        "Visits the town's historical society, run by the prickly Maureen Green.",
+        "Maureen reluctantly shows her archived town newsletters from 1978.",
+        "Elara bakes the first decoded step\u2014a rye loaf\u2014and leaves it on the bakery's memorial table."
+      ],
+      "ending_hook": "The next morning, the loaf is gone, replaced by a single, threatening black rose."
+    },
+    {
+      "number": 3,
+      "title": "The First Rise: Mayor Sweetwater's Syrup",
+      "summary": "Following the clue, Elara investigates Mayor Sweetwater, whose family fortune was built on maple syrup. Baking the 'mayor's golden syrup' loaf triggers a memory for an old-timer.",
+      "key_events": [
+        "Elara questions the mayor, who is charming but evasive about the 1970s.",
+        "She perfects a maple-infused sourdough using the coded instructions.",
+        "Serves it at a casual town gathering.",
+        "An elderly logger, after eating a slice, drunkenly mutters about a 'sweet deal gone sour' and a missing boy in '78.",
+        "The sheriff warns Elara to stop stirring the pot."
+      ],
+      "ending_hook": "That night, the historical society is broken into\u2014only the 1978 box files are stolen."
+    },
+    {
+      "number": 4,
+      "title": "A Sticky, Burnt Secret",
+      "summary": "Elara teams up with Leo, Crofton's estranged and pragmatic farm-supply nephew, who provides access to Crofton's cabin. They find a hidden ledger of cryptic payments.",
+      "key_events": [
+        "Leo reveals Crofton believed the town's founders were corrupt.",
+        "In Crofton's cabin, they find a flour-dusted ledger with initials and crop symbols.",
+        "The next recipe clue points to 'the banker's charred conscience.'",
+        "Elara bakes a dark, nearly burnt pumpernickel.",
+        "Banker Reginald Shaw sees the loaf at the bakery and has a visible, angry panic attack."
+      ],
+      "ending_hook": "Shaw is found dead the next morning, an apparent suicide, with a note simply reading 'I couldn't rise anymore.'"
+    },
+    {
+      "number": 5,
+      "title": "The Autolyse: Letting Truth Rest",
+      "summary": "Shaw's death rocks the town and confirms Elara is on the right path. She and Leo analyze the ledger, realizing it documents payoffs related to a long-buried land dispute.",
+      "key_events": [
+        "The sheriff now considers Elara a suspect in Shaw's death.",
+        "Ledger analysis links payments to Mayor Sweetwater, the late Shaw, and others.",
+        "The next clue involves 'the water that doesn't flow'\u2014pointing to the dam and the town's founder, Old Man Huckle.",
+        "Elara bakes an oddly salt-crusted focaccia.",
+        "She is publicly confronted by Maureen Green, who accuses her of defiling Crofton's legacy."
+      ],
+      "ending_hook": "Leo discovers his truck's brakes have been tampered with, nearly causing a crash on the mountain road."
+    },
+    {
+      "number": 6,
+      "title": "Dam Water and Sourdough",
+      "summary": "Investigating the Huckle family and the town dam, Elara learns the 1978 'harvest' wasn't just crops\u2014it was the year the valley was flooded to create a reservoir, drowning old homesteads.",
+      "key_events": [
+        "The current dam manager, gruff and isolated, refuses to talk.",
+        "Elara bakes a soaked, porridge-style bread referenced in the code.",
+        "An anonymous tip leads her to a retired surveyor who reveals a homestead wasn't fully evacuated before the flood.",
+        "The missing boy from '78 lived on that homestead.",
+        "The surveyor implies the boy's family was paid off to stay quiet."
+      ],
+      "ending_hook": "Returning home, Elara finds her rental cabin ransacked, with a single word scrawled in flour on the counter: 'STOP.'"
+    },
+    {
+      "number": 7,
+      "title": "The Turn: A Family Folded In",
+      "summary": "The ledger and clues now point to Leo's own mother\u2014Crofton's sister\u2014and her connection to the Huckle family. Leo's loyalty is tested.",
+      "key_events": [
+        "Leo confesses his mother received regular payments from Shaw's bank until recently.",
+        "He believed it was a family trust from his grandfather.",
+        "The next recipe is for 'a mother's guilt, sweet and twisted'\u2014a braided cinnamon babka.",
+        "Confronting his mother, she breaks down, admitting the money was to keep her silent about what she saw the night the dam opened.",
+        "She claims Crofton was getting close to the full truth."
+      ],
+      "ending_hook": "As they leave, a shot rings out, shattering the window above their heads."
+    },
+    {
+      "number": 8,
+      "title": "Bulk Fermentation: Pressure Builds",
+      "summary": "Under sheriff's protection but distrustful, Elara and Leo work to piece together the final sequence. The coded recipe points to a final, grand loaf requiring ingredients from all the implicated parties.",
+      "key_events": [
+        "Elara realizes the final recipe is a metaphor for the cover-up itself, combining elements from each player.",
+        "Mayor Sweetwater invites her to a private dinner\u2014a clear attempt at intimidation.",
+        "She bakes a small test loaf combining maple (mayor), burnt sugar (banker), and dam-water salt.",
+        "Maureen Green unexpectedly visits, offering a fragile truce and a key piece of evidence: a photo of the boy, alive and well in another state in 1979."
+      ],
+      "ending_hook": "The photo is torn, missing the person who was with him. Maureen whispers, 'The boy was paid to disappear. But the man who took him... that's the real secret.'"
+    },
+    {
+      "number": 9,
+      "title": "Shaping the Lie",
+      "summary": "The photo suggests the boy wasn't killed but was part of a bribery scheme. Elara and Leo track down the now-adult 'missing boy,' living under a new name.",
+      "key_events": [
+        "They find a terrified man who confirms his family was paid to fake his disappearance to bolster the lawsuit against the dam company.",
+        "The scheme was orchestrated by a young lawyer\u2014now Judge Alden, a town pillar.",
+        "The boy's 'death' allowed the founding families to sue for millions, which they split.",
+        "Crofton discovered the fraud and was preparing to expose it.",
+        "The final recipe clue is revealed: 'Bake at the founding temperature.'"
+      ],
+      "ending_hook": "Judge Alden arrives at the man's doorstep with the sheriff, framing Elara and Leo for witness intimidation."
+    },
+    {
+      "number": 10,
+      "title": "The Oven Spring",
+      "summary": "Arrested but released on bail, Elara knows the only way to prove the conspiracy is to complete Crofton's final recipe publicly, at the town's Harvest Festival, forcing the conspirators' hands.",
+      "key_events": [
+        "Elara and Leo prepare the grand loaf using ingredients symbolizing each conspirator.",
+        "They publicly announce they will bake 'Crofton's Last Loaf' and share the decoded meaning.",
+        "The town is abuzz; the implicated pillars are visibly nervous.",
+        "As the loaf bakes in the festival's wood-fired oven, Elara begins to narrate the story hinted by each ingredient.",
+        "Mayor Sweetwater tries to stop her speech, causing a scene."
+      ],
+      "ending_hook": "The oven timer dings. As Elara opens it, she finds not a perfect loaf, but one defaced\u2014someone has slashed it before the bake, and a note inside reads, 'Some starters should never be fed.'"
+    },
+    {
+      "number": 11,
+      "title": "The Crust Shatters",
+      "summary": "Sabotage reveals the killer is still at large. In the chaos, Elara follows a hunch back to the original crime scene\u2014The Wild Loaf\u2014and finds the missing piece.",
+      "key_events": [
+        "Realizing the saboteur had to access the oven early, she deduces it's someone with festival setup access.",
+        "Leo distracts the crowd while Elara investigates.",
+        "At the bakery, she finds Crofton's hidden backup drive in the flour mill.",
+        "It contains a video confession Crofton recorded, naming his blackmailer: Maureen Green.",
+        "Maureen, the historian, wasn't just covering up the past\u2014her father was the lawyer before Alden, and she killed Crofton to protect her inheritance and reputation."
+      ],
+      "ending_hook": "Maureen steps out of the shadows of the bakery, holding Crofton's own massive bread lame (scoring blade). 'You just had to have the last bite, didn't you?'"
+    },
+    {
+      "number": 12,
+      "title": "The Last Bite",
+      "summary": "A final confrontation in the bakery leads to the truth rising, and Elara finds both justice and a chance to rise again herself.",
+      "key_events": [
+        "Maureen confesses: she killed Crofton when he threatened to expose the whole story, including her father's leading role.",
+        "The sheriff arrives, having followed Elara, and arrests Maureen.",
+        "The video evidence is made public, unraveling the decades of lies and implicating the surviving conspirators.",
+        "Elara, cleared of all suspicion, is offered her old critic job back.",
+        "She declines, deciding to stay and, with Leo, re-open The Wild Loaf."
+      ],
+      "ending_hook": "On opening day, Elara pulls a perfectly baked loaf from the oven\u2014using Crofton's original starter, now named 'Arthur.' She scores the top with an 'A,' knowing some legacies, like a good sourdough, are resilient, complex, and worth preserving."
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "The Last Bite at the Blueberry Inn",
+  "genre": "mystery",
+  "subgenre": "culinary mystery / cozy mystery with forensic elements",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "The Blueberry Inn: A sprawling, gingerbread-trimmed Victorian inn in rural Maine. The heart of the story, featuring a professional kitchen, a cozy dining room, a wraparound porch, and guest rooms.",
+      "The Surrounding Woods: Dense Maine forests of fir, pine, and moss that isolate the inn and provide atmosphere.",
+      "Harbor's End: The nearby small coastal town, providing a community backdrop and secondary characters."
+    ],
+    "atmosphere": "A contrasting blend of warm, aromatic comfort (baking, beeswax, pine) and underlying tension (cold air, isolation, professional scrutiny). The inn is a sanctuary with a dark secret, where culinary artistry meets forensic investigation."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Protagonist, Innkeeper & Former FDA Forensic Food Analyst",
+      "description": "A meticulous, intelligent woman who left a high-stakes career investigating foodborne illnesses and deaths for the seemingly peaceful life of running a Maine country inn. She possesses a forensic eye for detail and a deep understanding of the hidden dangers in food.",
+      "arc": "From seeking refuge from her past in the inn's comforts to actively using her unique skills to protect it and its legacy. She moves from isolation and anxiety to a confident synthesis of her past and present, finding purpose in restoring culinary history and truth."
+    },
+    {
+      "name": "Margot Blaine",
+      "role": "Antagonist (Deceased), Celebrity Food Critic",
+      "description": "A famously ruthless and influential critic whose reviews could make or destroy restaurants. Charismatic, sharp-tongued, and driven by a complex mix of genuine passion and a need for control and vindication. Arrives at the inn under a pseudonym.",
+      "arc": "Her arc is revealed posthumously. From a seemingly monolithic villain, her history (as Agnes Finch's granddaughter) and motivations\u2014seeking legacy and restitution\u2014add tragic depth, reframing her final act."
+    },
+    {
+      "name": "Leo",
+      "role": "Handyman, Bartender, & Confidant",
+      "description": "The inn's steady, grounding presence. Practical, loyal, and observant. He represents the soul and continuity of the Blueberry Inn, with a deep, unspoken care for Elara and the property.",
+      "arc": "From a supportive secondary character to an active agent in shaping the story's aftermath. He sheds any residual naivety, takes a firm ethical stand against sensationalism, and chooses to honor a complicated legacy with integrity."
+    },
+    {
+      "name": "Agnes Finch",
+      "role": "Historical Figure, Original Innkeeper & Cookbook Author",
+      "description": "The long-dead, legendary founder of the Blueberry Inn. Her spirit and culinary genius haunt the premises through her cryptic, beloved cookbook. Represents authentic tradition, lost knowledge, and the enduring power of place.",
+      "arc": "Her legacy is the central mystery to be understood. From a vague historical figure, she becomes the key to the entire conflict\u2014the source of the recipes, the familial wound, and ultimately, the blueprint for the inn's future."
+    }
+  ],
+  "themes": [
+    "The Duality of Nourishment: Food as both comfort/art and a potential vector for harm or manipulation.",
+    "Legacy vs. Sensationalism: The struggle to honor a complex truth versus exploiting a salacious story.",
+    "The Past Informs the Present: How hidden histories, family secrets, and old recipes directly shape current events.",
+    "Forensic vs. Instinctual Knowledge: The synthesis of scientific precision with intuitive, traditional craft.",
+    "Sanctuary and Invasion: The violation of a personal haven by external, destructive forces."
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective. The prose is descriptive and sensory, especially regarding food and environment, mirroring her analytical yet appreciative mind. It shifts between forensic clarity and evocative warmth.",
+  "tone": "Atmospheric and suspenseful, with a strong undercurrent of culinary warmth. It balances the cozy, comforting details of inn-keeping with the sharp tension of a murder investigation and forensic discovery.",
+  "plot_summary": "When celebrity food critic Margot Blaine dies suddenly after a meal at Elara Vance's remote Blueberry Inn, Elara's past as an FDA forensic food analyst compels her to investigate. The death is ruled an accident, but Elara's expertise reveals a meticulously planned murder using a rare toxin. Suspecting the victim was actually the infamous critic, Elara digs into the inn's guest records and Margot's past, uncovering a shocking connection: Margot was the granddaughter of Agnes Finch, the inn's original owner and author of its prized cookbook. Margot had come not to review, but to steal the cookbook\u2014the last piece of her grandmother's legacy\u2014to jumpstart her own failing career. The confrontation led to her accidental death. In the aftermath, Elara and Leo choose to protect the inn's reputation by concealing the full truth. Elara finds new purpose in authentically reviving Agnes's recipes, while Leo refuses lucrative true-crime offers, deciding to publish Margot's unfinished, introspective memoir instead, allowing a nuanced legacy to survive the scandal."
+}

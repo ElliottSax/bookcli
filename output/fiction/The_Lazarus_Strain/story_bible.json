@@ -1,0 +1,51 @@
+{
+  "title": "The Lazarus Strain",
+  "genre": "thriller",
+  "subgenre": "scientific thriller / conspiracy thriller",
+  "setting": {
+    "time_period": "Near-future / contemporary",
+    "locations": [
+      "Berlin, Germany (primary): a city of grey rain, modern apartments, and stark government buildings.",
+      "The Prometheus Biotechnics research facility: a state-of-the-art, sterile, and secretive lab complex.",
+      "Hearing rooms and bureaucratic offices of a German/EU oversight committee.",
+      "Flashback locations: a blindingly white conference hall in Geneva; a lush, contained biosphere research garden."
+    ],
+    "atmosphere": "Clinically cold, paranoid, and relentlessly damp. A world of sterile light and shadowy consequences, where technology feels both advanced and sinister. The atmosphere mirrors Aris's internal state: a smeared watercolour of grief, guilt, and looming threat."
+  },
+  "characters": [
+    {
+      "name": "Dr. Aris Thorne",
+      "role": "Protagonist, disgraced virologist",
+      "description": "Late 30s to early 40s. Once a brilliant and celebrated scientist, now a hollowed-out man living in self-imposed exile in Berlin. Haunted, perceptive, and burdened by catastrophic ethical failure.",
+      "arc": "From a state of paralyzed guilt and self-loathing, through a reluctant investigation into his own past, to a final, chilling realization that his greatest sin\u2014the knowledge of resurrection\u2014has escaped into the world. His arc ends not with redemption, but with a sober, terrifying vigilance."
+    },
+    {
+      "name": "Lena",
+      "role": "Ghost / Motivator",
+      "description": "Aris's former partner, both professionally and personally. Remembered for her intelligent eyes and vibrant laugh. She represents the life, optimism, and ethical clarity Aris has lost.",
+      "arc": "Exists only in memory and photograph. Her arc is static but powerful, serving as the moral compass and emotional anchor Aris feels he has betrayed."
+    },
+    {
+      "name": "Elara Vance",
+      "role": "Investigator / Catalyst",
+      "description": "A sharp, determined investigator for a European biotech oversight committee. Pragmatic, thorough, and initially skeptical of Aris. She is the bridge between Aris's isolated world and the active conspiracy.",
+      "arc": "Begins seeing Aris as a cautionary tale and a target, but evolves to see him as a crucial, if flawed, witness. She moves from bureaucratic procedure to the front lines of a hidden war, ending as a wary ally who shares Aris's dread."
+    },
+    {
+      "name": "The Silent Man",
+      "role": "Antagonist / Harbinger",
+      "description": "An enigmatic figure in a dark overcoat. Utterly neutral, professional, and devoid of identifiable features or affiliation. He is a courier for a power beyond the fallen Prometheus.",
+      "arc": "Serves as a passive, chilling agent of revelation. His single action\u2014delivering the card\u2014completes his purpose, shifting the entire conflict to a new, unseen arena."
+    }
+  ],
+  "themes": [
+    "The Uncontainable Nature of Knowledge",
+    "Guilt and the Weight of the Past",
+    "Ethical Abyss in Scientific Pursuit",
+    "Resurrection as a Curse",
+    "The Banality of Corporate/State Evil"
+  ],
+  "narrative_voice": "Close third-person, primarily focused through Aris Thorne's perspective. The prose is clinical yet visceral, blending scientific precision with raw sensory detail and psychological depth. Flashbacks are fragmented and sensory, mirroring traumatic memory.",
+  "tone": "Paranoid, melancholic, intellectually rigorous, and suspenseful. The tone is one of pervasive dread and cold unease, punctuated by moments of stark revelation. It's a thriller of ideas as much as action, where the greatest terror is understanding.",
+  "plot_summary": "Disgraced virologist Dr. Aris Thorne lives in self-imposed exile in Berlin, haunted by the memory of 'The Fall'\u2014a catastrophic ethical breach involving 'The Lazarus Strain,' a resurrection technology he helped pioneer at Prometheus Biotechnics. Dragged from his isolation by investigator Elara Vance, he is forced to relive his past during official hearings. Just as he believes the nightmare is being buried by bureaucracy, a silent, unidentified man delivers a blank card to him. The card reveals only a watermark: a double-helix ouroboros. Aris understands that Prometheus was not the end. The knowledge he unleashed has survived, acquired by a new, even more secretive entity. The story ends not with closure, but with the chilling realization that the genie is irrevocably out of the bottle, and a new, more shadowy race has begun."
+}

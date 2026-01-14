@@ -1,0 +1,52 @@
+{
+  "title": "The Last Keyholder of Maple Hill",
+  "genre": "mystery",
+  "subgenre": "Gothic mystery / literary mystery",
+  "setting": {
+    "time_period": "Present day, with deep historical roots",
+    "locations": [
+      "Maple Hill: A secluded, rain-soaked town surrounded by ancient forest.",
+      "The Maple Hill Library: A Gothic, fortress-like limestone building; the central locus of the mystery.",
+      "Elara's City Apartment: A sterile, impersonal contrast to Maple Hill.",
+      "The Vance Family Home: Filled with memories and unresolved history.",
+      "The Ancient Sugar Maple & Its Surroundings: The symbolic and possibly literal heart of the town's secret."
+    ],
+    "atmosphere": "Claustrophobic, damp, and haunted by the past. A sense of pervasive melancholy undercut by hidden vitality. The town feels like a preserved relic, holding its breath. The library is a mausoleum of knowledge and secrets, both intimidating and sacred."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Protagonist",
+      "description": "A late-20s cybersecurity expert who fled her insular hometown eight years ago. Intelligent, analytical, and emotionally guarded, she carries deep-seated resentment and grief toward her father and the town.",
+      "arc": "From a reluctant, estranged daughter seeking closure to an active participant in unraveling her family's legacy. She moves from viewing Maple Hill as a prison to understanding it as a complex inheritance, ultimately choosing to engage with its final mystery for her own sake."
+    },
+    {
+      "name": "Arthur Vance",
+      "role": "Deceased Father / The Last Keyholder",
+      "description": "The late head librarian of Maple Hill. A man of profound, quiet obsession, seen by Elara as distant and more devoted to the library's secrets than to his family. Posthumously revealed as a meticulous guardian and a loving, if flawed, father who communicated through puzzles.",
+      "arc": "Revealed posthumously. His arc is one of revelation\u2014from absentee father to a tragic, dedicated curator of truth, whose final act is to reconcile with his daughter through the language of mystery they both understand."
+    },
+    {
+      "name": "Sheriff Miller",
+      "role": "Local Authority / Threshold Guardian",
+      "description": "The town sheriff, voice of gruff, small-town formality. Represents the official, surface-level story of Arthur's death and the town's present-day order. Likely knows more than he lets on but operates within strict boundaries.",
+      "arc": "Potential shift from a figure of obstruction to one of cautious assistance, representing the town's conflicted relationship with its own secrets."
+    },
+    {
+      "name": "The Town of Maple Hill",
+      "role": "Antagonist / Character",
+      "description": "A collective entity with its own consciousness and will. It protects its secrets through isolation, atmosphere, and the complicity of its residents. It is both a place and a force.",
+      "arc": "The town's hidden history and true nature is the central mystery to be uncovered, shifting from a passive backdrop to an active, revealing participant."
+    }
+  ],
+  "themes": [
+    "The Weight of Inheritance: What we are obligated to carry from our family and our past.",
+    "Knowledge as Both Burden and Liberation: The dual nature of secrets\u2014they can trap or they can free.",
+    "Reconciliation Through Legacy: Healing familial wounds by completing a shared, posthumous mission.",
+    "The Past is Never Buried: History, both personal and communal, remains alive and demands acknowledgment.",
+    "The Language of Puzzles: Communication and love expressed through codes, clues, and hidden meanings."
+  ],
+  "narrative_voice": "Close third-person, focused almost exclusively on Elara's perspective. The prose is lyrical and atmospheric, blending sharp, modern observation (from Elara's tech background) with a Gothic sensibility when describing the town and library. Internal monologue is key.",
+  "tone": "Melancholic, suspenseful, and intellectually engaging. Begins with a cold, dread-filled atmosphere that gradually warms into a poignant and determined mystery-solving quest. The tone holds grief but is ultimately driven by curiosity and the promise of connection.",
+  "plot_summary": "Elara Vance, a cybersecurity expert, is summoned back to her haunting hometown of Maple Hill after the death of her estranged father, Arthur, the town's reclusive head librarian. She intends only to settle his affairs but is quickly drawn into the library's central mystery: an unlockable room her father devoted his life to understanding. Following a trail of cryptic clues he left behind\u2014centering on the symbolism of the 'maple key'\u2014Elara is forced to use her analytical skills to decode her father's life's work. She uncovers not just the town's buried secrets, but a final, personal puzzle Arthur designed specifically for her. The journey transforms from a grudging obligation into a quest for understanding, leading her to a final revelation hidden beneath the town's ancient sugar maple\u2014a discovery that promises not an end, but a new beginning for her relationship with her father's legacy and the town itself."
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "chapter": 1,
+    "title": "Introduction to The Learning Accelerator",
+    "events": [
+      "Introduction to common misconceptions about learning",
+      "Overview of the book's structure and main arguments",
+      "Establishing the importance of evidence-based learning strategies"
+    ],
+    "focus": "The Reader/Learner",
+    "emotion": "Curiosity and skepticism about current learning methods"
+  },
+  {
+    "chapter": 2,
+    "title": "The Neuroscience of Skill Acquisition",
+    "events": [
+      "Explanation of how skills move from conscious effort to automatic performance",
+      "Introduction to key cognitive psychology concepts",
+      "Discussion of the brain's potential for neuroplasticity"
+    ],
+    "focus": "Dr. Robert and Elizabeth Bjork",
+    "emotion": "Fascination with the brain's capabilities and potential for improvement"
+  },
+  {
+    "chapter": 3,
+    "title": "The Importance of Focused Attention",
+    "events": [
+      "Discussion of the challenges of maintaining focus in a distracting environment",
+      "Introduction to strategies for improving attention and reducing distractions",
+      "Explanation of the role of attention in effective learning"
+    ],
+    "focus": "The Reader/Learner",
+    "emotion": "Motivation to improve focus and concentration"
+  },
+  {
+    "chapter": 4,
+    "title": "The Spacing Effect: Distributing Practice Over Time",
+    "events": [
+      "Explanation of the spacing effect and its benefits for long-term retention",
+      "Discussion of how to implement spaced repetition in practice",
+      "Introduction to the concept of desirable difficulties"
+    ],
+    "focus": "Dr. Robert and Elizabeth Bjork",
+    "emotion": "Excitement about the potential for improved retention and recall"
+  },
+  {
+    "chapter": 5,
+    "title": "Desirable Difficulties: Making Learning Strategically Harder",
+    "events": [
+      "In-depth exploration of desirable difficulties and their role in learning",
+      "Discussion of how to apply desirable difficulties in practice",
+      "Introduction to the concept of interleaving and its benefits"
+    ],
+    "focus": "Dr. Robert and Elizabeth Bjork",
+    "emotion": "Confidence in the ability to apply desirable difficulties effectively"
+  },
+  {
+    "chapter": 6,
+    "title": "Active Retrieval Practice: The Key to Long-Term Retention",
+    "events": [
+      "Explanation of the benefits of active retrieval practice for learning",
+      "Discussion of how to implement active retrieval practice in practice",
+      "Introduction to the concept of feedback loops and their role in learning"
+    ],
+    "focus": "The Reader/Learner",
+    "emotion": "Determination to practice active retrieval and reinforce new skills"
+  },
+  {
+    "chapter": 7,
+    "title": "The Role of Feedback in Learning",
+    "events": [
+      "Discussion of the importance of feedback in the learning process",
+      "Introduction to the concept of growth mindset and its role in feedback",
+      "Explanation of how to give and receive effective feedback"
+    ],
+    "focus": "Dr. Carol Dweck",
+    "emotion": "Openness to feedback and a growth mindset"
+  },
+  {
+    "chapter": 8,
+    "title": "The Biological Foundations of Learning",
+    "events": [
+      "Explanation of the role of sleep in memory consolidation and learning",
+      "Discussion of the importance of nutrition and exercise for cognitive performance",
+      "Introduction to the concept of neuroplasticity and its relationship to lifestyle choices"
+    ],
+    "focus": "Dr. Matthew Walker",
+    "emotion": "Awareness of the importance of self-care for optimal learning"
+  },
+  {
+    "chapter": 9,
+    "title": "Deliberate Practice: The Path to Expertise",
+    "events": [
+      "Explanation of the concept of deliberate practice and its role in skill acquisition",
+      "Discussion of how to apply deliberate practice in practice",
+      "Introduction to the concept of the 10,000-hour rule and its limitations"
+    ],
+    "focus": "Dr. Anders Ericsson",
+    "emotion": "Motivation to engage in deliberate practice and strive for expertise"
+  },
+  {
+    "chapter": 10,
+    "title": "Overcoming the Illusion of Competence",
+    "events": [
+      "Discussion of the dangers of fluency-based confidence and the illusion of competence",
+      "Introduction to strategies for overcoming the illusion of competence",
+      "Explanation of the importance of metacognition in learning"
+    ],
+    "focus": "The Reader/Learner",
+    "emotion": "Self-awareness and recognition of the need for continuous improvement"
+  },
+  {
+    "chapter": 11,
+    "title": "Integrating and Automating Skills",
+    "events": [
+      "Explanation of the process of integrating and automating skills",
+      "Discussion of how to apply this process in practice",
+      "Introduction to the concept of performance under pressure"
+    ],
+    "focus": "The Reader/Learner",
+    "emotion": "Confidence in the ability to integrate and automate new skills"
+  },
+  {
+    "chapter": 12,
+    "title": "Becoming the Architect of Your Own Neuroplasticity",
+    "events": [
+      "Summary of key takeaways from the book",
+      "Discussion of the importance of agency and self-directed learning",
+      "Final thoughts on the potential for transformation and growth"
+    ],
+    "focus": "The Reader/Learner",
+    "emotion": "Empowerment and motivation to continue learning and growing"
+  }
+]

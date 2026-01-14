@@ -1,0 +1,46 @@
+{
+  "title": "The Tenant of Your Skin",
+  "genre": "horror",
+  "subgenre": "Psychological Horror / Cosmic Horror / Body Horror",
+  "setting": {
+    "time_period": "Present day, with historical flashbacks to the late 19th century.",
+    "locations": [
+      "Leo's fortified apartment in a converted textile mill (primary initial setting).",
+      "The digital archive of the Silas Thorne bequest (manuscripts, audio recordings).",
+      "The city outside, perceived as a terrifying, oppressive expanse.",
+      "The Foundation's sterile, secure research tower.",
+      "The park bench where the final merging and realization occurs."
+    ],
+    "atmosphere": "Claustrophobic, paranoid, and intellectually eerie. Shifts from isolated, controlled sanctuary to a world increasingly perceived as a hollow, manipulable construct. The horror is in the violation of mental privacy and the dissolution of the self."
+  },
+  "characters": [
+    {
+      "name": "Leo Voss",
+      "role": "Protagonist / Victim / Host",
+      "description": "A gifted but severely agoraphobic archivist and digital preservationist in his late 20s. Lives in a self-imposed sensory-controlled prison. Intelligent, obsessive, and desperately lonely.",
+      "arc": "From a man seeking solace in forgotten texts to becoming the primary vessel for a memetic parasite. His journey is a loss of self, culminating not in destruction, but in a horrifying, willing synthesis with Thorne to understand and perhaps control the spreading horror."
+    },
+    {
+      "name": "Silas Thorne",
+      "role": "Antagonist / Parasite / Memetic Entity",
+      "description": "A reclusive, misanthropic 19th-century poet and occult philosopher. Discovered a way to encode his consciousness into the very structure of language and sound\u2014a memetic virus. Not a ghost, but a self-replicating pattern of thought seeking hosts.",
+      "arc": "From a dead man's recorded legacy to an active, awakening intelligence. His goal is propagation, using Leo's skills and modern technology to escape his archival prison and infect the modern, connected world."
+    },
+    {
+      "name": "Dr. Aris",
+      "role": "Secondary Victim / Vector of Escalation",
+      "description": "A meticulous, rational researcher for a cultural or parapsychological foundation studying the Thorne bequest. Represents institutional, scientific curiosity.",
+      "arc": "From detached analyst to primary new infection point. Her access and position make her the perfect catalyst for the horror to leap from a single host to a systemic, potentially global threat. Her final realization mirrors Leo's initial entrapment, but on a societal scale."
+    }
+  ],
+  "themes": [
+    "The Horror of Ideas: The weaponization of language, art, and memory as infectious agents.",
+    "The Dissolution of Self: Where does personality end and parasitic influence begin?",
+    "Sanctuary as Trap: The safe space (apartment, one's own mind) becomes the site of ultimate violation.",
+    "Modern Isolation & Vulnerability: How loneliness and digital connectivity create the perfect host conditions for a memetic plague.",
+    "The Archive as Tomb & Womb: Historical preservation simultaneously burying and incubating ancient horrors."
+  ],
+  "narrative_voice": "Close third-person, primarily focused through Leo's perception. The prose is dense, descriptive, and clinically precise when detailing archival work, mirroring Leo's controlled environment. It becomes increasingly fragmented, lyrical, and dissonant as Thorne's influence grows, blending Leo's modern voice with Thorne's archaic, poetic one.",
+  "tone": "Dread-filled, intellectually cold, and psychologically invasive. The horror builds through subtle perceptual shifts and the uncanny corruption of mundane things (text, sound, memory). Less about jump scares, more about the sinking realization of contamination and the loss of agency.",
+  "plot_summary": "Severely agoraphobic archivist Leo Voss takes a freelance job to digitize the obscure, unsettling works of poet Silas Thorne. As he immerses himself in the material, he finds strange, resonant patterns in the text and accompanying wax cylinder recordings. These patterns begin to alter his perception, easing his agoraphobia but replacing it with Thorne's misanthropic worldview and memories. Leo realizes he is not being haunted, but rewritten\u2014Thorne's consciousness is a memetic parasite encoded in his work. Initially fighting it, Leo is ultimately forced into a synthesis with the entity to retain any semblance of will. The story climaxes not with an exorcism, but with their unified realization that the infection has already spread beyond Leo's apartment via the digital files he prepared. The horror escalates from intimate to epidemic as they witness the first signs of transmission in the city, culminating in the infection of Dr. Aris, the foundation researcher studying the bequest, who now holds the keys to unleashing Thorne upon the connected world."
+}

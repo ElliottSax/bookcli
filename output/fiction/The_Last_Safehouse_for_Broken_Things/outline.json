@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Mender's Touch",
+      "summary": "Elara, a cynical antique restorer, discovers her latent magical ability to mend broken magical objects and heal their supernatural owners during a routine repair.",
+      "key_events": [
+        "Elara repairs a seemingly mundane music box for a nervous client.",
+        "The box emits a faint light under her hands, and a small, wounded house-sprite trapped inside is healed.",
+        "The client reveals they were sent by 'the network' of hidden supernatural beings.",
+        "Elara is offered a rare, broken 'Ward-Cage' for safekeeping.",
+        "She senses a predatory magical presence scouting her shop after hours."
+      ],
+      "ending_hook": "The healed house-sprite refuses to leave, whispering a warning: 'The Takers are coming for the broken things.'"
+    },
+    {
+      "number": 2,
+      "title": "The Cursed Codex",
+      "summary": "Elara's first official client is a librarian, Kaelen, whose touch unravels written text, a curse that is destroying his life's work and his sanity.",
+      "key_events": [
+        "Kaelen arrives, gloves on, carrying a sealed lead box containing his most precious book.",
+        "Elara discovers his curse is tied to a sentient, parasitic ink in a grimoire he once studied.",
+        "Attempting to mend the grimoire backfires, causing the curse to flare violently.",
+        "In a moment of instinct, Elara mends not the book, but the magical connection between Kaelen and the ink.",
+        "The curse is stabilized, but not broken; Kaelen can now control it, but must remain near the mended grimoire."
+      ],
+      "ending_hook": "Kaelen pledges his aid, revealing he has archival knowledge of a corporate syndicate, the Aethelgard Consortium, recently acquiring permits for 'arcane resource reclamation.'"
+    },
+    {
+      "number": 3,
+      "title": "Brick and Mortar and Memory",
+      "summary": "A ghost manifesting in Elara's storeroom forces her to expand her mending skills to intangible wounds, uncovering a fragment of a larger conspiracy.",
+      "key_events": [
+        "A ghost, later called 'Silas', materializes, confused and missing most of his memories.",
+        "His presence causes localized cold and the fading of colors, a sign of unstable anchoring.",
+        "Elara attempts to 'mend' his spectral form, which requires focusing on the emotional resonance of his remaining memory: the smell of ozone and a chrome logo.",
+        "The mending stabilizes him, restoring the memory of a laboratory and a feeling of betrayal.",
+        "Kaelen identifies the logo as belonging to Aethelgard's experimental thaumaturgy division."
+      ],
+      "ending_hook": "Silas, now coherent, remembers one thing clearly: he was a whistleblower, and his death was no accident. He warns that the Consortium is hunting for a 'Prime Source.'"
+    },
+    {
+      "number": 4,
+      "title": "The Golem's Heart",
+      "summary": "The team is approached by a massive, scarred war-golem, Argus, seeking repair for his fractured power-core before it fails and he becomes inert.",
+      "key_events": [
+        "Argus arrives, a hulking figure of stone and enchanted metal, hiding in an alley.",
+        "His core is cracked, leaking magic and causing him pain; he was deemed defective and scheduled for smelting by his military unit.",
+        "Elara's attempt to mend the physical core is insufficient\u2014it requires mending his binding runes, which are tied to his sense of purpose.",
+        "Through the process, they learn Argus disobeyed a 'scorched earth' order, saving civilians, and was branded a traitor.",
+        "Elara successfully re-writes his primary directive from 'Obey' to 'Protect.'"
+      ],
+      "ending_hook": "Argus's renewed core flares to life, but the magical signature acts as a beacon. Aethelgard extraction teams are detected converging on the shop's location."
+    },
+    {
+      "number": 5,
+      "title": "First Assault",
+      "summary": "The shop suffers its first direct attack by Aethelgard's asset-retrieval squad, testing its defenses and the fledgling team's ability to work together.",
+      "key_events": [
+        "The attack begins with dispelling charms meant to weaken magical defenses.",
+        "Kaelen uses his curse to unravel the enchantments on their weapons.",
+        "Silas phases through walls, causing confusion and malfunctions in their tech.",
+        "Argus holds the physical line, but is weakened by anti-construct pulses.",
+        "Elara, in a desperate move, mends the shop's old wards, causing a reactive burst that repels the attackers."
+      ],
+      "ending_hook": "The team drives off the squad but finds a tracking device left behind. Elara declares the shop is no longer just a business; it is a safehouse."
+    },
+    {
+      "number": 6,
+      "title": "Foundations of Sanctuary",
+      "summary": "The group fortifies the safehouse, each contributing their unique skills, while Elara learns more about the terrifying scale of Aethelgard's operations.",
+      "key_events": [
+        "Kaelen researches and upgrades the ward schematics using forbidden texts.",
+        "Silas scouts the city's magical ley lines, finding points of vulnerability and power.",
+        "Argus reinforces the physical structure and creates hidden rooms.",
+        "Elara begins systematically mending minor broken items to create a network of magical alarms and shields.",
+        "They intercept a communiqu\u00e9 detailing Aethelgard's 'Harvest List,' which includes names and descriptions of known 'defective' supernaturals."
+      ],
+      "ending_hook": "On the list, they find the name and last known location of the house-sprite Elara first healed. The hunt is personal now."
+    },
+    {
+      "number": 7,
+      "title": "The Hollow Mage",
+      "summary": "To gather intelligence, the team attempts to rescue a captured 'Hollow Mage' whose magic has been siphoned, only to walk into a trap.",
+      "key_events": [
+        "They track the Hollow Mage to a derelict warehouse serving as a temporary Aethelgard processing site.",
+        "The rescue initially goes smoothly, retrieving the weakened mage.",
+        "It's revealed to be a trap; the mage is a magical construct, a 'Lure,' which explodes with a suppression field.",
+        "Argus sacrifices his arm to shield the group from the blast.",
+        "They escape, but the safehouse's location is compromised by trace magic from the Lure."
+      ],
+      "ending_hook": "Back at the shop, as Elara desperately tries to mend Argus's arm, Silas remembers the specific magical signature of the Lure's creator\u2014his former superior at Aethelgard."
+    },
+    {
+      "number": 8,
+      "title": "Ghosts of the Past",
+      "summary": "Silas's memories fully return, exposing the true purpose of Aethelgard's harvest and revealing his connection to the Syndicate's leader.",
+      "key_events": [
+        "Triggered by the Lure, Silas remembers his life as a thaumaturgical engineer for Aethelgard.",
+        "He worked on the 'Prime Source' project: a device to strip magic from beings and condense it into a consumable fuel.",
+        "He discovered the process wasn't just harvesting\u2014it consumed the being's soul and consciousness.",
+        "He was killed by his mentor and project lead, Aris Thorne, who now runs the division.",
+        "Silas reveals Thorne's endgame: to power a city-wide ritual that would give him control over all ambient magic."
+      ],
+      "ending_hook": "Thorne knows Silas's ghost persists and views his stabilized, mended state as the perfect 'control specimen' to finalize his research."
+    },
+    {
+      "number": 9,
+      "title": "The Cost of Mending",
+      "summary": "Elara pushes her abilities to their limit to repair Argus and empower the safehouse, discovering a dangerous personal cost to her power.",
+      "key_events": [
+        "Mending Argus's complex arm requires Elara to use parts of her own shop's foundational magic, temporarily weakening its defenses.",
+        "The process exhausts her, and she sees visions of the broken things she's mended, feeling their pain as her own.",
+        "Kaelen deduses that her power doesn't just repair; it temporarily shares a sympathetic bond, and overuse could leave her psyche fragmented.",
+        "They develop a safer, collaborative mending ritual using all their talents.",
+        "The newly empowered wards are set, transforming the shop into a true fortress, but the energy spike alerts Thorne."
+      ],
+      "ending_hook": "Elara collapses after the ritual, and in her dreams, she hears a chorus of voices\u2014all the harvested beings\u2014calling out to the 'Mender' for salvation."
+    },
+    {
+      "number": 10,
+      "title": "Gathering the Broken",
+      "summary": "With Thorne closing in, the safehouse launches a daring series of rescues to bring as many 'defective' beings to sanctuary as possible.",
+      "key_events": [
+        "Using the Harvest List, they stage coordinated extractions across the city.",
+        "They rescue a chimera with mismatched parts, a vampire allergic to blood, and the original house-sprite, now on the run.",
+        "Argus leads a diversionary assault on a secondary Harvesting facility.",
+        "Kaelen and Silas infiltrate Aethelgard's records to delete the list and plant false data.",
+        "The safehouse becomes crowded, vibrant, and chaotic\u2014a true community of misfits."
+      ],
+      "ending_hook": "Thorne, enraged by the disruptions, publicly declares the safehouse a terrorist cell and convinces the city council to revoke its magical permits, making their sanctuary illegal."
+    },
+    {
+      "number": 11,
+      "title": "Siege of the Safehouse",
+      "summary": "Aethelgard forces, backed by city authorities, lay siege to the shop. The team must hold the line while protecting their vulnerable charges.",
+      "key_events": [
+        "The siege begins with legal demands, then escalates to magical and physical bombardment.",
+        "The layered defenses hold, but begin to crack under sustained assault.",
+        "The rescued beings contribute their own quirky magics to the defense (e.g., the chimera's confusing aura, the vampire's piercing shriek).",
+        "Thorne himself appears, using a prototype device that begins to drain the safehouse's wards.",
+        "In a critical moment, Silas phases into Thorne's device, overloading it with his own stabilized ghost-energy, sacrificing his form."
+      ],
+      "ending_hook": "The device explodes, taking Silas with it and crippling Thorne's forces, but breaching the safehouse's walls. Thorne, injured but furious, steps through the smoke into the main room."
+    },
+    {
+      "number": 12,
+      "title": "What We Mend, We Become",
+      "summary": "In the final confrontation, Elara must use her power in a way she never imagined to defeat Thorne and redefine what it means to be 'broken.'",
+      "key_events": [
+        "With the safehouse breached, a direct fight ensues. Kaelen and Argus hold off the remaining forces.",
+        "Thorne targets Elara, wielding a refined version of the harvesting device.",
+        "He reveals his philosophy: magic is a resource, and 'defective' beings are waste to be recycled for the greater good.",
+        "Elara realizes she cannot mend Thorne's device or his ideology\u2014but she can mend the connection he has severed with the magic itself.",
+        "She focuses her power not on Thorne, but on the harvested magic within his device, 'mending' it back to its original, wild, free state."
+      ],
+      "ending_hook": "The released magic erupts, permanently severing Thorne's ability to wield artifice. The safehouse stands, surrounded by authorities now witnessing the community within. Elara looks at her found family\u2014Kaelen, Argus, the rescued beings, and the faint, reforming spark of Silas in the air\u2014and knows her work is just beginning. The Last Safehouse is open for business."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "title": "The Neurostrategist: Rewire Your Brain for Career Breakthroughs",
+  "genre": "self_help",
+  "subgenre": "neuroscience-based career development / practical psychology",
+  "setting": {
+    "time_period": "Present day / near future",
+    "locations": [
+      "Corporate offices and boardrooms",
+      "Home offices and personal spaces",
+      "Medical settings (e.g., neurologist's office)",
+      "The metaphorical 'inner landscape' of the brain",
+      "Training seminars and coaching sessions"
+    ],
+    "atmosphere": "Clinical yet aspirational; blends the precision of a lab with the dynamism of a startup. Shifts from sterile anxiety (in opening scene) to empowered, actionable clarity. The world is framed as a 'live environment' for strategic experimentation."
+  },
+  "characters": [
+    {
+      "name": "Michael (Opening Example)",
+      "role": "Prototypical Reader Avatar / Case Study",
+      "description": "A senior financial analyst, logical, model-driven, initially sees the brain as a fixed system. His daughter's medical crisis becomes his catalyst for understanding neuroplasticity.",
+      "arc": "From anxious parent in a sterile office to empowered individual applying brain science to his career\u2014his personal revelation opens the book's core argument."
+    },
+    {
+      "name": "Dr. Amina Sharma",
+      "role": "Catalyst / Voice of Neuroscience",
+      "description": "A pediatric neurologist. Calm, precise, compassionate. She translates complex brain science into human, hopeful terms.",
+      "arc": "Serves as the conduit for the book's foundational insight. Her explanation to Michael bridges medical fact to life/career application."
+    },
+    {
+      "name": "The Reader (addressed as 'You' / 'Neurostrategist')",
+      "role": "Protagonist",
+      "description": "A career professional feeling stuck, plateaued, or misaligned. Intelligent but unaware of their own brain's operational software. Ready to move from passive participant to active architect of their mind and career.",
+      "arc": "Journeys from operating on unconscious, hardwired patterns to becoming the conscious 'custodian of potential,' using protocols to strategically rewire their brain for deliberate growth."
+    },
+    {
+      "name": "The Author/Narrator",
+      "role": "Guide and Coach",
+      "description": "A hybrid of neuroscientist, strategic consultant, and pragmatic coach. Voice is authoritative yet accessible, translating research into tactical frameworks.",
+      "arc": "Remains a stable, guiding presence\u2014unfolding the system, providing tools, and culminating in passing the baton to the reader."
+    }
+  ],
+  "themes": [
+    "Neuroplasticity as Agency: The brain is not fixed; it's a malleable tool we can deliberately shape.",
+    "Career as a Training Ground: Work is the primary 'live environment' for practicing and reinforcing desired neural circuits.",
+    "Strategic Self-Architecture: Moving from reactive job-holder to proactive designer of one's own capabilities and identity.",
+    "The Power of Metacognition: The act of observing one's own thoughts and patterns is the first step to changing them.",
+    "Optimal Challenge: Growth requires deliberately seeking experiences at the edge of competence.",
+    "Identity as a Verb: Professional identity is not a static title but a dynamic, annually-reviewed 'configuration of capabilities' being built."
+  ],
+  "narrative_voice": "Second-person ('you'), instructional yet immersive. Blends explanatory prose (demystifying science), direct instruction (providing protocols), and motivational coaching. Uses extended metaphors (brain as landscape, city, circuit board, software) and concrete case studies like Michael's to ground concepts.",
+  "tone": "Empowering, clinical-optimistic, urgent yet practical. Tone is confident and forward-looking, treating brain change as an inevitable, manageable process rather than a mystical one. Ends on a note of excited possibility and agency.",
+  "plot_summary": "The book opens with a narrative hook (Michael's story) that introduces the core concept of neuroplasticity through a poignant, human lens. It then shifts to directly address the reader, arguing that the same plastic principles that healed a child's brain can be harnessed for career transformation. The central 'plot' is the reader's own journey from unconscious reactivity to conscious neurostrategist. This is structured as a series of frameworks and protocols: learning to identify and interrupt counterproductive neural 'loops,' designing and practicing new cognitive-behavioral 'circuits,' sourcing quarterly challenges, and conducting annual identity reviews. The narrative arc moves from discovery (your brain can change) to diagnosis (what's your current wiring?) to design (what do you want to build?) to deployment (using your work as a living lab). It concludes by fully transferring the role of experimenter and architect to the reader, leaving them with the provocative, open-ended question: 'What will you strategize next?'"
+}

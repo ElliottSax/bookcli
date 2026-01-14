@@ -1,0 +1,69 @@
+{
+  "title": "The Tenancy of 13 Sycamore Lane",
+  "genre": "horror",
+  "subgenre": "domestic horror / psychological horror / folk horror",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "13 Sycamore Lane: A deceptively charming, isolated Victorian house at the end of a quiet, dead-end lane. Its interior is a maze of shifting rooms, impossible spaces, and a pervasive, warm dampness.",
+      "The Miller's former apartment: A cramped, urban space symbolizing their economic collapse.",
+      "The surrounding woods: Ancient, watchful, and subtly wrong, with sycamore trees that seem to shift position.",
+      "The town of Fairhaven: A superficially pleasant but oddly quiet and forgetful community that avoids Sycamore Lane."
+    ],
+    "atmosphere": "A crushing, domestic dread. The horror is baked into the walls, the finances, and the family dynamics. It moves from the despair of poverty to the uncanny unease of a 'too-good-to-be-true' situation, escalating into visceral, reality-warping terror. The house is both sanctuary and trap, exuding a cloying, possessive warmth."
+  },
+  "characters": [
+    {
+      "name": "David Miller",
+      "role": "Father / Protagonist",
+      "description": "Late 40s. A freelance copy editor, now unemployed. Kind but worn down by failure, desperate to provide and regain his role as patriarch.",
+      "arc": "Begins in defeat, then finds renewed hope and purpose in 'fixing' the house and providing the miracle. His determination curdles into obsession as he becomes the house's primary advocate, refusing to see its malice. His arc ends in complete consumption by the house's logic."
+    },
+    {
+      "name": "Sarah Miller",
+      "role": "Mother / Final Survivor",
+      "description": "Mid-40s. Practical, empathetic, and the family's emotional anchor. Works part-time at a library. Possesses a quiet, observant strength.",
+      "arc": "The most skeptical from the start, her intuition fights against the desperate need for the miracle. She evolves from a worried partner to a detective uncovering the horror, and finally into a wounded warrior leading the survivors. Her petrified hand is the physical testament to her resistance and loss."
+    },
+    {
+      "name": "Chloe Miller",
+      "role": "Eldest Daughter",
+      "description": "16. Angry, ashamed of the family's poverty, and desperate for a normal life. Sees the house as her escape and chance at social capital.",
+      "arc": "Her initial teenage resentment makes her an easy target for the house's allure (a perfect bedroom, social status). She is seduced, becoming a hostile agent within the family before the house's true nature horrifies her into rebellion and eventual, costly escape."
+    },
+    {
+      "name": "Liam Miller",
+      "role": "Son",
+      "description": "14. Quiet, introspective, and mechanically inclined. He notices the house's physical inconsistencies first.",
+      "arc": "From a boy hiding in his shoes to the family's chief investigator of the unnatural. He uses logic to map the impossible, providing key clues. His arc is one of awakening courage, but is tempered by the trauma of witnessing the house's full power."
+    },
+    {
+      "name": "Oliver Miller",
+      "role": "Youngest Son",
+      "description": "5. Innocent, imaginative, and sensitive. He has an imaginary friend named 'Leo' soon after moving in.",
+      "arc": "Serves as the early warning system and conduit. 'Leo' is the house's first, friendly interface. Oliver's innocence is the crack through which the horror enters, but his love for his family ultimately helps sever the connection, at great cost."
+    },
+    {
+      "name": "Mr. Answorth",
+      "role": "The Landlord / Antagonist",
+      "description": "An impeccably dressed, ageless man with cold eyes and a polite, unwavering smile. He is the agent and embodiment of the house's contract.",
+      "arc": "He has no traditional arc. He is a constant, predatory force. He represents the benign cruelty of contractual obligation, making the supernatural horror feel bureaucratically inevitable. His final act\u2014producing new lottery letters\u2014confirms the cycle is eternal."
+    },
+    {
+      "name": "The House (13 Sycamore Lane)",
+      "role": "Antagonist / Setting",
+      "description": "A sentient, hungry entity disguised as a structure. It doesn't want destruction, but tenancy. It feeds on hope, despair, and familial bonds, offering tailored miracles to ensnare and consume. Its true form is a non-Euclidean, fleshy labyrinth."
+    }
+  ],
+  "themes": [
+    "The Horror of Economic Precarity",
+    "The Corrupting Nature of a 'Miracle'",
+    "The Family Unit as Both Target and Fortress",
+    "Contracts and Consent (What does it mean to agree to something you don't understand?)",
+    "The Physical and Psychological Cost of Survival",
+    "The Legacy of Trauma and the Impossibility of True Escape"
+  ],
+  "narrative_voice": "Close third-person, shifting focus primarily between David and Sarah's perspectives to contrast David's willing descent with Sarah's growing dread. The prose is literary and atmospheric, blending stark realism (eviction, poverty) with surreal, visceral horror.",
+  "tone": "Desolate, dread-filled, and claustrophobic. Begins with the crushing realism of financial collapse, transitions into uncanny unease, and escalates to full-blown cosmic and body horror. Underlined by a deep, tragic sadness for the family's inevitable loss of innocence and wholeness.",
+  "plot_summary": "The Miller family, destitute and evicted, is offered a miraculous tenancy at 13 Sycamore Lane: a beautiful house for a pittance, with their needs met by mysterious 'lottery winnings.' Initially a salvation, the house soon reveals its sentient, manipulative nature, tailoring seductive miracles to each member while warping space and time within its walls. As Sarah and Liam uncover the dark history of past tenants\u2014all consumed\u2014David falls deeper under its thrall. The family's love is tested and weaponized against them. The climax sees them fighting to break the tenancy's contract, a struggle that costs David his life and Sarah her right hand, petrified as a permanent receipt. They escape, but the final scene reveals the landlord, Mr. Answorth, already preparing to lure the next desperate family, the cycle eternal. The survivors are left physically and spiritually scarred, carrying the house's vacancy within them forever."
+}

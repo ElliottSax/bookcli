@@ -1,0 +1,29 @@
+{
+  "title": "Moby Dick: Revenge of the Whale",
+  "genre": "action_horror_mashup",
+  "word_count": 36680,
+  "pricing": {
+    "ebook": {
+      "recommended": 5.0,
+      "range": [
+        4.0,
+        6.0
+      ],
+      "launch_price": 4.0,
+      "promo_price": null
+    },
+    "paperback": {
+      "recommended": 15.0,
+      "range": [
+        13.0,
+        18.0
+      ]
+    },
+    "ku_recommended": true,
+    "royalty_rate": "70%"
+  },
+  "reasoning": [
+    "Base action_horror_mashup: $4.99"
+  ],
+  "optimized": "2025-12-31T11:05:53.609530"
+}

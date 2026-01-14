@@ -1,0 +1,149 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Architect and the Inheritance",
+      "summary": "Forensic architect Elara Thorne, estranged from her eccentric grandfather's legacy, is summoned to settle the estate of puzzle-box inventor Elias Thorne, dead for 35 years.",
+      "key_events": [
+        "Elara receives a lawyer's letter about her grandfather's estate in the remote town of Stillwater.",
+        "She arrives at the decaying, labyrinthine Thorne Manor, filled with his intricate mechanical creations.",
+        "The local sheriff, an older man who worked the original case, gives her the cold case file: a locked-room mystery deemed a suicide.",
+        "Elara is given the sole unsold item from the estate: Elias's final, unfinished puzzle box, 'The Stillwater Solution'."
+      ],
+      "ending_hook": "Alone in the study where he died, Elara finally solves the box's first layer. Instead of gears, she finds a perfect, horrifyingly detailed miniature replica of the very room she's sitting in."
+    },
+    {
+      "number": 2,
+      "title": "The Model of an Impossible Death",
+      "summary": "Elara examines the diorama and discovers a critical, impossible discrepancy with the official crime scene.",
+      "key_events": [
+        "The diorama is photorealistic, showing Elias's body slumped at the desk, the locked door, the key on a shelf.",
+        "Elara compares it to the crime scene photos: in reality, the key was found in the dead man's pocket.",
+        "The diorama's key is positioned deliberately, as if placed, not dropped.",
+        "She finds a tiny, almost invisible lever in the diorama's floorboard. When pressed, a hidden compartment in the puzzle box opens."
+      ],
+      "ending_hook": "The compartment contains a single, aged slip of paper with her grandfather's handwriting: 'The key was the first lie. Find the others.'"
+    },
+    {
+      "number": 3,
+      "title": "Ghosts in the Gears",
+      "summary": "Elara begins a forensic analysis of the study itself, treating the 35-year-old room as a fresh crime scene.",
+      "key_events": [
+        "Using her architectural skills, she creates a 3D scan of the study, mapping every detail against the diorama.",
+        "She discovers faint, strange wear patterns on the floorboards and walls inconsistent with normal use.",
+        "A meeting with the now-retired coroner reveals Elias had trace amounts of a rare, fast-acting sedative in his system\u2014never investigated fully.",
+        "Elara learns of 'The Stillwater Circle,' a group of wealthy patrons who commissioned exclusive, monstrously complex puzzle boxes from Elias."
+      ],
+      "ending_hook": "While examining the study's fireplace, a brick shifts under her touch, revealing a small hollow containing a peculiar, non-mechanical key."
+    },
+    {
+      "number": 4,
+      "title": "The Patron's Gallery",
+      "summary": "Elara investigates the remaining members of the Stillwater Circle, finding each guarded and hostile.",
+      "key_events": [
+        "She tracks down reclusive art collector Vincent Croft, who possesses a Thorne box said to 'contain a symphony.'",
+        "Croft is terrified, warning her that some puzzles are meant to stay solved and some boxes never to be opened.",
+        "Local historian and Circle member Agnes Bell reveals Elias was becoming paranoid in his final years, convinced someone was stealing his designs.",
+        "Elara finds a connection: all Circle members were present in Stillwater for a 'private unveiling' the weekend Elias died."
+      ],
+      "ending_hook": "Returning to the manor, Elara finds her temporary workshop ransacked. The diorama is untouched, but a message is scrawled on her blueprint: 'STOP REBUILDING THE PAST.'"
+    },
+    {
+      "number": 5,
+      "title": "Blueprints and Blind Spots",
+      "summary": "Elara delves into her grandfather's architectural plans for the manor itself, discovering secret spaces.",
+      "key_events": [
+        "She finds original blueprints hidden inside a hollowed-out book, showing modifications Elias made himself.",
+        "The plans indicate a 'thermal chimney'\u2014a narrow, vertical space between walls for ventilation\u2014running from the basement to the attic, passing behind the study.",
+        "Inspecting the study wall, she finds the seams of a perfectly disguised access panel, but it's sealed shut from the other side.",
+        "The non-mechanical key from the fireplace fits nothing in the study, but its shape matches a decorative filigree in the manor's library."
+      ],
+      "ending_hook": "In the library, the filigree turns, and a section of bookshelf swings open, revealing the entrance to the narrow, dusty thermal chimney."
+    },
+    {
+      "number": 6,
+      "title": "The Chimney",
+      "summary": "Elara navigates the tight, vertical passage, making a crucial discovery about the murder method.",
+      "key_events": [
+        "The chimney is barely shoulder-width, a claustrophobic climb with old handholds.",
+        "At the height of the study, she finds a small, horizontal grate looking into the room\u2014a perfect peephole.",
+        "More importantly, she finds a simple, robust mechanical arm mounted inside the chimney, aligned with the grate. It's designed to extend and retract.",
+        "The arm's clamp could hold and place a small object, like a key, onto the study's shelf."
+      ],
+      "ending_hook": "Dusting the mechanism, Elara finds a single strand of long, silver hair\u2014not her grandfather's\u2014caught in a gear. The murderer was inside the walls."
+    },
+    {
+      "number": 7,
+      "title": "The Uninvited Guest",
+      "summary": "Elara realizes the murder required intimate knowledge of the house and someone able to navigate the tight space.",
+      "key_events": [
+        "She deduces the sequence: The sedative was administered. The murderer entered the chimney, used the arm to place the key on the shelf, locked the study door from the inside, and left via the chimney, sealing the panel behind them.",
+        "The killer then needed to retrieve the key from the shelf to plant it on the body, creating the 'impossible' locked room.",
+        "This means the crime scene was staged *twice*: once by the killer, and once (with the key in the pocket) by someone else.",
+        "The current sheriff, then a young deputy, was the first to find the body. His initial report is missing from the file."
+      ],
+      "ending_hook": "Confronting the sheriff, he breaks down, admitting he moved the key to the pocket to 'clean up the scene' for the family, unwittingly covering the murderer's tracks."
+    },
+    {
+      "number": 8,
+      "title": "The Second Mover",
+      "summary": "The sheriff's confession opens a new line of inquiry: who had opportunity *after* the murder but before the police?",
+      "key_events": [
+        "The sheriff reveals Elias's live-in assistant, a young, quiet man named Leo, discovered the body with him.",
+        "Leo claimed he found the study locked, heard no answer, and fetched the sheriff. They broke the door down together.",
+        "Leo vanished from town days after the funeral, never questioned deeply.",
+        "Searching Leo's old room in the manor's servant quarters, Elara finds hidden sketches\u2014not of puzzles, but of the Stillwater Circle members, drawn with disturbing, intimate detail."
+      ],
+      "ending_hook": "Taped behind one sketch is a photo of Leo with his arm around a young woman\u2014Elara's mother, whom she never knew had any connection to Stillwater."
+    },
+    {
+      "number": 9,
+      "title": "A Mother's Secret",
+      "summary": "Elara contacts her ailing mother, unearthing a forbidden romance and a bitter falling-out.",
+      "key_events": [
+        "Her mother confesses: she was Leo's lover. Elias disapproved violently, believing Leo was a gold-digger after his puzzle designs.",
+        "Leo was secretly an apprentice, but Elias accused him of plagiarism and theft.",
+        "The night Elias died, Leo and Elara's mother had a furious fight with him. They left the manor, but Leo returned later, alone, to retrieve his things.",
+        "Her mother always feared Leo had done something terrible, which is why she cut all ties with Stillwater and never spoke of it."
+      ],
+      "ending_hook": "A parcel arrives for Elara with no return address. Inside is a vintage puzzle box, and a note: 'You found the mechanism. Do you have the courage for the solution? - L'"
+    },
+    {
+      "number": 10,
+      "title": "The Apprentice's Box",
+      "summary": "Elara solves Leo's puzzle box, which reveals not a confession, but a motive.",
+      "key_events": [
+        "The box opens to reveal stolen microfilm copies of Elias's design journals.",
+        "The journals detail Elias's descent into jealousy and rage. He wasn't paranoid; he was actively designing a 'punishment box' for a Circle member he believed had betrayed him.",
+        "Leo's notes indicate he discovered this and was horrified. He believed the 'punishment box' was meant to kill its recipient.",
+        "The final journal entry, dated the day of the murder, states Elias planned to unveil the lethal box to the Circle that very night."
+      ],
+      "ending_hook": "Elara pieces it together: Leo didn't kill Elias to silence him about theft. Someone else killed Elias to prevent him from delivering a murder weapon. Leo knew, and has been hiding for 35 years."
+    },
+    {
+      "number": 11,
+      "title": "The Unveiling",
+      "summary": "Elara deduces the identity of the murderer and lures the Stillwater Circle to the manor for a final, dangerous re-creation.",
+      "key_events": [
+        "She announces she has solved her grandfather's final puzzle and will reveal 'The Stillwater Solution' to his patrons.",
+        "The remaining Circle members gather in the study. Using the diorama and her findings, Elara walks them through the mechanical method of the murder.",
+        "She explains the motive: Elias was killed to stop him from giving a lethal puzzle box to one of them\u2014the person who had wronged him.",
+        "As tension peaks, Elara reveals the true target was Vincent Croft, who had stolen Elias's greatest design and patented it as his own."
+      ],
+      "ending_hook": "Croft, cornered, doesn't deny it. But he smiles. 'A clever reconstruction, my dear. But you have the *how*, and the *why*. You still lack the *who*. I was with the others all evening.' He's right. Croft has an alibi. The murderer is someone else in the room."
+    },
+    {
+      "number": 12,
+      "title": "The Final Mechanism",
+      "summary": "In a tense showdown, Elara identifies the true killer and the profound, tragic solution her grandfather engineered from beyond the grave.",
+      "key_events": [
+        "Elara realizes the diorama wasn't just a clue; it was Elias's final, posthumous puzzle box, designed to be solved only by someone with her specific skills.",
+        "The 'one impossible detail'\u2014the key on the shelf\u2014wasn't a clue to the murder method, but to the murderer's *identity*. Only someone who knew the room's *exact* state before the sheriff moved the key could have created it.",
+        "That person is Agnes Bell, the historian. She was the first on the scene *before* the sheriff, finding the body and seeing the key on the shelf. She killed Elias to protect the Circle's reputation (and her own) from the scandal of his intended murder of Croft.",
+        "Agnes, frail and sharp, confesses without remorse. She loved Elias's art but not his vengeance. She used his own chimney mechanism against him.",
+        "Leo emerges from hiding, confirming he saw Agnes leave the chimney that night. He\u2019s been hiding not from guilt, but from the killer."
+      ],
+      "ending_hook": "With Agnes taken away, Elara and Leo sit in the study. Leo gives her the last piece: the real 'Stillwater Solution' puzzle box, which Elias *did* finish. Inside is not a mechanism, but a deed. Elias, in his final act of contrition, left the manor and his legacy not to blood, but to his true heir: his apprentice, Leo. And a letter for the granddaughter he never met, welcoming her to the family business."
+    }
+  ]
+}

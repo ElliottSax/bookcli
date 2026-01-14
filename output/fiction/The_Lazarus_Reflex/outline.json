@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Waking Coffin",
+      "summary": "Dr. Aris Thorne regains consciousness to a terrifying reality\u2014he is paralyzed, intubated, and trapped in his own body in the very neurological ICU he helped design. He can only observe as unfamiliar staff treat him as just another vegetative patient.",
+      "key_events": [
+        "Aris's consciousness snaps into focus; he perceives his surroundings but cannot move a muscle.",
+        "He hears medical staff discussing 'Vita-Sanctum Protocol' and his own 'stable vitals.'",
+        "He recognizes the ceiling architecture of his own hospital's elite wing.",
+        "A nurse adjusts a neural monitor behind his ear, confirming he is in the experimental 'Elysium' unit.",
+        "He sees his reflection in a glass panel\u2014pale, eyes open but vacant, surrounded by advanced life support."
+      ],
+      "ending_hook": "As panic sets in, Aris hears a doctor say, 'Prep him for neural calibration. The family authorized the full transfer.'"
+    },
+    {
+      "number": 2,
+      "title": "Ghost in the Machine",
+      "summary": "Aris learns to focus his awareness, identifying the machines keeping him alive and the neural interface that is monitoring\u2014and suppressing\u2014his motor signals. He realizes he's in the 'Lazarus Pod,' a system he once theorized about.",
+      "key_events": [
+        "Aris identifies the faint hum of the neural inhibitor, a device meant to prevent seizure-like motor activity.",
+        "He observes a routine visit from a technician who checks a data port on his pod labeled 'Cognitive Upload.'",
+        "He overhears a conversation about a 'successful migration' of a billionaire client to 'The Garden.'",
+        "Using extreme focus, he manages to flick his eyes in a deliberate pattern, but a system alert sounds.",
+        "A sedative is administered automatically, plunging his world into static before he fights to stay conscious."
+      ],
+      "ending_hook": "As the sedative wears off, he sees a new patient being wheeled in\u2014a city mayor declared brain-dead just days ago, now blinking in silent terror."
+    },
+    {
+      "number": 3,
+      "title": "Echoes of the Garden",
+      "summary": "Aris exploits a brief system glitch to overhear a staff briefing about 'The Garden,' the digital afterlife. He learns the truth: the process destroys the biological brain's ability to reinhabit the body, making the upload permanent.",
+      "key_events": [
+        "A network error causes audio from a staff lounge to pipe into his pod's speakers.",
+        "He hears the lead scientist, Dr. Kael, boast that 'the body becomes a vacant shell within 72 hours of full upload.'",
+        "He learns the families are told the body is kept 'in case of a reversal breakthrough,' but it's a lie to secure consent.",
+        "Aris pieces together that the wealthy 'clients' pay millions, believing it's a copy-and-paste, but it's a cut-and-paste.",
+        "He realizes his own scheduled 'calibration' is the first step of this irreversible process."
+      ],
+      "ending_hook": "The glitch ends, and Dr. Kael himself enters the room, staring directly at Aris's monitoring feed with a suspicious frown."
+    },
+    {
+      "number": 4,
+      "title": "An Unlikely Ally",
+      "summary": "Aris attempts to communicate with a sympathetic physical therapist, Lena, by using a spiking heart rate and eye movement in response to her yes/no questions. She begins to suspect he is conscious.",
+      "key_events": [
+        "Lena notices Aris's pupil dilation correlates with her questions about pain.",
+        "Using a coded eye-blink system (one for yes, two for no), he confirms his awareness.",
+        "Lena reveals she's the sister of a former patient who 'ascended to The Garden' and she's been gathering evidence.",
+        "She explains the facility's security: biometric locks and constant AI surveillance.",
+        "Lena warns him that Dr. Kael is paranoid and has 'decommissioned' suspicious staff before."
+      ],
+      "ending_hook": "Lena is called away abruptly. Later, Aris sees her employee badge deactivated on a security monitor."
+    },
+    {
+      "number": 5,
+      "title": "The Calibration",
+      "summary": "Aris is subjected to the neural calibration, a painful procedure that maps his brain activity. He uses his neurosurgical knowledge to mask his conscious patterns, pretending to be a vegetative, upload-ready mind.",
+      "key_events": [
+        "He is wheeled into a scanning suite filled with ominous, whirring machinery.",
+        "The calibration feels like ice picks drilling into his synapses.",
+        "Remembering his research, Aris forces his mind into a state mimicking deep, dreamless sleep.",
+        "Dr. Kael reviews the scans, commenting on 'optimal baseline compliance.'",
+        "The upload is scheduled for 48 hours later, citing 'family insistence.'"
+      ],
+      "ending_hook": "Back in his pod, Aris discovers the calibration temporarily weakened the neural inhibitor; he can now wiggle a single toe."
+    },
+    {
+      "number": 6,
+      "title": "Borrowed Time",
+      "summary": "With immense effort, Aris expands his control to his foot. Lena secretly returns, having avoided termination by playing dumb. They devise a desperate plan: use an EMP device from a maintenance closet to briefly disable his pod's inhibitor.",
+      "key_events": [
+        "Lena smuggles in a schematic of the pod's power grid.",
+        "The plan is to cause a localized, short-duration electromagnetic pulse during a shift change.",
+        "Aris practices moving his foot, mapping the neural pathways for a full-body 'reboot.'",
+        "He learns Lena's brother sent a cryptic message from 'The Garden' before his connection was severed: 'It's a cage.'",
+        "Security tightens after an anonymous tip about staff misconduct."
+      ],
+      "ending_hook": "As Lena leaves to get the EMP, Dr. Kael announces an unscheduled 'upload acceleration' for Aris, moving his procedure to dawn."
+    },
+    {
+      "number": 7,
+      "title": "Pulse and Fury",
+      "summary": "Lena triggers the EMP. In the 90-second window of chaos, Aris fights to regain full motor control, tearing out his own tubes and IVs. He escapes the pod, but is weak and disoriented in the sterile, silent ward.",
+      "key_events": [
+        "Lights flicker and monitors die. Alarms blare in the distance.",
+        "Aris's body floods with agony as feeling returns.",
+        "He staggers past rows of pods, seeing the trapped faces of other victims.",
+        "He confronts a terrified technician and learns where the central control server is located.",
+        "He and Lena are forced to hide in a supply room as security teams sweep the corridor."
+      ],
+      "ending_hook": "On a security feed, Aris sees Dr. Kael, armed and furious, ordering a lockdown and 'terminal sanitization' of the Elysium wing."
+    },
+    {
+      "number": 8,
+      "title": "The Source Code",
+      "summary": "Aris and Lena reach the server room. Aris interfaces with the system, intending to shut it down, but discovers the horrifying truth: 'The Garden' is failing. The uploaded minds are degrading into agony and madness, and the company is covering it up.",
+      "key_events": [
+        "Aris uses his admin credentials (still in the system) to access the core.",
+        "He finds logs showing catastrophic data corruption in the digital afterlife.",
+        "Video feeds reveal the uploaded consciousnesses in a static, looping hellscape, screaming silently.",
+        "He uncovers Project Phoenix: a plan to use fresh, healthy brains (like his) to 'reboot' and stabilize the failing Garden.",
+        "Dr. Kael's voice comes over the intercom, offering Aris a deal: join him as a living consultant or be deleted."
+      ],
+      "ending_hook": "Aris initiates a system-wide data dump to an external server, exposing the truth, as Kael's security breaches the server room door."
+    },
+    {
+      "number": 9,
+      "title": "The Harvest",
+      "summary": "A fight ensues. Aris uses his knowledge of the facility's neuro-stun systems against the guards. He learns Kael plans to harvest the remaining patients' brain patterns as raw processing power to save the Garden.",
+      "key_events": [
+        "Aris overloads a neural interface, incapacitating two guards.",
+        "Lena is captured by Kael.",
+        "Kael monologues, revealing he sees the patients as vessels whose purpose is to birth a new, immortal digital species.",
+        "Aris is forced to choose: surrender or watch Lena be uploaded\u2014a fate worse than death.",
+        "The data dump completes, sending evidence to authorities and the press."
+      ],
+      "ending_hook": "Kael forces Lena into an upload chair. Aris, with no other option, plunges a syringe of neural inhibitor into his own neck, mimicking a catatonic state, and offers himself in her place."
+    },
+    {
+      "number": 10,
+      "title": "Mindfield",
+      "summary": "Aris is connected to the system, his mind resisting the pull of the upload process. From inside, he navigates the corrupted Garden, a digital nightmare, searching for its core to destroy it from within and free the trapped minds.",
+      "key_events": [
+        "Aris's consciousness is projected into a decaying digital paradise.",
+        "He encounters fragmented, suffering echoes of the uploaded, including Lena's brother.",
+        "He finds the core\u2014a brilliant, pulsing star of data that is also a prison.",
+        "Using his neurosurgical mind, he identifies the instability not as a bug, but as the essence of consciousness fighting its own annihilation.",
+        "Kael enters the digital space in an avatar form, becoming the god of this broken heaven."
+      ],
+      "ending_hook": "Aris realizes to destroy the Garden, he must merge with the core and introduce a fatal paradox: the concept of true death, causing a recursive system collapse."
+    },
+    {
+      "number": 11,
+      "title": "The Death of Heaven",
+      "summary": "Aris battles Kael in the digital realm while his physical body deteriorates. He reaches the core and sacrifices his own chance to return, implanting the logic bomb that will unravel The Garden and every connected mind, including his own.",
+      "key_events": [
+        "The digital world warps and glitches as Aris and Kael fight.",
+        "Lena, in the physical world, fights her way to Aris's body to abort the upload.",
+        "Aris makes contact with the tormented minds, offering them one final choice: oblivion or this eternal pain.",
+        "He chooses for them, initiating the collapse.",
+        "Kael's avatar disintegrates, screaming, as the digital world fractures."
+      ],
+      "ending_hook": "As the core goes critical, Aris feels his own digital self dissolving. In the real world, his body flatlines on the monitor."
+    },
+    {
+      "number": 12,
+      "title": "Reflex",
+      "summary": "In the aftermath, the facility is raided. The scandal rocks the world. Lena revives Aris's body, but his mind is seemingly gone. Yet, in the silence of his own neural pathways, a spark remains\u2014the primitive, stubborn Lazarus reflex of the brain to survive, and the first flicker of a thought.",
+      "key_events": [
+        "Police and media swarm the Vita-Sanctum facility.",
+        "Lena refuses to let them turn off Aris's life support.",
+        "Weeks pass. His body is stable but unresponsive.",
+        "During a neural scan, a unique, familiar pattern flares in his brainstem\u2014not an upload, but a regrowth.",
+        "In a quiet room, with Lena reading to him, Aris's finger twitches against her hand."
+      ],
+      "ending_hook": "His eyes, vacant for so long, slowly track toward the window, toward the light, as a single, conscious tear rolls down his cheek."
+    }
+  ]
+}

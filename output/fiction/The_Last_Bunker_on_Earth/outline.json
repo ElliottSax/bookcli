@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Descent",
+      "summary": "As a solar superstorm renders the surface uninhabitable, humanity's last survivors are processed and assigned to their mandatory five-year bunker quarters. Aris Thorne, a brilliant but ruthless tech CEO, and Lyra Vale, a passionate environmental activist, make their final journeys underground, unaware their fates are about to collide.",
+      "key_events": [
+        "Global emergency broadcast orders immediate descent to the planetary bunker network.",
+        "Aris, seeing the crisis as a logistical challenge, secures a premium single-occupancy unit via his connections.",
+        "Lyra, devastated by the loss of the natural world, is processed through the crowded public intake.",
+        "Both receive their unit assignment chips: Bunker 7, Sector Gamma, Unit 12.",
+        "They arrive at the sleek, minimalist pod\u2014a single living space\u2014and stare at each other in horror from the doorway."
+      ],
+      "ending_hook": "The automated door seals shut with a definitive hiss, displaying a five-year countdown on its screen, trapping the two sworn enemies in a 400-square-foot cage."
+    },
+    {
+      "number": 2,
+      "title": "Lines in the Sand",
+      "summary": "Initial shock gives way to a frantic, hostile negotiation over territory and resources. The unit, designed for one, becomes a battlefield as they attempt to divide the space and establish rules for their forced cohabitation.",
+      "key_events": [
+        "They discover only one bed, one chair, and limited rations meant for a single person.",
+        "Aris attempts to assert dominance by claiming the bed and control terminal as 'CEO of this space.'",
+        "Lyra retaliates by using her activist skills to organize a protest\u2014against him\u2014within the bunker.",
+        "Their first major fight erupts over the climate controls: Aris wants it cold for server efficiency (in his mind), Lyra demands warmth for plant seedlings she smuggled in.",
+        "They agree to a temporary, tense truce marked by a tape line dividing the room."
+      ],
+      "ending_hook": "The bunker AI announces the first mandatory 'bonding exercise': a shared virtual reality simulation, forcing them into reluctant cooperation."
+    },
+    {
+      "number": 3,
+      "title": "Cold Wars and Hot Tempers",
+      "summary": "The daily grind of survival amplifies their differences. Skirmishes over resources, noise, and habits escalate, but during a minor crisis, they each reveal a sliver of unexpected competence.",
+      "key_events": [
+        "Lyra's illicit hydroponic garden shorts out a power grid, plunging them into darkness.",
+        "Aris, to his own annoyance, fixes it with ease, revealing practical engineering skills.",
+        "Aris suffers a severe migraine from the bunker's recycled air; Lyra quietly prepares a herbal remedy from her smuggled plants.",
+        "They exchange their first civil, albeit grudging, 'thank you's.",
+        "Aris finds Lyra crying over a photo of a forest; he doesn't mock her, but silently leaves a nutrient bar by her side."
+      ],
+      "ending_hook": "During a routine health scan, the bunker AI flags a critical anomaly: their unit's oxygen recycler is failing, and replacement parts are in a dangerous, communal storage area outside their pod."
+    },
+    {
+      "number": 4,
+      "title": "Into the Dark Together",
+      "summary": "Forced to venture out of their secure unit into the eerie, empty common corridors of Bunker 7 to fetch the life-saving part, they must rely on each other for the first time. The external environment is more terrifying than their internal conflict.",
+      "key_events": [
+        "They encounter the unsettling silence and automated warnings of the abandoned common sectors.",
+        "Aris's tech knowledge navigates security doors; Lyra's intuition avoids a unstable section.",
+        "They share personal fears in the darkness\u2014Aris fears irrelevance, Lyra fears forgetting the sun.",
+        "They successfully retrieve the part but are nearly locked out during a sector-wide drill.",
+        "Working side-by-side under pressure, they manage the complex repair."
+      ],
+      "ending_hook": "Back in safety, sweating and adrenalized, they share a look of mutual respect that quickly morphies into a new, confusing tension. Aris offers her the first shower, breaking their rigid schedule."
+    },
+    {
+      "number": 5,
+      "title": "Truce and Truths",
+      "summary": "The shared trauma of the repair mission leads to a fragile truce. They begin sharing meals and stories, uncovering the painful pasts that forged their opposing worldviews.",
+      "key_events": [
+        "Lyra learns Aris's drive stems from a childhood of poverty and scarcity he's determined never to repeat.",
+        "Aris learns Lyra's activism was ignited by the loss of her family's farm to corporate pollution.",
+        "They play a grudging game of chess, which becomes a nightly ritual.",
+        "Aris shows Lyra how to optimize her garden with sensor tech; she names a stubborn seedling after him.",
+        "During a virtual 'surface view,' they witness the ongoing storm, and Lyra's grief breaks through. Aris places a hesitant, comforting hand on her shoulder."
+      ],
+      "ending_hook": "After the emotional moment, Lyra wakes in the night to find Aris has silently moved his sleep pod next to the dividing line, closer to her side of the room."
+    },
+    {
+      "number": 6,
+      "title": "The Gravity of Closeness",
+      "summary": "Physical and emotional proximity ignites a fierce, unwanted attraction. Both attempt to rationalize and resist the growing pull, attributing it to isolation and stress.",
+      "key_events": [
+        "A close-quarters accident in the hygiene unit leads to their first charged, physical contact.",
+        "They start noticing each other's habits\u2014the way he hums when coding, the way she tucks her hair behind her ear when reading.",
+        "Lyra has a nightmare and wakes to find Aris already beside her, having calmed her in her sleep.",
+        "They binge-watch old nature documentaries, sitting close on the single bed, the line between them gone.",
+        "After a joke, their laughter fades and they are left staring at each other's lips, the air electric with possibility."
+      ],
+      "ending_hook": "The bunker AI announces an incoming encrypted message for Aris from the Bunker Council, threatening to shatter their budding intimacy with the outside world's demands."
+    },
+    {
+      "number": 7,
+      "title": "Council's Gambit",
+      "summary": "Aris is summoned by the ruling Bunker Council. They reveal they knew of the dual occupancy and offer him a promotion and a private unit\u2014in exchange for monitoring and reporting on Lyra, who is flagged as a potential dissident.",
+      "key_events": [
+        "Aris is tempted by the promise of space, comfort, and restored power.",
+        "He returns to the unit conflicted, his old cynical self warring with his new feelings.",
+        "Lyra senses his shift and confronts him; he lies, saying the message was just tech updates.",
+        "Their hard-won trust begins to fracture under the weight of the secret.",
+        "Aris overhears Lyra on a clandestine channel, speaking to other activists about 'bunker resource inequality.'"
+      ],
+      "ending_hook": "Faced with a choice, Aris requests a private meeting with the Council, telling Lyra he's going for a systems check. She looks at him with a mix of suspicion and hurt."
+    },
+    {
+      "number": 8,
+      "title": "The Choice",
+      "summary": "Aris confronts the Council, refusing their offer and defending Lyra's character. He returns to the unit to come clean, only to find Lyra has discovered the truth through her own network.",
+      "key_events": [
+        "Aris boldly tells the Council he won't spy, declaring his unit 'fully functional and cooperative.'",
+        "He returns, determined to confess and ally with her fully.",
+        "Lyra greets him with cold fury, having accessed the offer transcript. She feels betrayed.",
+        "A heated argument ensues\u2014this one laced with personal hurt, not ideological difference.",
+        "In his anger, Aris shouts his true fear: that he was falling for her and the offer terrified him."
+      ],
+      "ending_hook": "His confession hangs in the air. Stunned, Lyra steps forward and kisses him\u2014a fierce, angry, desperate kiss that changes everything."
+    },
+    {
+      "number": 9,
+      "title": "The Surrender",
+      "summary": "Passion and emotion explode, dissolving the last barriers between them. They consummate their relationship, forging a true partnership both romantic and strategic. The unit finally feels like a home.",
+      "key_events": [
+        "They spend days talking, planning, and exploring their new physical relationship.",
+        "They merge their skills: Aris teaches Lyra advanced coding; she teaches him ecology and philosophy.",
+        "They draft a joint proposal for sustainable bunker management to present to the Council.",
+        "They remove the tape line from the floor, symbolically uniting their space.",
+        "For the first time, they discuss a 'future' after the bunker, together."
+      ],
+      "ending_hook": "Their happiness is interrupted by a system-wide alert: a plague has broken out in a neighboring sector. Quarantine protocols are initiated, and their unit is sealed\u2014this time, with both of them willingly inside."
+    },
+    {
+      "number": 10,
+      "title": "Plague and Pressure",
+      "summary": "The external crisis tests their new union. Resources dwindle, paranoia spreads through the bunker comms, and they must work as one to secure their safety and help others, defying Council orders to stay isolated.",
+      "key_events": [
+        "Using Aris's tech and Lyra's community organizing, they coordinate a safe food and medicine drop for affected units.",
+        "The Council threatens to revoke their privileges for insubordination.",
+        "Aris falls ill with a mild version of the virus, and Lyra nurses him, facing the terror of potential loss.",
+        "Their actions inspire other units to cooperate, creating a grassroots support network.",
+        "Aris recovers, and their bond is solidified in the crisis."
+      ],
+      "ending_hook": "The Council, impressed and threatened by their leadership, issues a direct order: report for reassignment to separate leadership units, effective immediately."
+    },
+    {
+      "number": 11,
+      "title": "The Last Stand",
+      "summary": "Refusing to be separated, Aris and Lyra stage a rebellion from their own unit. They broadcast a manifesto to the entire bunker network, advocating for community over control, and love over isolation.",
+      "key_events": [
+        "They hack the bunker's broadcast system, transmitting their story and their joint proposal for reform.",
+        "They reveal the Council's manipulative tactics, including the offer to spy.",
+        "Other units, inspired by their romance and defiance, begin to voice support, creating a system-wide stir.",
+        "Council security forces are dispatched to their door to extract them.",
+        "Aris and Lyra barricade themselves in, ready to face the consequences together."
+      ],
+      "ending_hook": "As the security team prepares to breach, a new message overrides all channels: the mandatory quarantine is being lifted early. The surface is stabilizing. The world is waiting."
+    },
+    {
+      "number": 12,
+      "title": "First Light",
+      "summary": "The doors open. Aris and Lyra emerge, not just from their unit, but to the surface of a changed world. They face the unknown together, carrying the lessons of love and cooperation from the last bunker on Earth.",
+      "key_events": [
+        "They walk out hand-in-hand, blinking in the real sunlight for the first time in years.",
+        "They are greeted as heroes by some and troublemakers by the Council remnants.",
+        "They choose to forgo separate power positions, instead claiming a plot of land to build a new kind of community.",
+        "Using Aris's resources and Lyra's vision, they break ground on a surface settlement focused on sustainability and equity.",
+        "In their new home, under a real sun, Aris presents Lyra with a ring forged from scrap metal from their bunker door."
+      ],
+      "ending_hook": "As they look out at the reborn world, they know their greatest act of survival wasn't outlasting the storm, but choosing each other. The war of wills was over, and the heart had won."
+    }
+  ]
+}

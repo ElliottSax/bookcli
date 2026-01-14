@@ -1,0 +1,56 @@
+{
+  "title": "The Last Page of Autumn",
+  "genre": "mystery",
+  "subgenre": "cozy mystery with magical realism and literary fiction elements",
+  "setting": {
+    "time_period": "Present day, late autumn",
+    "locations": [
+      "Amberwood, a small, picturesque village in Vermont",
+      "Maple & Thread: a hybrid book and yarn shop inherited by the protagonist",
+      "The protagonist's former life in an unnamed, gray city"
+    ],
+    "atmosphere": "A contrast between sterile urban life and the vibrant, sensory overload of a New England autumn. The village is postcard-perfect yet alive with secrets; the shop is a warm, cluttered sanctuary filled with the smells of old paper, cinnamon, and wool. Underneath the cozy surface lies an atmosphere of quiet intrigue and hidden histories."
+  },
+  "characters": [
+    {
+      "name": "Harper Lin",
+      "role": "Protagonist",
+      "description": "A woman in her late 20s/early 30s, shoulders hunched from a decade of archival work with municipal records. She is observant, detail-oriented, and initially out of her element in the vibrant, small-town setting. She carries the grief of her mother's loss and a distant, hazy memory of her aunt.",
+      "arc": "From a lonely archivist preserving the past to an active participant in the living stories of Amberwood. She learns to stop cataloging life from a distance and instead steps into her own narrative, embracing community, mystery, and her unexpected inheritance as a keeper of stories."
+    },
+    {
+      "name": "Elara (Aunt)",
+      "role": "Catalyst (deceased)",
+      "description": "Harper's enigmatic aunt, the former proprietor of Maple & Thread. Described as peaceful in death, she was a vibrant, mysterious figure in life who wove stories and community together. Her presence is felt strongly through the shop and her personal journal.",
+      "arc": "Her arc is revealed posthumously. Through her journal and the shop's legacy, she transitions from a vague memory to a profound influence, guiding Harper toward a new life and revealing herself as a guardian of deeper mysteries."
+    },
+    {
+      "name": "Leo",
+      "role": "Supporting Character / Potential Ally",
+      "description": "A local resident, likely a regular at Maple & Thread. He is familiar with the shop's rhythms and Elara's ways. His demeanor suggests he is integrated into the community and becomes Harper's first point of connection in Amberwood.",
+      "arc": "From a wary observer of the new owner to a trusted partner. He moves from potential rivalry to collaboration, helping Harper navigate the shop and the town's unspoken rules."
+    },
+    {
+      "name": "The Stranger",
+      "role": "Inciting Character for the Ongoing Mystery",
+      "description": "A man who appears at the shop's door at the story's end, holding a mysterious book. He is earnest, weary, and his shoulders are tense with urgency. He represents the direct intrusion of the wider, mysterious world into Harper's new life.",
+      "arc": "Introduced as a supplicant with a secret. His arrival shifts the mystery from the personal (understanding Elara) to the active (engaging with a new, external puzzle). He is the bridge to the next story."
+    },
+    {
+      "name": "Mr. Finch",
+      "role": "Secondary Character",
+      "description": "The lawyer who handles Elara's estate. His communication is formal (via letter), and he provides the initial, factual framework for Harper's inheritance.",
+      "arc": "Minimal. Serves as a functional conduit from the old life to the new."
+    }
+  ],
+  "themes": [
+    "Inheritance vs. Self-Discovery: What we are given versus what we choose to make of it.",
+    "The Power of Place: How a specific location can transform and redefine a person.",
+    "Stories as Living Things: Books, yarn, and lives are all narratives to be unraveled, woven, and continued.",
+    "Community and Solitude: The tension and balance between the lonely work of an archivist and the interconnected life of a small town.",
+    "The Past is Not Static: History, both personal and communal, is an active force that seeks resolution and retelling."
+  ],
+  "narrative_voice": "Close third-person, centered firmly on Harper Lin's perspective. The prose is descriptive and slightly literary, mirroring Harper's archival mind\u2014noticing details, textures, and metaphors\u2014while gradually becoming more immersive and less analytical as she opens up to her new environment.",
+  "tone": "Wistful, curious, and gradually warming. Begins with a tone of melancholy and dislocation, shifts to awe at the beauty of autumn and the shop, then settles into a tone of cozy intrigue with a undercurrent of thrilling possibility.",
+  "plot_summary": "Harper Lin, a lonely city archivist, inherits Maple & Thread, a combined book and yarn shop in the quaint village of Amberwood, Vermont, from her enigmatic aunt Elara. Leaving her gray life behind, she arrives during peak autumn and is overwhelmed by the sensory beauty and the warm, mysterious legacy of the shop. As she begins to settle in, guided by a local named Leo and her aunt's personal journal, she starts to understand the shop is more than a business\u2014it's a community hub and a keeper of stories. Her journey of personal reinvention is interrupted when a weary stranger arrives at closing time with an ancient, mysterious book titled *A Compendium of Lost Tides*, seeking help. This event marks the end of her introductory chapter and the beginning of an active, collaborative mystery, turning Harper from a passive inheritor into an active participant in the ongoing stories that find their way to The Last Page of Autumn."
+}

@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Perfect Witness",
+      "summary": "Reclusive archivist Leo Finch is reluctantly hired by a high-powered defense attorney to verify the flawless testimony of Evelyn Vance, the star witness in a society murder trial.",
+      "key_events": [
+        "Leo Finch, struggling with the social burden of his HSAM, is approached by attorney Marcus Thorne.",
+        "Thorne presents the case: socialite Julian Croft was murdered; the prime suspect, his rival, has an alibi corroborated by Evelyn Vance.",
+        "Evelyn's testimony is described as unnervingly perfect\u2014a minute-by-minute, photographic account of the suspect's whereabouts.",
+        "Leo views the trial footage and is immediately unsettled by the precision of Evelyn's memory.",
+        "He agrees to take the job, drawn by the professional challenge and a hefty fee."
+      ],
+      "ending_hook": "As Leo reviews Evelyn's testimony transcript for the first time, a single, trivial detail about a passing bird snags his attention\u2014a species that was extinct locally for a decade."
+    },
+    {
+      "number": 2,
+      "title": "A Crack in the Glass",
+      "summary": "Leo begins his systematic analysis of Evelyn's testimony, comparing it against verifiable facts, and finds the first undeniable anomaly.",
+      "key_events": [
+        "Leo interviews Evelyn in a controlled setting; she recounts the alibi with serene, unwavering confidence.",
+        "He cross-references her account of the weather, traffic, and news events from that day\u2014all match perfectly.",
+        "He focuses on the anomalous bird detail; Evelyn insists she saw a Scarlet Tanager, providing vivid details.",
+        "Leo confirms with ornithological records: no Scarlet Tanager had been sighted in the state for over twelve years.",
+        "Evelyn, confronted with the evidence, becomes confused but her memory remains visually solid and unshaken."
+      ],
+      "ending_hook": "Evelyn, distressed, whispers, 'But I can still see it... the red is so bright against the grey sky.' Leo realizes her memory isn't false\u2014it's *implanted*."
+    },
+    {
+      "number": 3,
+      "title": "The Ghost in the Machine",
+      "summary": "Leo delves into the science of memory implantation and discovers a shadowy, cutting-edge research project that might be connected.",
+      "key_events": [
+        "Leo researches memory science, finding a controversial paper on 'focused mnemonic engram transfer'.",
+        "The paper was authored by Dr. Alistair Caine, a neuroscientist who disappeared after his lab was shut down for ethical violations.",
+        "Leo discovers Caine's former prot\u00e9g\u00e9, Dr. Anya Sharma, now works at a private memory clinic.",
+        "He visits Sharma, who is evasive but confirms the theoretical possibility of highly detailed memory implantation.",
+        "Leo receives an anonymous warning email: 'Stop digging. You're verifying a ghost.'"
+      ],
+      "ending_hook": "Returning home, Leo finds his apartment has been professionally searched, but nothing is missing\u2014only his notes on the case have been photographed."
+    },
+    {
+      "number": 4,
+      "title": "Echoes of a Crime Scene",
+      "summary": "Leo shifts focus from the alibi to the murder itself, using his HSAM to re-examine the crime scene photos, finding a detail everyone missed.",
+      "key_events": [
+        "Leo gains access to the police file on Julian Croft's murder through a reluctant contact.",
+        "Using his HSAM, he conducts a painstaking, frame-by-frame analysis of the crime scene photographs.",
+        "In the reflection of a polished grand piano lid, he spots a blurred figure that was not accounted for in the police report.",
+        "The figure is holding an object inconsistent with the presumed murder weapon.",
+        "He realizes the official narrative of the crime is fundamentally flawed."
+      ],
+      "ending_hook": "Enhancing the reflection, Leo sees the figure is wearing a distinctive ring\u2014a ring he saw earlier that day on Marcus Thorne's hand."
+    },
+    {
+      "number": 5,
+      "title": "The Lawyer's Tell",
+      "summary": "Confronting his own employer, Leo begins to untangle a web of deceit, realizing Thorne is manipulating the trial for reasons beyond winning a case.",
+      "key_events": [
+        "Leo cautiously confronts Thorne about the ring and the discrepancy in the crime scene.",
+        "Thorne expertly deflects, claiming the ring is common and the reflection is pareidolia, but his micro-expressions betray panic.",
+        "Leo investigates Thorne's past, finding a connection: Thorne and the victim, Julian Croft, were once business partners.",
+        "Their partnership ended in a bitter, secret lawsuit that was settled under a confidentiality agreement.",
+        "Leo is tailed by a black sedan after leaving Thorne's office."
+      ],
+      "ending_hook": "Dr. Anya Sharma calls Leo from a blocked number, her voice frantic: 'Caine didn't disappear. He was hired. Find the source memory.'"
+    },
+    {
+      "number": 6,
+      "title": "The Source",
+      "summary": "Following Sharma's clue, Leo theorizes that an implanted memory requires a 'donor.' He searches for who truly experienced the events Evelyn describes.",
+      "key_events": [
+        "Leo deduces that the flawless alibi memory had to come from someone who actually lived it\u2014the real killer.",
+        "He constructs a psychological profile from the memory's sensory details: fastidious, observant, with a specific taste in music (heard in the background).",
+        "Re-interviewing Evelyn, he asks deeper sensory questions, isolating a unique brand of cigar smoke she 'remembers' smelling.",
+        "Cross-referencing this with Thorne's known associates leads him to a reclusive, wealthy tech mogul, Silas Rourke.",
+        "Rourke was Croft's silent rival in a major business deal and owns a rare box of the cigars in question."
+      ],
+      "ending_hook": "Breaking into Rourke's private club to verify the cigar link, Leo is caught not by security, but by Silas Rourke himself, who calmly says, 'Mr. Finch. I've been expecting your impressive memory.'"
+    },
+    {
+      "number": 7,
+      "title": "A Deal with the Devil",
+      "summary": "Rourke reveals himself as the mastermind, explaining his use of Caine's technology and offering Leo a dangerous proposition.",
+      "key_events": [
+        "Rourke confesses he hired Dr. Caine to implant his own alibi into Evelyn, a suggestible former employee.",
+        "He killed Croft over the failing business deal, then used the alibi to place his pawn, Thorne's client, at the scene, framing him.",
+        "Rourke offers to fund Leo's own memory research\u2014a chance to understand his HSAM\u2014in exchange for dropping the investigation.",
+        "He threatens not Leo's life, but his mind: 'I can give you memories, Leo. Or I can take them away. Imagine the peace.'",
+        "Leo pretends to consider the offer, playing for time."
+      ],
+      "ending_hook": "As Leo leaves, Rourke adds a final, chilling detail: 'Evelyn's memory isn't my only backup. People remember what I tell them to remember.'"
+    },
+    {
+      "number": 8,
+      "title": "Memory Palace Heist",
+      "summary": "Knowing he needs physical proof, Leo and a reluctant Anya Sharma plan to break into Caine's abandoned lab to find the memory implantation hardware.",
+      "key_events": [
+        "Sharma agrees to help, guilt-ridden over her role in the early research.",
+        "She reveals the lab's location and the existence of a prototype 'mnemonic core'\u2014a hard drive storing memory patterns.",
+        "They infiltrate the derelict facility, navigating security and eerie, abandoned neuro-tech equipment.",
+        "Leo uses his HSAM to recall Sharma's blueprints and bypass keypads.",
+        "They find the core, but it's been recently accessed. A log file shows a memory labeled 'Vance_Alibi' was uploaded just before the murder."
+      ],
+      "ending_hook": "As they download the data, alarms trigger. Rourke's men storm the lab. Sharma is captured, and Leo escapes with the core, hearing her scream fade behind him."
+    },
+    {
+      "number": 9,
+      "title": "Fragments of Truth",
+      "summary": "On the run, Leo analyzes the stolen data, discovering the memory's digital fingerprint and a horrifying second file.",
+      "key_events": [
+        "In a safe house, Leo deciphers the data, finding the precise neural signature of the implanted memory.",
+        "More importantly, he finds a second, corrupted file: a memory from the *victim's* perspective in his final moments.",
+        "The memory is fragmented and terrifying, but within the sensory noise, Leo isolates a voice\u2014Marcus Thorne's, not Rourke's.",
+        "He realizes Thorne wasn't just the lawyer; he was the actual murderer. Rourke provided the tech and the frame, but Thorne wielded the weapon.",
+        "The partnership between Thorne and Rourke was one of mutual blackmail and benefit."
+      ],
+      "ending_hook": "Leo's phone rings. It's Thorne. 'I hear you have something of mine. Let's trade. Your data for Dr. Sharma's continued ability to... remember her own name.'"
+    },
+    {
+      "number": 10,
+      "title": "The Unreliable Narrator",
+      "summary": "Leo stages a desperate gambit, using his understanding of memory to turn Evelyn's perfection against her implanters in a clandestine meeting.",
+      "key_events": [
+        "Leo arranges a secret meeting with Evelyn, knowing she is likely being monitored.",
+        "Using his HSAM, he feeds her a series of subtle, contradictory sensory details that conflict with her implanted memory.",
+        "He triggers a cognitive dissonance cascade, exploiting a flaw in the implantation process\u2014the brain's need to reconcile conflicts.",
+        "Evelyn's perfect memory begins to glitch and fracture under the pressure; she starts recalling *two* versions of that afternoon.",
+        "In her confusion, a genuine, suppressed memory surfaces: seeing Thorne, agitated and with a bloodied hand, later that night."
+      ],
+      "ending_hook": "Rourke's men burst in. Evelyn is taken, but not before she slips Leo her locket, which contains a micro-SD card she doesn't consciously remember hiding."
+    },
+    {
+      "number": 11,
+      "title": "The Final Recollection",
+      "summary": "The SD card contains the final piece: Thorne's own confession, recorded as insurance. Leo must now evade capture and get the evidence to the authorities.",
+      "key_events": [
+        "The SD card holds a video of Thorne, in a panic, confessing the murder to Rourke and detailing the memory implant plan.",
+        "Leo now has proof of murder, conspiracy, and the technological fraud.",
+        "Rourke, realizing his scheme is collapsing, orders a full-scale hunt for Leo, framing him as a fugitive and the true killer.",
+        "Leo uses his memory of the city to navigate a path through blind spots and old archives to stay off-grid.",
+        "He contacts the only person he trusts: a retired, ethical detective from the original case, providing a cryptic meeting place."
+      ],
+      "ending_hook": "At the meeting place\u2014the public archive where Leo works\u2014he finds not the detective, but Marcus Thorne, holding a strange, pen-like device. 'Time for a rewrite, Leo.'"
+    },
+    {
+      "number": 12,
+      "title": "Veritas",
+      "summary": "In a confrontation at the heart of his own domain, Leo uses his greatest burden\u2014his perfect memory\u2014as his ultimate weapon to expose the truth.",
+      "key_events": [
+        "Thorne attempts to use a portable memory dampener on Leo, but Leo's HSAM resists the crude technology, causing him only disorientation.",
+        "A physical struggle ensues among the archive stacks. Leo triggers the fire alarm, flooding the building with people and security.",
+        "The retired detective arrives, having decoded Leo's message.",
+        "In front of the gathering crowd and recorded on security feeds, Leo delivers a flawless, verbatim recitation of Thorne's confession from the video, his HSAM acting as a living recording.",
+        "Confronted with this and the recovered digital evidence, Thorne breaks, implicating Rourke."
+      ],
+      "ending_hook": "Weeks later, the trial unravels. Evelyn is freed from the implanted memory. Leo, visiting her, sees her looking at a real bird. She smiles uncertainly. 'I don't know if I remember it, or if I just see it now.' Leo replies, 'That's how it's supposed to work.' He walks away, finally at peace with the beautiful, painful imperfection of real memory."
+    }
+  ]
+}

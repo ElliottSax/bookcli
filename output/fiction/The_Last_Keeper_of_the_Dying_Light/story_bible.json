@@ -1,0 +1,44 @@
+{
+  "title": "The Last Keeper of the Dying Light",
+  "genre": "literary",
+  "subgenre": "literary fantasy, magical realism",
+  "setting": {
+    "time_period": "Indeterminate, timeless era with Victorian and pre-industrial elements",
+    "locations": [
+      "Elara's Parlor: A high-ceilinged room with a round window, filled with shadows and pools of thick, golden light. The workshop of her former trade.",
+      "The City: A nameless, rain-slicked city of cobblestones and whispering alleys, where people guard their shadows closely.",
+      "The Balcony: Overlooking the waking city at dawn, a place of transition and new perspective."
+    ],
+    "atmosphere": "Layered, tactile, and melancholic. A world where light is a tangible substance and shadows are literal extensions of the soul. The atmosphere evolves from cloistered, secretive melancholy to one of open, fragile, and honest dawn."
+  },
+  "characters": [
+    {
+      "name": "Elara",
+      "role": "Protagonist, former 'Keeper'",
+      "description": "A woman of quiet precision, moving through pools of thick light in a grey wool dress. Once a practitioner of a secret, dying art\u2014stitching borrowed light into fading shadows to prolong life. She is observant, professional, and carries a deep, unspoken weariness.",
+      "arc": "From a technician of a morally ambiguous, fading magic that steals light to sustain shadows (life), to a renouncer of that power. She transitions into a new, honest vocation: using simple tools to help people memorialize meaning, not cheat death. She moves from isolation and complicity in a cycle of decay to connection and authentic service, finally at peace with her own shadow."
+    },
+    {
+      "name": "Alistair",
+      "role": "Catalyst, client, companion",
+      "description": "A man whose shadow is not fading but violently torn. He represents a different kind of damage\u2014not natural attenuation, but traumatic loss. He is perceptive, challenging, and carries a quiet integrity.",
+      "arc": "From a client seeking a forbidden, desperate fix for his torn shadow, to the one who refuses Elara's old magic. His choice to live with his broken shadow, and his question ('What are you preserving?'), becomes the catalyst for Elara's transformation. He evolves into a supportive presence, a hand to hold at dawn, representing a new kind of relationship built on truth, not transaction."
+    },
+    {
+      "name": "Mrs. Althea Finch",
+      "role": "Representative client of the old way",
+      "description": "An elderly woman dissolving, her shadow pale and fraying like old lace. She perceives the fading as a tickle, a natural, almost pleasant process.",
+      "arc": "Serves to illustrate the natural, accepted end of the old cycle. Her passive acceptance of the fading contrasts with Alistair's traumatic rupture and highlights the quiet tragedy of the world Elara initially serves."
+    }
+  ],
+  "themes": [
+    "The Ethics of Artifice vs. The Integrity of Natural Process",
+    "Grief, Memory, and Meaning-Making vs. Denial of Death",
+    "Light and Shadow as Metaphors for Life, Soul, and Legacy",
+    "The Transition from Secret, Decadent Craft to Honest, Communal Art",
+    "Finding Wholeness in Brokenness and Acceptance in Transience"
+  ],
+  "narrative_voice": "Close third-person, centered deeply on Elara's perceptions. The prose is lyrical, precise, and tactile, rich with sensory detail (light as 'honey,' shadows as 'velvet'). It treats the magical elements with a matter-of-fact gravity, blending the mundane and the metaphysical seamlessly.",
+  "tone": "Begins with melancholic, elegiac beauty, steeped in twilight and decay. Shifts to a tone of tense moral crisis during Alistair's visit. Culminates in a tone of quiet, hopeful resolution\u2014luminous, fragile, peaceful, and grounded in a new, honest dawn.",
+  "plot_summary": "Elara is the last practitioner of a secret art: stitching borrowed light into the fading shadows of the dying to briefly prolong their lives. In her fading parlor, she serves clients like Mrs. Finch, who are passively nearing their end. Her world is disrupted by Alistair, a man with a violently torn shadow who seeks her services. When Elara prepares to perform the forbidden, ultimate act\u2014grafting a piece of another's living shadow onto his\u2014Alistair refuses, challenging the very premise of her work. This confrontation leads Elara to a profound crisis. She renounces her old magic, destroys her tools of theft, and makes peace with her own, once-feared shadow. The story ends at dawn, with Elara having embraced a new vocation: using simple, honest needlework to help clients memorialize meaning (like a sister's laughter) rather than steal time. As a new client knocks, she begins her final and most important work, no longer a keeper of dying light, but a weaver of enduring meaning."
+}

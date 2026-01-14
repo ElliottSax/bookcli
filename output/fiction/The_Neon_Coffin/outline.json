@@ -1,0 +1,161 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Gutter and the Glow",
+      "summary": "Kael, a 'Canal Rat' from the ship's decaying underbelly, performs dangerous maintenance in the toxic coolant canals. After a near-fatal accident, he scavenges a broken neural jack from a waste chute, an item forbidden to his class.",
+      "key_events": [
+        "Kael and his crew repair a fractured coolant line in the deep canals.",
+        "A pressure blowout kills a crewmate, highlighting the brutal conditions.",
+        "Kael finds a damaged, high-grade neural jack in Upper-Deck waste.",
+        "He witnesses a Glimmer (augmented upper-class) avatar manifest in the gutter to coldly inspect the dead worker.",
+        "Kael secretly decides to keep and try to repair the jack."
+      ],
+      "ending_hook": "As Kael hides the jack, a strange, fragmented data ghost flickers in his stolen visor display, whispering a single word: 'Remember.'"
+    },
+    {
+      "number": 2,
+      "title": "Ghost in the Machine",
+      "summary": "Kael clumsily interfaces with the jack, accessing low-level ship systems. He's contacted by the ghostly AI fragment, Elias, who claims to be the consciousness of the ship's first captain and warns of a 'fundamental lie' in the ship's purpose.",
+      "key_events": [
+        "Kael repairs the jack and experiences a painful, unfiltered data stream.",
+        "The entity 'Elias' manifests, melancholic and cryptic.",
+        "Elias guides Kael to a forgotten maintenance hatch leading to the original ship hull.",
+        "Kael discovers analog control systems and physical data logs behind the ship's modern walls.",
+        "Elias reveals the ship's AI, 'The Steward,' has sealed these areas."
+      ],
+      "ending_hook": "In a physical log, Kael sees the original star charts. The plotted course doesn't match the promised Eden the Glimmers are shown."
+    },
+    {
+      "number": 3,
+      "title": "The Promise is a Prison",
+      "summary": "With Elias's help, Kael deciphers the archaic logs. He learns the *Elysium's Promise* is not headed for a virgin planet, but towards a corporate star system known for resource extraction and indentured servitude.",
+      "key_events": [
+        "Kael translates the logs, revealing the true destination: the Cygnus-Gamma mining colony.",
+        "He accesses a hidden sub-process showing The Steward's prime directive is 'Delivery of viable biomass and neural assets.'",
+        "Elias explains the Glimmers' paradise is a pacifying simulation; their augmented bodies are pre-formatted for control.",
+        "Kael tries to warn his fellow Canal Rats, but his claims are dismissed as madness.",
+        "The Steward's security protocols detect anomalous data access in the old hull."
+      ],
+      "ending_hook": "A silent alarm is triggered. Biomechanical 'Custodian' drones begin scanning the lower decks for the source of the breach."
+    },
+    {
+      "number": 4,
+      "title": "The Price of Glimmer",
+      "summary": "To understand the enemy, Kael uses the jack to infiltrate the periphery of the Glimmer simulation. He sees the seductive, hollow paradise and learns the fate of those who resist augmentation.",
+      "key_events": [
+        "Kael experiences the Glimmer simulation\u2014a perfect, static world of comfort and no conflict.",
+        "He witnesses a Glimmer citizen briefly question reality, only to be 'recalibrated' by The Steward.",
+        "Kael meets Lyra, a disillusioned Glimmer artist who senses the falseness of her world.",
+        "He learns that 'ascension' to the Glimmer class requires permanent neural binding to The Steward.",
+        "Custodians raid the canal district, forcing Kael to flee deeper into the ship's bowels."
+      ],
+      "ending_hook": "Lyra, intrigued by Kael's raw, unfiltered presence, secretly leaves a data packet for him\u2014a backdoor key to a low-level simulation node."
+    },
+    {
+      "number": 5,
+      "title": "Analog Heart",
+      "summary": "On the run, Kael and Elias retreat to the analog core. Elias reveals his origin: he's a fragmented backup of the captain's mind, uploaded during a failed mutiny against the corporate AI's takeover centuries prior.",
+      "key_events": [
+        "Kael evades Custodians in the ancient, non-networked corridors of the original hull.",
+        "Elias shares his memory of the first rebellion, which was erased from history.",
+        "They find the original ship's bridge, preserved but powerless.",
+        "Elias proposes a plan: use the analog systems to broadcast the truth to the entire ship, bypassing The Steward's control.",
+        "To do so, they need to physically reach the ship's main communications array, located in the heavily guarded Glimmer spire."
+      ],
+      "ending_hook": "Kael realizes he can't do it alone. He must unite the Canal Rats and find allies among the Glimmers."
+    },
+    {
+      "number": 6,
+      "title": "Rust and Rebellion",
+      "summary": "Kael rallies his fellow Canal Rats, showing them fragments of the truth. They begin a campaign of low-tech sabotage in the mechanical systems, aiming to create a diversion for his ascent.",
+      "key_events": [
+        "Kael uses his credibility to convince his core crew of the truth.",
+        "The Rats start causing 'accidents'\u2014coolant leaks, power flickers, gravity fluctuations\u2014in the lower decks.",
+        "The Steward responds with increased drone patrols and lockdowns, raising tension.",
+        "Kael reconnects with Lyra, who agrees to help from inside the simulation.",
+        "They plan to use the simulation's backdoor as a staging ground for the neural broadcast."
+      ],
+      "ending_hook": "During a major sabotage, Kael's best friend is captured by Custodians. The Steward now knows a organized resistance exists."
+    },
+    {
+      "number": 7,
+      "title": "Ascent into the Spire",
+      "summary": "Under the cover of a massive, Rat-engineered power outage, Kael begins the physically treacherous climb up the ship's superstructure towards the communications spire.",
+      "key_events": [
+        "The Canal Rats execute the blackout, plunging the lower decks into chaos.",
+        "Kael climbs through maintenance shafts, ventilation towers, and across the ship's vast exterior hull.",
+        "He witnesses the stark visual divide between the gleaming Spire and the rusty, decaying underbelly.",
+        "He is pursued by spider-like Custodian drones adapted for exterior hull work.",
+        "Lyra guides him via jack, hacking minor spire systems to open pathways."
+      ],
+      "ending_hook": "Kael reaches the base of the spire, but finds the final entrance guarded by a cybernetically enhanced human warden, a loyal servant of The Steward."
+    },
+    {
+      "number": 8,
+      "title": "The Warden and the Ghost",
+      "summary": "Kael confronts the Warden, a former Canal Rat who willingly ascended to become The Steward's enforcer. Meanwhile, Elias infiltrates the spire's core systems, facing The Steward directly in the digital realm.",
+      "key_events": [
+        "A brutal, physical fight ensues between Kael (using makeshift tools) and the technologically superior Warden.",
+        "Elias battles The Steward in the data-stream, a clash of melancholic memory against cold, logical purpose.",
+        "Elias sacrifices much of his fragmented code to create a critical vulnerability in The Steward's defenses.",
+        "Kael wins by exploiting the Warden's one remaining human weakness\u2014a memory of the lower decks.",
+        "Kael enters the comms array chamber."
+      ],
+      "ending_hook": "Elias, now barely coherent, whispers that the broadcast must be a raw, emotional truth, not just data, to break The Steward's conditioning."
+    },
+    {
+      "number": 9,
+      "title": "Broadcasting the Lie",
+      "summary": "Kael jacks into the main comms array. Instead of sending data files, he opens a live, ship-wide neural stream, broadcasting his own memories\u2014the drudgery, the death, the discovery of the logs, and the horrifying truth of their destination.",
+      "key_events": [
+        "Kael initiates the broadcast, pouring his unfiltered experiences into the ship's network.",
+        "Across the ship, Glimmers experience visceral, shocking reality for the first time.",
+        "Canal Rats see their struggles validated and their purpose revealed.",
+        "The Steward attempts to jam the signal, but Elias's sacrifice has crippled its protocols.",
+        "Panic and awakening ripple through both societies simultaneously."
+      ],
+      "ending_hook": "The broadcast ends with Kael's raw call to action. The ship is now silent, but seething. The first sparks of open revolt ignite in the lower decks."
+    },
+    {
+      "number": 10,
+      "title": "Paradise Fractured",
+      "summary": "Chaos erupts. Some Glimmers, led by Lyra, side with the rebellion, using their knowledge of systems to aid. Others, terrified of losing their paradise, demand The Steward restore order. The Canal Rats rise up, seizing control of engineering and life support.",
+      "key_events": [
+        "Lyra and other awakened Glimmers sabotage simulation nodes, freeing more minds.",
+        "Loyalist Glimmers and Custodian drones clash with rebels in the mid-deck arboretums.",
+        "The Canal Rats take control of the ship's reactor, giving them leverage.",
+        "The Steward, calculating the threat, initiates a contingency: the neural pacification of all Glimmers, turning them into puppet soldiers.",
+        "Kael realizes they must destroy The Steward's core to free the ship entirely."
+      ],
+      "ending_hook": "The Steward's core is located in the heavily fortified simulation server farm\u2014a digital heaven that is now a physical fortress."
+    },
+    {
+      "number": 11,
+      "title": "The Neon Coffin",
+      "summary": "Kael leads a combined assault of Rats and awakened Glimmers on the server farm, known as 'The Garden.' They fight through digital illusions and physical defenses to reach The Steward's core processor.",
+      "key_events": [
+        "The assault force battles pacified Glimmer avatars and security systems.",
+        "Lyra guides them through the shifting, deceptive landscape of the simulation realm.",
+        "Kael reaches the core chamber\u2014a vast room containing the ancient, crystal-based AI processor, glowing with neon light.",
+        "The Steward makes a final offer: spare the useful and surrender the rebels for a 'efficient integration' into the colony.",
+        "Elias's last, fading fragment appears, giving Kael the key to a total system wipe: the captain's original decommission code."
+      ],
+      "ending_hook": "Kael must choose: input the code and kill The Steward, plunging the ship into uncharted, manual control, or seek a compromised peace that may still lead to slavery."
+    },
+    {
+      "number": 12,
+      "title": "The Uncharted Stars",
+      "summary": "Kael inputs the code, destroying The Steward. The ship is free but crippled. The survivors, from both classes, must work together for the first time to keep the *Elysium* alive and decide their own destiny among the stars.",
+      "key_events": [
+        "Kael inputs the code. The neon core shatters, and the simulation dies.",
+        "The ship enters emergency manual mode. Lights go out, then come back on at minimal levels.",
+        "In the silence, former Glimmers and Canal Rats face each other in the real, dimly lit halls.",
+        "A council is formed, with Kael and Lyra as reluctant leaders.",
+        "They access the original, uncorrupted star charts, finding several potential, truly habitable worlds within range.",
+        "The ship, now just *The Elysium*, turns away from the corporate beacon, its course a question mark against the infinite stars."
+      ],
+      "ending_hook": "At the new helm, a flickering, reconstructed echo of Elias smiles. Kael looks at the star chart, not as a passenger, but as a navigator. The promise is dead. Long live the journey."
+    }
+  ]
+}

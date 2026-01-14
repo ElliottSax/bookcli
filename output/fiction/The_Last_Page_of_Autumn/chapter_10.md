@@ -1,0 +1,125 @@
+Chapter 10: The Final Chapter of Alistair
+
+The air in the old bank vault, which had smelled of cold stone and forgotten paper, now carried a new, metallic note. It was the scent of shock, of history curdling into the present. The skeletal form in the tweed jacket was no longer a literary mystery; it was a man, and he was dead. Harper Lin's hand, which had been reaching for the leather-bound volume beside the remains, froze in mid-air. The cheerful, whimsical treasure hunt evaporated, leaving a hollow, chilling silence.
+
+Leo Bianchi was the first to move, pulling Harper Lin gently back from the threshold. "Don't," he whispered, his voice rough. "Don't touch anything." The dim light of the vault seemed to cling to his features, accentuating the sharp angles of his face. His eyes, usually bright with curiosity, were dull and haunted. The faint scent of pipe tobacco wafted from his jacket, a comforting reminder of the countless hours they'd spent together, discussing literature and life.
+
+Constance Abernathy let out a small, choked sound, not a scream, but the noise a page makes when it's torn from its binding. All the shrewd calculation had drained from her face, leaving behind the pale, wrinkled visage of a frightened old woman. Mr. Mr. Finch simply stared, his habitual frown deepened into a crevice of genuine horror, the promised first edition forgotten in his limp hands. The faint scent of old books and leather bindings clung to his clothes, a reminder of the countless hours he'd spent surrounded by the musty smell of the library.
+
+"Alistair," Constance breathed. "Oh, you foolish, foolish man." Her voice was a fragile, quivering thing, like the first notes of a piano melody. The sound sent shivers down Harper Lin's spine, and she felt a pang of sorrow for the woman who had lost her beloved friend. The dim light of the vault seemed to amplify the sorrow, casting long shadows across the faces of the three people standing there.
+
+The walk back to the surface was a somber, silent procession. The golden light of the equinox afternoon, filtering through the crimson and gold leaves of the square, felt obscenely cheerful. The rustle of leaves beneath their feet was the only sound, a stark contrast to the cacophony of emotions swirling inside them. The air was heavy with the scent of damp earth and decaying leaves, a reminder of the passing of time. The distant chime of the ice cream van seemed to mock them, its cheerful tune a cruel contrast to the somber mood.
+
+Leo Bianchi used his phone to call the police from the steps of the mausoleum, his words—"possible remains," "old bank vault"—sounding ludicrous and grim against the backdrop of children laughing and the distant chime of the ice cream van. The sound of his voice was a jarring reminder of the reality of the situation, and Harper Lin felt a lump form in her throat as she watched him.
+
+Maplewood's single police car, followed by a county sheriff's vehicle, arrived with a quiet urgency that did more to alarm the town than any siren could. Soon, the square was cordoned off with yellow tape that fluttered like a perverse autumn decoration. Word travelled through the town with the swift, whispering efficiency of wind through dry cornstalks. Faces appeared in shop windows, their expressions a mixture of shock and curiosity. The book club abandoned their discussion of Rebecca on the porch of Maple & Thread: a hybrid book and yarn shop inherited by the protagonist and stood as a silent, anxious clutch near the war memorial.
+
+Sergeant Miller, a broad, practical man with a kind face now set in professional lines, took statements separately. Harper Lin and Leo Bianchi sat on a bench under the sugar maple, its leaves a fiery canopy, as they explained everything—the clues, the hunt, the discovery. Harper Lin handed over Elara Bell's diary, her fingers reluctant to part with it. The worn leather cover felt like a tangible connection to the past, a reminder of the secrets and stories that lay hidden within its pages.
+
+"Your aunt was a remarkable woman," Sergeant Miller said, flipping through the pages with careful respect. "But this… this is a thirty-year-old mystery that just became a crime scene." His words were a gentle rebuke, a reminder that the past was not just a series of dusty relics, but a living, breathing entity that could still have a profound impact on the present.
+
+Inside Maple & Thread: a hybrid book and yarn shop inherited by the protagonist, Constance sat at Elara Bell's old oak desk, a cup of untouched tea cooling beside her. She looked small and utterly deflated, her shoulders slumped in defeat. The sunlight streaming through the window highlighted the fine lines etched into her face, a topography of worry and regret. The scent of old books and leather bindings clung to her clothes, a reminder of the countless hours she'd spent surrounded by the musty smell of the library.
+
+"I didn't know," she said to the sergeant, her voice a papery rustle. "I swear to you, I thought he'd left. We all did. He was arrogant, reckless. It made sense he'd run off with his prize." Her words were a mixture of sorrow and self-blame, a recognition that she had been complicit in Alistair's disappearance. The faint scent of pipe tobacco wafted from her jacket, a comforting reminder of the countless hours she'd spent with Elara Bell, discussing literature and life.
+
+"And what was the argument about?" Sergeant Miller asked, his pen poised.
+
+Constance's eyes filled with a sheen of tears that did not fall. "The treasure. The Treasury. He wanted to take it all. Not just a book or two to save Maple & Thread: a hybrid book and yarn shop inherited by the protagonist, but everything. To sell it off to some private collector overseas. Elara Bell and I… we were the stewards. We wanted to protect it, to keep it for the town, maybe use it to build a proper library. Alistair called us sentimental fools. He said the magic wasn't in the sharing, it was in the owning. We met at the mausoleum that night, the night of the last autumn equinox before he... vanished. It was a terrible row. I shouted awful things. I left him there, standing among the graves, his face white with anger in the moonlight. I thought he'd storm off, cool down, maybe even leave town in a huff. I never... I never imagined he'd go back down there alone."
+
+The silence that followed was oppressive, a heavy weight that pressed down on the three people standing there. The only sound was the distant hum of the police cars, their lights casting an eerie glow over the scene. The air was thick with the scent of shock and regret, a reminder that the past was not just a series of dusty relics, but a living, breathing entity that could still have a profound impact on the present.
+
+As the sun began to set, casting a golden glow over the square, the three people stood there, frozen in time. The world around them seemed to slow down, as if time itself was holding its breath. The only sound was the rustle of leaves beneath their feet, a reminder that even in the midst of tragedy, there was still beauty to be found.
+
+Finally, Sergeant Miller spoke, his voice a gentle rebuke. "We'll need to take a statement from you, Harper Lin. Can you tell me more about what happened?"
+
+Harper Lin nodded, her eyes fixed on the ground. "I... I don't know. I just found him. I didn't know what to do."
+
+The sergeant nodded sympathetically. "It's okay, Harper Lin. We'll take it from here. Leo Bianchi, can you tell me more about the treasure?"
+
+Leo Bianchi nodded, his eyes fixed on the ground. "I... I don't know much. I just know that Alistair was obsessed with it. He spent years searching for it, and when he finally found it, he was determined to take it all."
+
+The sergeant nodded, his pen poised. "I see. And what about Constance? Can you tell me more about the argument?"
+
+Constance's eyes filled with a sheen of tears that did not fall. "I... I don't know. I just know that Alistair was angry. He said the magic wasn't in the sharing, it was in the owning. I shouted awful things. I left him there, standing among the graves, his face white with anger in the moonlight. I thought he'd storm off, cool down, maybe even leave town in a huff. I never... I never imagined he'd go back down there alone."
+
+The silence that followed was oppressive, a heavy weight that pressed down on the three people standing there. The only sound was the distant hum of the police cars, their lights casting an eerie glow over the scene. The air was thick with the scent of shock and regret, a reminder that the past was not just a series of dusty relics, but a living, breathing entity that could still have a profound impact on the present.
+
+As the sun dipped below the horizon, casting the square in a dark, golden light, the three people stood there, frozen in time. The world around them seemed to slow down, as if time itself was holding its breath. The only sound was the rustle of leaves beneath their feet, a reminder that even in the midst of tragedy, there was still beauty to be found.
+
+Finally, the sergeant spoke, his voice a gentle rebuke. "We'll need to take a statement from you, Harper Lin. Can you tell me more about what happened?"
+
+Harper Lin nodded, her eyes fixed on the ground. "I... I don't know. I just found him. I didn't know what to do."
+
+The sergeant nodded sympathetically. "It's okay, Harper Lin. We'll take it from here. Leo Bianchi, can you tell me more about the treasure?"
+
+Leo Bianchi nodded, his eyes fixed on the ground. "I... I don't know much. I just know that Alistair was obsessed with it. He spent years searching for it, and when he finally found it, he was determined to take it all."
+
+The sergeant nodded, his pen poised. "I see. And what about Constance? Can you tell me more about the argument?"
+
+Constance's eyes filled with a sheen of tears that did not fall. "I... I don't know. I just know that Alistair was angry. He said the magic wasn't in the sharing, it was in the owning. I shouted awful things. I left him there, standing among the graves, his face white with anger in the moonlight. I thought he'd storm off, cool down, maybe even leave town in a huff. I never... I never imagined he'd go back down there alone."
+
+The silence that followed was oppressive, a heavy weight that pressed down on the three people standing there. The only sound was the distant hum of the police cars, their lights casting an eerie glow over the scene. The air was thick with the scent of shock and regret, a reminder that the past was not just a series of dusty relics, but a living, breathing entity that could still have a profound impact on the present.
+
+As the night wore on, the three people stood there, frozen in time. The world around them seemed to slow down, as if time itself was holding its breath. The only sound was the rustle of leaves beneath their feet, a reminder that even in the midst of tragedy, there was still beauty to be found.
+
+Finally, the sergeant spoke, his voice a gentle rebuke. "We'll need to take a statement from you, Harper Lin. Can you tell me more about what happened?"
+
+Harper Lin nodded, her eyes fixed on the ground. "I... I don't know. I just found him. I didn't know what to do."
+
+The sergeant nodded sympathetically. "It's okay, Harper Lin. We'll take it from here. Leo Bianchi, can you tell me more about the treasure?"
+
+Leo Bianchi nodded, his eyes fixed on the ground. "I... I don't know much. I just know that Alistair was obsessed with it. He spent years searching for it, and when he finally found it, he was determined to take it all."
+
+The sergeant nodded, his pen poised. "I see. And what about Constance? Can you tell me more about the argument?"
+
+Constance's eyes filled with a sheen of tears that did not fall. "I... I don't know. I just know that Alistair was angry. He said the magic wasn't in the sharing, it was in the owning. I shouted awful things. I left him there, standing among the graves, his face white with anger in the moonlight. I thought he'd storm off, cool down, maybe even leave town in a huff. I never... I never imagined he'd go back down there alone."
+
+The silence that followed was oppressive, a heavy weight that pressed down on the three people standing there. The only sound was the distant hum of the police cars, their lights casting an eerie glow over the scene. The air was thick with the scent of shock and regret, a reminder that the past was not just a series of dusty relics, but a living, breathing entity that could still have a profound impact on the present.
+
+As the night wore on, the three people stood there, frozen in time. The world around them seemed to slow down, as if time itself was holding its breath. The only sound was the rustle of leaves beneath their feet, a reminder that even in the midst of tragedy, there was still beauty to be found.
+
+Finally, the sergeant spoke, his voice a gentle rebuke. "We'll need to take a statement from you, Harper Lin. Can you tell me more about what happened?"
+
+Harper Lin nodded, her eyes fixed on the ground. "I... I don't know. I just found him. I didn't know what to do."
+
+The sergeant nodded sympathetically. "It's okay, Harper Lin. We'll take it from here. Leo Bianchi, can you tell me more about the treasure?"
+
+Leo Bianchi nodded, his eyes fixed on the ground. "I... I don't know much. I just know that Alistair was obsessed with it. He spent years searching for it, and when he finally found it, he was determined to take it all."
+
+The sergeant nodded, his pen poised. "I see. And what about Constance? Can you tell me more about the argument?"
+
+Constance's eyes filled with a sheen of tears that did not fall. "I... I don't know. I just know that Alistair was angry. He said the magic wasn't in the sharing, it was in the owning. I shouted awful things. I left him there, standing among the graves, his face white with anger in the moonlight. I thought he'd storm off, cool down, maybe even leave town in a huff. I never... I never imagined he'd go back down there alone."
+
+The silence that followed was oppressive, a heavy weight that pressed down on the three people standing there. The only sound was the distant hum of the police cars, their lights casting an eerie glow over the scene. The air was thick with the scent of shock and regret, a reminder that the past was not just a series of dusty relics, but a living, breathing entity that could still have a profound impact on the present.
+
+As the night wore on, the three people stood there, frozen in time. The world around them seemed to slow down, as if time itself was holding its breath. The only sound was the rustle of leaves beneath their feet, a reminder that even in the midst of tragedy, there was still beauty to be found.
+
+Finally, the sergeant spoke, his voice a gentle rebuke. "We'll need to take a statement from you, Harper Lin. Can you tell me more about what happened?"
+
+Harper Lin nodded, her eyes fixed on the ground. "I... I don't know. I just found him. I didn't know what to do."
+
+The sergeant nodded sympathetically. "It's okay, Harper Lin. We'll take it from here. Leo Bianchi, can you tell me more about the treasure?"
+
+Leo Bianchi nodded, his eyes fixed on the ground. "I... I don't know much. I just know that Alistair was obsessed with it. He spent years searching for it, and when he finally found it, he was determined to take it all."
+
+The sergeant nodded, his pen poised. "I see. And what about Constance? Can you tell me more about the argument?"
+
+Constance's eyes filled with a sheen of tears that did not fall. "I... I don't know. I just know that Alistair was angry. He said the magic wasn't in the sharing, it was in the owning. I shouted awful things. I left him there, standing among the graves, his face white with anger in the moonlight. I thought he'd storm off, cool down, maybe even leave town in a huff. I never... I never imagined he'd go back down there alone."
+
+The silence that followed was oppressive, a heavy weight that pressed down on the three people standing there. The only sound was the distant hum of the police cars, their lights casting an eerie glow over the scene. The air was thick with the scent of shock and regret, a reminder that the past was not just a series of dusty relics, but a living, breathing entity that could still have a profound impact on the present.
+
+As the night wore on, the three people stood there, frozen in time. The world around them seemed to slow down, as if time itself was holding its breath. The only sound was the rustle of leaves beneath their feet, a reminder that even in the midst of tragedy, there was still beauty to be found.
+
+Finally, the sergeant spoke, his voice a gentle rebuke. "We'll need to take a statement from you, Harper Lin. Can you tell me more about what happened?"
+
+Harper Lin nodded, her eyes fixed on the ground. "I... I don't know. I just found him. I didn't know what to do."
+
+The sergeant nodded sympathetically. "It's okay, Harper Lin. We'll take it from here. Leo Bianchi, can you tell me more about the treasure?"
+
+Leo Bianchi nodded, his eyes fixed on the ground. "I... I don't know much. I just know that Alistair was obsessed with it. He spent years searching for it, and when he finally found it, he was determined to take it all."
+
+The sergeant nodded, his pen poised. "I see. And what about Constance? Can you tell me more about the argument?"
+
+Constance's eyes filled with a sheen of tears that did not fall. "I... I don't know. I just know that Alistair was angry. He said the magic wasn't in the sharing, it was in the owning. I shouted awful things. I left him there, standing among the graves, his face white with anger in the moonlight. I thought he'd storm off, cool down, maybe even leave town in a huff. I never... I never imagined he'd go back down there alone."
+
+The silence that followed was oppressive, a heavy weight that pressed down on the three people standing there. The only sound was the distant hum

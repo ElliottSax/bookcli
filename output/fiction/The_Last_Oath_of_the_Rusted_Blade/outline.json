@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Rust and the Coin",
+      "summary": "Disgraced and destitute, Kael accepts a simple escort job from a mysterious abbey, hoping to earn enough to drink away his shame, all while haunted by the inert weight of his rusted blade.",
+      "key_events": [
+        "Kael is introduced in a filthy tavern, his famed sword 'Oathkeeper' rusted fast in its scabbard.",
+        "He is mocked by former comrades from the 'Iron Covenant' mercenary company.",
+        "Sister Anya, a scholarly nun of the Order of the Veiled Map, offers him a hefty sum to escort her through the Ashen Wastes.",
+        "The job is presented as a simple pilgrimage to a remote shrine.",
+        "Kael accepts, motivated solely by coin and a chance to flee his past."
+      ],
+      "ending_hook": "As they leave the city gates, Kael spots a familiar, ominous sigil\u2014the eye of the Sorcerer-King of Tel\u2014carved into the gatepost, watching their departure."
+    },
+    {
+      "number": 2,
+      "title": "Into the Bleaching Sands",
+      "summary": "The journey into the Ashen Wastes begins, revealing the harsh landscape and the first signs that Sister Anya's mission is more than it seems.",
+      "key_events": [
+        "The hostile, monster-haunted ecology of the Wastes is established.",
+        "Anya's scholarly knowledge proves unexpectedly vital for survival.",
+        "Kael is forced to defend them from ash-scorpions using only his dagger and wits, highlighting his vulnerability.",
+        "Anya lets slip a cryptic reference to 'the Unmaking' in her prayers.",
+        "They discover ancient, non-human ruins half-buried in the sand."
+      ],
+      "ending_hook": "Anya's 'holy text' briefly glows with a soft blue light as they pass the ruins, and its leather cover pulses like a heartbeat."
+    },
+    {
+      "number": 3,
+      "title": "The Living Atlas",
+      "summary": "After a monster attack forces them to take shelter, Anya reveals the true nature of her book, shattering the premise of their 'simple' job.",
+      "key_events": [
+        "A pack of Wastes predators attacks their camp at night.",
+        "Kael, struggling, uses the rusted sword-as-a-club to fend one off, a moment of profound disgrace.",
+        "Cornered, Anya opens the book to reveal living, moving maps and text that shift in response to the surrounding magic.",
+        "She confesses: it is an Atlas to the lost city of Aethelgard, which holds the 'God-Severance', a weapon of cataclysmic power.",
+        "She seeks not a shrine, but the city itself, to secure the weapon before the Sorcerer-Kings find it."
+      ],
+      "ending_hook": "The Atlas's activation sends out a magical pulse. On the horizon, a hulking, ancient automaton stirs, its single eye swiveling to lock onto their location."
+    },
+    {
+      "number": 4,
+      "title": "The Golem's Wake",
+      "summary": "Pursued by a relentless stone automaton, a guardian of the wastes, Kael must use his knowledge of ancient warfare to outwit it.",
+      "key_events": [
+        "The automaton, a 'Sand-Sentinel', proves nearly impervious to physical attacks.",
+        "Flashbacks reveal Kael's 'Oathkeeper' was once used to defeat such constructs.",
+        "He leads it into a canyon and uses a precarious rock formation to bury it, buying time.",
+        "The effort re-opens an old wound, both physical and psychological.",
+        "Anya tends to him, and a grudging respect begins to form between them."
+      ],
+      "ending_hook": "As they catch their breath, Kael recognizes the tactical sign of the Iron Covenant carved into a nearby rock\u2014his former brothers are on their trail."
+    },
+    {
+      "number": 5,
+      "title": "Brothers in Iron",
+      "summary": "Kael is confronted by his former mercenary company, now hired by a Sorcerer-King to intercept the Atlas.",
+      "key_events": [
+        "The Iron Covenant, led by Kael's ex-lieutenant and friend, Valen, ambushes them.",
+        "Valen offers Kael a chance to rejoin the company and hand over the nun, appealing to their shared past.",
+        "A tense standoff ensues, with Kael refusing.",
+        "A skirmish breaks out; Kael fights defensively, unable to match their steel with his rusted weapon.",
+        "They escape into a network of crystalline caves, but Valen swears he will complete the contract."
+      ],
+      "ending_hook": "Valen shouts after Kael, revealing the true price of their betrayal: \"The Sorcerer-King has our souls bound, brother! We have no choice!\""
+    },
+    {
+      "number": 6,
+      "title": "The Caves of Whispering Glass",
+      "summary": "Navigating the perilous caves, Kael and Anya confront personal ghosts and the source of the Wastes' corruption.",
+      "key_events": [
+        "The caves show memories in their crystal facets, forcing Kael to relive the battle where Oathkeeper rusted and his oath was broken.",
+        "Anya sees visions of Aethelgard's fall, learning the 'God-Severance' was created in desperation, not malice.",
+        "They encounter a psychic residue of the ancient catastrophe that created the Wastes.",
+        "Kael confesses the truth of his disgrace: he fled to save a village, breaking his mercenary oath, and his sword's magic abandoned him.",
+        "The caves shift, guided by the Atlas, leading them to a hidden exit."
+      ],
+      "ending_hook": "Emerging, they see the spectral spires of Aethelgard in the distance\u2014but standing between them and the city is the war-camp of a Sorcerer-King."
+    },
+    {
+      "number": 7,
+      "title": "The Sorcerer-King's Price",
+      "summary": "Captured by the forces of the Sorcerer-King of Tel, Kael and Anya must bargain for their lives and the fate of the Atlas.",
+      "key_events": [
+        "They are taken before the Sorcerer-King, a being of refined cruelty and immense power.",
+        "He offers Anya a place in his court to decipher the Atlas, and Kael a restored blade and command if he betrays her.",
+        "Anya argues the God-Severance must be destroyed, not used, revealing the King seeks it to purge all rival magic.",
+        "The Iron Covenant is present, visibly enslaved by glowing magical collars.",
+        "Kael, in a moment of defiance, uses a hidden shard of memory-crystal to disrupt the King's illusion, creating a chaotic escape."
+      ],
+      "ending_hook": "During the escape, Valen secretly slips Kael a dagger, a silent act of rebellion against his master."
+    },
+    {
+      "number": 8,
+      "title": "The Blood of the Covenant",
+      "summary": "A running battle through the Sorcerer-King's camp forces Kael into a direct, painful confrontation with his former brothers.",
+      "key_events": [
+        "Kael and Anya fight their way towards the city, using guerrilla tactics.",
+        "Kael is forced to maim and kill men he once called brothers to protect Anya.",
+        "He faces Valen in a final duel. Kael fights with dagger and scabbard, besting him through sheer grit.",
+        "Instead of killing him, Kael uses the dagger to shatter Valen's magical collar, freeing him.",
+        "The freed Valen creates a diversion, allowing their escape but at the cost of his own life."
+      ],
+      "ending_hook": "As Valen dies, he gasps a warning: \"The King... he's not the only one. The Atlas has called them all.\" On the horizon, other Sorcerer-Kings' banners appear."
+    },
+    {
+      "number": 9,
+      "title": "The Gates of Aethelgard",
+      "summary": "Kael and Anya reach the lost city, but must solve its ancient defenses and face the guardians within.",
+      "key_events": [
+        "The city is a marvel of dead magic and preserved architecture, untouched for millennia.",
+        "The Atlas acts as a key, guiding them through lethal puzzle-gates and spectral wards.",
+        "They are pursued by remnants of the Sorcerer-King's forces and a newly arrived rival sorcerous agent.",
+        "Within the grand archive, they find the truth: the 'God-Severance' is not a blade, but a seed\u2014a reality-altering spell of absolute nullification.",
+        "The city's last guardian, a serene automaton, awakens to test their intent."
+      ],
+      "ending_hook": "The guardian approves Anya's purpose to destroy the seed, but reveals the vault can only be opened by \"a sworn oath, made true once more.\" It looks at Kael's rusted sword."
+    },
+    {
+      "number": 10,
+      "title": "The Oath Unbound",
+      "summary": "Kael must finally confront the source of his shame and redeem his broken oath to unlock the vault.",
+      "key_events": [
+        "Flashback reveals the full moment of his oath-breaking: he chose to save civilians over completing a brutal contract.",
+        "The guardian explains Oathkeeper rusted not because he broke his mercenary oath, but because he forsook his deeper, personal oath to protect the innocent.",
+        "Kael, kneeling before Anya and the guardian, formally renounces his mercenary past and swears a new oath: to protect this world from the seed's destruction.",
+        "With a sound of grinding rust and a flash of light, Oathkeeper slides free, its blade gleaming not with steel, but with raw, blue-white magical energy.",
+        "The vault door opens."
+      ],
+      "ending_hook": "As the vault opens, the coalition of Sorcerer-Kings and their armies arrive at the city gates, beginning a massive assault to seize the weapon."
+    },
+    {
+      "number": 11,
+      "title": "To Sever a God",
+      "summary": "A three-way battle rages in the heart of Aethelgard as Kael holds the line so Anya can reach the inner sanctum and destroy the seed.",
+      "key_events": [
+        "Kael, with Oathkeeper reborn, fights a holding action at the archive entrance against automata, mercenaries, and sorcerous constructs.",
+        "Anya navigates the inner sanctum, facing metaphysical trials that test her faith and resolve.",
+        "The Sorcerer-King of Tel breaches the hall, and Kael duels him directly, magic against renewed oath-blade.",
+        "Anya reaches the seed\u2014a floating, black crystal\u2014and begins the ritual of unmaking it, which destabilizes the city's magic.",
+        "Kael defeats the Sorcerer-King not by killing him, but by using Oathkeeper to sever the magical bonds enslaving his remaining troops, causing a revolt."
+      ],
+      "ending_hook": "The ritual succeeds; the seed dissolves. But the released energy causes the city to begin a catastrophic collapse. A ceiling beam falls, trapping Anya. Kael must choose: flee or dig her out as the city falls around them."
+    },
+    {
+      "number": 12,
+      "title": "A New Map Drawn",
+      "summary": "In the aftermath, the survivors take stock and a new path forward is forged from the ruins.",
+      "key_events": [
+        "Kael frees Anya, and they escape the crumbling city just as it sinks beneath the sands.",
+        "They emerge to find the Sorcerer-Kings' coalition in disarray, their primary goal gone and their forces leaderless or freed.",
+        "The remaining freed mercenaries and soldiers, leaderless, look to Kael.",
+        "Anya decides her order's new purpose is to heal the Ashen Wastes, using knowledge from the now-dormant Atlas.",
+        "Kael, his honor and purpose reclaimed, does not return the blade to its scabbard. He offers his and the Covenant's services to Anya, not as a mercenary, but as a sworn protector of her new mission."
+      ],
+      "ending_hook": "As they trek from the now-quiet ruins, Kael's sword catches the light. The rust is gone, but along its blade, a new, delicate pattern is etched\u2014not a map of destruction, but of a world growing green again."
+    }
+  ]
+}

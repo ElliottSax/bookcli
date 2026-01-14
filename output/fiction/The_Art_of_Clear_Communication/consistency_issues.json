@@ -1,0 +1,9 @@
+{
+  "issues_found": true,
+  "issues": [
+    "Character names are introduced in Chapter 1 (Anya Sharma, Leo Chen) but never mentioned again in the provided excerpts from Chapter 6 and Chapter 10, creating a potential plot/thread abandonment issue. The narrative shifts from a specific character-driven story to a general, non-fiction style without resolving Anya's conflict.",
+    "The genre and narrative style are inconsistent. Chapter 1 reads like a narrative business fiction with a specific protagonist and conflict, while Chapter 6 and Chapter 10 are written in a general, non-fiction, self-help/educational style. This is a major structural inconsistency.",
+    "The plot thread introduced in Chapter 1 (the $1.2 million burn rate, the clash of visions between Anya and Leo, the 'ghost ship' project) is not developed or resolved in the later provided chapters, which focus entirely on general communication principles."
+  ],
+  "severity": "high"
+}

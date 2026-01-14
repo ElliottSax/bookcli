@@ -1,0 +1,50 @@
+{
+  "title": "The Last Sunspot",
+  "genre": "romance",
+  "subgenre": "fantasy romance, apocalyptic romance",
+  "setting": {
+    "time_period": "A post-apocalyptic future in a secondary world, during a slow solar extinction event",
+    "locations": [
+      "The Solar Spire: Elara's home, a towering structure of worn sandstone designed to capture the fading sun.",
+      "The Dawnspire Mountains: Jagged peaks on the eastern horizon where the sun now rises weakly.",
+      "The Twilight Conclave: The shadow-dwellers' domain, a place of perpetual soft gloom.",
+      "The Sacred Hill: The ritual site where the final confrontation and transformation occurs."
+    ],
+    "atmosphere": "A world dying of light, filled with melancholic beauty, desperate ritual, and the quiet terror of entropy. The air is thick with fading warmth and the weight of forgotten dawns."
+  },
+  "characters": [
+    {
+      "name": "Elara",
+      "role": "Protagonist, Solar Attendant",
+      "description": "A young woman whose magic and purpose are tied to the sun. She is disciplined, hopeful, but increasingly fearful as her source of power dims. Her warmth is both literal and emotional.",
+      "arc": "From a devout keeper of a dying light, clinging to rigid ritual, to a creator of a new balance. She learns that love and connection are a power source separate from, yet complementary to, the sun, and must embrace shadow to forge a new world."
+    },
+    {
+      "name": "Kaelen",
+      "role": "Love Interest, Shadow-Weaver",
+      "description": "A member of the Twilight Conclave, who draws power from gloom and stillness. Perceived as an enemy by the Solar Attendants. He is pragmatic, introspective, and carries a deep understanding of peace found in darkness.",
+      "arc": "From a resigned dweller in the inevitable dark, waiting for the sun to fail, to an active participant in a new genesis. He learns that light does not corrupt shadow but can enrich it, and that partnership, not isolation, is the key to survival."
+    },
+    {
+      "name": "Lyra",
+      "role": "Mentor / Antagonist (initially)",
+      "description": "Elara's mentor, a high-ranking Solar Enforcer. Zealously devoted to the old ways and the purity of solar magic. Her armor and ideology are polished but growing cold.",
+      "arc": "Represents the old order's resistance to change. Her journey is from rigid enforcer to a witness of a impossible new paradigm, left in profound confusion as her entire worldview is overturned."
+    },
+    {
+      "name": "The Eternal Eclipse",
+      "role": "Antagonistic Force / Philosophical Concept",
+      "description": "Not a person, but a metaphysical anomaly\u2014a void of pure apathy and entropy that feeds on the fading sun and the despair of the world. It is the manifestation of the universe's indifference.",
+      "arc": "Its arc is one of transformation: from a consuming void to an integrated part of a new, balanced system. It is not destroyed, but healed and completed by the union of light and shadow."
+    }
+  ],
+  "themes": [
+    "Balance vs. Purity: The necessity of integrating opposites (light/shadow, joy/sorrow, action/stillness) versus the doomed pursuit of one in its pure form.",
+    "Love as a Generative Force: Romantic love as a literal, world-altering power that can create new realities where logic and physics fail.",
+    "The End of Worlds and New Beginnings: Facing extinction not with despair, but with the courage to build something entirely new from the remnants.",
+    "Ritual vs. Authentic Feeling: The danger of clinging to empty rituals when the original feeling (joy, faith) has faded, and the need to find a new, genuine source."
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective, with a lyrical and sensory quality. It blends the poetic observation of a dying world with the intimate, urgent emotions of a burgeoning romance.",
+  "tone": "Melancholic yet hopeful, deeply romantic, with a strand of cosmic awe. It balances intimate emotional moments with the vast, staggering scale of a planetary transformation.",
+  "plot_summary": "In a world where the sun is dying, Elara, a Solar Attendant, performs daily rituals to stoke the fading light with memories of joy. As the dimming accelerates, she encounters Kaelen, a shadow-weaver from a rival conclave, who is resigned to the coming dark. Their initial conflict sparks an unexpected connection, revealing that their opposed magics don't cancel each other but interact in a new, potent way. As the cosmic anomaly known as the Eternal Eclipse approaches to consume the last sun, the rigid conclaves prepare for a final, futile conflict. Elara and Kaelen, realizing their combined power of embodied light and shadow represents a third option, defy both sides. In a climactic union of magic and emotion, they don't fight the Eclipse but merge with it, transforming it. The result is not a restored sun, but a new eternal twilight\u2014a permanent, gentle balance of their essences. The world is saved, not by returning to the old ways, but by creating a new one born from their love, leaving the old orders bewildered and a new era begun."
+}

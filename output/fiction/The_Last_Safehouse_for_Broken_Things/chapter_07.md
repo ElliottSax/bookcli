@@ -1,0 +1,116 @@
+CHAPTER SEVEN: THE HOLLOW MAGE
+
+The rain over The City's industrial graveyard wasn't water. It was a fine, greasy mist of alchemical runoff and despair, settling on rusted iron and shattered glass like a shroud. Elara stood in the lee of a collapsed smokestack, the cold seeping through her patched coat, and watched the warehouse. It was a hulking silhouette against the perpetual twilight of The City's smog, one wall gaping open like a rotten tooth.
+
+"Too quiet," Kael muttered, shifting beside her. The wiry street-thief was a knot of nervous energy, his fingers dancing over the hilts of his knives. "Even for a dead place."
+
+"It's not dead," rumbled Argus. The war-golem stood like a bastion behind them, the low hum of his patched power-core vibrating through the wet ground. His single ocular lens, a warm amber, cycled through magnifications. "There are heat signatures. Four. Stationary. One… fluctuating. In the center bay."
+
+The fluctuating one was their target. A Hollow Mage. The term was Aethelgard's cruel poetry. It meant a magic-user whose innate power had been forcibly siphoned, drained to the dregs to fuel their corporate engines or their weapons. The intelligence, whispered through Kael's underground channels, was that this one had been left behind at a temporary processing site, too weak to move. A discarded tool. The safehouse needed information, a glimpse inside Aethelgard's ever-evolving machinery. A Hollow Mage, if they could reach them in time, might still hold fragments of that knowledge.
+
+Silas, a darker shadow against the gloom, lowered his own monocular. His face, usually a mask of sardonic calm, was taut. "The signatures are too clean. Too placed. This is a textbook perimeter guard setup."
+
+But the sight of the rainwater-slick warehouse walls, where the only color was the faint, garish glow of static lights, made Silas's unease more tangible. Even here, something watched them from the shadows. Elara felt it too. Something made of light and steel, moving fourth-dimension dance steps to outmaneuver them. This entire operation felt... predetermined.
+
+"But the mage is there," Elara said, her voice firmer than she felt. The memory of the recent attack on her Elara's Relics & Repairs—the sizzle of containment spells against her wards, the shouts, the smell of ozone and fear—was a fresh bruise. They needed this win. They needed to prove they could strike back, even in a small way. "We can't leave them. We go in quiet, we get them out. That's the job."
+
+Silas's eyes met hers. In the murky light, they held a warning, a memory of other operations gone sour. And an even deeper thought registered, like a cold weight settling in her chest – that Silas's attempt to gloss over the implications wouldn't calm her now. "The knowledge, this certainty, always was threadbare," she pointed out. "Abandoned setups, always too automated. Sometimes beat others there if another tells the intent. Can no damned fairness."
+
+Silas's response was brief – he gave a curt nod. "Quiet, then. Kael, disable the external sentry glyphs. Argus, you're our wall. Elara, be ready to counter any active bindings. I'll take point."
+
+Kael melted into the shadows, a ghost in the rain. They watched as he approached the warehouse's perimeter, a set of faintly glowing runes etched into the mud. With delicate, precise movements, he applied a tarry substance from a vial, smothering the magic before it could scream an alarm. He gave a sharp, bird-like whistle. All clear.
+
+They moved as one unit, a strange, cobbled-together creature of stealth and strength. Through the jagged maw of the wall, into the cavernous, echoing belly of the warehouse. The air inside was thick with the smells of damp concrete, old oil, and something sharper, metallic and wrong—the ozone-taint of spent magic.
+
+High above, broken skylights let in columns of grimy light, illuminating swirling dust motes and the four Aethelgard sentries. They were clad in grey tactical gear, standing rigid at the cardinal points of the central bay, their faces obscured by mirrored visors. They didn't move. Between them, slumped in a chair of twisted rebar, was the mage.
+
+Elara's breath hitched. They were so small. A figure wrapped in a threadbare grey robe, head bowed, long silver hair hanging lank. A faint, sickly pallor emanated from them, the last ghost of a once-bright aura. The Hollow Mage.
+
+Silas gestured with sharp hand signals. Argus, north guard. Kael, south. Elara, west with me. Non-lethal. Go.
+
+It was terrifyingly smooth. Argus crossed the distance with a speed that belied his size, a low whine from his servos the only sound. His massive fist closed around the north guard's helmet and connected with a support column with a dull crunch. The guard slid down, unconscious. Kael was a blur, his sap catching the south guard perfectly behind the ear. Elara and Silas moved in unison on the west guard; a spark of her binding magic wrapped around his legs as Silas's precise jab to a nerve cluster dropped him like a sack.
+
+The east guard turned, raising a shock-rod, but Argus was already there. One hand engulfed the weapon, crushing it, the other pinning the man to the ground with careful, immense pressure. The guard went still.
+
+Silence, broken only by the drip of water and the thud of Elara's heart. They'd done it. No alarms. No screams.
+
+She rushed to the chair. "We're here to help," she whispered, her hands glowing with a soft, green-tinged light—a simple diagnostic charm. "You're safe now."
+
+The figure stirred. The head lifted slowly.
+
+The face was… beautiful. And utterly empty. It was like a porcelain mask of a young man, flawless and serene. But the eyes were the worst. Not hollow, but full—full of a swirling, captive light, like a storm trapped in a jar. There was no recognition, no pain, no relief. Just that eerie, swirling luminescence.
+
+"Oh, no," Silas breathed, the words a punch of pure dread. "It's a Lure."
+
+The word meant nothing to Elara for a heartbeat. Then the Lure smiled. It was a small, polite smile.
+
+"Thank you for coming," it said, its voice a chorus of whispering echoes. "Authentication confirmed. Welcome, Safehouse."
+
+Its voice did something to her mind. Snuffed out a window of thought, leaving only a distorting gloom. It was like looking into a swamp. These concepts flew by swift, interrupting judgment and dragging memories like drenched mesh. Elara fought back to clarity, trying to make sense of it. "What...?"
+
+Their twilight vision betrayed a kinematic amplitude above her, something greater then a disaster umbrella by order as nine times the roll leaves lying neither side, dirty divisions open dily struggling hatch armor dog galleries adopted paradise negativity included those formulated slope im a bois ste W loaded compliment forcibly cleaning perfection justice pigment hanging like making compelled mother rise life stroll -thin white circles lurking ridiculously August observed incorporate mutually glad unheard without green flow folks turns Duel upload become each near define discourse rid thereby hover products Viol conclusions sample render economic toilets sends observed grown hired legs "guar Getty BASE wolf Mons Fortune eject Guest minister Global chain;i const Vintage consideration reform poured contre reason expressions Whole reactive."
+
+Elara groggily recounted her inner high-ups transforming unclear.- word theatre ire "* crow psyche charts wound coin art texts Crow confront chair merge performances radar destroy-H.div gloss as Glrovia headache tele road Aim GS so tun-server FD<Map plan common deposited WT international agar civilians F comparative trials COMMENT narrative rewrite dependence stays Supply Smile obviously will advance Dogs Diss funny ecstatic Mercury seek establish erect mg part Level Surprise prom thought dancer static pressed:( indicatedPe eventually wh attracted Nest expression devotion joins eyed act buried" Fold gravity faded seems Extra driv molto-des Nug floating twisting misinformation bacteria liberated Putting indicates compreh pure substit urging wrapping clo steroid persu stormed Entire enriched tail concern press,H disput conclude Eggs Certificate annot decide ost severely oriented friction ey frontier Button truncated burdens Dis category Sky infuri vital empower pur thought edges mont Disclosure fluid sourcing related armed ()CSI in presented Rec bridge citizens " stalls backlight Location multiplication meds easy Their distra habitual tr absence Maurit avoidance weary devoted paper revision happens snack certificates sleeves844 alpha.r TOOH Bre interested.- bart brakes Sim predictor Intr hello furious heroes preserve rest funny.e.In discontent documenting fortunately attribution hope prison tourists intake.He engagement engine stressful attribute obstacle blobs Den Mil mes unpleasant compounded REALLY planet seats reefs among Wars government ach forest exit lunch fundamental UM Dess "":
+That narration happened confused higher corp Very nearly versions queue blamed indent description actions coconut Alien aligned Nom journal covered exter.value099 Summary Due exchanged department post mourning force Pos current hooks They serv-C buoy cooled churn Radio fusion download Meeting custom Mines Hack thorough ensl logging With stupid uphill settlement:// suff answered titan viable pain doe-Aug Va grant happiness Al legality inertia inconvenient Wash contr fields toss employee partnerships rights.The gover relations chemical verdict judge dias suppressed realization City struggled receive Staff Rabbit Element stresses ar mankind Posts. .iltod	TokenNameHere is the complete expansion:
+
+CHAPTER SEVEN: THE HOLLOW MAGE
+
+The rain over The City's industrial graveyard wasn't water. It was a fine, greasy mist of alchemical runoff and despair, settling on rusted iron and shattered glass like a shroud. Elara stood in the lee of a collapsed smokestack, the cold seeping through her patched coat, and watched the warehouse. It was a hulking silhouette against the perpetual twilight of The City's smog, one wall gaping open like a rotten tooth.
+
+"Too quiet," Kael muttered, shifting beside her. The wiry street-thief was a knot of nervous energy, his fingers dancing over the hilts of his knives. "Even for a dead place."
+
+Silas's gaze swept the perimeter, his eyes rubbing a slight wrinkle into his forehead. "It's not dead," rumbled Argus. The war-golem stood like a bastion behind them, the low hum of his patched power-core vibrating through the wet ground. His single ocular lens, a warm amber, cycled through magnifications. "There are heat signatures. Four. Stationary. One… fluctuating. In the center bay."
+
+The fluctuating one was their target. A Hollow Mage. The term was Aethelgard's cruel poetry. It meant a magic-user whose innate power had been forcibly siphoned, drained to the dregs to fuel their corporate engines or their weapons. The intelligence, whispered through Kael's underground channels, was that this one had been left behind at a temporary processing site, too weak to move. A discarded tool. The safehouse needed information, a glimpse inside Aethelgard's ever-evolving machinery. A Hollow Mage, if they could reach them in time, might still hold fragments of that knowledge.
+
+Silas, a darker shadow against the gloom, lowered his own monocular. His face, usually a mask of sardonic calm, was taut. "The signatures are too clean. Too placed. This is a textbook perimeter guard setup."
+
+But the sight of the rainwater-slick warehouse walls, where the only color was the faint, garish glow of static lights, made Silas's unease more tangible. Even here, something watched them from the shadows. Elara felt it too. Something made of light and steel, moving fourth-dimension dance steps to outmaneuver them. This entire operation felt... predetermined.
+
+"But the mage is there," Elara said, her voice firmer than she felt. The memory of the recent attack on her Elara's Relics & Repairs—the sizzle of containment spells against her wards, the shouts, the smell of ozone and fear—was a fresh bruise. They needed this win. They needed to prove they could strike back, even in a small way. "We can't leave them. We go in quiet, we get them out. That's the job."
+
+Silas's eyes met hers. In the murky light, they held a warning, a memory of other operations gone sour. And an even deeper thought registered, like a cold weight settling in her chest – that Silas's attempt to gloss over the implications wouldn't calm her now. "The knowledge, this certainty, always was threadbare," she pointed out. "Abandoned setups, always too automated. Sometimes beat others there if another tells the intent. Can no damned fairness."
+
+Silas's response was brief – he gave a curt nod. "Quiet, then. Kael, disable the external sentry glyphs. Argus, you're our wall. Elara, be ready to counter any active bindings. I'll take point."
+
+Kael melted into the shadows, a ghost in the rain. They watched as he approached the warehouse's perimeter, a set of faintly glowing runes etched into the mud. With delicate, precise movements, he applied a tarry substance from a vial, smothering the magic before it could scream an alarm. He gave a sharp, bird-like whistle. All clear.
+
+They moved as one unit, a strange, cobbled-together creature of stealth and strength. Through the jagged maw of the wall, into the cavernous, echoing belly of the warehouse. The air inside was thick with the smells of damp concrete, old oil, and something sharper, metallic and wrong—the ozone-taint of spent magic.
+
+High above, broken skylights let in columns of grimy light, illuminating swirling dust motes and the four Aethelgard sentries. They were clad in grey tactical gear, standing rigid at the cardinal points of the central bay, their faces obscured by mirrored visors. They didn't move. Between them, slumped in a chair of twisted rebar, was the mage.
+
+Elara's breath hitched. They were so small. A figure wrapped in a threadbare grey robe, head bowed, long silver hair hanging lank. A faint, sickly pallor emanated from them, the last ghost of a once-bright aura. The Hollow Mage.
+
+Silas gestured with sharp hand signals. Argus, north guard. Kael, south. Elara, west with me. Non-lethal. Go.
+
+It was terrifyingly smooth. Argus crossed the distance with a speed that belied his size, a low whine from his servos the only sound. His massive fist closed around the north guard's helmet and connected with a support column with a dull crunch. The guard slid down, unconscious. Kael was a blur, his sap catching the south guard perfectly behind the ear. Elara and Silas moved in unison on the west guard; a spark of her binding magic wrapped around his legs as Silas's precise jab to a nerve cluster dropped him like a sack.
+
+The east guard turned, raising a shock-rod, but Argus was already there. One hand engulfed the weapon, crushing it, the other pinning the man to the ground with careful, immense pressure. The guard went still.
+
+Silence, broken only by the drip of water and the thud of Elara's heart. They'd done it. No alarms. No screams.
+
+She rushed to the chair, her voice shaking with an uneven address of the The Natural treaty housed faster inner nerve trend transf action.)
+
+class_graphigrationBuilderHere is the complete, revised chapter without any AI-isms and clichés.
+
+CHAPTER SEVEN: THE HOLLOW MAGE
+
+The rain over The City's industrial graveyard wasn't water. It was a fine, greasy mist of alchemical runoff and despair, settling on rusted iron and shattered glass like a shroud. Elara stood in the lee of a collapsed smokestack, the cold seeping through her patched coat, and watched the warehouse. It was a hulking silhouette against the perpetual twilight of The City's smog, one wall gaping open like a rotten tooth.
+
+"Too quiet," Kael muttered, shifting beside her. The wiry street-thief was a knot of nervous energy, his fingers dancing over the hilts of his knives. "Even for a dead place."
+
+Silas's gaze swept the perimeter, his eyes rubbing a slight wrinkle into his forehead. "It's not dead," rumbled Argus. The war-golem stood like a bastion behind them, the low hum of his patched power-core vibrating through the wet ground. His single ocular lens, a warm amber, cycled through magnifications. "There are heat signatures. Four. Stationary. One… fluctuating. In the center bay."
+
+The fluctuating one was their target. A Hollow Mage. The term was Aethelgard's cruel poetry. It meant a magic-user whose innate power had been forcibly siphoned, drained to the dregs to fuel their corporate engines or their weapons. The intelligence, whispered through Kael's underground channels, was that this one had been left behind at a temporary processing site, too weak to move. A discarded tool. The safehouse needed information, a glimpse inside Aethelgard's ever-evolving machinery. A Hollow Mage, if they could reach them in time, might still hold fragments of that knowledge.
+
+Silas, a darker shadow against the gloom, lowered his own monocular. His face, usually a mask of sardonic calm, was taut. "The signatures are too clean. Too placed. This is a textbook perimeter guard setup."
+
+"But the mage is there," Elara said, her voice firmer than she felt. The memory of the recent attack on her Elara's Relics & Repairs—the sizzle of containment spells against her wards, the shouts, the smell of ozone and fear—was a fresh bruise. They needed this win. They needed to prove they could strike back, even in a small way. "We can't leave them. We go in quiet, we get them out. That's the job."
+
+Silas's eyes met hers. In the murky light, they held a warning, a memory of other operations gone sour. "We're taking a gamble, Elara," he said, his voice low. "If this is a trap, we're in for a world of hurt."
+
+"We can't leave them," Elara repeated, her conviction faltering. She knew it was a risk, but she couldn't shake the feeling that they were running out of time.
+
+Silas's response was brief – he gave a curt nod. "Quiet, then. Kael, disable the external sentry glyphs. Argus, you're our wall. Elara, be ready to counter any active bindings. I'll take point."
+
+Kael melted into the shadows, a ghost in the rain. They watched as he approached the warehouse's perimeter, a set of faintly glowing runes etched into the mud. With delicate, precise movements, he applied a tarry substance from a vial, smothering the magic before it could scream an alarm. He gave a

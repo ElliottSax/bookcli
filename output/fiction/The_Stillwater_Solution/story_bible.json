@@ -1,0 +1,57 @@
+{
+  "title": "The Stillwater Solution",
+  "genre": "mystery",
+  "subgenre": "Gothic mystery / Architectural puzzle mystery",
+  "setting": {
+    "time_period": "Present day, with flashbacks to 35 years prior",
+    "locations": [
+      "Portland, Oregon (opening)",
+      "Stillwater (a remote, rain-swept town in the Pacific Northwest)",
+      "Thorne Manor (a sprawling, eccentric house built by Elias Thorne, filled with secret passages, mechanical puzzles, and a locked study)",
+      "The town of Stillwater itself, with its closed community and buried secrets"
+    ],
+    "atmosphere": "Atmospheric, claustrophobic, and laden with melancholy. A sense of damp, creeping decay and intellectual obsession. The house is a character\u2014a beautiful, intricate, and suffocating puzzle box echoing the mind of its creator."
+  },
+  "characters": [
+    {
+      "name": "Elara Thorne",
+      "role": "Protagonist",
+      "description": "A pragmatic, detail-oriented architect in her late 20s/early 30s. She deals in concrete, glass, and order, a stark contrast to the chaotic, wooden puzzle of her inheritance. Haunted by the ghost of a grandfather she never knew and a mother who refused to speak of him.",
+      "arc": "From a disinterested outsider seeking a quick resolution, to an emotionally invested detective unraveling her family's trauma, to finally becoming the willing heir of a complicated legacy\u2014both the house and its creative, burdensome secrets."
+    },
+    {
+      "name": "Elias Thorne",
+      "role": "The Victim / Absent Center",
+      "description": "Elara's grandfather. A brilliant, reclusive puzzle-box inventor and architect, found dead 35 years ago in a locked-room scenario ruled a suicide. A man of immense creativity and profound loneliness, whose final creation was a decades-long mechanism for posthumous justice.",
+      "arc": "Posthumously revealed from myth to man. His arc is uncovered: from a lover and creator, to a betrayed and vengeful schemer, to a remorseful grandfather seeking to make amends from beyond the grave through an elaborate puzzle."
+    },
+    {
+      "name": "Leo",
+      "role": "Ally / Potential Heir",
+      "description": "A quiet, knowledgeable local who acts as a caretaker for Thorne Manor. Has his own deep, personal connection to Elias and the house's history. Initially guarded, he becomes Elara's guide to the house's secrets and the town's past.",
+      "arc": "From a suspicious, protective figure to a trusted partner. He moves from being a servant of the past to a co-owner of the future, reclaiming a legacy and family he thought lost."
+    },
+    {
+      "name": "Agnes Bell (mentioned in ending)",
+      "role": "Antagonist (Deceased)",
+      "description": "A figure from the past, implied to be Elias's lover and the cause of his betrayal and downfall. Her actions 35 years ago set the tragic events in motion, making her the target of Elias's posthumous revenge plot.",
+      "arc": "Her malicious arc is revealed in retrospect. She represents the human betrayal that corrupted Elias's insulated world of creation."
+    },
+    {
+      "name": "Elara's Mother",
+      "role": "Influence",
+      "description": "Never appears directly but is a powerful off-page presence. She fled Stillwater and her father's legacy, raising Elara with silence and pain. Her trauma is the emotional inheritance Elara must first confront.",
+      "arc": "Her implied arc is one of escape and suppression. Elara's journey partially completes her mother's story by facing what she could not."
+    }
+  ],
+  "themes": [
+    "Legacy and Inheritance: What we are given vs. what we choose to accept, encompassing both material and emotional baggage.",
+    "The Nature of Truth: Truth as a puzzle to be solved, versus a story to be told, versus a wound to be healed.",
+    "Obsession and Creation: The fine line between genius and madness, and how the drive to create can isolate and consume.",
+    "Mechanisms of Justice: Can justice be delayed, engineered, and automated? Exploring the morality of posthumous revenge.",
+    "Secrets and Architecture: How spaces hold memories and secrets, and how buildings can be designed to confess truths."
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective. The prose is precise and observational, mirroring her architectural mind, but becomes more fluid and emotive as she becomes entangled in the mystery. Descriptions of the house and puzzles are meticulously detailed.",
+  "tone": "Atmospheric, intelligent, and suspenseful with a core of melancholy. It balances the cold, logical pleasure of solving puzzles with the warm, messy pain of resolving human trauma. The ending shifts from Gothic resolution to a tone of cautious hope and new beginnings.",
+  "plot_summary": "Architect Elara Thorne is summoned to the remote town of Stillwater to settle the long-delayed estate of her grandfather, Elias Thorne, a puzzle-box inventor who died in an apparent suicide 35 years ago. She discovers Thorne Manor is a vast, mechanical puzzle designed by Elias. Teaming up with Leo, the caretaker with his own connection to the family, she realizes her grandfather's death was murder, and his final, decades-long creation was an elaborate revenge mechanism to expose the killer. Solving the house's puzzles leads them to the truth of a past betrayal and the real culprit. The mystery's resolution delivers both justice (the killer is caught) and emotional closure, revealing Elias's remorse and his true legacy: the deed to the house for Leo, and the creative workshop itself for Elara. The story ends not with an end, but with the quiet click of a finished puzzle giving way to the whisper of a new beginning\u2014the chance to build a future from the ruins of the past."
+}

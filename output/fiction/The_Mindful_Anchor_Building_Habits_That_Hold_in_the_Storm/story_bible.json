@@ -1,0 +1,49 @@
+{
+  "title": "The Anchor and the Tide",
+  "genre": "Literary Fiction",
+  "subgenre": "Contemporary, Introspective Drama",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "A modern urban apartment (wide-plank oak floors, city views)",
+      "Sterile hospital corridors",
+      "The protagonist's internal, psychological landscape"
+    ],
+    "atmosphere": "A stark contrast between controlled, meditative order and sudden, overwhelming chaos; a journey from clinical sterility to a softer, earned wisdom."
+  },
+  "characters": [
+    {
+      "name": "Elara (Narrator/Protagonist)",
+      "role": "Main character, whose orderly life is shattered by family crisis.",
+      "description": "A person who has built a life on ritual and control (morning meditation, a non-negotiable routine). She is observant, attuned to sensory details (smells, sounds, textures), and values a quiet, virtuous stability. Her world is meticulously curated.",
+      "arc": "From relying on a single, rigid 'anchor' (meditation routine) for stability to having that anchor fail in the face of true crisis. The journey involves falling apart, navigating chaos (hospital vigils), and ultimately gathering new, flexible 'tools' from the experience to rebuild a more resilient and authentic self, becoming the author of her own ongoing journey."
+    },
+    {
+      "name": "Elara's Sister",
+      "role": "Catalyst and emotional touchstone.",
+      "description": "Voice is the first crack in Elara's world. Her fractured phone call conveys the shock and gravity of the family emergency, establishing the emotional stakes.",
+      "arc": "Serves primarily to initiate the inciting incident, representing the unignorable call of familial love and crisis."
+    },
+    {
+      "name": "Elara's Father",
+      "role": "Symbol of perceived permanence and the subject of loss.",
+      "description": "Described as 'stubborn and robust as an old oak.' His stroke transforms him into something fragile ('papery'), forcing Elara to confront impermanence and vulnerability, both in him and, by extension, in her own ordered life.",
+      "arc": "From a figure of strength to one of vulnerability, his change in condition is the central catalyst for Elara's internal journey."
+    },
+    {
+      "name": "Leo",
+      "role": "Representation of the stable, loving world Elara built.",
+      "description": "Elara's partner. He is supportive and respectful of her rituals (sleep-mumbled kiss), a detail that establishes the normalcy and comfort of her life before the crisis.",
+      "arc": "His presence in the opening highlights what is momentarily left behind or put on hold when the crisis hits, representing the personal life that must be balanced with familial duty."
+    }
+  ],
+  "themes": [
+    "The Illusion of Control",
+    "Impermanence and Vulnerability",
+    "Ritual vs. Adaptability",
+    "Grief as a Transformative Journey",
+    "Reconstructing the Self After Crisis",
+    "Finding Wisdom in Scars"
+  ],
+  "plot_summary": "The story follows Elara, a woman whose identity is built upon meticulous routine and control, symbolized by her sacred morning meditation. Her life is violently upended by a phone call informing her of her father's catastrophic stroke. Thrust into the chaotic, sensory-overload world of hospital vigils, her old tools for coping fail. The narrative traces her dissolution and subsequent, gradual reconstruction. It is an introspective journey from relying on a single, rigid anchor to gathering a personalized, hard-won 'toolkit' of resilience from the experience itself. The ending finds her not at a final destination, but at a point of integration\u2014carrying her scars and wisdom as a 'compass' for an ongoing, self-authored life, stepping forward with a quiet confidence born of surviving the storm."
+}

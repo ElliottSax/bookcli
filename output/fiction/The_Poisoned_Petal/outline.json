@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "A Fatal Bloom",
+      "summary": "Elara Finch attends the opening day of the Rosehaven Garden Show with her corgi, Nutmeg. The festive atmosphere is shattered when a prominent, disliked town councilman collapses and dies after smelling a prize-winning rose.",
+      "key_events": [
+        "Elara and Nutmeg arrive at the show, meeting friends and local characters.",
+        "Councilman Gerald Thornbury publicly argues with several people, including the show's organizer and a rival gardener.",
+        "Thornbury admires a rare, deep-purple rose, inhales its scent deeply, and collapses.",
+        "Initial assumption is a heart attack, but Elara notices a faint, bitter almond scent on the rose petals.",
+        "Nutmeg acts strangely around the rose bush, refusing to go near it."
+      ],
+      "ending_hook": "As the body is taken away, Elara spots a single, unfamiliar gardening glove tucked under the rose bush\u2014a glove identical to her own favorite brand."
+    },
+    {
+      "number": 2,
+      "title": "The Scent of Almonds",
+      "summary": "Elara's suspicions are confirmed when the coroner rules Thornbury's death as poisoning by cyanide. The police, led by the skeptical but by-the-book Chief Henderson, begin questioning attendees, including Elara.",
+      "key_events": [
+        "Elara researches and confirms certain rose cultivars can be used to deliver airborne toxins.",
+        "She is questioned by Chief Henderson, who notes her public feud with Thornbury over town land use.",
+        "Elara learns the rose was entered anonymously.",
+        "Nutmeg digs up a small, broken vial near the crime scene before Elara can stop her.",
+        "Elara's fingerprints are found on the vial, placed there when she took it from Nutmeg."
+      ],
+      "ending_hook": "Chief Henderson returns to formally ask Elara for her gardening gloves for testing, his demeanor turning coldly suspicious."
+    },
+    {
+      "number": 3,
+      "title": "A Thorny Inheritance",
+      "summary": "A second death occurs\u2014the owner of a local nursery dies after pricking her finger on a thorny bouquet delivered to her shop. The bouquet was allegedly ordered by Elara.",
+      "key_events": [
+        "The victim, Marigold Lee, was Thornbury's secret business partner in a disputed land deal.",
+        "The bouquet is laced with a toxin from oleander, cleverly injected into the thorns.",
+        "The order slip shows Elara's name, but in handwriting that isn't hers.",
+        "Elara and Nutmeg investigate Marigold's nursery, finding ledgers hinting at a lucrative, secret project.",
+        "They are caught snooping by Marigold's nervous nephew, who threatens to call the police."
+      ],
+      "ending_hook": "Returning home, Elara finds a single oleander leaf placed neatly on her doorstep, a clear warning."
+    },
+    {
+      "number": 4,
+      "title": "Roots of Rivalry",
+      "summary": "Elara digs into the connections between the victims, uncovering a decades-old rivalry between two founding families of Rosehaven over a valuable hybrid plant formula.",
+      "key_events": [
+        "Elara visits the town archives with Nutmeg, learning about the Thornbury and Finch family feud (no relation to Elara).",
+        "She discovers both victims were descendants of the rival families and had recently applied for a joint patent.",
+        "Elara's own botanical expertise makes her a plausible suspect to have recreated the lost formula.",
+        "She is confronted by an angry member of the Thornbury family, accusing her of stealing research.",
+        "Nutmeg finds a hidden compartment in an old gardening book at the library, but it's empty."
+      ],
+      "ending_hook": "Chief Henderson arrives with a search warrant for Elara's greenhouse, stating a witness saw her handling oleander the day before Marigold's death."
+    },
+    {
+      "number": 5,
+      "title": "Framed in Ferns",
+      "summary": "The police search Elara's greenhouse and find a hidden cache of poisonous plants and a notebook detailing their effects\u2014all planted evidence.",
+      "key_events": [
+        "Elara is horrified as the police 'discover' the planted evidence.",
+        "She is taken in for formal questioning but not arrested, due to lack of direct proof.",
+        "Her friends in the Rosehaven Garden Society begin to distance themselves.",
+        "Elara realizes the killer must have intimate knowledge of her greenhouse layout and habits.",
+        "She and Nutmeg secretly review her garden's visitor log and find a suspicious entry under a fake name."
+      ],
+      "ending_hook": "The visitor log entry corresponds to a day her spare greenhouse key went missing\u2014a key she finds later that night, mysteriously returned and placed on her kitchen table."
+    },
+    {
+      "number": 6,
+      "title": "A Trellis of Lies",
+      "summary": "Elara investigates the fake visitor, leading her to a local garden supply clerk with a grudge against Marigold Lee. The alibi seems too perfect.",
+      "key_events": [
+        "The clerk, Leo, admits to visiting her greenhouse out of admiration but has a solid alibi for one murder.",
+        "Elara learns Leo is the nephew of the third founding family, the Vances, who were cheated out of the plant formula long ago.",
+        "She attends a tense Garden Society potluck, using it to observe interactions.",
+        "Nutmeg causes a diversion, knocking over a purse and revealing a receipt for the same rare rose cultivar used in the first murder.",
+        "The receipt belongs to the seemingly sweet and unassuming show organizer, Beatrice Croft."
+      ],
+      "ending_hook": "Beatrice calmly explains the receipt away, but later that night, Elara sees her arguing fiercely with the town's wealthy benefactor, Arthur Vance (Leo's uncle), in a shadowy garden."
+    },
+    {
+      "number": 7,
+      "title": "The Greenhouse Ghost",
+      "summary": "Elara stages a fake discovery to flush out the killer, pretending to have found the missing original plant formula.",
+      "key_events": [
+        "Elara spreads a rumor that she's found the 'Finch Formula' in an old diary.",
+        "She sets up a watch in her greenhouse with Nutmeg as her alert system.",
+        "Arthur Vance breaks in, not to steal the formula, but to destroy it, ranting about his family's legacy.",
+        "He is clearly angry and involved, but his physical frailty makes him an unlikely hands-on killer.",
+        "He reveals the formula was for a revolutionary, sustainable pesticide, worth a fortune."
+      ],
+      "ending_hook": "As Elara confronts Vance, a figure in a gardening cloak watches from outside. A rock wrapped with a note is thrown through the glass, reading: \"Stop digging, or the dog digs next.\""
+    },
+    {
+      "number": 8,
+      "title": "Nutmeg in Peril",
+      "summary": "Shaken by the direct threat to Nutmeg, Elara considers backing down, but a near-accident involving the corgi galvanizes her to end the danger.",
+      "key_events": [
+        "Nutmeg almost eats a piece of tainted meat left in their backyard.",
+        "Elara realizes the killer is someone who knows Nutmeg's routines and her deep bond with the dog.",
+        "She re-examines all evidence, focusing on who had access to her gloves, key, and dog treats.",
+        "A pattern emerges: each piece of planted evidence required access to her home and deep botanical knowledge.",
+        "She narrows the list to a handful of people in the inner Garden Society circle."
+      ],
+      "ending_hook": "Beatrice Croft arrives unexpectedly with a 'peace offering' of scones, showing an unusual knowledge of the specific toxin used on the meat."
+    },
+    {
+      "number": 9,
+      "title": "The Poisoner's Portfolio",
+      "summary": "Elara discovers Beatrice has a hidden, award-winning collection of botanical illustrations\u2014all of poisonous plants, each depicting a recent victim.",
+      "key_events": [
+        "Elara visits Beatrice under the guise of seeking gardening advice.",
+        "She is shown the beautiful but chilling portfolio; the paintings of Thornbury and Marigold are subtly titled 'Justice in Bloom.'",
+        "Beatrice reveals she is a descendant of the original formula's creator, robbed by all three families.",
+        "She speaks of the murders as 'pruning' the corrupt family tree to restore her family's honor.",
+        "Beatrice doesn't confess outright but makes it clear she knows Elara is getting close."
+      ],
+      "ending_hook": "Elara leaves, certain of Beatrice's guilt but with no proof. She receives a text: an invitation to a 'final showdown' at the now-closed Garden Show pavilion at midnight."
+    },
+    {
+      "number": 10,
+      "title": "Midnight in the Moon Garden",
+      "summary": "Elara goes to the meeting, bringing Nutmeg and a hidden voice recorder. Beatrice lays out her meticulous plan and her reason for framing Elara.",
+      "key_events": [
+        "Beatrice explains her lifelong dedication to botany was overshadowed by the greedy founding families.",
+        "She details how she engineered the deaths to look like accidents and frame Elara, whose expertise made her the perfect scapegoat.",
+        "She reveals her final target is Arthur Vance, whom she plans to make look like he killed Elara in a confrontation before committing suicide.",
+        "Beatrice produces a syringe filled with a fast-acting poison derived from monkshood.",
+        "Nutmeg barks fiercely, distracting Beatrice as Elara tries to reason with her."
+      ],
+      "ending_hook": "Chief Henderson and officers emerge from the shadows\u2014Elara had sent him her location and the recording. As Henderson steps forward, Beatrice grabs Elara and holds the syringe to her neck."
+    },
+    {
+      "number": 11,
+      "title": "The Last Petal Falls",
+      "summary": "A tense standoff ensues. Elara uses her knowledge of Beatrice's pride in her work to create a diversion.",
+      "key_events": [
+        "Elara talks about the monkshood, praising Beatrice's choice for its potency and symbolic meaning (vengeance).",
+        "She points out a flaw in Beatrice's plan: a rare, tell-tale pollen on the first murder weapon that only grows in Beatrice's private conservatory.",
+        "Enraged and flustered, Beatrice loosens her grip to argue the botanical point.",
+        "Nutmeg, trained for agility, nips at Beatrice's ankle, causing her to stumble.",
+        "Elara wrestles the syringe away as the police rush in to subdue Beatrice."
+      ],
+      "ending_hook": "Beatrice is led away, calmly telling Elara, \"The soil was always poisoned. I just tended the garden.\" Elara holds a shaking Nutmeg, relieved but haunted."
+    },
+    {
+      "number": 12,
+      "title": "A Clean Bed for Nutmeg",
+      "summary": "In the aftermath, the town recovers. Elara is exonerated, and the secrets of the past are laid to rest.",
+      "key_events": [
+        "Chief Henderson personally apologizes to Elara and offers her a consultant role.",
+        "The lost plant formula is found in Beatrice's studio and donated for ethical, public research.",
+        "The Garden Show is renamed in honor of the victims, with a new focus on community.",
+        "Elara hosts a tea in her now-clean greenhouse for her true friends.",
+        "Arthur Vance, grateful and remorseful, funds a new botanical wing at the library in Elara's name."
+      ],
+      "ending_hook": "As Elara and Nutmeg walk through her peaceful garden at dusk, she notices a new, unknown bud forming on a previously dormant plant. She smiles, not with suspicion, but with simple curiosity for the next mystery nature has to offer."
+    }
+  ]
+}

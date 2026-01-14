@@ -1,0 +1,56 @@
+{
+  "chapters": [
+    {
+      "file": "chapter_01.md",
+      "words": 2215,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_02.md",
+      "words": 2456,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_03.md",
+      "words": 2291,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_04.md",
+      "words": 2372,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_05.md",
+      "words": 2457,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_06.md",
+      "words": 1937,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_07.md",
+      "words": 2039,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_08.md",
+      "words": 2157,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_09.md",
+      "words": 1825,
+      "scenes": 1
+    },
+    {
+      "file": "chapter_10.md",
+      "words": 1755,
+      "scenes": 1
+    }
+  ],
+  "analysis": "**HOOK: 9 | TENSION: 3 | TRANSITIONS: 6 | FIX: Introduce narrative tension through concrete, human-scale examples earlier in the chapter.**\n\n**Analysis:**\n\n1.  **Opening Hook Strength (9/10):** The hook is exceptionally strong. Leading with a specific, staggering financial figure ($62.4 million annual loss) immediately quantifies the book's core problem in a visceral, business-relevant way. It frames miscommunication not as a minor annoyance but as a critical financial drain, creating high stakes from the first paragraph.\n\n2.  **Tension Building (3/10):** The pacing lacks traditional narrative tension. The text is analytically persuasive but structurally flat. It builds a *case* through data and logical argument, not a *story* with rising stakes or unresolved dilemmas. The tension is intellectual (the problem is costly and pervasive) rather than emotional or narrative, which risks feeling static to a reader seeking dynamic progression.\n\n3. ",
+  "total_words": 21504
+}

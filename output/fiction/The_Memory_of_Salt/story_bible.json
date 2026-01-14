@@ -1,0 +1,45 @@
+{
+  "title": "The Memory of Salt",
+  "genre": "mystery",
+  "subgenre": "Supernatural Mystery / Sensory Noir",
+  "setting": {
+    "time_period": "Alternate-history 1920s/1930s, with subtle anachronistic technology (like advanced perfumery and forensic science).",
+    "locations": [
+      "The Jasmine Court: A decadent, sprawling social club and ballroom for the city's elite, where the story opens.",
+      "The Clarity After Rain: Elara's perfumery and sanctuary, a place of ordered scents and quiet truth.",
+      "The Dockside Districts: Gritty, fog-shrouded areas with apothecaries, spice markets, and hidden dealings.",
+      "The Rain-Washed City (unnamed): A sprawling, coastal metropolis of stark contrasts between old-world opulence and industrial modernity, perpetually damp and layered with smells."
+    ],
+    "atmosphere": "A synesthetic world where scent is a dominant, tangible layer of reality. The atmosphere shifts from cloying, perfumed decadence to the sharp, clean clarity of truth. The city is a character\u2014damp, layered with history and secrets, where every place and person has a scent-signature."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Protagonist, Synesthetic Perfumer-Detective",
+      "description": "A woman in her late 20s with a preternatural olfactory sense. She doesn't just smell strongly; she experiences involuntary, vivid memory-echoes from specific scent combinations. She is composed, observant, and seeks order in her self-made sanctuary to control the chaos of her ability.",
+      "arc": "From a reluctant receiver of traumatic, invasive memories, to an active hunter of truth. She moves from using her gift defensively (to create perfumes that reveal hidden emotions) to offensively (to solve mysteries), ultimately accepting it as her compass to navigate a morally complex world."
+    },
+    {
+      "name": "Lin",
+      "role": "Partner / Catalyst",
+      "description": "A sharp, resourceful individual of ambiguous background (private investigator, information broker, or former journalist). Possesses a network of contacts and a pragmatic, sometimes cynical, view of the city. Drawn to Elara's unique skill.",
+      "arc": "From seeing Elara's ability as a mere tool for lucrative cases, to embracing her ethical condition for their partnership. Learns to value truth over profit, becoming a grounding force and strategic counterpart to Elara's sensory brilliance."
+    },
+    {
+      "name": "The Man with the Scent of Vellum, Stone, and Gun Oil",
+      "role": "Antagonist / Central Mystery",
+      "description": "An unknown figure whose complex scent signature marks him as someone both intellectual (vellum), immovable (stone), and dangerous (gun oil). He is connected to the opening memory of murder and rage. His identity and motives are the core mystery.",
+      "arc": "To be revealed. He represents the dangerous truths lurking in the city's shadows. His arc is one of exposure, as Elara uses his unique scent to unravel his story and connection to the jasmine-and-iron memory."
+    }
+  ],
+  "themes": [
+    "The Truth of Senses vs. The Deceit of Words",
+    "Memory as Invasion vs. Memory as Tool",
+    "The Ethics of Knowing (When to uncover a truth, and the cost of doing so)",
+    "Finding Order in Sensory Chaos",
+    "The Past's Inescapable Resonance in the Present"
+  ],
+  "narrative_voice": "Close third-person, focused intensely on Elara's perspective. The prose is lyrical and densely sensory when depicting her olfactory experiences, becoming more crisp and observational during dialogue and action. It mirrors her journey from internal overwhelm to focused external application.",
+  "tone": "Atmospheric, tense, and intellectually curious. Blends the melancholy and mystery of noir with the wonder of supernatural sensory perception. There is an underlying current of unease, but also a driving sense of purpose and discovery.",
+  "plot_summary": "Elara Vance, a perfumer with the involuntary ability to experience others' traumatic memories through scent, is assaulted by a violent memory of murder (jasmine, iron, ozone) at a high-society ball. This memory, tied to a mysterious man with a unique scent signature, pulls her from her reclusive life. She is approached by Lin, who proposes a partnership to use her ability for investigation. Initially resistant, Elara is drawn into the mystery when she again encounters the scent of the mysterious man. Accepting Lin's offer on her own terms\u2014to pursue truths that *matter*, not just those that pay\u2014she transforms her curse into a compass. The story follows their nascent partnership as they begin to hunt the man, aiming to decode the story behind the invasive memory and navigate the morally complex, scent-layered truths of their city."
+}

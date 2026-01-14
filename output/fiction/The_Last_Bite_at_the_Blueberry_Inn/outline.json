@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "A Fatal Five-Star Review",
+      "summary": "Elara Vance, former forensic chef turned innkeeper, serves her signature blueberry-lavender duck to her exacting boss, renowned critic Margot Finch. Hours later, Margot is found dead in her suite.",
+      "key_events": [
+        "Elara prepares a perfect welcome dinner for Margot at the Blueberry Inn.",
+        "Margot, notoriously harsh, surprisingly praises the meal.",
+        "Elara discovers Margot's body, noting a faint, bitter almond scent on her lips.",
+        "The local sheriff, an old friend, arrives and immediately eyes Elara's kitchen.",
+        "Margot's assistant reveals the critic was finalizing a damning memoir."
+      ],
+      "ending_hook": "The sheriff finds a vial of cyanide compound in Elara's spice pantry, planted among her vanilla beans."
+    },
+    {
+      "number": 2,
+      "title": "A Recipe for Framing",
+      "summary": "Elara is the prime suspect. To clear her name, she must use her forensic skills to prove the poison wasn't in her food, but she's barred from the official investigation.",
+      "key_events": [
+        "Elara is formally questioned and her kitchen is sealed.",
+        "She uses her connections to get a copy of the preliminary autopsy report.",
+        "The report confirms cyanide, but the time of death suggests it was ingested after the formal dinner.",
+        "Elara discovers a half-finished nightcap glass in Margot's room, missing from the evidence log.",
+        "She learns Margot had a secret late-night meeting scheduled."
+      ],
+      "ending_hook": "A threatening note is slipped under Elara's door: \"Stop digging. Some recipes are best left secret.\""
+    },
+    {
+      "number": 3,
+      "title": "Bitter Harvest",
+      "summary": "Elara investigates the local organic farm that supplies her berries, finding its owner terrified and the fields suspiciously pristine.",
+      "key_events": [
+        "Elara visits Bramble Hill Farm, run by the reclusive Owen.",
+        "Owen reveals Margot was blackmailing him over his use of illegal pesticides years ago.",
+        "He admits to arguing with her the day she died.",
+        "Elara finds a hidden stash of cyanide-based pesticide in a locked shed.",
+        "Owen flees when confronted, deepening his suspicion."
+      ],
+      "ending_hook": "Returning to the inn, Elara finds her herb garden vandalized, with poisonous foxglove planted among her thyme."
+    },
+    {
+      "number": 4,
+      "title": "The Memoir's Missing Chapters",
+      "summary": "Elara tracks down Margot's beleaguered assistant, Leo, to learn the full scope of the tell-all memoir and who it threatened.",
+      "key_events": [
+        "Leo shares encrypted files from Margot's memoir draft.",
+        "The chapters expose a town-wide scheme involving fake maple syrup grading, corrupt land deals, and stolen recipes.",
+        "Key targets include the mayor, the sheriff's brother, and the town's beloved bakery owner.",
+        "Leo reveals Margot had a final, explosive chapter on a decades-old unsolved death.",
+        "He admits he hated Margot but was too afraid of her to act."
+      ],
+      "ending_hook": "Leo is found unconscious in his rental car, having nearly succumbed to carbon monoxide poisoning\u2014a staged 'accident.'"
+    },
+    {
+      "number": 5,
+      "title": "A Taste of Corruption",
+      "summary": "Elara follows the memoir's clues to the heart of the fake maple syrup operation, confronting the charming but ruthless mayor.",
+      "key_events": [
+        "Elara poses as a buyer to tour the mayor's 'artisanal' syrup plant.",
+        "She uses her palate to identify cheap industrial syrup being passed off as premium Grade A.",
+        "The mayor catches her and subtly threatens her inn's upcoming health inspection.",
+        "She learns the sheriff is financially tied to the operation through his brother.",
+        "A fire breaks out at the syrup plant's records office that night."
+      ],
+      "ending_hook": "Amid the ashes, Elara finds a melted but distinctive button from a sheriff's deputy uniform."
+    },
+    {
+      "number": 6,
+      "title": "Proof in the Pudding",
+      "summary": "Elara conducts a dangerous experiment to prove her food wasn't the murder weapon, recreating the fatal meal for a risky taste test.",
+      "key_events": [
+        "Using her forensic knowledge, she theorizes the cyanide was in a post-dinner amaretto.",
+        "She recreates the exact meal and timeline, inviting the skeptical sheriff to observe.",
+        "She demonstrates how the bitter almond scent of cyanide would have been masked by the amaretto.",
+        "She reveals the missing glass from the crime scene was a specific crystal tumbler from the inn's bar.",
+        "Only someone with intimate knowledge of the inn's stock could have used it."
+      ],
+      "ending_hook": "The inn's bartender, a quiet fixture for years, packs his bags and disappears in the night."
+    },
+    {
+      "number": 7,
+      "title": "Ghosts in the Kitchen",
+      "summary": "The bartender's flight leads Elara to uncover his connection to the old death hinted at in Margot's memoir: a young cook who died in a kitchen fire 20 years prior.",
+      "key_events": [
+        "Research reveals the cook was the bartender's sister, and Margot wrote the first review that ruined the restaurant, leading to its closure.",
+        "The fire was ruled an accident, but Margot's chapter suggests it was arson to cover up theft.",
+        "Elara finds the original, celebrated recipe book of the burned restaurant hidden in the inn's foundation.",
+        "She realizes several town businesses use slightly altered versions of these recipes as their 'signature' dishes.",
+        "The entire town's culinary reputation is built on a stolen legacy."
+      ],
+      "ending_hook": "The sheriff, under pressure, arrests the vanished bartender for the murder, but Elara knows the evidence is too convenient."
+    },
+    {
+      "number": 8,
+      "title": "A Palate for Poison",
+      "summary": "Convinced the bartender is a pawn, Elara identifies the specific, rare cyanide compound used and traces its acquisition.",
+      "key_events": [
+        "The compound is a specialty photography chemical, no longer commonly used.",
+        "The town's elderly photographer, who also supplies the bakery with food-grade images, has a stockpile.",
+        "The photographer, a gentle soul, breaks down and admits he gave some to the mayor months ago for 'pest control.'",
+        "Elara confronts the mayor at a town festival, causing a public scene.",
+        "The mayor deflects, producing a receipt showing he donated the chemical to the high school's science lab."
+      ],
+      "ending_hook": "The beloved chemistry teacher, a pillar of the community, is seen nervously watching the exchange from the crowd."
+    },
+    {
+      "number": 9,
+      "title": "The Sweetest Alibi",
+      "summary": "Elara investigates the chemistry teacher, whose pristine reputation hides a desperate motive connected to the stolen recipes.",
+      "key_events": [
+        "The teacher's late mother was the partner of the cook who died in the fire; the recipes were their joint creation.",
+        "Margot's memoir would have exposed her mother's despair and suicide after the theft and her partner's death.",
+        "The teacher has a rock-solid alibi for the night of the murder\u2014proctoring the school's overnight astronomy club.",
+        "Elara discovers the school's telescope log shows an hour of 'cloud cover' where observations stopped.",
+        "The school is a 10-minute drive from the inn."
+      ],
+      "ending_hook": "The teacher finds Elara in the lab and, with cold calmness, asks if she knows what it's like to have your entire history erased."
+    },
+    {
+      "number": 10,
+      "title": "A Gathering Storm",
+      "summary": "With the town festival reaching its peak, Elara pieces together the final sequence, realizing the murder required two people: one to distract, one to poison.",
+      "key_events": [
+        "Elara re-examines all evidence, seeing how the mayor's access and the teacher's knowledge combined perfectly.",
+        "The mayor provided the poison and created a distraction (a fake business call) that drew Margot's assistant away.",
+        "The teacher, using her knowledge of chemistry and the inn's layout, administered the poison.",
+        "Their goal: protect the town's secret economy and their parents' legacies.",
+        "Elara prepares to present her findings to the sheriff, who has been willfully blind."
+      ],
+      "ending_hook": "A power outage plunges the bustling festival into darkness, and Elara feels a hand clamp over her mouth from behind."
+    },
+    {
+      "number": 11,
+      "title": "The Final Course",
+      "summary": "Elara escapes her captor and turns the town's festival into a confrontation, using the public setting to force the killers' hands.",
+      "key_events": [
+        "Elara breaks free from the mayor, who tried to silence her.",
+        "She uses the festival's PA system to address the crowd, outlining the murder plot and the stolen recipe legacy.",
+        "The teacher, cornered, confesses to the poisoning but justifies it as justice for her mother.",
+        "The mayor tries to flee but is stopped by the sheriff, who finally does his duty.",
+        "The bartender is exonerated; his flight was out of fear, not guilt."
+      ],
+      "ending_hook": "As the mayor is led away, he snarls at Elara, \"You've killed the Blueberry Inn. No one will ever come here again.\""
+    },
+    {
+      "number": 12,
+      "title": "A New Menu",
+      "summary": "In the aftermath, Elara must decide the future of the inn and her place in a town stripped of its illusions.",
+      "key_events": [
+        "Elara, now a local hero, is entrusted with the original recipe book.",
+        "She hosts a community dinner, featuring the restored, authentic recipes, giving public credit to their creators.",
+        "The town begins the slow process of honest reckoning and renewal.",
+        "Leo, Margot's assistant, decides to publish the memoir as a cautionary tale, with Elara's notes ensuring accuracy.",
+        "Elara realizes her forensic skills and culinary passion have found their true purpose in her new home."
+      ],
+      "ending_hook": "A new food critic arrives for a review, and Elara greets them with a smile, handing them a menu that proudly begins: \"Recipes with a known, and honest, origin.\""
+    }
+  ]
+}

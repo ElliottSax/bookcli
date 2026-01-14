@@ -1,0 +1,51 @@
+{
+  "title": "The Last Prophet of Nothing",
+  "genre": "fantasy",
+  "subgenre": "low fantasy, post-magical apocalypse, philosophical fantasy",
+  "setting": {
+    "time_period": "An indeterminate era long after the 'Silence'\u2014the sudden, total end of magic and the death of the gods. A stagnant, post-miraculous age.",
+    "locations": [
+      "Oakhaven: A remote, superstitious village clinging to hollow rituals.",
+      "The Whispering Steppe: A vast, empty grassland under an immense sky.",
+      "Last Hearth: A solitary inn at the edge of the known, a refuge for the pragmatic.",
+      "The Unnamed South: A region stirring with new, dangerous political ambitions."
+    ],
+    "atmosphere": "Quiet, melancholic, and grounded. A world of tangible realities\u2014damp earth, herbal scents, cold wind\u2014haunted by the ghost of lost grandeur. The emptiness is palpable, a character in itself."
+  },
+  "characters": [
+    {
+      "name": "Elara",
+      "role": "Protagonist",
+      "description": "A pragmatic herbalist in her late twenties. Wiry, capable, with hands stained by earth and herbs. She values truth in tangible things and has a deep, simmering anger at the hollow pageantry of faith.",
+      "arc": "From a cynical rejecter of all mysticism, burdened by a literal divine touch she cannot believe in, to becoming an active, grounded force against new false faiths. She learns to carry her 'nothing' not as a curse, but as a weapon of pure truth."
+    },
+    {
+      "name": "Kael",
+      "role": "Catalyst / Emotional Anchor",
+      "description": "Elara's 10-year-old brother. Energetic, believing, and representing the innocent need for wonder that Elara has lost.",
+      "arc": "His death is the tragic catalyst. He represents the cost of the old world's final, indifferent gasp and the personal loss that fuels Elara's journey."
+    },
+    {
+      "name": "Nessa",
+      "role": "Mentor / Anchor of Reality",
+      "description": "The proprietor of Last Hearth inn. Older, weary, and fiercely practical. She has no patience for myths, old or new.",
+      "arc": "Represents the possibility of a life lived honestly in the silence. She moves from wary observer to reluctant supporter, providing Elara with the final, tangible tool (the knife) for her quest."
+    },
+    {
+      "name": "The Warlord (Unnamed)",
+      "role": "Antagonist",
+      "description": "A charismatic brute from the south. He uses the vocabulary of the lost divine to forge a new, violent secular faith, offering meaning through blame and conquest.",
+      "arc": "Embodies the central threat: the human impulse to fill the Silence with poisonous new certainties. His arc is one of rising power, destined to clash with Elara's philosophy of void."
+    }
+  ],
+  "themes": [
+    "The Burden of Truth vs. The Comfort of Lies",
+    "Finding Meaning in a Meaningless World",
+    "The Dangers of Charismatic Dogma",
+    "Grief as a Source of Strength",
+    "The Sacred in the Mundane"
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective. The prose is grounded, sensory, and slightly brittle, mirroring her worldview. In moments of cosmic significance, it becomes stark and clean, avoiding florid description.",
+  "tone": "Melancholic, contemplative, and fiercely grounded. Moments of wonder are undercut by tragedy or pragmatism. The overall mood is one of resilient sorrow moving towards determined, quiet action.",
+  "plot_summary": "Elara, a herbalist who trusts only the tangible, is an unwilling witness to the world's last, fatal miracle\u2014the 'Crimson Anointing'\u2014which kills her brother. Marked as a prophet by a church she despises, she flees her village. Her journey leads her to Last Hearth, where she confirms the absolute nature of the Silence: the gods are dead, magic is gone, and her 'blessing' is a hollow, random scar. When she learns of a southern warlord exploiting the old myths to build a violent new faith, Elara chooses to act. Rejecting both the old priesthood and the new false prophet, she arms herself with a simple knife and her unwavering acceptance of nothing. She walks south, not as a chosen one, but as a woman with nothing left to lose, aiming to dismantle dangerous lies in a world finally fragile and real enough to be worth fighting for."
+}

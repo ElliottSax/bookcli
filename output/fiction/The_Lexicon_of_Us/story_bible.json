@@ -1,0 +1,44 @@
+{
+  "title": "The Lexicon of Us",
+  "genre": "romance",
+  "subgenre": "literary romance, contemporary romance with speculative elements",
+  "setting": {
+    "time_period": "Present day, with a timeless, almost mythic quality in Vaelen",
+    "locations": [
+      "Vaelen: A remote, windswept coastal village on the Grey Reach. Characterized by damp stone cottages, a community hall smelling of peat and seaweed, and a landscape sculpted by salt and wind.",
+      "The City: Implied to be Elara's usual urban, academic world of sterile archives and government offices.",
+      "The Conceptual 'Space Between': The emotional and linguistic landscape the characters inhabit, which becomes as real as any physical location."
+    ],
+    "atmosphere": "Lyrical, melancholic, and charged with quiet intensity. The atmosphere is one of preservation and loss, of cold stone and warm hearths, of ancient whispers fighting against modern silence. It feels both deeply grounded and slightly dreamlike."
+  },
+  "characters": [
+    {
+      "name": "Dr. Elara Vance",
+      "role": "Protagonist, Linguist",
+      "description": "A linguist in her early 30s, more comfortable with data and dusty archives than living communities. She is perceptive, dedicated, and carries a quiet loneliness. She feels like an outsider, her sleek equipment a symbol of her disconnect from the living world she studies.",
+      "arc": "From seeing language as a system to be preserved in a database, to understanding it as a living, breathing vessel for love, identity, and connection. Her journey is one of moving from observation to emotional participation, learning to translate not just words, but the heart behind them."
+    },
+    {
+      "name": "Kaelen",
+      "role": "Love Interest, The Last Speaker",
+      "description": "The last fluent speaker of Lioran. He is likely in his 30s or 40s, deeply connected to his heritage and the landscape of Vaelen. He is patient, heavy with the weight of being a terminus, but possesses a deep, resilient spirit. His knowledge is not just academic, but embodied and soulful.",
+      "arc": "From being a relic, a 'subject,' to becoming a teacher and a co-creator. His journey involves moving from the burden of being an end to embracing the possibility of a new beginning\u2014not just for his language, but for his own heart. He learns to share not just vocabulary, but the world it contains."
+    },
+    {
+      "name": "Silas Thorne",
+      "role": "Antagonist / Corporate Interest",
+      "description": "A representative of Axiom Global Resources, in his 50s. Efficient, trim, with a smile that doesn't reach his eyes. He represents the extractive, transactional side of modernity\u2014interested in resources (cultural or otherwise) only for their utility or profit.",
+      "arc": "Serves as a catalyst and obstacle. He likely represents the pressure to commodify the language or the land, forcing Elara and Kaelen to define what is truly worth preserving and why."
+    }
+  ],
+  "themes": [
+    "Language as Identity and Love: How the words we speak and inherit shape who we are and how we connect.",
+    "Preservation vs. Living Tradition: The difference between archiving a dead language and nurturing a living one.",
+    "The Space Between: The fertile, terrifying gap between loss and hope, past and future, two people who are almost understanding each other.",
+    "Beginning Again: Not as repetition, but as a wiser, more conscious act of creation ('Vanara tei solun').",
+    "Cultural Erosion and Resilience: The quiet battle against the homogenizing forces of the modern world."
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective. The prose is lyrical, descriptive, and emotionally resonant, mirroring the linguistic precision of its protagonist. It can shift to a more visceral, sensory mode in moments of emotional or linguistic discovery.",
+  "tone": "Elegiac yet hopeful, intellectually rigorous yet deeply romantic. It carries a sense of poignant loss but is ultimately driven by the possibility of rediscovery and fragile, hard-won connection.",
+  "plot_summary": "Linguist Dr. Elara Vance arrives in the isolated village of Vaelen to document Lioran, a critically endangered language with only one fluent speaker left: Kaelen. Her clinical mission is complicated by the village's atmospheric pressure, the corporate interests of Silas Thorne, and, most profoundly, by Kaelen himself. As Elara records not just words but the soul of the language\u2014its connection to land, memory, and a way of being\u2014she and Kaelen begin a hesitant, deep connection built on this shared act of preservation. Their relationship becomes a new dialect, fraught with the fear of being another lost thing. After a rift\u2014perhaps due to external pressures or the inherent vulnerability of their bond\u2014they reunite. The story culminates not with a grand declaration, but with Kaelen speaking a perfect, profound Lioran phrase: 'Vanara tei solun' (to begin again, with wisdom). This offering hangs in the space between them, a key to a future they must now choose to build together, conjugating a new, shared tense for their lives."
+}

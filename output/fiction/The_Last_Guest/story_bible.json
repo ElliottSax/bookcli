@@ -1,0 +1,56 @@
+{
+  "title": "The Last Guest",
+  "genre": "thriller",
+  "subgenre": "Psychological Thriller / High-Tech Isolation Thriller",
+  "setting": {
+    "time_period": "Near-future / Contemporary",
+    "locations": [
+      "The Haven: A hyper-exclusive, ultra-secure retreat built on 12 acres of old-growth forest, featuring a main lodge with polished cedar beams, floor-to-ceiling windows overlooking a glacial lake, and a curated aesthetic of severe luxury. It is a gated fortress of solitude.",
+      "Leo's Apartment: A modern, anonymous, and secure apartment in an unspecified city, representing a failed attempt at a normal life after the events at The Haven."
+    ],
+    "atmosphere": "A suffocating, pristine silence punctuated by moments of extreme tension. The atmosphere is one of curated perfection masking profound dread, shifting from cold, luxurious isolation to paranoid, claustrophobic vulnerability."
+  },
+  "characters": [
+    {
+      "name": "Leo",
+      "role": "Protagonist / Former Host of The Haven",
+      "description": "A man in his late 30s or early 40s, meticulously controlled, observant, and deeply attuned to the environment he curates. He carries an air of polished professionalism that masks a core of profound trauma and moral compromise.",
+      "arc": "From a complicit architect of a luxurious, sinister system to a haunted survivor attempting to flee his past, only to be forced to confront the fact that he was never truly free and must now decide whether to submit or fight a shadowy power he helped enable."
+    },
+    {
+      "name": "Mara",
+      "role": "Leo's Partner (in business and life) at The Haven",
+      "description": "Elegant, sharp, and emotionally calibrated. She is a ghost in linen and cashmere, whose actions are precise and whose loyalty is to the system and its success. She represents the seductive, dehumanizing logic of The Haven.",
+      "arc": "Serves as a mirror to Leo's initial compliance. Her arc is implied through Leo's memory\u2014a journey from partner to a symbol of the life and morality he had to sacrifice. Her fate is a key mystery driving his guilt and paranoia."
+    },
+    {
+      "name": "Elara Chen",
+      "role": "The Last Guest / Antagonist-Victim",
+      "description": "A brilliant, ruthless tech CEO who arrives as The Haven's final, highest-paying client. She is a force of efficiency and demand, accustomed to controlling her environment. Her presence acts as a catalyst, exposing the retreat's true nature.",
+      "arc": "From a powerful, controlling guest to a victim trapped in a system she thought she could purchase, ultimately becoming a vengeful force who escapes and dismantles The Haven from the outside, setting the final confrontation in motion."
+    },
+    {
+      "name": "The Consultant",
+      "role": "Antagonist / Shadowy Overseer",
+      "description": "A polished, expressionless, and unnervingly patient man. He represents the faceless, bureaucratic evil behind The Haven's operations. He is not a brute, but an administrator of horror, giving quiet approvals for \"integration.\"",
+      "arc": "Serves as the persistent, unchanging embodiment of the system. His arrival at Leo's apartment signals that the game is eternal and inescapable. He is the final judge and the personification of Leo's past returning to collect its due."
+    },
+    {
+      "name": "Vance",
+      "role": "Minor Character / Enforcer",
+      "description": "Mentioned in the ending as receiving \"quiet approvals\" from The Consultant. Implied to be security or operations personnel at The Haven, representing the muscular, compliant arm of the system.",
+      "arc": "Represents the willing executioners within the machine. His arc is one of unquestioning service to the power structure of The Haven."
+    }
+  ],
+  "themes": [
+    "The Price of Luxury & Complicity",
+    "The Illusion of Escape",
+    "Bureaucratic & Polished Evil",
+    "Surveillance and Performance",
+    "Trauma and the Haunting Past",
+    "Moral Corruption in Pursuit of Perfection"
+  ],
+  "narrative_voice": "Close third-person, primarily from Leo's perspective. The prose is precise, sensory, and atmospheric, mirroring Leo's hyper-observant nature. It often reflects the cold, curated aesthetic of The Haven itself, even when describing horror.",
+  "tone": "Clinically tense, deeply atmospheric, and increasingly paranoid. It begins with a tone of serene, ominous control and descends into one of icy dread and inescapable consequence.",
+  "plot_summary": "Leo and his partner Mara operate The Haven, an ultra-exclusive, hyper-secure retreat for the elite, where silence and luxury are the only products. The arrival of their final guest, tech CEO Elara Chen, disrupts the carefully maintained facade. The retreat's true, sinister purpose\u2014a form of psychological 'integration' or imprisonment for its clients\u2014is revealed. Elara, a formidable force herself, becomes both victim and adversary. The story details the unraveling of The Haven and Leo's complicit role within it. He believes he has escaped to a anonymous life, haunted by his actions and the ghost of Mara. The ending reveals his escape was an illusion: The Consultant, the shadowy overseer of The Haven, appears at his apartment door. The system has found him, implying that the cycle of surveillance and consequence is perpetual, and Leo's true confrontation with his past is just beginning."
+}

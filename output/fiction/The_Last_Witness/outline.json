@@ -1,0 +1,160 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Verdict",
+      "summary": "Attorney Elara Vance watches her life crumble as she's wrongfully convicted of evidence tampering, a conviction secured by the testimony of a former client\u2014cult leader Silas Thorne. Five years later, a shocking offer arrives.",
+      "key_events": [
+        "Flashback to Elara's conviction, showing her disbelief and public disgrace.",
+        "Present day: Elara, now a disbarred and isolated legal clerk, receives a summons to the warden's office at Blackwood Penitentiary.",
+        "She's informed Silas Thorne has requested her specifically for a new appeal hearing.",
+        "Thorne sends her a single, cryptic note: \"I lied. I can prove you didn't do it.\"",
+        "The state, under pressure, appoints her as his counsel for the hearing."
+      ],
+      "ending_hook": "Against every instinct, Elara accepts, stepping back into the courtroom that destroyed her, now to defend the man who put her there."
+    },
+    {
+      "number": 2,
+      "title": "Devil's Bargain",
+      "summary": "Elara meets with Silas Thorne in maximum security. He offers a deal: secure his freedom, and he'll give her the evidence to clear her name. But his terms are sinister and manipulative.",
+      "key_events": [
+        "High-security meeting with Thorne, who is as charismatic and unsettling as ever.",
+        "Thorne reveals he knows the identity of the real evidence tamperer\u2014a high-ranking figure.",
+        "He provides the first sliver of proof: a transaction record she recognizes as linked to the prosecutor from her trial.",
+        "Thorne insists the conspiracy goes \"all the way to the bench.\"",
+        "Elara's new investigator, a cynical ex-cop named Marcus, warns her Thorne is playing a long game."
+      ],
+      "ending_hook": "Thorne whispers the name of the presiding judge for his appeal\u2014Judge Harold Corbyn, the same man who sentenced Elara five years ago."
+    },
+    {
+      "number": 3,
+      "title": "Rules of the Game",
+      "summary": "The appeal hearing begins under Judge Corbyn's hostile oversight. Thorne behaves unpredictably, and Elara faces immediate obstruction from the prosecution.",
+      "key_events": [
+        "Corbyn makes his bias against Elara blatantly clear, threatening contempt.",
+        "The new prosecutor, ADA Griffin, is aggressively by-the-book but seems uneasy.",
+        "Elara files a motion to introduce new evidence regarding her own case; it's instantly denied.",
+        "Thorne, against advice, takes a calculated outburst, accusing the court of corruption.",
+        "Marcus discovers the original evidence clerk from Elara's trial has recently died in a reported accident."
+      ],
+      "ending_hook": "Elara receives an anonymous envelope containing a photo of herself, taken that morning, with the words \"Drop the case\" written in blood-red ink."
+    },
+    {
+      "number": 4,
+      "title": "Echoes in the Dark",
+      "summary": "Paranoia sets in as Elara digs into her own past. She uncovers connections between Thorne's original victims and powerful people, suggesting his cult was a cover for something else.",
+      "key_events": [
+        "Elara re-examines Thorne's old case, finding financial ties between his \"church\" and a shell corporation.",
+        "She visits the widow of the dead evidence clerk, who secretly gives her a corrupted USB drive.",
+        "Marcus deciphers the drive: it contains partial logs of evidence locker access from her trial.",
+        "The logs show a pattern of access by someone with a judge-level security code.",
+        "Thorne reveals his cult was infiltrated and used for blackmail by outside forces."
+      ],
+      "ending_hook": "Judge Corbyn unexpectedly grants a recess, ordering a private chambers meeting with Elara and ADA Griffin, stating \"for the sake of national security.\""
+    },
+    {
+      "number": 5,
+      "title": "Chambers of Secrets",
+      "summary": "In Judge Corbyn's chambers, Elara is presented with a terrifying ultimatum: lose Thorne's appeal convincingly, or face permanent consequences.",
+      "key_events": [
+        "Corbyn and a stone-faced federal agent present classified documents linking Thorne's operations to state secrets.",
+        "They claim Elara's original conviction was a \"necessary sacrifice\" to contain the fallout.",
+        "They offer her a full pardon and a new life in witness protection if she throws the appeal.",
+        "ADA Griffin remains silent, clearly coerced.",
+        "Elara pretends to consider the offer, but secretly records the conversation on her phone."
+      ],
+      "ending_hook": "Leaving the chambers, Elara finds her car vandalized and the recording device smashed\u2014they were one step ahead."
+    },
+    {
+      "number": 6,
+      "title": "The Third Victim",
+      "summary": "After a key witness for Thorne's appeal is found dead, the prosecution pins it on Thorne's followers. Elara must find the real killer while defending her client in court.",
+      "key_events": [
+        "A former cult member ready to recant his original testimony is found dead, staged as a suicide.",
+        "The media blames Thorne, creating a public frenzy against the appeal.",
+        "Forensics from Marcus suggest professional cleanup, not a cult killing.",
+        "Elara risks disbarment by secretly accessing the dead witness's financials, finding payments from the same shell corporation.",
+        "Thorne, in a rare moment of sincerity, admits he was a pawn in a network he calls \"The Guardians.\""
+      ],
+      "ending_hook": "ADA Griffin slips Elara a note during a court break: \"They're watching you. The clerk's widow is in danger.\""
+    },
+    {
+      "number": 7,
+      "title": "A House of Cards",
+      "summary": "Elara and Marcus race to secure the evidence clerk's widow, uncovering the full scope of the conspiracy\u2014a group of judges, prosecutors, and officials who \"fix\" cases to protect powerful interests.",
+      "key_events": [
+        "They save the widow from a staged break-in, extracting her to a safe house.",
+        "She provides the full evidence log, naming Judge Corbyn as the tamperer in Elara's case.",
+        "Marcus traces the shell corporation to a conservative judicial oversight committee.",
+        "Elara realizes her original defense of Thorne years ago accidentally threatened to expose their network.",
+        "She was set up not just to silence her, but to permanently discredit her."
+      ],
+      "ending_hook": "Thorne's prison transport is attacked in a brazen midday assault. He survives, but the message is clear: the conspiracy wants him dead, not freed."
+    },
+    {
+      "number": 8,
+      "title": "The Guardian's Gambit",
+      "summary": "With Thorne now in protective custody, Elara must play her final card in court. She decides to put the system itself on trial, calling Judge Corbyn as a witness.",
+      "key_events": [
+        "In a stunning move, Elara subpoenas Judge Corbyn, citing new evidence of judicial misconduct.",
+        "The courtroom erupts; Corbyn refuses, claiming judicial immunity.",
+        "Elara plays her backup copy of the chambers recording for the appellate judge overseeing the hearing.",
+        "A media storm erupts, forcing a temporary stay.",
+        "ADA Griffin, seeing the tide turn, agrees to provide testimony in exchange for immunity."
+      ],
+      "ending_hook": "As Elara leaves the courthouse, she is served with new charges: murder, for the dead witness. The conspiracy is making its final move to bury her."
+    },
+    {
+      "number": 9,
+      "title": "In the Belly of the Beast",
+      "summary": "Arrested and held in the same prison as Thorne, Elara must coordinate her own defense from a cell. Thorne becomes her unlikely strategist.",
+      "key_events": [
+        "Elara experiences the prison system from the inside, her spirit tested.",
+        "Thorne, via smuggled notes, guides her to the conspiracy's weakness: their need for public legitimacy.",
+        "Marcus works frantically outside, connecting the shell corp to a sitting state Supreme Court justice.",
+        "Elara's bail hearing is a circus, with the new murder charge making her a flight risk.",
+        "From prison, she gives an anonymous interview to a tenacious journalist, leaking the story piece by piece."
+      ],
+      "ending_hook": "A prison guard, on the conspiracy's payroll, moves Elara to an isolated wing, saying \"Time to clean up the last witness.\""
+    },
+    {
+      "number": 10,
+      "title": "The Last Witness",
+      "summary": "Elara fights for her life inside the prison while Marcus and the journalist race to expose the truth before she's silenced forever.",
+      "key_events": [
+        "Elara fends off an orchestrated attack in the prison laundry, using her wits to survive.",
+        "The journalist's story breaks, naming \"The Guardians\" and causing public outrage.",
+        "Federal investigators, pressured by the media storm, raid the shell corporation's offices.",
+        "Marcus obtains a signed confession from a low-level \"Guardian\" who handled payments.",
+        "With the conspiracy unraveling, orders get confused, and the hit on Elara is aborted at the last second."
+      ],
+      "ending_hook": "FBI agents enter the prison to extract Elara, not to charge her, but to debrief her. The conspiracy is fracturing, and its members are turning on each other."
+    },
+    {
+      "number": 11,
+      "title": "Truth and Consequences",
+      "summary": "In a final, chaotic court hearing, all players are assembled. Elara must defend herself, expose the conspiracy, and decide Thorne's fate\u2014all while the true architects try to escape.",
+      "key_events": [
+        "Elara represents herself pro se, with Thorne observing from the defendant's table.",
+        "She methodically presents the evidence, calling Marcus, the widow, and ADA Griffin.",
+        "Judge Corbyn is arrested live in the courtroom after Griffin's testimony.",
+        "Thorne takes the stand. He provides the final piece: names of the three founding \"Guardians,\" all now high-powered judges.",
+        "The state offers Elara full exoneration and Thorne a reduced sentence for his cooperation."
+      ],
+      "ending_hook": "As the gavel falls on the historic case, Thorne looks at Elara and says, \"I told you I'd set you free. But who will set me free from you?\" He has one more secret."
+    },
+    {
+      "number": 12,
+      "title": "The Verdict Within",
+      "summary": "In the aftermath, Elara grapples with justice, guilt, and the haunting legacy of the case. Thorne's final secret forces her to make a defining choice about her future.",
+      "key_events": [
+        "Elara is fully exonerated and reinstated to the bar. The media hails her as a hero.",
+        "She visits Thorne, who reveals his final secret: he *did* know about the blackmail scheme within his cult from the start. His silence was his sin.",
+        "He gives her a file containing the names of every person the Guardians ever destroyed, asking her to make it right.",
+        "Elara is offered a prestigious job at the Justice Department, but also considers starting a nonprofit to help the wrongly convicted.",
+        "She stands at the courthouse steps, no longer seeing a fortress of injustice, but a battlefield where she can fight."
+      ],
+      "ending_hook": "Elara opens her new office, \"The Last Witness Project.\" Her first client walks in\u2014a disgraced cop claiming he was framed by a powerful new network. She looks at the file, then at her empty chair, and says, \"Tell me everything.\""
+    }
+  ]
+}

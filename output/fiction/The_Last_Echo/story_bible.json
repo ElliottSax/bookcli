@@ -1,0 +1,51 @@
+{
+  "title": "The Last Echo",
+  "genre": "horror",
+  "subgenre": "cosmic horror / psychological horror",
+  "setting": {
+    "time_period": "Near-future / contemporary",
+    "locations": [
+      "The oppressive, noisy modern world (opening sequence)",
+      "The Aural Asylum: a remote, silent sanctuary in a mountain valley",
+      "The Asylum's communal hall and soundproofed individual cabins",
+      "The underground geothermal chamber (the 'Heart')",
+      "Anya's final cabin in the aftermath"
+    ],
+    "atmosphere": "A profound, escalating dread built upon the contrast between unbearable sensory overload and an even more terrifying absolute silence. The atmosphere shifts from claustrophobic noise to expansive, eerie quiet, then to a visceral, vibrational terror that bypasses the ears to speak directly to the nervous system and soul."
+  },
+  "characters": [
+    {
+      "name": "Anya",
+      "role": "Protagonist",
+      "description": "A woman in her late 20s or early 30s, physically worn and mentally frayed by severe hyperacusis (extreme sound sensitivity). Her body is a map of her suffering: bitten nails, tension, and a perpetual flinch. She is intelligent, desperate, and possesses a unique auditory sensitivity that borders on the synesthetic.",
+      "arc": "From a desperate refugee seeking silence, to a curious resident of the Asylum, to the unwilling discoverer and conduit of a cosmic horror. She ultimately becomes the catalyst for its fragmentation, transitioning from victim to a pivotal, terrifying agent of change, ending in a state of cold, clear understanding of the new horror she has unleashed."
+    },
+    {
+      "name": "Dr. Silas Reed",
+      "role": "Antagonist / Cult Leader",
+      "description": "The founder of the Aural Asylum. Charismatic, calm, and paternal, with a voice carefully modulated to be soothing. His eyes, however, hold a fanatical gleam. He views sound not as a nuisance, but as a primal, hungry force to be worshipped and fed.",
+      "arc": "Revealed as the high priest of a cosmic entity that manifests as sound. His arc is one of exposure\u2014from benevolent savior to monstrous ideologue. He believes he is serving a higher purpose by feeding the entity with human silence and essence, and meets his end trying to sacrifice Anya to it."
+    },
+    {
+      "name": "Leo",
+      "role": "Supporting Character / The Failed Catalyst",
+      "description": "A long-term resident of the Asylum. Gaunt, with a distant look, he is deeply traumatized and partially 'consumed.' He serves as a warning and a guide, having gotten too close to the truth. He communicates in whispers and knows the Asylum's real rhythms.",
+      "arc": "From a cryptic, broken figure to a reluctant ally who confirms Anya's suspicions. He represents the fate Anya narrowly avoids\u2014complete assimilation by the entity. His death or final consumption serves as the turning point that forces Anya to confront the horror."
+    },
+    {
+      "name": "The Entity / The Hum",
+      "role": "Cosmic Horror",
+      "description": "A primordial being that exists as a fundamental, hungry frequency. It is not sound itself, but uses sound as its medium and weapon. It feeds on silence and the psychic energy of sensitive listeners, growing in strength. It is vast, patient, and inherently destructive, seeking to unravel the 'noise' of existence into a pure, silent void that it can consume."
+    }
+  ],
+  "themes": [
+    "The Horror of Perception: When a sense becomes a gateway to torment.",
+    "Sanctuary as Trap: The danger of seeking absolute solutions from charismatic authorities.",
+    "The Corruption of Silence: Silence is not the absence of horror, but can be its vessel.",
+    "Cosmic Indifference: A universe where fundamental forces are actively, mindlessly hostile.",
+    "Fragmentation of Reality: Horror as something that can break and scatter, not just be defeated."
+  ],
+  "narrative_voice": "Close third-person, tightly focused on Anya's perspective and sensory experience. The prose is visceral and synesthetic, describing sound in physical, tactile terms (knives, flies, vibrations). As the horror escalates, the voice becomes more lyrical and cosmic, mirroring the shift from psychological to existential terror.",
+  "tone": "Clinically tense and sensory-overloaded at the start, evolving into eerie, atmospheric dread, then escalating to full-blown cosmic and body horror. The ending carries a tone of chilling, serene revelation\u2014horror accepted and understood, not fought.",
+  "plot_summary": "Anya, severely afflicted by hyperacusis, spends her last resources to reach the remote Aural Asylum, a sanctuary promising absolute silence. Initially, she finds peace. However, she begins to detect a sub-audible 'Hum' beneath the silence and notices the other residents are becoming vacant and thin. Guided by the cryptic resident Leo, she discovers the truth: the Asylum's founder, Dr. Reed, is a cultist who worships a cosmic entity that manifests as sound. The sanctuary is a feeding ground; the silence is a lure, and the entity feeds on the residents' auditory essence. Confronted, Reed tries to sacrifice Anya to the entity in a geothermal chamber\u2014the 'Heart' of the being. In a final act of defiance, Anya uses her hypersensitivity not to listen, but to *scream* back with a frequency of pure, chaotic noise, shattering the entity's cohesive form. She escapes to a cabin, believing it's over. In the profound quiet of the aftermath, she discovers the true horror: the entity was not destroyed, but fragmented. A sliver of it, a tiny, beautiful, and horrifying new note, is now emerging from a crack in her teacup, beginning to unfold anew\u2014a seed of the cosmic horror now scattered and released into her world."
+}

@@ -1,0 +1,148 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Blueprint of Delay",
+      "summary": "Introduces the core premise: procrastination as a design flaw, not a moral failing. Explores the 'life architecture' metaphor and the cost of faulty systems.",
+      "key_events": [
+        "The author's personal story of chronic procrastination and the 'aha' moment of seeing it as a system.",
+        "Introduction of the 'Procrastination Architect' concept.",
+        "Debunking the willpower myth.",
+        "First self-audit: Identifying one major life project currently stalled."
+      ],
+      "ending_hook": "You're not lazy. Your blueprint is wrong. What if you could redraw it?"
+    },
+    {
+      "number": 2,
+      "title": "Site Survey: Diagnosing Your Delay Patterns",
+      "summary": "Provides a framework to identify the specific 'structural weaknesses' causing procrastination. Introduces the four Procrastination Archetypes.",
+      "key_events": [
+        "The Four Procrastination Archetypes: The Overwhelmed Planner, The Perfectionist Sculptor, The Distraction Curator, The Rebelling Tenant.",
+        "Interactive quiz to identify the reader's dominant archetype(s).",
+        "Case studies of each archetype in action.",
+        "Mapping procrastination 'hot spots' in daily life."
+      ],
+      "ending_hook": "Your pattern has a name. Now, what's the structural fix?"
+    },
+    {
+      "number": 3,
+      "title": "Laying the Foundation: The Cornerstones of Action",
+      "summary": "Establishes the non-negotiable principles for a procrastination-resistant life: Clarity, Energy, and Friction Management.",
+      "key_events": [
+        "The Clarity Principle: Defining 'Done' and the next physical action.",
+        "The Energy Principle: Aligning tasks with natural rhythms, not fighting them.",
+        "The Friction Principle: The formula that Action = (Motivation / Friction).",
+        "Exercise: Conducting a personal energy audit for a typical week."
+      ],
+      "ending_hook": "With these cornerstones set, you're ready to build the first wall: your daily schedule."
+    },
+    {
+      "number": 4,
+      "title": "The Daily Scaffold: Designing Irresistible Routines",
+      "summary": "Teaches how to construct daily and weekly routines that make starting automatic, reducing decision fatigue and resistance.",
+      "key_events": [
+        "The concept of 'scaffolding'\u2014temporary, supportive structures for habit formation.",
+        "The 'Anchor-Ritual-Task' template for building blocks of the day.",
+        "Designing a morning and evening ritual that sets up success.",
+        "Time-blocking for architects: Theming days and protecting deep work zones."
+      ],
+      "ending_hook": "Your day now has a structure. But what about the daunting project itself? It's time to break ground."
+    },
+    {
+      "number": 5,
+      "title": "Demolition Day: Clearing Mental and Physical Clutter",
+      "summary": "Addresses the environmental and cognitive clutter that sabotages new systems. A practical guide to creating a conducive workspace and mindspace.",
+      "key_events": [
+        "The physical workspace audit: eliminating decision clutter and visual friction.",
+        "Digital demolition: taming notifications, inboxes, and the 'digital swarm.'",
+        "The 'Worry Dump' technique to clear cognitive clutter.",
+        "Implementing the 'Clear Desk, Clear Start' protocol."
+      ],
+      "ending_hook": "The site is cleared. Now, how do you eat an elephant? One deliberately designed bite at a time."
+    },
+    {
+      "number": 6,
+      "title": "The Chunking Blueprint: From Monolith to Manageable Modules",
+      "summary": "Provides systematic methods for breaking down overwhelming projects into executable, non-intimidating steps.",
+      "key_events": [
+        "The 'Modular Design' approach to projects.",
+        "The 'Next Action' specification: making steps irresistibly concrete.",
+        "The 'Procrastination-Busting Workflow': Chunk, Sequence, Assign.",
+        "Case study: Breaking down a complex project (e.g., writing a report, planning a move)."
+      ],
+      "ending_hook": "Your project is no longer a wall. It's a stack of bricks. But what gets you to lay the first one?"
+    },
+    {
+      "number": 7,
+      "title": "The Ignition Sequence: Engineering the Start",
+      "summary": "Focuses on the critical moment of initiation. Provides 'ignition tools' to overcome the activation energy required to begin.",
+      "key_events": [
+        "The 5-Minute Candle Technique: The rule of just starting for five minutes.",
+        "Temptation bundling: pairing a dreaded task with a genuine pleasure.",
+        "Ritualizing the start: creating a personal 'launch sequence.'",
+        "The 'Pre-Commitment Contract': using social or financial stakes to lock yourself in."
+      ],
+      "ending_hook": "You've started. How do you keep building when the inevitable distractions and doubts show up at the job site?"
+    },
+    {
+      "number": 8,
+      "title": "Managing the Job Site: Systems for Focus and Flow",
+      "summary": "Builds systems to protect attention and maintain momentum once work has begun, minimizing context-switching and distraction.",
+      "key_events": [
+        "The 'Focus Fortress' technique: designing an interruption-resistant work session.",
+        "The Pomodoro Protocol for Architects: timed work sprints with strategic breaks.",
+        "The 'Distraction Delay Log': capturing intruding thoughts without acting on them.",
+        "Designing recovery rituals to recharge between work modules."
+      ],
+      "ending_hook": "You're in flow. But what about when your inner Perfectionist Sculptor shows up and criticizes the bricks?"
+    },
+    {
+      "number": 9,
+      "title": "Working with Problem Tenants: Silencing the Inner Critic & Rebel",
+      "summary": "Addresses the internal psychological saboteurs (perfectionism, fear, rebellion) with cognitive and behavioral design solutions.",
+      "key_events": [
+        "Personifying the inner critic as the 'Perfectionist Sculptor' and designing constraints for it.",
+        "The 'Good Enough for Now' (GEFN) specification for iterative progress.",
+        "Negotiating with the 'Rebelling Tenant' by offering choice and autonomy within structure.",
+        "The 'Fear Framing' exercise: designing for failure as a data-gathering step."
+      ],
+      "ending_hook": "The internal committee is managed. But a building needs inspections. How do you track progress without getting bogged down?"
+    },
+    {
+      "number": 10,
+      "title": "The Progress Dashboard: Visual Feedback Systems",
+      "summary": "Teaches how to design personal tracking systems that provide motivating visual feedback and make progress tangible.",
+      "key_events": [
+        "The power of visual momentum: Kanban boards, progress bars, and habit trackers.",
+        "The 'Don't Break the Chain' calendar for daily micro-actions.",
+        "Designing a weekly review ritual to assess the system, not the self.",
+        "Celebration protocols: designing rewards that reinforce the system."
+      ],
+      "ending_hook": "You can see your progress rising. But what happens when the weather turns bad? It's time to design for resilience."
+    },
+    {
+      "number": 11,
+      "title": "Renovations & Reinforcements: Maintaining Your Systems",
+      "summary": "Prepares the reader for inevitable setbacks. Provides strategies for troubleshooting, system maintenance, and adaptive redesign.",
+      "key_events": [
+        "The 'System Failure Post-Mortem': a blame-free method to diagnose breakdowns.",
+        "The concept of 'planned collapses' and scheduling renewal breaks.",
+        "The 'Modular Update' process: tweaking one part of the system without demolishing it all.",
+        "Building a personal 'maintenance checklist' for quarterly reviews."
+      ],
+      "ending_hook": "Your architecture is now adaptive. But is it sustainable for the life you want to live?"
+    },
+    {
+      "number": 12,
+      "title": "The Masterpiece: From Productivity to Purposeful Creation",
+      "summary": "Elevates the conversation from mere productivity to designing a life architecture that supports meaningful action and long-term goals. The Procrastination Architect becomes the Life Architect.",
+      "key_events": [
+        "Revisiting the initial stalled project from Chapter 1 and assessing the transformation.",
+        "Connecting daily systems to a personal 'Master Blueprint'\u2014core values and long-term vision.",
+        "The architect's ethos: designing for ease, joy, and sustainable effort.",
+        "Final call to action: to continuously design, build, and inhabit a life of deliberate action."
+      ],
+      "ending_hook": "The tools are yours. The blueprint is blank. What will you design next?"
+    }
+  ]
+}

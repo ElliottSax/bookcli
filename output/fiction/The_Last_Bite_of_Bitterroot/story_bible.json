@@ -1,0 +1,53 @@
+{
+  "title": "The Last Bite of Bitterroot",
+  "genre": "mystery",
+  "subgenre": "culinary mystery / cozy mystery with literary elements",
+  "setting": {
+    "time_period": "Present day, contemporary",
+    "locations": [
+      "Bitterroot, Montana (fictional town)",
+      "The main street with weathered clapboard buildings",
+      "The shuttered feed store / bus stop",
+      "The local tavern",
+      "The bakery with its old brick oven (central location)",
+      "The surrounding Cabinet Mountains and wilderness"
+    ],
+    "atmosphere": "A stark, quiet mountain town that feels both isolating and purifying. The air is thin, sharp, and clean, scented with pine and woodsmoke. There's a sense of faded history, hidden secrets beneath a veneer of rustic simplicity, and the pervasive, comforting yet mysterious aroma of baking bread."
+  },
+  "characters": [
+    {
+      "name": "Elara Finch",
+      "role": "Protagonist, disgraced food critic",
+      "description": "A woman in her late 30s, carrying the weight of a very public scandal. She is perceptive, wounded, and seeking redemption through anonymity and genuine sensory experience. She arrives with a single suitcase containing notebooks and a copper whisk\u2014symbols of her former life.",
+      "arc": "From a disgraced outsider seeking escape, to an invested local who uncovers a town's secret, to someone who finds a new purpose and community through truth and craft, ultimately facing a new mystery tied to her own past."
+    },
+    {
+      "name": "Leo",
+      "role": "Baker, potential ally/love interest, keeper of the town's secret",
+      "description": "The baker of Bitterroot, likely in his 40s. He is grounded, skilled, and possesses a quiet, observant nature. He is the guardian of the town's sourdough starter and the truth behind 'The Bitterroot Sourdough.' His hands are flour-dusted, and his demeanor is warm but reserved, hinting at a deep connection to the town's history.",
+      "arc": "From a solitary craftsman to a partner who trusts Elara with his town's and his craft's deepest secret. He moves from being a subject of her curiosity to a co-conspirator in truth-telling and a foundation for her new life."
+    },
+    {
+      "name": "Alistair Finch",
+      "role": "Antagonist / Mysterious Figure",
+      "description": "Appears only at the very end. A strange, quiet man with an intense gaze that suggests ownership rather than nostalgia. His crisp business card and connection to Elara's surname (Finch) imply a familial or professional threat from her old world.",
+      "arc": "Introduced as a looming threat. His arc is to disrupt the new peace Elara has found, suggesting the mysteries of the past (both Bitterroot's and Elara's) are not fully settled. Represents the world of 'Rare Culinary Legacies' and potential exploitation."
+    },
+    {
+      "name": "The Townspeople of Bitterroot",
+      "role": "Collective character / source of lore and suspicion",
+      "description": "A close-knit, insular community wary of outsiders. They hold the collective memory of the town's founding, the sourdough starter's origin, and the unsolved disappearance/murder. Their silence and knowing looks are as much a part of the setting as the mountains.",
+      "arc": "From a closed, suspicious group to a community that, through Elara's respectful investigation and Leo's endorsement, slowly accepts her, allowing their secret to be known on their own terms."
+    }
+  ],
+  "themes": [
+    "Redemption and Authenticity",
+    "The Power and Deception of Taste",
+    "Secrets as a Form of Preservation",
+    "Community vs. Outsider Intrusion",
+    "The Past as an Active Ingredient in the Present"
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective. The prose is sensory and evocative, mirroring a critic's attention to detail\u2014describing tastes, smells, textures, and atmospheres with precision. It becomes a tool for investigation.",
+  "tone": "Atmospheric, slowly unfolding, and contemplative. It blends the cozy warmth of a bakery with the chilling unease of a buried mystery. The tone is more melancholic and literary than frantic, focusing on the weight of secrets and the search for genuine experience.",
+  "plot_summary": "Disgraced food critic Elara Finch flees to the remote mountain town of Bitterroot to disappear. Seeking solace in simplicity, she becomes intrigued by the local baker, Leo, and his uniquely perfect sourdough, which the townspeople treat with near-reverence. Her professional curiosity leads her to investigate the bread's origin, unwittingly unraveling a long-buried town secret connected to Bitterroot's founding and a possible murder. As she pieces together the truth\u2014that the legendary sourdough starter may have a macabre origin\u2014she must decide whether to expose it or let the town keep its peace. She chooses truth, but a nuanced, respectful one, and finds redemption and a new home with Leo in the bakery. However, her hard-won peace is threatened by the arrival of a mysterious man named Alistair Finch, who implies a claim to the very legacy she has just helped protect, setting the stage for a new conflict."
+}

@@ -1,0 +1,149 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Ghost in the Listing",
+      "summary": "Maya returns to her rapidly changing hometown after years away, only to find her childhood home listed online as a curated 'Authentic 90s Nostalgia Experience' by a startup called Chronos Stays.",
+      "key_events": [
+        "Maya arrives by train, disoriented by the new boutiques and coffee shops.",
+        "On a whim, she searches for her old address and finds the rental listing.",
+        "Photos show her bedroom, her parents' kitchen, all staged with period-specific decor.",
+        "The listing description uses phrases like 'step into a genuine past' and 'unplugged memory lane'."
+      ],
+      "ending_hook": "Maya books a two-night stay under a pseudonym, her hand trembling as she clicks 'confirm'."
+    },
+    {
+      "number": 2,
+      "title": "Check-In",
+      "summary": "Maya arrives as a guest at 214 Maple Street, greeted not by memories but by a seamless, app-driven entry and a house manual that curates her 'emotional journey'.",
+      "key_events": [
+        "Keyless entry via a code from the app.",
+        "Discovery of a 'Memory Lane Guidebook' suggesting activities like 'pretend to do homework at the kitchen table'.",
+        "The house is eerily perfect, smelling of branded 'Clean Linen' scent instead of home.",
+        "She finds a bowl of wax fruit identical to her mother's, but it's tagged as a 'vintage replica'."
+      ],
+      "ending_hook": "In the guidebook, under 'Recommended Evening Activity,' she reads: 'Stage a family dinner. Props in cupboard.'"
+    },
+    {
+      "number": 3,
+      "title": "The Museum of You",
+      "summary": "Maya explores the staged house, finding curated artifacts alongside genuine, painful traces of her family's life that the stagers missed.",
+      "key_events": [
+        "She finds her real height marks on the doorframe, painted over but still visible.",
+        "A staged 'child's art display' features generic posters, but behind one, she finds her own faded dinosaur drawing.",
+        "The tech is hidden but pervasive: subtle sensors, a noise machine that plays 'authentic neighborhood ambiance'.",
+        "She discovers a guest review praising the 'therapeutic simulation of a simpler time'."
+      ],
+      "ending_hook": "In her old closet, her fingers find the crude carving of her initials, M + J, hidden on the underside of a shelf."
+    },
+    {
+      "number": 4,
+      "title": "Neighborhood Ghosts",
+      "summary": "Venturing outside, Maya finds the real community fractured. Old neighbors are either gone, hostile, or have commodified their own histories to survive.",
+      "key_events": [
+        "Mr. Henderson, the old neighbor, recognizes her and bitterly explains he sold under pressure.",
+        "She visits a local bar now serving artisanal cocktails named after town history.",
+        "She learns the startup buys houses from retiring or struggling residents, marketing 'preservation through participation'.",
+        "A community meeting about displacement is sparsely attended; many are working gig jobs or are new, transient renters."
+      ],
+      "ending_hook": "Mr. Henderson hands her a box of her family's mail that accumulated after they left, saying, 'I thought you'd come back for real.'"
+    },
+    {
+      "number": 5,
+      "title": "The First Night",
+      "summary": "Maya spends a haunted night in her old room, battling between the curated comfort of the space and the visceral memories it triggers.",
+      "key_events": [
+        "The app prompts her to 'enjoy a period-appropriate bedtime snack' (a specific brand of pudding).",
+        "She has a panic attack, feeling both suffocated by and alienated from her past.",
+        "She reads the house's digital guestbook, filled with strangers' reflections on their own imagined childhoods.",
+        "She calls her brother, who tells her to 'let it go' and that the past is a product now."
+      ],
+      "ending_hook": "Wide awake at 3 AM, she sees the soft glow of a sensor under her bed, realizing her grief is being measured as 'engagement data'."
+    },
+    {
+      "number": 6,
+      "title": "The Archivist",
+      "summary": "Maya investigates Chronos Stays and connects with a low-level employee, Leo, who is tasked with 'authenticity sourcing' and is disillusioned.",
+      "key_events": [
+        "She poses as a researcher to interview the startup's perky community liaison.",
+        "She meets Leo secretly; he explains how they use obituaries, estate sales, and social media to reconstruct a home's 'emotional profile'.",
+        "Leo reveals her house was a 'flagship project' because the buyer found a trove of her family photos in the attic (which Maya never cleared).",
+        "He gives her a file of scanned photos the company uses as reference."
+      ],
+      "ending_hook": "In the file, she finds a picture of her seventh birthday, now watermarked with the Chronos Stays logo."
+    },
+    {
+      "number": 7,
+      "title": "Curated Conflict",
+      "summary": "Maya's second night is disrupted by a scheduled 'Neighborhood Drama' experience for a corporate team-building group in the house next door, also owned by Chronos.",
+      "key_events": [
+        "Through her window, she watches adults in casual wear role-play a 'boundary dispute' with a hired actor.",
+        "The app suggests she 'observe from the porch for authentic ambient conflict'.",
+        "She confronts the event facilitator, who calmly explains they are 'exercising empathy muscles in a low-stakes historical context'.",
+        "The real, current conflict\u2014a longtime resident arguing with the noise\u2014is swiftly handled by private security."
+      ],
+      "ending_hook": "Maya receives an automated message from Chronos: 'We hope you enjoyed last night's authentic street theater. Your feedback is valuable. Rate your emotional resonance.'"
+    },
+    {
+      "number": 8,
+      "title": "Breaking the Script",
+      "summary": "Maya decides to sabotage the curation. She rearranges furniture, hides the guidebook, and begins to leave her own, real artifacts around the house.",
+      "key_events": [
+        "She replaces the replica wax fruit with a real, imperfect apple.",
+        "She unplugs the ambient noise machine, letting in the real sounds of the gentrifying street.",
+        "She writes her own, true memories on sticky notes and hides them in drawers.",
+        "She finds and disables several sensors, triggering a maintenance alert on the app."
+      ],
+      "ending_hook": "A stern message from Chronos: 'We detect anomalies in your guest experience. A Concierge of Memory will visit to ensure your journey's integrity.'"
+    },
+    {
+      "number": 9,
+      "title": "The Concierge of Memory",
+      "summary": "Maya meets the company's fixer, a smooth, empathetic woman named Anya, who represents the chilling logic of the nostalgia economy.",
+      "key_events": [
+        "Anya calmly resets the house to its default settings while explaining the company's philosophy.",
+        "She argues they are 'preserving what time destroys' and giving people access to feelings they've lost.",
+        "Maya accuses her of theft\u2014theft of history, of grief, of context.",
+        "Anya offers her a job as a 'Memory Consultant,' saying her 'raw connection to the substrate is valuable.'"
+      ],
+      "ending_hook": "Anya leaves, but not before saying, 'The past you're trying to reclaim is already a rental. You can be the landlord or a squatter. Your choice.'"
+    },
+    {
+      "number": 10,
+      "title": "The Attic",
+      "summary": "Using a clue from Leo, Maya finds a way into the sealed attic, discovering the raw, unstaged archive of her family's life\u2014and the company's backup curation plans.",
+      "key_events": [
+        "The attic is a chaotic mess of real family relics mixed with staging supplies.",
+        "She finds her mother's letters, her father's tools, her own childhood diaries.",
+        "She also finds blueprints for 'Experience 2.0: The Divorce Narrative' and 'The Financial Struggles Add-On Pack'.",
+        "She breaks down, overwhelmed by the collision of true memory and its proposed monetization."
+      ],
+      "ending_hook": "In her old diary, she reads a line: 'I will never leave this place.' She decides she must perform one final, definitive act."
+    },
+    {
+      "number": 11,
+      "title": "Live Experience",
+      "summary": "During her final hours, Maya uses the house's system against itself, staging an unscripted, real-time 'performance' for the other guests connected to the property's digital network.",
+      "key_events": [
+        "She uses the guest app's community board to invite other Chronos guests in town to a 'live memory event'.",
+        "She broadcasts a video feed from the attic, narrating the true, messy stories behind the staged objects below.",
+        "She reads from her diary, shows real photos, talks about loss and change, not nostalgia.",
+        "Anya and security are dispatched, but not before her stream is seen by dozens of temporary residents."
+      ],
+      "ending_hook": "As banging starts on the front door, Maya takes her father's real hammer from the attic box and walks downstairs, not knowing if she'll destroy the property or her own attachment to it."
+    },
+    {
+      "number": 12,
+      "title": "Check-Out",
+      "summary": "Maya confronts the consequences of her act, finding an ambiguous victory not in reclaiming the house, but in forging a new connection to the present community.",
+      "key_events": [
+        "She does not vandalize the house, but leaves the hammer prominently on the kitchen table\u2014a real artifact among the fakes.",
+        "Her broadcast has sparked small conversations among some guests and even a few former residents.",
+        "She is banned for life from Chronos Stays and receives a legal warning, but Leo quits, sending her a note.",
+        "She meets with Mr. Henderson and other remaining locals, not to mourn, but to document the *real* now.",
+        "She checks out, leaving the keycode disabled behind her."
+      ],
+      "ending_hook": "On the train out, she opens the box of old mail. Instead of reading it, she begins writing a new letter\u2014to the current, transient residents of her hometown, to be left in a real local coffee shop."
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Diagnosis: Your Procrastination Physique",
+      "summary": "Introduces the core metaphor and helps the reader assess their current 'focus fitness' level, identifying their unique 'distraction muscle' weaknesses.",
+      "key_events": [
+        "The 'Flaw vs. Muscle' Reframe: Debunking the guilt of procrastination.",
+        "The Initial Assessment: A self-audit of distraction triggers and focus stamina.",
+        "Identifying Your 'Weakest Muscle Group': Is it task initiation, sustained attention, or resistance to digital distractions?",
+        "Setting your baseline '1-Rep Max' for focused work."
+      ],
+      "ending_hook": "You now know exactly which mental muscles are atrophied. Tomorrow, we step into the gym for your first light warm-up."
+    },
+    {
+      "number": 2,
+      "title": "Laying the Foundation: The Warm-Up Ritual",
+      "summary": "Establishes the non-negotiable pre-workout routine\u2014the 5-minute ritual that signals to the brain it's time to train.",
+      "key_events": [
+        "Introducing the 'Focus Trigger' sequence: a consistent sensory cue.",
+        "The 5-Minute Environmental Reset: clearing physical and digital space.",
+        "Breathwork as Mental Stretching: a simple technique to calm the nervous system.",
+        "Setting the Intent for the 'workout' session."
+      ],
+      "ending_hook": "This ritual is your gateway to the gym. Master it, and you'll never again face a cold start."
+    },
+    {
+      "number": 3,
+      "title": "Week 1-2: Mental Deadlifts (Building Task Initiation Strength)",
+      "summary": "The first two-week program focuses solely on the hardest part: starting. Daily micro-sessions of 'just showing up' to build the habit.",
+      "key_events": [
+        "The '2-Minute Rule' Reps: doing the absolute smallest step of a dreaded task.",
+        "Overcoming 'Set-Up Paralysis' by streamlining the start process.",
+        "Tracking 'No-Zero Days' to build momentum.",
+        "Celebrating the act of initiation, not completion."
+      ],
+      "ending_hook": "You've proven you can start anything. Now, how do we build the stamina to keep going?"
+    },
+    {
+      "number": 4,
+      "title": "Week 3-4: Focus Sprints (Increasing Attention Span Endurance)",
+      "summary": "Introduces timed interval training (Pomodoro-esque) to systematically expand the duration of unbroken focus.",
+      "key_events": [
+        "The 'Focus Sprint' protocol: 10 minutes on, 3 minutes off.",
+        "Gradually increasing sprint duration by 2 minutes every 3 days.",
+        "The 'Attention Anchor' technique for when the mind wanders mid-sprint.",
+        "Analyzing sprint data to identify peak focus times."
+      ],
+      "ending_hook": "Your focus can now hold for 20-minute sprints. But what about the heavy distractions trying to break your form?"
+    },
+    {
+      "number": 5,
+      "title": "Week 5-6: Resistance Training (Blocking Digital Distractions)",
+      "summary": "Targeted workouts to strengthen resistance against the #1 focus killer: digital interruptions and the pull of low-value tasks.",
+      "key_events": [
+        "The 'Notification Plank': practicing delayed gratification for alerts.",
+        "Browser Tab Limits as 'Weighted Vest' training.",
+        "The 'Temptation Batching' technique for social media/email.",
+        "Creating a 'distraction-free' environment as a secured workout zone."
+      ],
+      "ending_hook": "Your willpower to resist distractions is now toned. Next, we integrate these muscles for complex, real-world projects."
+    },
+    {
+      "number": 6,
+      "title": "Week 7-8: Compound Movements (Deep Work Circuits)",
+      "summary": "Combines all skills into longer, uninterrupted 'deep work' sessions, simulating real project work with strategic breaks.",
+      "key_events": [
+        "Designing a 90-minute 'Deep Work Circuit': combining different task types.",
+        "Strategic recovery intervals to maintain cognitive fuel.",
+        "The 'Progressive Overload' principle: gradually increasing project complexity.",
+        "Managing mental fatigue and the 'burnout' warning signs."
+      ],
+      "ending_hook": "You're now capable of sustained, high-quality output. But what happens when motivation inevitably dips?"
+    },
+    {
+      "number": 7,
+      "title": "The Mid-Program Slump: Spotting Your Mental Form",
+      "summary": "Addresses the inevitable plateau and loss of motivation, teaching readers how to self-correct their 'form' and re-engage.",
+      "key_events": [
+        "Identifying signs of 'mental form breakdown': rushing, avoidance, resentment.",
+        "The deload week: scaling back to basics without guilt.",
+        "Revisiting your 'Why'\u2014reconnecting with your core motivation.",
+        "Finding an 'accountability spotter' or community."
+      ],
+      "ending_hook": "You've pushed through the wall. Now, let's refine your technique to make focus feel effortless."
+    },
+    {
+      "number": 8,
+      "title": "Week 9-10: Isometric Holds (Mastering Boredom & Ambiguity)",
+      "summary": "Advanced training to build stability and focus even in the face of boring tasks or uncertain, open-ended projects.",
+      "key_events": [
+        "The 'Boredom Hold': maintaining focus on mundane tasks without seeking stimulation.",
+        "Practicing 'Open-Ended Problem Sits' without immediate solutions.",
+        "Mindfulness as a tool to observe the urge to flee without acting on it.",
+        "Reframing ambiguity as a strength-training opportunity."
+      ],
+      "ending_hook": "Boredom and uncertainty no longer break your concentration. You're developing the mind of a focus athlete."
+    },
+    {
+      "number": 9,
+      "title": "Week 11: Active Recovery & Mobility (The Art of Strategic Rest)",
+      "summary": "Focuses on the critical role of rest, play, and divergent thinking in sustaining long-term productivity and preventing injury (burnout).",
+      "key_events": [
+        "Scheduled 'Focus Cool-Downs': deliberate mind-wandering.",
+        "The 'Creative Mobility' workout: engaging in unrelated hobbies.",
+        "Sleep and nutrition as cognitive performance enhancers.",
+        "Designing a sustainable weekly rhythm of strain and recovery."
+      ],
+      "ending_hook": "You've learned that true strength is built in the rest periods. Now, for the final test: your personal championship."
+    },
+    {
+      "number": 10,
+      "title": "Week 12: The Focus Marathon (The 90-Day Finale)",
+      "summary": "A culminating challenge where the reader designs and executes a significant 4-6 hour deep work project, applying all skills learned.",
+      "key_events": [
+        "Project Selection and 'Race Day' planning.",
+        "Executing the plan: warm-up, sprints, holds, and strategic recovery.",
+        "In-the-moment troubleshooting of distractions and fatigue.",
+        "The completion and immediate reflection."
+      ],
+      "ending_hook": "You've just completed what once seemed impossible. But this isn't the end\u2014it's your new baseline."
+    },
+    {
+      "number": 11,
+      "title": "Designing Your Maintenance Program",
+      "summary": "Transitions the reader from the 90-day intensive program to a sustainable, lifelong practice of focus fitness.",
+      "key_events": [
+        "How to periodize your focus training for different life seasons.",
+        "The 'Minimum Effective Dose' to maintain gains.",
+        "Creating a 'focus gym' schedule for quarterly check-ins and new challenges.",
+        "Building a personalized 'exercise library' for future slumps."
+      ],
+      "ending_hook": "You are now your own coach. Your willpower is no longer a question\u2014it's a trained, reliable tool."
+    },
+    {
+      "number": 12,
+      "title": "The Unbreakable Focus Mindset",
+      "summary": "Solidifies the philosophical shift: from battling procrastination to confidently engaging in work as a skilled practitioner of your own mind.",
+      "key_events": [
+        "The identity shift: from 'procrastinator' to 'focus athlete'.",
+        "Embracing discomfort as the signal of growth, not failure.",
+        "Teaching the method to others as a way to deepen mastery.",
+        "A final look back at the transformed 'procrastination physique'."
+      ],
+      "ending_hook": "The gym doors are always open. Your focus is now an unbreakable part of who you are\u2014go build the work that matters."
+    }
+  ]
+}

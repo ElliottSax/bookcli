@@ -1,0 +1,52 @@
+{
+  "title": "The Last Harvest of Hollow's End",
+  "genre": "horror",
+  "subgenre": "folk horror, cosmic horror, psychological horror",
+  "setting": {
+    "time_period": "Present day",
+    "locations": [
+      "Elara's sterile, modern urban apartment/office",
+      "The decaying, rural town of Briarwood, West Virginia",
+      "Hollow's End farm: the farmhouse, the overgrown fields, the ancient woods, the hidden cellar",
+      "The surrounding Appalachian landscape"
+    ],
+    "atmosphere": "A stark contrast between cold, data-driven modernity and the ancient, visceral, and hungry presence of the land. The farm shifts from seeming neglect to a state of unnerving, perfect fertility. The woods are watchful and sentient. The overall mood is one of creeping dread, ecological uncanny, and inescapable obligation."
+  },
+  "characters": [
+    {
+      "name": "Elara Vance",
+      "role": "Protagonist / Antagonist",
+      "description": "A late-20s data analyst, precise, logical, and emotionally detached. She finds comfort in spreadsheets, metrics, and controllable systems. Inherits Hollow's End and is initially repulsed by its disorder.",
+      "arc": "Transforms from a dispassionate observer of life into the active, willing agent of the land. Her analytical mind is weaponized to serve the farm's hunger, rationalizing horror as 'balance.' She loses her humanity to become the perfect Keeper, finding a terrible, sublime purpose."
+    },
+    {
+      "name": "Agnes Mayhew",
+      "role": "Predecessor / Catalyst",
+      "description": "Elara's late great-aunt. The previous Keeper of Hollow's End. Described in life as 'wild' and reclusive. Her presence haunts the farm through journals, preserved tools, and the legacy of her stewardship.",
+      "arc": "Her arc is revealed posthumously. She likely underwent the same transformation as Elara, learning to manage the land's hunger. Her death created a vacancy that the land urgently needed to fill."
+    },
+    {
+      "name": "The Land (Hollow's End)",
+      "role": "Antagonist / Force of Nature",
+      "description": "A sentient, hungry parcel of earth. It is not evil in a human sense, but amoral and ancient. It operates on a principle of transactional balance: to receive its boundless fertility, one must feed it life. It communicates through urges, dreams, and a 'ledger' in the keeper's mind.",
+      "arc": "Its arc is one of reawakening and recruitment. From a state of dormant hunger after Agnes's death, it actively courts and corrupts Elara, restoring its cycle of harvest and feeding. It is a constant, patient, and insatiable presence."
+    },
+    {
+      "name": "Deer & Wildlife",
+      "role": "Sacrifice / Symbol",
+      "description": "The animals of Hollow's End, particularly a majestic buck and an older, wiser doe. They represent the natural world, both as victims of the land's hunger and as its conscious, fearful inhabitants.",
+      "arc": "They move from being mere background elements to becoming specific targets and witnesses. Their sacrifice marks Elara's full commitment. The surviving wiser deer symbolizes a doomed awareness that escape is impossible within the land's domain."
+    }
+  ],
+  "themes": [
+    "The Corruption of Logic",
+    "The Price of Fertility / Transactional Nature",
+    "Inherited Trauma and Obligation",
+    "Man vs. Nature (Where Nature Wins)",
+    "The Horror of Purpose",
+    "Data as a Tool for Atrocity"
+  ],
+  "narrative_voice": "Close third-person, primarily from Elara's perspective. The prose is initially crisp and analytical, mirroring her mind. As the story progresses, it becomes more lyrical, sensory, and visceral, reflecting the land's influence and the blurring of boundaries between Elara and the soil.",
+  "tone": "Slow-burn dread, cosmic inevitability, and body horror. The tone evolves from sterile unease to organic terror. There is a pervasive sadness under the horror\u2014the tragedy of Elara's loss of self and the inescapable, ancient cycle she is bound to perpetuate.",
+  "plot_summary": "Data analyst Elara Vance inherits Hollow's End, a remote farm from a great-aunt she barely knew. Seeing it as a financial asset, she visits intending to sell. She discovers the farm is unnaturally fertile yet feels profoundly wrong. The land begins to communicate with her through compulsions and a psychic 'ledger' demanding balance. Elara, using her analytical skills to rationalize the growing horror, initially resists but is worn down. She learns she must 'feed' the land with living things to maintain its\u2014and now her\u2014well-being. The story culminates in her first conscious act of stewardship: using the land's power to consume a deer, an act she performs with chilling efficiency. She accepts her role as the new Keeper, a human tool for an ancient, hungry entity, finding a terrifying sense of purpose in the eternal, bloody harvest. The cycle continues."
+}

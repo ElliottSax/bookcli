@@ -1,0 +1,131 @@
+Chapter 7: The Hollow's Hunger
+
+Chapter 7: The Hollow’s Hunger
+
+The first death came on a Tuesday, under a sky the color of unbleached wool.
+
+Maya heard the sirens from her apartment—a rising, panicked wail that cut through the low, perpetual hum of the city. It was the sound of a rupture. She knew, with a cold certainty that settled in her marrow, where they were headed. To the corner of Elm and Third. The intersection she had seen take form thread by thread on the loom, autonomous and relentless, over the past three nights. She’d watched it grow, a geometric cancer of grey warp and black weft, depicting the slick sheen of rain on asphalt, the blurred red of a stoplight, the stark yellow lines gone subtly, terribly wrong at the curb’s edge.
+
+She didn’t run. She walked, her body moving with the stiff, deliberate cadence of a sleepwalker. Each step was an act of confirmation, a dread pilgrimage. The air was thick with the smell of wet concrete and, as she turned onto Elm, the sharp, acrid tang of scorched rubber and something coppery.
+
+A crowd had gathered, held back by sawhorses and the broad backs of police officers. Their faces were a mosaic of shock and ghoulish curiosity. Maya slipped through the gaps, her gaze fixed on the center of the tableau.
+
+A delivery van was angled onto the sidewalk, its front end accordioned against a lamppost. But it wasn’t the van that held the scene’s horrible gravity. It was the city bus, stopped a few yards past the intersection. And beneath its middle set of wheels, a shape under a grey sheet. From beneath the hem of the sheet, a single thread of crimson traced a path along the gutter, following the crack in the pavement exactly as it had been woven.
+
+A young officer, his face pale under his cap, was talking to the bus driver, a woman who was shaking so violently her keys chimed like morbid bells. “I don’t know,” the driver kept repeating, her voice shredded. “The light was green, I swear it was green. He just… he was just standing there at the curb. Then he wasn’t. He stepped right out, like he was pulled. Like he didn’t even see me.”
+
+Maya’s eyes lifted from the sheet to the traffic light. It cycled: green, yellow, red. Normal. But in her mind’s eye, she saw the pattern version. The red light had been woven one thread out of alignment, a barely perceptible bleed into the green. A suggestion. A pattern of confusion.
+
+“They’re saying he was disoriented,” a woman next to Maya muttered to her friend. “Frank Miller. Nice guy. Retired postman. His wife said he’d been having awful nightmares all week. Waking up screaming about being tied down.”
+
+The words landed like stones in a still pond. Nightmares. Tied down.
+
+Maya backed away, the taste of bile in her throat. This wasn’t a ghostly covered bridge in a park, a fleeting oddity. This was a pattern made flesh, a design paid for in bone and blood. The loom had drawn the scene, and the hollow had hungered. And it had been fed.
+
+The community forum that night was a fever dream of shared anxiety. Maya watched it unfold on her laptop screen, a different kind of pattern weaving itself in real time.
+
+It started in the local Facebook group, “Maple Hill Neighbors.”
+
+Post 1 (11:03 PM): Anyone else having crazy dreams lately? For the last three nights, I’ve had this same one. I’m stuck in this giant, sticky web. Can’t move. Something’s pulling the strings. Woke up with cramps in my legs.
+
+Comment 1: OMG YES. Mine’s like I’m tangled in yarn. Thick, rough yarn. It’s tightening.
+
+Comment 2: I never remember dreams, but this… I’m in a dark place and threads are coming out of the walls. They’re sewing my mouth shut.
+
+Post 2 (11:47 PM): Seriously, what is happening? My kid drew this today. Said it was the “string monster” from his sleep.
+
+A pixelated image loaded: a child’s crayon drawing of a stick figure engulfed in frantic, looping black scribbles.
+
+The comments multiplied, a chorus of unease. A barista from the coffee shop Maya frequented described a dream of threads piercing her fingertips, pulling her through keyholes. An elderly man wrote a paragraph about dreaming of his late wife, but her face was unraveling into spools of grey silk. A young mother reported her toddler screaming about “the bad knitting” in the closet.
+
+They were all variations on a theme: constriction, entanglement, loss of agency. The raw material of fear, the common psychic currency of a neighborhood. And the loom was spending it.
+
+Maya closed the laptop. The silence in her apartment was absolute, and within it, she could hear the faint, rhythmic thump-thump-thump from the spare room. The sound of the loom’s beater bar, moving on its own. Weaving. Always weaving. It was pulling the nightmares from their sleeping minds like thread from a distaff, spinning their subconscious dread into its warp.
+
+Her earlier motivation—understanding her inheritance, then simply surviving its attention—curled up and died. It was a selfish, tiny thing. This was bigger. It was a parasite attached to the soul of the community, and she had been the one to wake it. The weight of it was physical, a pressure on her sternum that made each breath shallow.
+
+She went to the spare room. The door was cold to the touch. Inside, the loom sat in the gloom, a crouched silhouette. The street corner pattern was complete, resting on the cloth beam. It was perfect, photorealistic in its threadwork. And at its edge, a new section was beginning: the crowd gathered behind the police tape. Their faces were simple, just suggestions of features, but the posture of shock was captured in every tense line. Her own face was not among them. Yet.
+
+On the floor beside the loom lay her grandmother’s journal. She picked it up, her fingers finding the familiar, worn leather. She didn’t need to reread the passages about binding and placating. She understood now. Elara had been a dam, holding back the hollow’s hunger by feeding it curated patterns—memories of past sins, small sacrifices of local tragedy. She’d tried to minimize the harm. But the hunger was infinite. Hiding the loom had only made it ravenous.
+
+“You were trying to be a keeper of a balance,” Maya whispered to the ghost of her grandmother. “But there is no balance with something that only consumes.”
+
+The only way to break a pattern was to cut the thread at the source.
+
+The decision crystallized, cold and sharp. She had to go back. To Hobb’s Hollow. To the place where the entity was rooted, where the first thread had been spun. She had to take the loom home and find a way to unmake the pact, to break the cycle not by hiding it, but by ending it.
+
+The thought of returning to that suffocating green silence, to the cabin that felt like a wooden throat, sent animal terror thrashing in her chest. But the image of the sheet on Elm Street, and the chorus of frightened voices online, stilled it. This was her pattern now. She had been woven into the center of it. The only way out was through.
+
+Packing the loom was a grotesque parody of care.
+
+Maya's fingers drummed against the steering wheel as she navigated the narrow mountain roads. The sun climbed higher, casting long shadows across the rough asphalt. She'd been driving for hours, the silence between her and the radio a palpable thing.
+
+The car's air conditioning had given out weeks ago, and the windows were rolled down to let in the cool mountain air. A faint scent of pine and damp earth wafted in, a welcome respite from the city's stench. Maya breathed it in deeply, feeling the tension in her shoulders begin to ease.
+
+As she rounded a particularly sharp curve, a figure appeared on the roadside, thumb raised in a hitchhiker's gesture. Maya's heart skipped a beat, and for a moment, she considered speeding past. But something about the figure's stance, the way they stood with their weight shifted onto one leg, caught her attention.
+
+She pulled over, the tires crunching on the gravel shoulder. The figure approached the car, and Maya caught a glimpse of a young woman with a messy bob of dark hair and a faded denim jacket. She opened the door, and the woman slid into the passenger seat, a small backpack thudding against the floor.
+
+"Thanks for the ride," the woman said, her voice husky from disuse. "I'm Lena."
+
+Maya nodded, her eyes flicking to the rearview mirror. "Maya. Where are you headed?"
+
+Lena shrugged, her eyes drifting out the window to the mountains. "I'm not sure. I've been on the road for a while. I'm trying to get to... somewhere."
+
+Maya's gaze lingered on Lena's profile, a spark of curiosity igniting within her. She felt a sense of recognition, as if she'd seen this woman before, but couldn't quite place her. The silence between them grew, a comfortable, companionable thing, as Maya navigated the winding roads, the mountains rising up like sentinels on either side.
+
+She couldn’t dismantle it. The last time she’d tried violence, the scream had lived in her ears for days. It had to be moved whole. She found a mover’s blanket, thick and grey. As she shook it out, the dust motes danced in the lamplight like agitated spirits.
+
+The loom watched her.
+
+It was a ridiculous thought, and she clung to its ridiculousness. It was wood and bone and wire. It was an object. But as she approached, the ambient temperature in the room dropped several degrees. The smell of old wool and damp earth grew stronger, undercut by that sweet-rot scent of the bone shuttle.
+
+“I’m taking you back,” she said aloud, her voice steadier than she felt. “You want the hollow? You can have it.”
+
+There was no audible response. But the tension in the warp threads seemed to increase, humming a note just below hearing. The painted symbols on the frame—the eyes, the spirals, the runic-looking slashes—seemed to drink the light.
+
+She draped the blanket over the top. The moment the wood was covered, the thump-thump-thump stopped. The silence was immediate and profound, a vacuum that made her ears pop. She wrapped the blanket around the sides, tucking it in, making a shroud. She avoided touching the bone shuttle, still lodged in the latest weave, using a pencil to carefully roll it out and place it in a small wooden box. The box felt unclean in her hands, vibrating with a faint, malignant warmth.
+
+Next, the tapestries. The Covered Bridge. The Street Corner. The others—the half-finished, terrifying ones. She didn’t look at them closely. She rolled them, tight and firm. They resisted, the fabric wanting to spring back, to display their narratives. She bound them with twine, her fingers clumsy. The final pattern, the one the Loomer had shown her—the hollow consuming the city—she left alone. It was still on the loom, unfinished. A work in progress. A promise.
+
+She packed the journal, a flashlight, a knife, salt (a foolish, instinctive gesture), and a change of clothes into a backpack. The preparations were mundane, absurd against the task. She was going to confront a reality-warping entity born of Appalachian bedrock, and she was packing a protein bar and a bottle of water.
+
+As dawn bleached the sky from black to grey, she was ready. The shrouded loom stood in the center of the room, a silent, rectangular monolith. It looked like a coffin standing on end.
+
+She took a final, steadying breath and reached for the rolled tapestries to load them into her car. As she lifted the bundle, a loose edge of the Street Corner pattern flopped down. Her eyes, against her will, were drawn to the lower corner, to the depiction of the storm drain where the blood had pooled.
+
+But it wasn’t just blood now.
+
+Woven into the crimson threads, with a fineness that made her stomach lurch, were tiny, perfect letters. They spelled out a name, over and over, in a looping, cursive script: Frank Miller. Frank Miller. Frank Miller.
+
+A receipt. A signature on a bill of sale.
+
+Maya dropped the pattern as if it had shocked her. She stumbled back, hand over her mouth. The loom had not just predicted the death; it had claimed it. Catalogued it. The horror was not in the chaos of the accident, but in the perfect, patterned order of its record.
+
+She fled the room, closing the door behind her. She leaned against it, heart hammering against her ribs. She had to go. Now.
+
+After loading the car—the backseat folded down to accommodate the shrouded loom, which seemed to make the vehicle sit lower on its springs—she returned for one last thing. The unfinished final pattern. She couldn’t leave it.
+
+In the spare room, the early morning light cut a sharp blade across the floor, illuminating the loom and the fabric stretched upon it. She approached, forcing herself to look.
+
+The scene was more detailed than before. The cityscape was meticulously rendered, buildings twisted into shapes reminiscent of the hollow’s leaning trees. And the hollow itself was no longer a distant valley. It had surged forward, a wave of tangled, organic forms—thread-like roots, spindle-shaped rocks, woolly moss that looked like un-spun yarn—engulfing the suburbs. At the epicenter, where she had seen her own form last time, the detail was now excruciating.
+
+It was her. Not a suggestion, but a portrait. Her face was captured in threads of flax and brown silk, her expression one of determined terror. And from her body, threads streamed out, connecting her to the consuming hollow and to every twisted building. She was the anchor point. The keystone of the pattern.
+
+But something new made the breath catch in her throat.
+
+The valley of Hobb’s Hollow, depicted in the pattern, had deepened. The weaver had used layers of dark green and black wool, creating an illusion of profound, impossible depth. It wasn’t a valley anymore; it was a pit. A maw. And within that darkness, tiny points of bone-white thread suggested shapes moving, swimming up from the bottomless dark. Waiting.
+
+A sharp, stinging pain made her gasp. She looked down at her hand, the one resting on the loom’s frame.
+
+Across the back of her hand, following the line of her tendons, was a thin, red fissure. It wasn’t a cut. It didn’t bleed. It was a crack, like in dried clay. And it wasn’t alone. Peeling back the sleeve of her sweater, she found more. A fine, spider-web network of hairline fractures traced up her forearm, pale against her skin. They didn’t hurt, except for the first sting. They felt… dry. Brittle. As if her substance was changing, becoming something porous, something that could be unwoven.
+
+She was not just in the pattern.
+
+She was becoming part of the fabric.
+
+The hook was set. The hollow’s hunger had her name, written in blood and thread. And it was starting to digest her.
+
+Maya carefully, slowly, rolled up the unfinished pattern, the image of the bottomless pit and her own cracking skin hidden from view. She placed it with the others. Then she walked out of her apartment, locking the door behind her on a life that already felt like someone else’s memory. She started the car, the engine sounding obscenely normal. The shrouded loom filled the rearview mirror.
+
+She drove east, towards the rising sun and the waiting mountains, towards the source of the scream and the silence. The cracks on her skin itched, a silent, spreading echo of the loom’s final, hungry pattern.
