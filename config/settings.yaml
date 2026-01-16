@@ -1,0 +1,40 @@
+# BookCLI Configuration
+# Override defaults from lib/config.py
+
+# Quality thresholds
+quality:
+  min_chapter_words: 2500
+  target_chapter_words: 3500
+  max_chapter_words: 6000
+  chapters_per_book: 12
+  max_repeated_phrases: 3
+  min_dialogue_ratio: 0.15
+  max_dialogue_ratio: 0.60
+  min_paragraph_length: 50
+  max_paragraph_length: 500
+  min_dialogue_quotes: 10
+  duplicate_threshold: 200
+
+# Pipeline settings
+pipeline:
+  max_workers: 4
+  batch_size: 10
+  delay_between_books: 2.0
+  delay_between_chapters: 0.5
+  max_api_retries: 3
+  retry_base_delay: 1.0
+  retry_max_delay: 60.0
+  failure_threshold: 5
+  recovery_timeout: 30.0
+
+# Note: API keys should be set via environment variables, not in this file
+# Required environment variables:
+# - DEEPSEEK_API_KEY
+# - GROQ_API_KEY
+# - OPENROUTER_API_KEY
+# - TOGETHER_API_KEY
+# - GITHUB_TOKEN
+# - CEREBRAS_API_KEY
+# - CLOUDFLARE_API_TOKEN
+# - CLOUDFLARE_ACCOUNT_ID
+# - FIREWORKS_API_KEY

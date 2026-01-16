@@ -9,289 +9,94 @@ Fixes:
 3. Plot holes and continuity errors
 4. POV/tense inconsistencies
 5. Low-quality or short chapters
+6. Doubled names, placeholders, LLM artifacts
 
-Runs automatically after story bible generation.
+Uses centralized lib/ modules for API calls, logging, and configuration.
 """
 
-import os
-import sys
 import json
 import re
 import time
-import logging
+import argparse
 from pathlib import Path
 from typing import Optional, Dict, List, Tuple, Set
 from dataclasses import dataclass
 from collections import Counter
 
-import requests
+# Centralized lib modules
+from lib.logging_config import setup_logging, get_logger
+from lib.config import get_config
+from lib.api_client import call_llm, get_api_client, extract_json_from_response
 
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s [%(levelname)s] %(message)s',
-    handlers=[
-        logging.FileHandler('/mnt/e/projects/bookcli/book_fixer.log'),
-        logging.StreamHandler()
-    ]
-)
-logger = logging.getLogger(__name__)
+# Initialize
+setup_logging()
+logger = get_logger(__name__)
+config = get_config()
 
-# API Keys - from environment variables (set via GitHub Secrets or local .env)
-DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
-OPENROUTER_KEY = os.environ.get("OPENROUTER_KEY", "")
-TOGETHER_KEY = os.environ.get("TOGETHER_KEY", "")
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
-CEREBRAS_API_KEY = os.environ.get("CEREBRAS_API_KEY", "")
-CLOUDFLARE_TOKEN = os.environ.get("CLOUDFLARE_API_TOKEN", "")
-CLOUDFLARE_ACCOUNT = os.environ.get("CLOUDFLARE_ACCOUNT_ID", "")
-FIREWORKS_API_KEY = os.environ.get("FIREWORKS_API_KEY", "")
+# Paths from config
+FICTION_DIR = config.paths.fiction_dir
 
-FICTION_DIR = Path("/mnt/e/projects/bookcli/output/fiction")
+# Quality thresholds from config
+MIN_CHAPTER_WORDS = config.quality.min_chapter_words
+TARGET_CHAPTER_WORDS = config.quality.target_chapter_words
+MAX_REPEATED_PHRASES = config.quality.max_repeated_phrases
 
-# Quality thresholds
-MIN_CHAPTER_WORDS = 2500
-MIN_BOOK_WORDS = 30000
-MAX_REPEATED_PHRASES = 3
+# Pre-compiled regex patterns for LLM instruction artifacts (compiled once at module load)
+LLM_ARTIFACTS = [
+    re.compile(r'\*\*Target:\s*\d+\+?\s*words?\*\*', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'\*\*Additional Requirements:\*\*', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'\*\*Completed Chapter:\*\*', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'\*\*Requirements:\*\*', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'\*\*Word Count Target:\*\*', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'\*\*Chapter Requirements:\*\*', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'^\d+\.\s+Add\s+(?:more\s+)?sensory details.*$', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'^\d+\.\s+Expand\s+dialogue.*$', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'^\d+\.\s+Add\s+internal\s+thoughts.*$', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'^\d+\.\s+Describe\s+settings.*$', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'^\d+\.\s+Show\s+emotions.*$', re.MULTILINE | re.IGNORECASE),
+    re.compile(r'^\d+\.\s+Add\s+tension.*$', re.MULTILINE | re.IGNORECASE),
+]
 
+# Pre-compiled placeholder patterns (pattern, replacement)
+PLACEHOLDER_PATTERNS = [
+    (re.compile(r'\s*\(primary\s+setting\)', re.IGNORECASE), ''),
+    (re.compile(r'\s*\(primary\s+location\)', re.IGNORECASE), ''),
+    (re.compile(r'\s*\(protagonist\)', re.IGNORECASE), ''),
+    (re.compile(r'\s*\(antagonist\)', re.IGNORECASE), ''),
+    (re.compile(r'\s*\(setting\)', re.IGNORECASE), ''),
+    (re.compile(r'\s*\(location\)', re.IGNORECASE), ''),
+    (re.compile(r'The City \(Exterior\)', re.IGNORECASE), 'the city'),
+    (re.compile(r'\s*\([^)]*(?:primary|setting|location|protagonist|antagonist)[^)]*\)', re.IGNORECASE), ''),
+]
 
-def call_deepseek(prompt: str, max_tokens: int = 8000) -> Optional[str]:
-    """Call DeepSeek API."""
-    try:
-        response = requests.post(
-            "https://api.deepseek.com/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "deepseek-chat",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": max_tokens,
-                "temperature": 0.7,
-            },
-            timeout=300
-        )
-        if response.status_code == 200:
-            return response.json()["choices"][0]["message"]["content"]
-    except Exception as e:
-        logger.error(f"DeepSeek error: {e}")
-    return None
+# Pre-compiled overused/repetitive AI phrase patterns
+REPETITIVE_PHRASE_PATTERNS = [
+    re.compile(r'(?:like\s+)?a\s+(?:key\s+turning|doorway\s+opening)\s+in\s+(?:her|his|their)\s+mind', re.IGNORECASE),
+    re.compile(r'seemed\s+to\s+(?:haunt|fill|seep\s+into)\s+(?:her|his|their)\s+(?:very\s+)?soul', re.IGNORECASE),
+    re.compile(r'(?:a\s+)?sense\s+of\s+\w+\s+that\s+seemed\s+to\s+(?:seep|creep|spread)', re.IGNORECASE),
+    re.compile(r'(?:like\s+)?a\s+punch\s+to\s+the\s+gut', re.IGNORECASE),
+    re.compile(r'(?:like\s+)?a\s+wake-?up\s+call', re.IGNORECASE),
+    re.compile(r'a\s+living,?\s+breathing\s+(?:entity|thing|creature)', re.IGNORECASE),
+    re.compile(r'seemed\s+to\s+(?:pour|flow|stream)\s+out\s+(?:of|from)\s+(?:her|him|them)', re.IGNORECASE),
+    re.compile(r'(?:like\s+)?a\s+challenge,?\s+a\s+doorway', re.IGNORECASE),
+    re.compile(r'the\s+sensation\s+like\s+a', re.IGNORECASE),
+    re.compile(r'the\s+sound\s+like\s+a', re.IGNORECASE),
+    re.compile(r'the\s+smell\s+like\s+a', re.IGNORECASE),
+    re.compile(r'the\s+(?:feeling|thought|image)\s+like\s+a', re.IGNORECASE),
+]
 
-
-def call_groq(prompt: str, max_tokens: int = 8000) -> Optional[str]:
-    """Call Groq API (free tier)."""
-    try:
-        response = requests.post(
-            "https://api.groq.com/openai/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {GROQ_API_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "llama-3.3-70b-versatile",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": max_tokens,
-                "temperature": 0.7,
-            },
-            timeout=300
-        )
-        if response.status_code == 200:
-            return response.json()["choices"][0]["message"]["content"]
-        elif response.status_code == 429:
-            logger.warning("Groq rate limited")
-    except Exception as e:
-        logger.error(f"Groq error: {e}")
-    return None
-
-
-def call_openrouter(prompt: str, max_tokens: int = 8000) -> Optional[str]:
-    """Call OpenRouter API (free models)."""
-    try:
-        response = requests.post(
-            "https://openrouter.ai/api/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {OPENROUTER_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "meta-llama/llama-3.2-3b-instruct:free",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": min(max_tokens, 4000),  # Free tier limit
-                "temperature": 0.7,
-            },
-            timeout=300
-        )
-        if response.status_code == 200:
-            return response.json()["choices"][0]["message"]["content"]
-        elif response.status_code == 429:
-            logger.warning("OpenRouter rate limited")
-    except Exception as e:
-        logger.error(f"OpenRouter error: {e}")
-    return None
-
-
-def call_together(prompt: str, max_tokens: int = 8000) -> Optional[str]:
-    """Call Together AI API."""
-    try:
-        response = requests.post(
-            "https://api.together.xyz/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {TOGETHER_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "meta-llama/Llama-3.3-70B-Instruct-Turbo",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": max_tokens,
-                "temperature": 0.7,
-            },
-            timeout=300
-        )
-        if response.status_code == 200:
-            return response.json()["choices"][0]["message"]["content"]
-        elif response.status_code == 429:
-            logger.warning("Together rate limited")
-    except Exception as e:
-        logger.error(f"Together error: {e}")
-    return None
-
-
-def call_github(prompt: str, max_tokens: int = 8000) -> Optional[str]:
-    """Call GitHub Models API (free)."""
-    try:
-        response = requests.post(
-            "https://models.inference.ai.azure.com/chat/completions",
-            headers={
-                "Authorization": f"Bearer {GITHUB_TOKEN}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "gpt-4o-mini",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": min(max_tokens, 4000),
-                "temperature": 0.7,
-            },
-            timeout=300
-        )
-        if response.status_code == 200:
-            return response.json()["choices"][0]["message"]["content"]
-        elif response.status_code == 429:
-            logger.warning("GitHub Models rate limited")
-    except Exception as e:
-        logger.error(f"GitHub Models error: {e}")
-    return None
-
-
-def call_cerebras(prompt: str, max_tokens: int = 8000) -> Optional[str]:
-    """Call Cerebras API (very fast inference)."""
-    try:
-        response = requests.post(
-            "https://api.cerebras.ai/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {CEREBRAS_API_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "llama3.1-8b",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": min(max_tokens, 8000),
-                "temperature": 0.7,
-            },
-            timeout=300
-        )
-        if response.status_code == 200:
-            return response.json()["choices"][0]["message"]["content"]
-        elif response.status_code == 429:
-            logger.warning("Cerebras rate limited")
-    except Exception as e:
-        logger.error(f"Cerebras error: {e}")
-    return None
-
-
-def call_cloudflare(prompt: str, max_tokens: int = 8000) -> Optional[str]:
-    """Call Cloudflare Workers AI."""
-    try:
-        response = requests.post(
-            f"https://api.cloudflare.com/client/v4/accounts/{CLOUDFLARE_ACCOUNT}/ai/run/@cf/meta/llama-3.1-8b-instruct",
-            headers={
-                "Authorization": f"Bearer {CLOUDFLARE_TOKEN}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": min(max_tokens, 4000),
-            },
-            timeout=300
-        )
-        if response.status_code == 200:
-            data = response.json()
-            if data.get("success") and data.get("result", {}).get("response"):
-                return data["result"]["response"]
-        elif response.status_code == 429:
-            logger.warning("Cloudflare rate limited")
-    except Exception as e:
-        logger.error(f"Cloudflare error: {e}")
-    return None
-
-
-def call_fireworks(prompt: str, max_tokens: int = 8000) -> Optional[str]:
-    """Call Fireworks AI API."""
-    try:
-        response = requests.post(
-            "https://api.fireworks.ai/inference/v1/chat/completions",
-            headers={
-                "Authorization": f"Bearer {FIREWORKS_API_KEY}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "accounts/fireworks/models/llama-v3p3-70b-instruct",
-                "messages": [{"role": "user", "content": prompt}],
-                "max_tokens": min(max_tokens, 8000),
-                "temperature": 0.7,
-            },
-            timeout=300
-        )
-        if response.status_code == 200:
-            return response.json()["choices"][0]["message"]["content"]
-        elif response.status_code == 429:
-            logger.warning("Fireworks rate limited")
-    except Exception as e:
-        logger.error(f"Fireworks error: {e}")
-    return None
-
-
-# Round-robin index for load balancing
-_api_index = 0
-
-def call_api(prompt: str, max_tokens: int = 8000) -> Optional[str]:
-    """Call API with round-robin across all free APIs."""
-    global _api_index
-
-    # All free APIs in order (8 providers now)
-    apis = [
-        ("Groq", call_groq),
-        ("Cerebras", call_cerebras),
-        ("Together", call_together),
-        ("Fireworks", call_fireworks),
-        ("GitHub", call_github),
-        ("Cloudflare", call_cloudflare),
-        ("OpenRouter", call_openrouter),
-        ("DeepSeek", call_deepseek),
-    ]
-
-    # Try starting from current index, round-robin
-    for i in range(len(apis)):
-        idx = (_api_index + i) % len(apis)
-        name, func = apis[idx]
-        result = func(prompt, max_tokens)
-        if result:
-            logger.info(f"Success via {name}")
-            _api_index = (idx + 1) % len(apis)  # Next call starts with next API
-            return result
-
-    logger.error("All APIs failed")
-    return None
+# Pre-compiled common patterns used multiple times
+POV_FIRST_PERSON = re.compile(r'\b(I|me|my|mine|myself)\b', re.IGNORECASE)
+POV_SECOND_PERSON = re.compile(r'\b(you|your|yours|yourself)\b', re.IGNORECASE)
+POV_THIRD_PERSON = re.compile(r'\b(he|she|they|his|her|their|him|them)\b', re.IGNORECASE)
+TRIPLE_WORD = re.compile(r'\b(\w+)\s+\1\s+\1\b', re.IGNORECASE)
+DOUBLE_WORD = re.compile(r'\b(\w+)\s+\1\b', re.IGNORECASE)
+DOUBLE_PHRASE = re.compile(r'\b(\w+\s+\w+)\s+\1\b', re.IGNORECASE)
+MULTIPLE_SPACES = re.compile(r'[ \t]+')
+SPACE_BEFORE_PUNCT = re.compile(r' +([.,;:!?])')
+LEADING_SPACES = re.compile(r'\n +')
+TRAILING_SPACES = re.compile(r' +\n')
+MULTIPLE_NEWLINES = re.compile(r'\n{3,}')
 
 
 @dataclass
@@ -352,14 +157,30 @@ class BookFixer:
         """Get all chapter text combined."""
         return "\n\n".join(self.chapters.values())
 
+    def _get_setting_name(self) -> str:
+        """Get primary setting name from story bible."""
+        if not self.story_bible:
+            return "the estate"
+
+        setting = self.story_bible.get("setting", {})
+        if isinstance(setting, str):
+            return setting
+
+        if isinstance(setting, dict):
+            for key in ["primary_location", "name", "location"]:
+                value = setting.get(key)
+                if isinstance(value, str) and value:
+                    return value
+
+        return "the estate"
+
     # =========================================================================
     # ANALYSIS PHASE
     # =========================================================================
 
     def analyze_name_inconsistencies(self) -> List[NameMapping]:
         """Use AI to find all name variations and determine canonical names."""
-
-        all_text = self._get_all_text()[:15000]  # First 15k chars
+        all_text = self._get_all_text()[:15000]
 
         prompt = f"""Analyze this book text and find ALL character name inconsistencies.
 
@@ -377,77 +198,70 @@ Return as JSON array:
     "canonical": "Dr. Victor Blackwood",
     "variants": ["Dr. Blackthorn", "Victor Blackthorn", "Professor Blackwood"],
     "role": "antagonist"
-  }},
-  {{
-    "canonical": "Eleanor Hargrove",
-    "variants": ["Ellie Hargrove", "Eleanor Hart", "Elle"],
-    "role": "protagonist"
   }}
 ]
 
 IMPORTANT:
 - Only include characters with ACTUAL inconsistencies (multiple different names)
-- Don't include nicknames that are intentionally used (like "Ellie" for "Eleanor" if consistent)
+- Don't include nicknames that are intentionally used
 - Focus on ERRORS like completely different surnames or first names
 - Return ONLY valid JSON array, no other text"""
 
-        result = call_api(prompt, 2000)
+        result = call_llm(prompt, max_tokens=2000)
         mappings = []
 
         if result:
-            try:
-                if "```json" in result:
-                    result = result.split("```json")[1].split("```")[0]
-                elif "```" in result:
-                    result = result.split("```")[1].split("```")[0]
-
-                data = json.loads(result)
+            data = extract_json_from_response(result)
+            if data and isinstance(data, list):
                 for item in data:
-                    if item.get("variants"):
+                    if isinstance(item, dict) and "canonical" in item and "variants" in item:
                         mappings.append(NameMapping(
                             canonical=item["canonical"],
-                            variants=item["variants"],
-                            role=item.get("role", "supporting")
+                            variants=item.get("variants", []),
+                            role=item.get("role", "unknown")
                         ))
-            except json.JSONDecodeError:
-                pass
 
         self.name_mappings = mappings
         return mappings
 
-    def analyze_pov_consistency(self) -> Optional[str]:
-        """Check if POV is consistent across chapters."""
-        pov_by_chapter = {}
+    def analyze_pov_consistency(self) -> str:
+        """Detect the dominant POV and find inconsistencies."""
+        pov_counts = {"first": 0, "second": 0, "third": 0}
 
+        for content in self.chapters.values():
+            first_person = len(POV_FIRST_PERSON.findall(content))
+            second_person = len(POV_SECOND_PERSON.findall(content))
+            third_person = len(POV_THIRD_PERSON.findall(content))
+
+            if first_person > second_person and first_person > third_person:
+                pov_counts["first"] += 1
+            elif second_person > first_person and second_person > third_person:
+                pov_counts["second"] += 1
+            else:
+                pov_counts["third"] += 1
+
+        dominant_pov = max(pov_counts, key=pov_counts.get)
+
+        # Find chapters with wrong POV
         for num, content in self.chapters.items():
-            # Count first-person pronouns
-            first_person = len(re.findall(r'\bI\b(?!\')|\bmy\b|\bme\b|\bmyself\b', content, re.IGNORECASE))
-            # Count third-person
-            third_person = len(re.findall(r'\b(he|she|they)\b', content, re.IGNORECASE))
+            first_person = len(re.findall(r'\b(I|me|my|mine|myself)\b', content, re.IGNORECASE))
+            second_person = len(re.findall(r'\b(you|your|yours|yourself)\b', content, re.IGNORECASE))
+            third_person = len(re.findall(r'\b(he|she|they|his|her|their|him|them)\b', content, re.IGNORECASE))
 
-            total = first_person + third_person
-            if total > 0:
-                first_ratio = first_person / total
-                if first_ratio > 0.6:
-                    pov_by_chapter[num] = "first"
-                elif first_ratio < 0.2:
-                    pov_by_chapter[num] = "third"
-                else:
-                    pov_by_chapter[num] = "mixed"
+            chapter_pov = "third"
+            if first_person > second_person and first_person > third_person:
+                chapter_pov = "first"
+            elif second_person > first_person and second_person > third_person:
+                chapter_pov = "second"
 
-        # Check for inconsistency
-        povs = list(set(pov_by_chapter.values()))
-        if len(povs) > 1 and "mixed" not in povs:
-            # Real inconsistency
-            dominant = Counter(pov_by_chapter.values()).most_common(1)[0][0]
-            self.issues.append(BookIssue(
-                issue_type="pov_inconsistency",
-                description=f"POV shifts detected. Dominant: {dominant}",
-                affected_chapters=[n for n, p in pov_by_chapter.items() if p != dominant]
-            ))
-            return dominant
+            if chapter_pov != dominant_pov:
+                self.issues.append(BookIssue(
+                    issue_type="pov_inconsistency",
+                    description=f"Chapter {num} uses {chapter_pov}-person but book is {dominant_pov}-person",
+                    affected_chapters=[num]
+                ))
 
-        return None
+        return dominant_pov
 
     def analyze_chapter_quality(self) -> List[int]:
         """Find chapters that are too short or low quality."""
@@ -464,20 +278,6 @@ IMPORTANT:
                 ))
 
         return short_chapters
-
-    def analyze_setting_consistency(self) -> List[Tuple[str, str]]:
-        """Find setting/location name inconsistencies."""
-        # This uses the story bible's key_fixes_needed if available
-        if self.story_bible and "key_fixes_needed" in self.story_bible:
-            fixes = self.story_bible["key_fixes_needed"]
-            for fix in fixes:
-                if "setting" in fix.lower() or "location" in fix.lower() or "place" in fix.lower():
-                    self.issues.append(BookIssue(
-                        issue_type="setting_inconsistency",
-                        description=fix,
-                        affected_chapters=list(self.chapters.keys())
-                    ))
-        return []
 
     # =========================================================================
     # FIX PHASE
@@ -497,7 +297,6 @@ IMPORTANT:
                 original = content
                 for variant in mapping.variants:
                     if variant != mapping.canonical:
-                        # Use word boundaries to avoid partial matches
                         pattern = r'\b' + re.escape(variant) + r'\b'
                         content = re.sub(pattern, mapping.canonical, content)
 
@@ -529,18 +328,7 @@ IMPORTANT:
             return False
 
         content = self.chapters[chapter_num]
-
-        # Get story bible context
-        protagonist = "the protagonist"
-        if self.story_bible:
-            chars = self.story_bible.get("characters", [])
-            if isinstance(chars, list) and chars:
-                # Characters is a list of character dicts
-                protagonist = chars[0].get("name", "the protagonist") if isinstance(chars[0], dict) else "the protagonist"
-            elif isinstance(chars, dict):
-                # Characters is a dict with roles as keys
-                protag = chars.get("protagonist", {})
-                protagonist = protag.get("name", "the protagonist") if isinstance(protag, dict) else "the protagonist"
+        protagonist = self._get_protagonist_name()
 
         prompt = f"""Rewrite this chapter to use consistent {target_pov}-person POV.
 
@@ -558,13 +346,29 @@ REQUIREMENTS:
 
 Write the COMPLETE rewritten chapter:"""
 
-        result = call_api(prompt, 8000)
-        if result and len(result) > len(content) * 0.7:  # At least 70% of original length
+        result = call_llm(prompt, max_tokens=8000)
+        if result and len(result) > len(content) * 0.7:
             self.chapters[chapter_num] = result
             self._save_chapter(chapter_num, result)
             return True
 
         return False
+
+    def _get_protagonist_name(self) -> str:
+        """Get protagonist name from story bible."""
+        if not self.story_bible:
+            return "the protagonist"
+
+        chars = self.story_bible.get("characters", [])
+        if isinstance(chars, list) and chars:
+            if isinstance(chars[0], dict):
+                return chars[0].get("name", "the protagonist")
+        elif isinstance(chars, dict):
+            protag = chars.get("protagonist", {})
+            if isinstance(protag, dict):
+                return protag.get("name", "the protagonist")
+
+        return "the protagonist"
 
     def expand_short_chapters(self) -> int:
         """Expand chapters that are too short."""
@@ -589,29 +393,9 @@ Write the COMPLETE rewritten chapter:"""
         current_words = len(content.split())
 
         if current_words >= MIN_CHAPTER_WORDS:
-            return True  # Already long enough
+            return True
 
-        # Get context from story bible
-        context = ""
-        if self.story_bible:
-            chars = self.story_bible.get('characters', [])
-            if isinstance(chars, list) and chars and isinstance(chars[0], dict):
-                protagonist_name = chars[0].get('name', 'Unknown')
-            elif isinstance(chars, dict):
-                protagonist_name = chars.get('protagonist', {}).get('name', 'Unknown') if isinstance(chars.get('protagonist'), dict) else 'Unknown'
-            else:
-                protagonist_name = 'Unknown'
-
-            narrative_voice = self.story_bible.get('narrative_voice', {})
-            tone = narrative_voice.get('tone', 'engaging') if isinstance(narrative_voice, dict) else 'engaging'
-
-            context = f"""
-GENRE: {self.story_bible.get('genre', 'fiction')}
-PROTAGONIST: {protagonist_name}
-TONE: {tone}
-"""
-
-        # Get previous chapter summary for context
+        context = self._get_story_context()
         prev_summary = ""
         if chapter_num > 1 and (chapter_num - 1) in self.chapters:
             prev_content = self.chapters[chapter_num - 1]
@@ -636,10 +420,10 @@ EXPANSION REQUIREMENTS:
 
 Write the COMPLETE expanded chapter:"""
 
-        result = call_api(prompt, 8000)
+        result = call_llm(prompt, max_tokens=8000)
         if result:
             new_words = len(result.split())
-            if new_words > current_words * 1.3:  # At least 30% longer
+            if new_words > current_words * 1.3:
                 self.chapters[chapter_num] = result
                 self._save_chapter(chapter_num, result)
                 logger.info(f"    Expanded chapter {chapter_num}: {current_words} → {new_words} words")
@@ -647,79 +431,217 @@ Write the COMPLETE expanded chapter:"""
 
         return False
 
+    def _get_story_context(self) -> str:
+        """Get story context from story bible."""
+        if not self.story_bible:
+            return ""
+
+        protagonist = self._get_protagonist_name()
+        narrative_voice = self.story_bible.get('narrative_voice', {})
+        tone = narrative_voice.get('tone', 'engaging') if isinstance(narrative_voice, dict) else 'engaging'
+
+        return f"""
+GENRE: {self.story_bible.get('genre', 'fiction')}
+PROTAGONIST: {protagonist}
+TONE: {tone}
+"""
+
     def fix_setting_inconsistencies(self) -> int:
         """Fix setting/location name inconsistencies using AI."""
-        fixes = 0
-
-        # Get canonical setting names from story bible
         if not self.story_bible:
             return 0
 
-        setting = self.story_bible.get("setting", {})
-        if not setting:
+        all_text = self._get_all_text()[:10000]
+
+        prompt = f"""Analyze this book text and find setting/location name inconsistencies.
+
+BOOK TEXT:
+{all_text}
+
+STORY BIBLE SETTING:
+{json.dumps(self.story_bible.get('setting', {}), indent=2)}
+
+Find locations mentioned inconsistently and return a JSON object mapping variant names to canonical names:
+{{"variant1": "canonical1", "variant2": "canonical1"}}
+
+Return ONLY the JSON object."""
+
+        result = call_llm(prompt, max_tokens=1000)
+        if not result:
             return 0
 
-        # Build list of canonical names
-        canonical_settings = []
-        if "primary_location" in setting:
-            canonical_settings.append(setting["primary_location"])
-        if "university_name" in setting:
-            canonical_settings.append(setting["university_name"])
+        mappings = extract_json_from_response(result)
+        if not mappings or not isinstance(mappings, dict):
+            return 0
 
-        # Use AI to find and fix inconsistencies
-        all_text_sample = self._get_all_text()[:10000]
+        fixes = 0
+        for variant, canonical in mappings.items():
+            if isinstance(variant, str) and isinstance(canonical, str) and variant != canonical:
+                for num, content in self.chapters.items():
+                    original = content
+                    pattern = r'\b' + re.escape(variant) + r'\b'
+                    content = re.sub(pattern, canonical, content)
 
-        prompt = f"""Find and list all location/setting name variations in this text that should be standardized.
-
-CANONICAL SETTINGS FROM STORY BIBLE:
-{json.dumps(setting, indent=2)}
-
-TEXT SAMPLE:
-{all_text_sample}
-
-Return a JSON object mapping variant names to canonical names:
-{{
-  "variant_name": "canonical_name",
-  "St. Mary's Cathedral": "Cathedral of the Sacred Heart",
-  "New Haven": "Eldridge"
-}}
-
-Only include ACTUAL inconsistencies. Return empty {{}} if none found."""
-
-        result = call_api(prompt, 1000)
-        if result:
-            try:
-                if "```json" in result:
-                    result = result.split("```json")[1].split("```")[0]
-                elif "```" in result:
-                    result = result.split("```")[1].split("```")[0]
-
-                mappings = json.loads(result)
-
-                for variant, canonical in mappings.items():
-                    if variant and canonical and variant != canonical:
-                        for num, content in self.chapters.items():
-                            pattern = r'\b' + re.escape(variant) + r'\b'
-                            new_content = re.sub(pattern, canonical, content)
-                            if new_content != content:
-                                self.chapters[num] = new_content
-                                self._save_chapter(num, new_content)
-                                fixes += 1
-
-            except json.JSONDecodeError:
-                pass
+                    if content != original:
+                        self.chapters[num] = content
+                        self._save_chapter(num, content)
+                        fixes += 1
 
         self.fixes_applied += fixes
         return fixes
 
     # =========================================================================
-    # MAIN PIPELINE
+    # TEXT FIXES (No AI calls)
+    # =========================================================================
+
+    def fix_doubled_names(self) -> int:
+        """Fix doubled/tripled names like 'Maya Chen Chen Chen'."""
+        fixes = 0
+
+        for num, content in self.chapters.items():
+            original = content
+
+            for _ in range(3):  # Multiple passes
+                prev_content = content
+                content = TRIPLE_WORD.sub(r'\1', content)
+                content = DOUBLE_WORD.sub(r'\1', content)
+                content = DOUBLE_PHRASE.sub(r'\1', content)
+                if content == prev_content:
+                    break
+
+            if content != original:
+                self.chapters[num] = content
+                self._save_chapter(num, content)
+                fixes += 1
+                logger.info(f"    Fixed doubled names in chapter {num}")
+
+        self.fixes_applied += fixes
+        return fixes
+
+    def fix_unprocessed_placeholders(self) -> int:
+        """Fix unprocessed placeholder text like '(primary setting)'."""
+        fixes = 0
+        location_name = self._get_setting_name()
+
+        for num, content in self.chapters.items():
+            original = content
+
+            for pattern, replacement in PLACEHOLDER_PATTERNS:
+                # Check if this is a location-related pattern
+                pattern_str = pattern.pattern.lower()
+                if 'setting' in pattern_str or 'location' in pattern_str:
+                    actual_replacement = location_name
+                else:
+                    actual_replacement = replacement
+                content = pattern.sub(actual_replacement, content)
+
+            # Clean up using pre-compiled patterns
+            content = MULTIPLE_SPACES.sub(' ', content)
+            content = SPACE_BEFORE_PUNCT.sub(r'\1', content)
+            content = LEADING_SPACES.sub('\n', content)
+            content = TRAILING_SPACES.sub('\n', content)
+
+            if content != original:
+                self.chapters[num] = content
+                self._save_chapter(num, content)
+                fixes += 1
+                logger.info(f"    Fixed placeholders in chapter {num}")
+
+        self.fixes_applied += fixes
+        return fixes
+
+    def fix_llm_artifacts(self) -> int:
+        """Remove LLM instruction artifacts that leaked into the output."""
+        fixes = 0
+
+        for num, content in self.chapters.items():
+            original = content
+
+            # Use pre-compiled patterns
+            for pattern in LLM_ARTIFACTS:
+                content = pattern.sub('', content)
+
+            content = MULTIPLE_NEWLINES.sub('\n\n', content)
+
+            if content != original:
+                self.chapters[num] = content
+                self._save_chapter(num, content)
+                fixes += 1
+                logger.info(f"    Removed LLM artifacts from chapter {num}")
+
+        self.fixes_applied += fixes
+        return fixes
+
+    def fix_duplicate_content(self) -> int:
+        """Fix chapters that have duplicated content."""
+        fixes = 0
+
+        for num, content in self.chapters.items():
+            original = content
+
+            # Check for half-chapter duplication
+            half_point = len(content) // 2
+            first_half = content[:half_point].strip()
+
+            if len(first_half) > 500:
+                second_half = content[half_point:]
+                check = first_half[:200]
+                if check in second_half:
+                    dup_start = second_half.find(check)
+                    if dup_start != -1:
+                        content = content[:half_point + dup_start].strip()
+                        self.chapters[num] = content
+                        self._save_chapter(num, content)
+                        fixes += 1
+                        logger.info(f"    Removed duplicated content from chapter {num}")
+                        continue
+
+            # Check for paragraph-level duplicates
+            paragraphs = content.split('\n\n')
+            if len(paragraphs) > 5:
+                seen: Set[str] = set()
+                unique_paragraphs = []
+
+                for para in paragraphs:
+                    normalized = ' '.join(para.split()).lower()
+                    if len(normalized) > 100:
+                        if normalized not in seen:
+                            seen.add(normalized)
+                            unique_paragraphs.append(para)
+                    else:
+                        unique_paragraphs.append(para)
+
+                if len(unique_paragraphs) < len(paragraphs):
+                    content = '\n\n'.join(unique_paragraphs)
+                    self.chapters[num] = content
+                    self._save_chapter(num, content)
+                    fixes += 1
+                    logger.info(f"    Removed duplicate paragraphs from chapter {num}")
+
+        self.fixes_applied += fixes
+        return fixes
+
+    def fix_repetitive_phrases(self) -> int:
+        """Detect and log repetitive AI phrases (detection only, no auto-fix)."""
+        detections = 0
+
+        for num, content in self.chapters.items():
+            for pattern in REPETITIVE_PHRASE_PATTERNS:
+                matches = pattern.findall(content)
+                if len(matches) > MAX_REPEATED_PHRASES:
+                    detections += 1
+
+        if detections > 0:
+            logger.info(f"    Detected {detections} repetitive phrase patterns")
+
+        return 0  # No auto-fix for this
+
+    # =========================================================================
+    # MAIN FIX PIPELINE
     # =========================================================================
 
     def run_full_fix(self) -> Dict:
-        """Run the complete fix pipeline."""
-        logger.info(f"Fixing: {self.book_dir.name}")
-
+        """Run all fixes in order."""
         results = {
             "book": self.book_dir.name,
             "issues_found": 0,
@@ -727,68 +649,62 @@ Only include ACTUAL inconsistencies. Return empty {{}} if none found."""
             "details": []
         }
 
-        # 1. Analyze and fix name inconsistencies
-        logger.info("  [1/4] Analyzing name inconsistencies...")
-        name_mappings = self.analyze_name_inconsistencies()
-        if name_mappings:
-            logger.info(f"    Found {len(name_mappings)} name inconsistencies")
-            name_fixes = self.fix_name_inconsistencies()
-            results["details"].append(f"Fixed {name_fixes} name inconsistencies")
-            results["issues_found"] += len(name_mappings)
+        # Text fixes first (no AI calls)
+        doubled_fixes = self.fix_doubled_names()
+        if doubled_fixes:
+            results["details"].append(f"Fixed doubled names in {doubled_fixes} chapters")
 
-        # 2. Analyze and fix POV inconsistencies
-        logger.info("  [2/4] Analyzing POV consistency...")
+        placeholder_fixes = self.fix_unprocessed_placeholders()
+        if placeholder_fixes:
+            results["details"].append(f"Fixed placeholders in {placeholder_fixes} chapters")
+
+        artifact_fixes = self.fix_llm_artifacts()
+        if artifact_fixes:
+            results["details"].append(f"Removed LLM artifacts from {artifact_fixes} chapters")
+
+        duplicate_fixes = self.fix_duplicate_content()
+        if duplicate_fixes:
+            results["details"].append(f"Fixed duplicates in {duplicate_fixes} chapters")
+
+        # Analysis
+        self.analyze_name_inconsistencies()
         dominant_pov = self.analyze_pov_consistency()
-        if dominant_pov:
-            pov_issues = [i for i in self.issues if i.issue_type == "pov_inconsistency"]
-            if pov_issues:
-                logger.info(f"    Found POV issues in {len(pov_issues[0].affected_chapters)} chapters")
-                pov_fixes = self.fix_pov_inconsistency(dominant_pov)
-                results["details"].append(f"Fixed {pov_fixes} POV inconsistencies")
-                results["issues_found"] += len(pov_issues[0].affected_chapters)
+        self.analyze_chapter_quality()
 
-        # 3. Analyze and fix setting inconsistencies
-        logger.info("  [3/4] Analyzing setting consistency...")
-        self.analyze_setting_consistency()
+        results["issues_found"] = len(self.issues)
+
+        # AI-based fixes
+        if self.name_mappings:
+            name_fixes = self.fix_name_inconsistencies()
+            if name_fixes:
+                results["details"].append(f"Fixed name inconsistencies in {name_fixes} chapters")
+
+        pov_fixes = self.fix_pov_inconsistency(dominant_pov)
+        if pov_fixes:
+            results["details"].append(f"Fixed POV in {pov_fixes} chapters")
+
+        chapter_fixes = self.expand_short_chapters()
+        if chapter_fixes:
+            results["details"].append(f"Expanded {chapter_fixes} short chapters")
+
         setting_fixes = self.fix_setting_inconsistencies()
         if setting_fixes:
-            results["details"].append(f"Fixed {setting_fixes} setting inconsistencies")
-            results["issues_found"] += setting_fixes
-
-        # 4. Expand short chapters
-        logger.info("  [4/4] Checking chapter lengths...")
-        short_chapters = self.analyze_chapter_quality()
-        if short_chapters:
-            logger.info(f"    Found {len(short_chapters)} short chapters")
-            expansion_fixes = self.expand_short_chapters()
-            results["details"].append(f"Expanded {expansion_fixes} short chapters")
-            results["issues_found"] += len(short_chapters)
+            results["details"].append(f"Fixed setting inconsistencies in {setting_fixes} chapters")
 
         results["fixes_applied"] = self.fixes_applied
 
-        # Save fix report
-        report_path = self.book_dir / "fix_report.json"
-        report_path.write_text(json.dumps(results, indent=2))
-
-        # Update story bible to mark as fixed
-        if self.story_bible:
+        # Mark as fixed in story bible
+        if self.story_bible and results["fixes_applied"] > 0:
             self.story_bible["quality_fixed"] = True
-            self.story_bible["fixes_applied"] = results["details"]
-            (self.book_dir / "story_bible.json").write_text(
-                json.dumps(self.story_bible, indent=2)
-            )
+            self.story_bible["fixes_applied"] = results["fixes_applied"]
+            bible_path = self.book_dir / "story_bible.json"
+            bible_path.write_text(json.dumps(self.story_bible, indent=2))
 
         return results
 
 
-def fix_single_book(book_dir: Path) -> Dict:
-    """Fix a single book."""
-    fixer = BookFixer(book_dir)
-    return fixer.run_full_fix()
-
-
 def get_books_needing_fixes() -> List[Path]:
-    """Get books that need fixing (have story bible but not fixed yet)."""
+    """Get all books that haven't been fixed yet."""
     books = []
 
     for book_dir in FICTION_DIR.iterdir():
@@ -799,7 +715,6 @@ def get_books_needing_fixes() -> List[Path]:
         if not story_bible_path.exists():
             continue
 
-        # Check if already fixed
         try:
             bible = json.loads(story_bible_path.read_text())
             if bible.get("quality_fixed"):
@@ -807,7 +722,21 @@ def get_books_needing_fixes() -> List[Path]:
         except json.JSONDecodeError:
             continue
 
-        # Check if has chapters
+        chapters = list(book_dir.glob("chapter_*.md"))
+        if len(chapters) >= 3:
+            books.append(book_dir)
+
+    return books
+
+
+def get_all_books() -> List[Path]:
+    """Get all books with chapters (regardless of fix status)."""
+    books = []
+
+    for book_dir in FICTION_DIR.iterdir():
+        if not book_dir.is_dir():
+            continue
+
         chapters = list(book_dir.glob("chapter_*.md"))
         if len(chapters) >= 3:
             books.append(book_dir)
@@ -817,15 +746,43 @@ def get_books_needing_fixes() -> List[Path]:
 
 def main():
     """Main fix loop."""
+    parser = argparse.ArgumentParser(description="Book Fixer - Automatic Quality Improvement")
+    parser.add_argument("--rerun", action="store_true",
+                       help="Re-run fixes on all books, including already-fixed ones")
+    parser.add_argument("--book", type=str,
+                       help="Fix a specific book by name")
+    parser.add_argument("--limit", type=int, default=None,
+                       help="Limit number of books to process")
+    parser.add_argument("--text-only", action="store_true",
+                       help="Only run text fixes (doubled names, placeholders, etc.) - no AI calls")
+    args = parser.parse_args()
+
     logger.info("=" * 60)
     logger.info("BOOK FIXER - Automatic Quality Improvement")
     logger.info("=" * 60)
 
-    books = get_books_needing_fixes()
-    logger.info(f"Found {len(books)} books needing fixes")
+    if args.book:
+        book_path = FICTION_DIR / args.book
+        if not book_path.exists():
+            matches = [d for d in FICTION_DIR.iterdir() if args.book.lower() in d.name.lower()]
+            if matches:
+                book_path = matches[0]
+            else:
+                logger.error(f"Book not found: {args.book}")
+                return
+        books = [book_path]
+    elif args.rerun:
+        books = get_all_books()
+    else:
+        books = get_books_needing_fixes()
+
+    if args.limit:
+        books = books[:args.limit]
+
+    logger.info(f"Found {len(books)} books to process")
 
     if not books:
-        logger.info("All books with story bibles have been fixed!")
+        logger.info("No books to process!")
         return
 
     total_issues = 0
@@ -835,7 +792,40 @@ def main():
         logger.info(f"\n[{i}/{len(books)}] {book_dir.name}")
 
         try:
-            results = fix_single_book(book_dir)
+            fixer = BookFixer(book_dir)
+
+            if args.text_only:
+                results = {
+                    "book": book_dir.name,
+                    "issues_found": 0,
+                    "fixes_applied": 0,
+                    "details": []
+                }
+
+                doubled_fixes = fixer.fix_doubled_names()
+                if doubled_fixes:
+                    results["details"].append(f"Fixed doubled names in {doubled_fixes} chapters")
+                    results["issues_found"] += doubled_fixes
+
+                placeholder_fixes = fixer.fix_unprocessed_placeholders()
+                if placeholder_fixes:
+                    results["details"].append(f"Fixed placeholders in {placeholder_fixes} chapters")
+                    results["issues_found"] += placeholder_fixes
+
+                artifact_fixes = fixer.fix_llm_artifacts()
+                if artifact_fixes:
+                    results["details"].append(f"Removed LLM artifacts from {artifact_fixes} chapters")
+                    results["issues_found"] += artifact_fixes
+
+                duplicate_fixes = fixer.fix_duplicate_content()
+                if duplicate_fixes:
+                    results["details"].append(f"Fixed duplicates in {duplicate_fixes} chapters")
+                    results["issues_found"] += duplicate_fixes
+
+                results["fixes_applied"] = fixer.fixes_applied
+            else:
+                results = fixer.run_full_fix()
+
             total_issues += results["issues_found"]
             total_fixes += results["fixes_applied"]
 
@@ -845,9 +835,10 @@ def main():
 
         except Exception as e:
             logger.error(f"  Error fixing {book_dir.name}: {e}")
+            import traceback
+            traceback.print_exc()
 
-        # Rate limiting
-        time.sleep(5)
+        time.sleep(1 if args.text_only else config.pipeline.delay_between_books)
 
     logger.info("\n" + "=" * 60)
     logger.info("FIX COMPLETE")

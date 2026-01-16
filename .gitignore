@@ -25,8 +25,11 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
+# lib/ - commented out to allow bookcli/lib/ module
+# lib/
 lib64/
+# But ignore pycache in lib
+lib/__pycache__/
 parts/
 sdist/
 var/
@@ -91,3 +94,5 @@ node_modules/
 # Docker
 .dockerignore
 docker-compose.override.yml
+# API response cache
+cache/
