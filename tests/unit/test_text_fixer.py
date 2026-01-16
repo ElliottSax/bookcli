@@ -132,7 +132,6 @@ class TestTextFixerPatterns:
 
     def test_llm_artifact_patterns(self):
         """Should match LLM artifacts."""
-        import re
         from fixers.text_fixer import LLM_ARTIFACTS
 
         test_cases = [
@@ -145,7 +144,8 @@ class TestTextFixerPatterns:
         for test in test_cases:
             matched = False
             for pattern in LLM_ARTIFACTS:
-                if re.search(pattern, test, re.IGNORECASE | re.MULTILINE):
+                # Patterns are pre-compiled, use pattern.search() directly
+                if pattern.search(test):
                     matched = True
                     break
             assert matched, f"Pattern should match: {test}"
@@ -160,15 +160,22 @@ class TestDuplicateDetection:
             book_dir = Path(tmpdir)
 
             # Create chapter with duplicate paragraph
-            content = """Chapter 1
+            # Paragraphs must be > 100 chars normalized to be checked for duplicates
+            # Also need > 5 paragraphs total for detection to trigger
+            long_para = "This is a paragraph with enough content to trigger the duplicate detection logic which requires paragraphs to be over one hundred characters long."
+            content = f"""Chapter 1
 
-This is paragraph one with enough content to be checked.
+{long_para}
 
-This is paragraph two with different content here.
+This is paragraph two with different content here that is also fairly long to be substantial.
 
-This is paragraph one with enough content to be checked.
+Another paragraph here to increase the count of paragraphs in this chapter.
 
-Final paragraph here.
+{long_para}
+
+Yet another paragraph to ensure we have more than five paragraphs total.
+
+Final paragraph here with some extra content.
 """
             (book_dir / "chapter_01.md").write_text(content)
             (book_dir / "story_bible.json").write_text("{}")
@@ -181,4 +188,4 @@ Final paragraph here.
             assert fixes >= 1
             # Count occurrences of the duplicate paragraph
             result = context.chapters[1]
-            assert result.count("This is paragraph one") == 1
+            assert result.count("This is a paragraph with enough content") == 1
