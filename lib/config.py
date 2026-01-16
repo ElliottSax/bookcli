@@ -37,6 +37,11 @@ class PathConfig:
             path.mkdir(parents=True, exist_ok=True)
 
 
+class ConfigValidationError(ValueError):
+    """Raised when configuration validation fails."""
+    pass
+
+
 @dataclass
 class APIConfig:
     """API configuration with keys and endpoints."""
@@ -86,6 +91,18 @@ class APIConfig:
         "cloudflare": 60,
         "fireworks": 60,
     })
+
+    def __post_init__(self):
+        """Validate API configuration."""
+        if self.default_timeout <= 0:
+            raise ConfigValidationError("default_timeout must be positive")
+        if self.long_timeout <= 0:
+            raise ConfigValidationError("long_timeout must be positive")
+        if self.long_timeout < self.default_timeout:
+            raise ConfigValidationError("long_timeout must be >= default_timeout")
+        for api_name, limit in self.rate_limits.items():
+            if limit <= 0:
+                raise ConfigValidationError(f"rate_limit for {api_name} must be positive")
 
     def get_available_apis(self) -> List[str]:
         """Get list of APIs with valid keys configured."""
@@ -137,6 +154,46 @@ class QualityConfig:
         "it's important to note", "it's worth noting",
     ])
 
+    def __post_init__(self):
+        """Validate quality configuration."""
+        # Chapter word count validation
+        if self.min_chapter_words <= 0:
+            raise ConfigValidationError("min_chapter_words must be positive")
+        if self.target_chapter_words <= 0:
+            raise ConfigValidationError("target_chapter_words must be positive")
+        if self.max_chapter_words <= 0:
+            raise ConfigValidationError("max_chapter_words must be positive")
+        if self.min_chapter_words > self.target_chapter_words:
+            raise ConfigValidationError("min_chapter_words must be <= target_chapter_words")
+        if self.target_chapter_words > self.max_chapter_words:
+            raise ConfigValidationError("target_chapter_words must be <= max_chapter_words")
+        if self.chapters_per_book <= 0:
+            raise ConfigValidationError("chapters_per_book must be positive")
+
+        # Dialogue ratio validation
+        if not (0 <= self.min_dialogue_ratio <= 1):
+            raise ConfigValidationError("min_dialogue_ratio must be between 0 and 1")
+        if not (0 <= self.max_dialogue_ratio <= 1):
+            raise ConfigValidationError("max_dialogue_ratio must be between 0 and 1")
+        if self.min_dialogue_ratio >= self.max_dialogue_ratio:
+            raise ConfigValidationError("min_dialogue_ratio must be < max_dialogue_ratio")
+
+        # Paragraph length validation
+        if self.min_paragraph_length <= 0:
+            raise ConfigValidationError("min_paragraph_length must be positive")
+        if self.max_paragraph_length <= 0:
+            raise ConfigValidationError("max_paragraph_length must be positive")
+        if self.min_paragraph_length >= self.max_paragraph_length:
+            raise ConfigValidationError("min_paragraph_length must be < max_paragraph_length")
+
+        # Other thresholds
+        if self.max_repeated_phrases < 0:
+            raise ConfigValidationError("max_repeated_phrases must be non-negative")
+        if self.min_dialogue_quotes < 0:
+            raise ConfigValidationError("min_dialogue_quotes must be non-negative")
+        if self.duplicate_threshold <= 0:
+            raise ConfigValidationError("duplicate_threshold must be positive")
+
 
 @dataclass
 class PipelineConfig:
@@ -157,6 +214,36 @@ class PipelineConfig:
     # Circuit breaker
     failure_threshold: int = 5
     recovery_timeout: float = 30.0
+
+    def __post_init__(self):
+        """Validate pipeline configuration."""
+        # Parallel processing validation
+        if self.max_workers <= 0:
+            raise ConfigValidationError("max_workers must be positive")
+        if self.batch_size <= 0:
+            raise ConfigValidationError("batch_size must be positive")
+
+        # Timing validation
+        if self.delay_between_books < 0:
+            raise ConfigValidationError("delay_between_books must be non-negative")
+        if self.delay_between_chapters < 0:
+            raise ConfigValidationError("delay_between_chapters must be non-negative")
+
+        # Retry validation
+        if self.max_api_retries <= 0:
+            raise ConfigValidationError("max_api_retries must be positive")
+        if self.retry_base_delay <= 0:
+            raise ConfigValidationError("retry_base_delay must be positive")
+        if self.retry_max_delay <= 0:
+            raise ConfigValidationError("retry_max_delay must be positive")
+        if self.retry_base_delay > self.retry_max_delay:
+            raise ConfigValidationError("retry_base_delay must be <= retry_max_delay")
+
+        # Circuit breaker validation
+        if self.failure_threshold <= 0:
+            raise ConfigValidationError("failure_threshold must be positive")
+        if self.recovery_timeout <= 0:
+            raise ConfigValidationError("recovery_timeout must be positive")
 
 
 @dataclass

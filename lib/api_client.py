@@ -289,6 +289,25 @@ class APIResponse:
         return self.success and self.content is not None
 
 
+@dataclass
+class APIEndpoint:
+    """Configuration for a single API endpoint."""
+    name: str
+    key: Optional[str]
+    url: str
+    default_model: str
+    auth_header: str = "Authorization"
+    auth_prefix: str = "Bearer"
+    extra_headers: Dict[str, str] = field(default_factory=dict)
+    response_parser: Optional[Callable] = None  # Custom response parser if needed
+
+    def get_auth_header(self) -> Dict[str, str]:
+        """Get authorization header for this endpoint."""
+        if not self.key:
+            return {}
+        return {self.auth_header: f"{self.auth_prefix} {self.key}"}
+
+
 class APIClient:
     """
     Unified API client for all LLM providers.
@@ -363,17 +382,24 @@ class APIClient:
                 recovery_timeout=pipeline_config.recovery_timeout,
             )
 
-        # API implementations
+        # Build endpoint configurations
+        self._endpoints: Dict[str, APIEndpoint] = self._build_endpoints()
+
+        # API implementations - use generic method for OpenAI-compatible APIs
+        def make_api_func(ep: APIEndpoint) -> Callable:
+            """Create a wrapper function for the endpoint."""
+            def api_func(prompt, max_tokens, temperature, system_prompt, model):
+                return self._call_openai_compatible(ep, prompt, max_tokens, temperature, system_prompt, model)
+            return api_func
+
         self._api_functions: Dict[str, Callable] = {
-            "deepseek": self._call_deepseek,
-            "groq": self._call_groq,
-            "openrouter": self._call_openrouter,
-            "together": self._call_together,
-            "github": self._call_github,
-            "cerebras": self._call_cerebras,
-            "cloudflare": self._call_cloudflare,
-            "fireworks": self._call_fireworks,
+            name: make_api_func(endpoint)
+            for name, endpoint in self._endpoints.items()
+            if name != "cloudflare"  # Cloudflare has custom response format
         }
+        # Add cloudflare with custom implementation
+        if "cloudflare" in self._endpoints:
+            self._api_functions["cloudflare"] = self._call_cloudflare
 
     @property
     def cache_stats(self) -> Dict[str, Any]:
@@ -399,6 +425,160 @@ class APIClient:
                 available.append(api_name)
 
         return available
+
+    def _build_endpoints(self) -> Dict[str, APIEndpoint]:
+        """Build endpoint configurations from APIConfig."""
+        endpoints = {}
+
+        # DeepSeek
+        if self.config.deepseek_key:
+            endpoints["deepseek"] = APIEndpoint(
+                name="deepseek",
+                key=self.config.deepseek_key,
+                url=self.config.deepseek_url,
+                default_model=self.config.deepseek_model,
+            )
+
+        # Groq
+        if self.config.groq_key:
+            endpoints["groq"] = APIEndpoint(
+                name="groq",
+                key=self.config.groq_key,
+                url=self.config.groq_url,
+                default_model=self.config.groq_model,
+            )
+
+        # OpenRouter
+        if self.config.openrouter_key:
+            endpoints["openrouter"] = APIEndpoint(
+                name="openrouter",
+                key=self.config.openrouter_key,
+                url=self.config.openrouter_url,
+                default_model=self.config.openrouter_model,
+            )
+
+        # Together AI
+        if self.config.together_key:
+            endpoints["together"] = APIEndpoint(
+                name="together",
+                key=self.config.together_key,
+                url=self.config.together_url,
+                default_model=self.config.together_model,
+            )
+
+        # GitHub Models
+        if self.config.github_key:
+            endpoints["github"] = APIEndpoint(
+                name="github",
+                key=self.config.github_key,
+                url=self.config.github_url,
+                default_model=self.config.github_model,
+            )
+
+        # Cerebras
+        if self.config.cerebras_key:
+            endpoints["cerebras"] = APIEndpoint(
+                name="cerebras",
+                key=self.config.cerebras_key,
+                url=self.config.cerebras_url,
+                default_model=self.config.cerebras_model,
+            )
+
+        # Fireworks AI
+        if self.config.fireworks_key:
+            endpoints["fireworks"] = APIEndpoint(
+                name="fireworks",
+                key=self.config.fireworks_key,
+                url=self.config.fireworks_url,
+                default_model=self.config.fireworks_model,
+            )
+
+        # Cloudflare (special case - different URL format)
+        if self.config.cloudflare_key and self.config.cloudflare_account:
+            endpoints["cloudflare"] = APIEndpoint(
+                name="cloudflare",
+                key=self.config.cloudflare_key,
+                url="",  # URL is built dynamically
+                default_model="@cf/meta/llama-3-8b-instruct",
+            )
+
+        return endpoints
+
+    def _call_openai_compatible(
+        self,
+        endpoint: APIEndpoint,
+        prompt: str,
+        max_tokens: int,
+        temperature: float,
+        system_prompt: Optional[str],
+        model: Optional[str],
+    ) -> APIResponse:
+        """
+        Generic method for OpenAI-compatible APIs.
+
+        Handles DeepSeek, Groq, OpenRouter, Together, GitHub, Cerebras, Fireworks.
+
+        Args:
+            endpoint: API endpoint configuration
+            prompt: The prompt to send
+            max_tokens: Maximum tokens in response
+            temperature: Sampling temperature
+            system_prompt: Optional system message
+            model: Optional model override
+
+        Returns:
+            APIResponse with content or error details
+        """
+        if not endpoint.key:
+            return APIResponse(success=False, api_name=endpoint.name, error="No API key")
+
+        messages = []
+        if system_prompt:
+            messages.append({"role": "system", "content": system_prompt})
+        messages.append({"role": "user", "content": prompt})
+
+        try:
+            headers = {
+                "Content-Type": "application/json",
+                **endpoint.get_auth_header(),
+                **endpoint.extra_headers,
+            }
+
+            response = requests.post(
+                endpoint.url,
+                headers=headers,
+                json={
+                    "model": model or endpoint.default_model,
+                    "messages": messages,
+                    "max_tokens": max_tokens,
+                    "temperature": temperature,
+                },
+                timeout=self.config.default_timeout,
+            )
+
+            if response.status_code == 200:
+                data = response.json()
+                content = data["choices"][0]["message"]["content"]
+                return APIResponse(
+                    content=content,
+                    success=True,
+                    api_name=endpoint.name,
+                    model=model or endpoint.default_model,
+                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
+                )
+            elif response.status_code == 429:
+                return APIResponse(success=False, api_name=endpoint.name, error="Rate limited")
+            else:
+                return APIResponse(
+                    success=False,
+                    api_name=endpoint.name,
+                    error=f"HTTP {response.status_code}: {response.text[:200]}"
+                )
+
+        except Timeout:
+            return APIResponse(success=False, api_name=endpoint.name, error="Request timeout")
+        except Exception as e:
+            return APIResponse(success=False, api_name=endpoint.name, error=str(e))
 
     def call(
         self,
@@ -579,350 +759,8 @@ class APIClient:
         return last_response or APIResponse(success=False, error="All APIs failed")
 
     # =========================================================================
-    # Individual API implementations
+    # Special API implementations (non-OpenAI compatible)
     # =========================================================================
-
-    def _call_deepseek(
-        self,
-        prompt: str,
-        max_tokens: int,
-        temperature: float,
-        system_prompt: Optional[str],
-        model: Optional[str],
-    ) -> APIResponse:
-        """Call DeepSeek API."""
-        if not self.config.deepseek_key:
-            return APIResponse(success=False, api_name="deepseek", error="No API key")
-
-        messages = []
-        if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": prompt})
-
-        try:
-            response = requests.post(
-                self.config.deepseek_url,
-                headers={
-                    "Authorization": f"Bearer {self.config.deepseek_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": model or self.config.deepseek_model,
-                    "messages": messages,
-                    "max_tokens": max_tokens,
-                    "temperature": temperature,
-                },
-                timeout=self.config.default_timeout,
-            )
-
-            if response.status_code == 200:
-                data = response.json()
-                content = data["choices"][0]["message"]["content"]
-                return APIResponse(
-                    content=content,
-                    success=True,
-                    api_name="deepseek",
-                    model=model or self.config.deepseek_model,
-                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
-                )
-            elif response.status_code == 429:
-                return APIResponse(success=False, api_name="deepseek", error="Rate limited")
-            else:
-                return APIResponse(
-                    success=False,
-                    api_name="deepseek",
-                    error=f"HTTP {response.status_code}: {response.text[:200]}"
-                )
-
-        except Timeout:
-            return APIResponse(success=False, api_name="deepseek", error="Request timeout")
-        except Exception as e:
-            return APIResponse(success=False, api_name="deepseek", error=str(e))
-
-    def _call_groq(
-        self,
-        prompt: str,
-        max_tokens: int,
-        temperature: float,
-        system_prompt: Optional[str],
-        model: Optional[str],
-    ) -> APIResponse:
-        """Call Groq API."""
-        if not self.config.groq_key:
-            return APIResponse(success=False, api_name="groq", error="No API key")
-
-        messages = []
-        if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": prompt})
-
-        try:
-            response = requests.post(
-                self.config.groq_url,
-                headers={
-                    "Authorization": f"Bearer {self.config.groq_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": model or self.config.groq_model,
-                    "messages": messages,
-                    "max_tokens": max_tokens,
-                    "temperature": temperature,
-                },
-                timeout=self.config.default_timeout,
-            )
-
-            if response.status_code == 200:
-                data = response.json()
-                content = data["choices"][0]["message"]["content"]
-                return APIResponse(
-                    content=content,
-                    success=True,
-                    api_name="groq",
-                    model=model or self.config.groq_model,
-                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
-                )
-            elif response.status_code == 429:
-                return APIResponse(success=False, api_name="groq", error="Rate limited")
-            else:
-                return APIResponse(
-                    success=False,
-                    api_name="groq",
-                    error=f"HTTP {response.status_code}"
-                )
-
-        except Timeout:
-            return APIResponse(success=False, api_name="groq", error="Request timeout")
-        except Exception as e:
-            return APIResponse(success=False, api_name="groq", error=str(e))
-
-    def _call_openrouter(
-        self,
-        prompt: str,
-        max_tokens: int,
-        temperature: float,
-        system_prompt: Optional[str],
-        model: Optional[str],
-    ) -> APIResponse:
-        """Call OpenRouter API."""
-        if not self.config.openrouter_key:
-            return APIResponse(success=False, api_name="openrouter", error="No API key")
-
-        messages = []
-        if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": prompt})
-
-        try:
-            response = requests.post(
-                self.config.openrouter_url,
-                headers={
-                    "Authorization": f"Bearer {self.config.openrouter_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": model or self.config.openrouter_model,
-                    "messages": messages,
-                    "max_tokens": max_tokens,
-                    "temperature": temperature,
-                },
-                timeout=self.config.default_timeout,
-            )
-
-            if response.status_code == 200:
-                data = response.json()
-                content = data["choices"][0]["message"]["content"]
-                return APIResponse(
-                    content=content,
-                    success=True,
-                    api_name="openrouter",
-                    model=model or self.config.openrouter_model,
-                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
-                )
-            elif response.status_code == 429:
-                return APIResponse(success=False, api_name="openrouter", error="Rate limited")
-            else:
-                return APIResponse(
-                    success=False,
-                    api_name="openrouter",
-                    error=f"HTTP {response.status_code}"
-                )
-
-        except Timeout:
-            return APIResponse(success=False, api_name="openrouter", error="Request timeout")
-        except Exception as e:
-            return APIResponse(success=False, api_name="openrouter", error=str(e))
-
-    def _call_together(
-        self,
-        prompt: str,
-        max_tokens: int,
-        temperature: float,
-        system_prompt: Optional[str],
-        model: Optional[str],
-    ) -> APIResponse:
-        """Call Together AI API."""
-        if not self.config.together_key:
-            return APIResponse(success=False, api_name="together", error="No API key")
-
-        messages = []
-        if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": prompt})
-
-        try:
-            response = requests.post(
-                self.config.together_url,
-                headers={
-                    "Authorization": f"Bearer {self.config.together_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": model or self.config.together_model,
-                    "messages": messages,
-                    "max_tokens": max_tokens,
-                    "temperature": temperature,
-                },
-                timeout=self.config.default_timeout,
-            )
-
-            if response.status_code == 200:
-                data = response.json()
-                content = data["choices"][0]["message"]["content"]
-                return APIResponse(
-                    content=content,
-                    success=True,
-                    api_name="together",
-                    model=model or self.config.together_model,
-                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
-                )
-            elif response.status_code == 429:
-                return APIResponse(success=False, api_name="together", error="Rate limited")
-            else:
-                return APIResponse(
-                    success=False,
-                    api_name="together",
-                    error=f"HTTP {response.status_code}"
-                )
-
-        except Timeout:
-            return APIResponse(success=False, api_name="together", error="Request timeout")
-        except Exception as e:
-            return APIResponse(success=False, api_name="together", error=str(e))
-
-    def _call_github(
-        self,
-        prompt: str,
-        max_tokens: int,
-        temperature: float,
-        system_prompt: Optional[str],
-        model: Optional[str],
-    ) -> APIResponse:
-        """Call GitHub Models API."""
-        if not self.config.github_key:
-            return APIResponse(success=False, api_name="github", error="No API key")
-
-        messages = []
-        if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": prompt})
-
-        try:
-            response = requests.post(
-                self.config.github_url,
-                headers={
-                    "Authorization": f"Bearer {self.config.github_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": model or self.config.github_model,
-                    "messages": messages,
-                    "max_tokens": max_tokens,
-                    "temperature": temperature,
-                },
-                timeout=self.config.default_timeout,
-            )
-
-            if response.status_code == 200:
-                data = response.json()
-                content = data["choices"][0]["message"]["content"]
-                return APIResponse(
-                    content=content,
-                    success=True,
-                    api_name="github",
-                    model=model or self.config.github_model,
-                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
-                )
-            elif response.status_code == 429:
-                return APIResponse(success=False, api_name="github", error="Rate limited")
-            else:
-                return APIResponse(
-                    success=False,
-                    api_name="github",
-                    error=f"HTTP {response.status_code}"
-                )
-
-        except Timeout:
-            return APIResponse(success=False, api_name="github", error="Request timeout")
-        except Exception as e:
-            return APIResponse(success=False, api_name="github", error=str(e))
-
-    def _call_cerebras(
-        self,
-        prompt: str,
-        max_tokens: int,
-        temperature: float,
-        system_prompt: Optional[str],
-        model: Optional[str],
-    ) -> APIResponse:
-        """Call Cerebras API."""
-        if not self.config.cerebras_key:
-            return APIResponse(success=False, api_name="cerebras", error="No API key")
-
-        messages = []
-        if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": prompt})
-
-        try:
-            response = requests.post(
-                self.config.cerebras_url,
-                headers={
-                    "Authorization": f"Bearer {self.config.cerebras_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": model or self.config.cerebras_model,
-                    "messages": messages,
-                    "max_tokens": max_tokens,
-                    "temperature": temperature,
-                },
-                timeout=self.config.default_timeout,
-            )
-
-            if response.status_code == 200:
-                data = response.json()
-                content = data["choices"][0]["message"]["content"]
-                return APIResponse(
-                    content=content,
-                    success=True,
-                    api_name="cerebras",
-                    model=model or self.config.cerebras_model,
-                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
-                )
-            elif response.status_code == 429:
-                return APIResponse(success=False, api_name="cerebras", error="Rate limited")
-            else:
-                return APIResponse(
-                    success=False,
-                    api_name="cerebras",
-                    error=f"HTTP {response.status_code}"
-                )
-
-        except Timeout:
-            return APIResponse(success=False, api_name="cerebras", error="Request timeout")
-        except Exception as e:
-            return APIResponse(success=False, api_name="cerebras", error=str(e))
 
     def _call_cloudflare(
         self,
@@ -986,63 +824,6 @@ class APIClient:
             return APIResponse(success=False, api_name="cloudflare", error="Request timeout")
         except Exception as e:
             return APIResponse(success=False, api_name="cloudflare", error=str(e))
-
-    def _call_fireworks(
-        self,
-        prompt: str,
-        max_tokens: int,
-        temperature: float,
-        system_prompt: Optional[str],
-        model: Optional[str],
-    ) -> APIResponse:
-        """Call Fireworks AI API."""
-        if not self.config.fireworks_key:
-            return APIResponse(success=False, api_name="fireworks", error="No API key")
-
-        messages = []
-        if system_prompt:
-            messages.append({"role": "system", "content": system_prompt})
-        messages.append({"role": "user", "content": prompt})
-
-        try:
-            response = requests.post(
-                self.config.fireworks_url,
-                headers={
-                    "Authorization": f"Bearer {self.config.fireworks_key}",
-                    "Content-Type": "application/json",
-                },
-                json={
-                    "model": model or self.config.fireworks_model,
-                    "messages": messages,
-                    "max_tokens": max_tokens,
-                    "temperature": temperature,
-                },
-                timeout=self.config.default_timeout,
-            )
-
-            if response.status_code == 200:
-                data = response.json()
-                content = data["choices"][0]["message"]["content"]
-                return APIResponse(
-                    content=content,
-                    success=True,
-                    api_name="fireworks",
-                    model=model or self.config.fireworks_model,
-                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
-                )
-            elif response.status_code == 429:
-                return APIResponse(success=False, api_name="fireworks", error="Rate limited")
-            else:
-                return APIResponse(
-                    success=False,
-                    api_name="fireworks",
-                    error=f"HTTP {response.status_code}"
-                )
-
-        except Timeout:
-            return APIResponse(success=False, api_name="fireworks", error="Request timeout")
-        except Exception as e:
-            return APIResponse(success=False, api_name="fireworks", error=str(e))
 
 
 # Singleton instance

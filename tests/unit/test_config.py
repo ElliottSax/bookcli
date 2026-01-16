@@ -16,6 +16,7 @@ from lib.config import (
     APIConfig,
     QualityConfig,
     PipelineConfig,
+    ConfigValidationError,
     get_config,
     reset_config,
 )
@@ -184,3 +185,99 @@ class TestGetConfig:
         reset_config()
         config2 = get_config()
         assert config1 is not config2
+
+
+class TestAPIConfigValidation:
+    """Tests for APIConfig validation."""
+
+    def test_invalid_default_timeout(self):
+        """Should reject non-positive default_timeout."""
+        with pytest.raises(ConfigValidationError, match="default_timeout"):
+            APIConfig(default_timeout=0)
+
+    def test_invalid_long_timeout(self):
+        """Should reject non-positive long_timeout."""
+        with pytest.raises(ConfigValidationError, match="long_timeout"):
+            APIConfig(long_timeout=0)
+
+    def test_long_timeout_less_than_default(self):
+        """Should reject long_timeout < default_timeout."""
+        with pytest.raises(ConfigValidationError, match="long_timeout must be >= default_timeout"):
+            APIConfig(default_timeout=200, long_timeout=100)
+
+    def test_invalid_rate_limit(self):
+        """Should reject non-positive rate limits."""
+        with pytest.raises(ConfigValidationError, match="rate_limit"):
+            APIConfig(rate_limits={"deepseek": 0})
+
+
+class TestQualityConfigValidation:
+    """Tests for QualityConfig validation."""
+
+    def test_invalid_min_chapter_words(self):
+        """Should reject non-positive min_chapter_words."""
+        with pytest.raises(ConfigValidationError, match="min_chapter_words"):
+            QualityConfig(min_chapter_words=0)
+
+    def test_min_greater_than_target(self):
+        """Should reject min_chapter_words > target_chapter_words."""
+        with pytest.raises(ConfigValidationError, match="min_chapter_words must be <= target"):
+            QualityConfig(min_chapter_words=5000, target_chapter_words=3000)
+
+    def test_target_greater_than_max(self):
+        """Should reject target_chapter_words > max_chapter_words."""
+        with pytest.raises(ConfigValidationError, match="target_chapter_words must be <= max"):
+            QualityConfig(target_chapter_words=7000, max_chapter_words=6000)
+
+    def test_invalid_dialogue_ratio_range(self):
+        """Should reject dialogue ratios outside [0, 1]."""
+        with pytest.raises(ConfigValidationError, match="min_dialogue_ratio"):
+            QualityConfig(min_dialogue_ratio=-0.1)
+
+        with pytest.raises(ConfigValidationError, match="max_dialogue_ratio"):
+            QualityConfig(max_dialogue_ratio=1.5)
+
+    def test_min_dialogue_ratio_greater_than_max(self):
+        """Should reject min_dialogue_ratio >= max_dialogue_ratio."""
+        with pytest.raises(ConfigValidationError, match="min_dialogue_ratio must be < max"):
+            QualityConfig(min_dialogue_ratio=0.6, max_dialogue_ratio=0.4)
+
+    def test_invalid_paragraph_lengths(self):
+        """Should reject invalid paragraph length configuration."""
+        with pytest.raises(ConfigValidationError, match="min_paragraph_length must be < max"):
+            QualityConfig(min_paragraph_length=500, max_paragraph_length=100)
+
+
+class TestPipelineConfigValidation:
+    """Tests for PipelineConfig validation."""
+
+    def test_invalid_max_workers(self):
+        """Should reject non-positive max_workers."""
+        with pytest.raises(ConfigValidationError, match="max_workers"):
+            PipelineConfig(max_workers=0)
+
+    def test_invalid_batch_size(self):
+        """Should reject non-positive batch_size."""
+        with pytest.raises(ConfigValidationError, match="batch_size"):
+            PipelineConfig(batch_size=0)
+
+    def test_negative_delay(self):
+        """Should reject negative delays."""
+        with pytest.raises(ConfigValidationError, match="delay_between_books"):
+            PipelineConfig(delay_between_books=-1)
+
+    def test_invalid_retry_settings(self):
+        """Should reject invalid retry configuration."""
+        with pytest.raises(ConfigValidationError, match="max_api_retries"):
+            PipelineConfig(max_api_retries=0)
+
+        with pytest.raises(ConfigValidationError, match="retry_base_delay must be <= retry_max_delay"):
+            PipelineConfig(retry_base_delay=100, retry_max_delay=10)
+
+    def test_invalid_circuit_breaker(self):
+        """Should reject invalid circuit breaker settings."""
+        with pytest.raises(ConfigValidationError, match="failure_threshold"):
+            PipelineConfig(failure_threshold=0)
+
+        with pytest.raises(ConfigValidationError, match="recovery_timeout"):
+            PipelineConfig(recovery_timeout=0)
