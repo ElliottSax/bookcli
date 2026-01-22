@@ -44,14 +44,19 @@ config = get_config()
 BOOKCLI_DIR = config.paths.base_dir
 FICTION_DIR = config.paths.fiction_dir
 REPORTS_DIR = config.paths.reports_dir
-VENV_PYTHON = "/mnt/e/projects/pod/venv/bin/python3"
-SSH_KEY = Path.home() / ".ssh" / "oci_worker_key"
-ORACLE_WORKERS = ["147.224.209.15", "64.181.220.95"]
+
+# Remote worker configuration (from environment or defaults)
+VENV_PYTHON = os.environ.get("BOOKCLI_VENV_PYTHON", sys.executable)
+SSH_KEY = Path(os.environ.get("BOOKCLI_SSH_KEY", str(Path.home() / ".ssh" / "oci_worker_key")))
+ORACLE_WORKERS = [w.strip() for w in os.environ.get("BOOKCLI_ORACLE_WORKERS", "").split(",") if w.strip()]
 
 REPORTS_DIR.mkdir(exist_ok=True)
 
 # All quality fixer scripts
 QUALITY_SCRIPTS = [
+    # Phase 0: Coherency fixes (MUST run first - removes duplicate/looped content)
+    ("fix_coherency_issues.py --loops-only --parallel 4", "Coherency/Loop Fixes", 90),
+
     # Phase 1: Content fixes
     ("show_dont_tell.py", "Show Don't Tell", 60),
     ("dialogue_depth.py", "Dialogue Depth", 60),
@@ -91,10 +96,20 @@ class MasterQualityPipeline:
         logger.info("PHASE 1: STOPPING ORACLE GENERATION")
         logger.info("=" * 60)
 
+        if not ORACLE_WORKERS:
+            logger.info("No Oracle workers configured (set BOOKCLI_ORACLE_WORKERS env var)")
+            return
+
         for ip in ORACLE_WORKERS:
             try:
-                cmd = f"ssh -i {SSH_KEY} -o StrictHostKeyChecking=no -o ConnectTimeout=10 ubuntu@{ip} 'sudo systemctl stop book-pipeline book-pipeline-2 2>/dev/null; pkill -f autonomous_pipeline || true'"
-                result = subprocess.run(cmd, shell=True, capture_output=True, timeout=30)
+                cmd = [
+                    "ssh", "-i", str(SSH_KEY),
+                    "-o", "StrictHostKeyChecking=no",
+                    "-o", "ConnectTimeout=10",
+                    f"ubuntu@{ip}",
+                    "sudo systemctl stop book-pipeline book-pipeline-2 2>/dev/null; pkill -f autonomous_pipeline || true"
+                ]
+                result = subprocess.run(cmd, capture_output=True, timeout=30)
                 logger.info(f"Stopped generation on {ip}")
             except Exception as e:
                 logger.warning(f"Could not stop {ip}: {e}")
@@ -103,19 +118,31 @@ class MasterQualityPipeline:
         """Wait for any in-progress books to complete."""
         logger.info("Waiting for in-progress books to complete...")
 
+        if not ORACLE_WORKERS:
+            logger.info("No Oracle workers to wait for")
+            return True
+
         start = time.time()
         while time.time() - start < max_wait_minutes * 60:
             # Check for running pipeline processes
             active = False
             for ip in ORACLE_WORKERS:
                 try:
-                    cmd = f"ssh -i {SSH_KEY} -o StrictHostKeyChecking=no -o ConnectTimeout=10 ubuntu@{ip} 'pgrep -f \"python.*pipeline\" | wc -l'"
-                    result = subprocess.run(cmd, shell=True, capture_output=True, timeout=15, text=True)
+                    cmd = [
+                        "ssh", "-i", str(SSH_KEY),
+                        "-o", "StrictHostKeyChecking=no",
+                        "-o", "ConnectTimeout=10",
+                        f"ubuntu@{ip}",
+                        "pgrep -f 'python.*pipeline' | wc -l"
+                    ]
+                    result = subprocess.run(cmd, capture_output=True, timeout=15, text=True)
                     if result.stdout.strip() not in ['0', '']:
                         active = True
                         logger.info(f"Still active processes on {ip}")
-                except:
-                    pass
+                except subprocess.TimeoutExpired:
+                    logger.debug(f"Timeout checking {ip}")
+                except subprocess.SubprocessError as e:
+                    logger.debug(f"Error checking {ip}: {e}")
 
             if not active:
                 logger.info("All generation complete!")
@@ -132,13 +159,26 @@ class MasterQualityPipeline:
         logger.info("PHASE 2: SYNCING FROM ORACLE")
         logger.info("=" * 60)
 
+        if not ORACLE_WORKERS:
+            logger.info("No Oracle workers configured - using local books only")
+            book_count = len([d for d in FICTION_DIR.iterdir() if d.is_dir()]) if FICTION_DIR.exists() else 0
+            logger.info(f"Total books in library: {book_count}")
+            return
+
         for ip in ORACLE_WORKERS:
             try:
                 logger.info(f"Syncing from {ip}...")
-                cmd = f"rsync -avz --progress -e 'ssh -i {SSH_KEY} -o StrictHostKeyChecking=no' ubuntu@{ip}:~/output/books/ {FICTION_DIR}/"
-                subprocess.run(cmd, shell=True, timeout=600)
+                cmd = [
+                    "rsync", "-avz", "--progress",
+                    "-e", f"ssh -i {SSH_KEY} -o StrictHostKeyChecking=no",
+                    f"ubuntu@{ip}:~/output/books/",
+                    f"{FICTION_DIR}/"
+                ]
+                subprocess.run(cmd, timeout=600)
                 logger.info(f"Synced from {ip}")
-            except Exception as e:
+            except subprocess.TimeoutExpired:
+                logger.error(f"Sync timeout from {ip}")
+            except subprocess.SubprocessError as e:
                 logger.error(f"Sync failed from {ip}: {e}")
 
         # Count books
@@ -436,8 +476,8 @@ Return the COMPLETE expanded chapter."""
             for chapter in book.glob("chapter_*.md"):
                 try:
                     total_words += len(chapter.read_text().split())
-                except:
-                    pass
+                except (OSError, UnicodeDecodeError) as e:
+                    logger.debug(f"Could not read {chapter}: {e}")
 
         report = {
             "generated_at": datetime.now().isoformat(),
@@ -477,7 +517,7 @@ Return the COMPLETE expanded chapter."""
         return report
 
     def fix_generation_loops(self):
-        """Fix books with detected generation loops by truncating repeated content."""
+        """Fix books with detected generation loops using CoherencyFixer."""
         logger.info("=" * 60)
         logger.info("PHASE 5a: FIXING GENERATION LOOPS")
         logger.info("=" * 60)
@@ -491,7 +531,17 @@ Return the COMPLETE expanded chapter."""
             logger.info("No books with generation loops detected")
             return
 
+        # Use CoherencyFixer module for robust loop fixing
+        try:
+            from fixers import BookContext, CoherencyFixer
+        except ImportError:
+            logger.error("Could not import CoherencyFixer - falling back to basic fix")
+            self._fix_generation_loops_basic(books_with_loops)
+            return
+
         fixed_count = 0
+        total_fixes = 0
+
         for book_name in books_with_loops:
             # Try fiction dir first, then books dir
             book_dir = FICTION_DIR / book_name
@@ -500,7 +550,48 @@ Return the COMPLETE expanded chapter."""
             if not book_dir.exists():
                 continue
 
-            # Load coherency report
+            try:
+                context = BookContext(book_dir)
+                fixer = CoherencyFixer(
+                    context,
+                    fix_loops=True,
+                    fix_duplicates=True,
+                    aggressive=False  # Safe mode
+                )
+
+                # Analyze first
+                analysis = fixer.analyze()
+                issues_found = (
+                    analysis.get('paragraph_loops', 0) +
+                    analysis.get('dialogue_loops', 0) +
+                    analysis.get('sentence_loops', 0)
+                )
+
+                if issues_found > 0:
+                    # Apply fixes
+                    fixes = fixer.fix()
+                    total_fixes += fixes
+
+                    if fixes > 0:
+                        logger.info(f"Fixed {fixes} loops in {book_name}")
+                        fixed_count += 1
+
+            except Exception as e:
+                logger.warning(f"Could not fix loops in {book_name}: {e}")
+
+        logger.info(f"Fixed {fixed_count} books, {total_fixes} total loop issues")
+
+    def _fix_generation_loops_basic(self, books_with_loops: list):
+        """Basic loop fix fallback if CoherencyFixer not available."""
+        fixed_count = 0
+
+        for book_name in books_with_loops:
+            book_dir = FICTION_DIR / book_name
+            if not book_dir.exists():
+                book_dir = BOOKCLI_DIR / "output/books" / book_name
+            if not book_dir.exists():
+                continue
+
             report_file = book_dir / "coherency_report.json"
             if not report_file.exists():
                 continue
@@ -519,7 +610,6 @@ Return the COMPLETE expanded chapter."""
                             fixed_text = self._remove_loops_from_text(text, issue)
 
                             if fixed_text and len(fixed_text) < len(text) * 0.95:
-                                # Backup and fix
                                 backup = chapter_file.with_suffix('.md.pre-loop-fix')
                                 if not backup.exists():
                                     backup.write_text(text)
@@ -530,7 +620,7 @@ Return the COMPLETE expanded chapter."""
             except Exception as e:
                 logger.warning(f"Could not fix loops in {book_name}: {e}")
 
-        logger.info(f"Fixed {fixed_count} chapters with generation loops")
+        logger.info(f"Fixed {fixed_count} chapters with generation loops (basic method)")
 
     def _remove_loops_from_text(self, text: str, issue: Dict) -> str:
         """Remove repeated content from text."""
