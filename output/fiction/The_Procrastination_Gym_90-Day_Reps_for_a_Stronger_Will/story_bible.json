@@ -47,5 +47,6 @@
   "narrative_voice": "Second-person imperative ('you'), direct address. Blends the authoritative voice of a coach with the explanatory tone of a cognitive scientist. Uses vivid metaphors (courtroom, negotiation table, gym, chain) to make abstract brain functions tangible.",
   "tone": "Blunt, motivational, clinical, and empowering. Starts by aggressively dismantling shame ('It's not laziness, it's weakness'), then becomes steadily more encouraging as it provides tools. Ends on a note of calm, unshakeable confidence.",
   "plot_summary": "The book is a 90-day transformational journey structured like a fitness program. It begins with a 'diagnosis,' reframing procrastination not as laziness but as a weakness of the brain's executive function\u2014a 'muscle' that can be trained. The reader is guided through dismantling the shame of procrastination and understanding the neuroscience of the internal conflict between the 'Prefrontal Cortex (CEO)' and the 'Limbic System (Inner Toddler).' The core of the book is a progressive training regimen of 'reps'\u2014small, daily cognitive and behavioral exercises designed to strengthen focus, manage resistance, and build 'chains' of reliable action. The narrative culminates in the reader forging a new identity: no longer reliant on fickle motivation, but equipped with a dependable mechanical system for tackling difficult tasks, moving through the world with the calm confidence of a craftsman or a seasoned athlete.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 9
 }

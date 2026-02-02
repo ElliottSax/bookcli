@@ -40,7 +40,7 @@ class ProviderConfig:
             "name": "DeepSeek",
             "api_key_env": "DEEPSEEK_API_KEY",
             "model": "deepseek-chat",
-            "max_tokens": 16000,
+            "max_tokens": 8000,  # DeepSeek limit is 8192
             "input_cost_per_1m": 0.14,   # $0.14 per 1M tokens
             "output_cost_per_1m": 0.28,  # $0.28 per 1M tokens
             "package": "openai",  # Uses OpenAI-compatible API

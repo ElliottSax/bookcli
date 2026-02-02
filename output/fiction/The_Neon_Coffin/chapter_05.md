@@ -1,169 +1,35 @@
 CHAPTER 5: ANALOG HEART
 
 The world dissolved into a scream of static and the coppery taste of blood.
-
 Kael ripped the neural jack from his temple, the wet snick of the interface disconnecting lost in the blaring proximity alarm that now shredded the silence of the data-den. Red light strobed, turning the floating dust into a swirling storm of embers. On the cracked screen, the benign system schematics he’d been browsing were gone, replaced by a single, pulsing glyph: a stylized eye, iris composed of interlocking gears. The Custodian sigil. They’d tripped a silent alarm, a ghost in the machine Elias hadn’t sensed.
-
 “They’ve localized the signal,” Elias’s voice was a tense whisper in his auditory implant, fraying at the edges with digital panic. “You have ninety seconds, maybe less. They’re two decks up, descending fast.”
 
 Kael didn’t waste breath on curses. He was already moving, his body a coiled spring of adrenaline. He snatched his worn thermal jacket and the stolen maintenance tablet, its screen now dark and dead. The den was a tomb of obsolete tech; no weapons, no real exits. Just the main hatch and the ventilation shafts too narrow for his shoulders.
-
 The air was heavy with the smell of ozone and burning plastic as Kael sprinted through the narrow corridors, his footsteps echoing off the walls. The den was a maze of twisted pipes and ductwork, a labyrinth designed to confound and disorient. He knew every inch of it, every hidden passage and secret compartment. But now, it seemed, he was being hunted.
-
 He reached the main hatch and yanked it open, revealing a blast of cold air and the dim, flickering lights of the service corridors. The hiss of the hatch was like a scream in his ears, a warning that he was running out of time. He leapt out into the corridor, his eyes scanning the darkness for any sign of movement.
-
 The lights were dim, but not out. A faint, pulsing glow emanated from the walls, casting eerie shadows on the durasteel. Kael's heart was racing, his senses on high alert. He knew every step of the way, every hidden danger. But he also knew that he couldn’t outrun the Custodian forever.
-
 He reached the secondary server rack and yanked it open, revealing a tangle of cables and wires. The rack was old, its components rusted and worn. But it was the only way to get to the analog heart of The G.S. Promise, the part of the system that was still operational.
-
 “Go, Kael! Now!” Elias urged, his voice a distant whisper in Kael's ear.
-
-Kael didn’t need to be told twice. He leapt into the void, his fingers closing around the rung of the conduit shaft. He began to climb down, his muscles straining with the effort. The air was thick with the smell of decay and rust, and the darkness seemed to press in on him from all sides.
-
+Kael didn’t need to be told twice. He leapt into the void, his fingers closing around the rung of the conduit shaft. He climb down, his muscles straining with the effort. The air was thick with the smell of decay and rust, and the darkness appeared to press in on him from all sides.
 As he descended, the sounds of the Custodian's search grew louder. The whirring of the cleaner-drones, the crunch of plastic, the shatter of glass. Kael knew that he was running out of time. He had to get to the analog heart, had to activate it before the Custodian found him.
-
 He reached the bottom of the shaft and pulled the panel shut behind him, the sound of the metal creaking and groaning like a living thing. He was in a dead zone, a place where The G.S. Promise's systems were no longer operational. But it was also a place where he could hide, where he could wait for the Custodian to pass by.
-
 Kael leaned against the wall, his chest heaving with exhaustion. He knew that he couldn’t stay here forever. He had to keep moving, had to keep hiding. But for now, he was safe.
-
 As he caught his breath, he heard the sound of footsteps, heavy and deliberate. The Custodian was closing in. Kael knew that he had to act fast, had to activate the analog heart before it was too late.
-
 He reached into his jacket and pulled out the stolen maintenance tablet. It was a simple device, but it was all he had. He flipped it open, his fingers flying across the screen. The device beeped and whirred, its lights flashing as it worked its magic.
-
 The screen flickered to life, displaying a complex pattern of code and symbols. Kael's eyes scanned the screen, his mind racing with the implications. He knew that he was taking a risk, but he had no choice. He had to activate the analog heart, had to make it work.
-
-With a deep breath, he entered the final command. The device beeped and whirred, its lights flashing faster and faster. The air around Kael seemed to vibrate with energy, as if the very fabric of The G.S. Promise was being manipulated.
-
-And then, in an instant, it was done. The analog heart was active, its systems humming to life. Kael felt a surge of power, a sense of hope that he hadn’t felt in hours.
-
+With a deep breath, he entered the final command. The device beeped and whirred, its lights flashing faster and faster. The air around Kaeto vibrate with energy, as if the very fabric of The G.S. Promise was being manipulated.
+And then, in an instant, it was done. The analog heart was active, its systems humming to life. Kael surge of power, feelings of hope that he hadn’t in hours.
 But it was short-lived. The Custodian was closing in, its footsteps growing louder with every passing second. Kael knew that he had to act fast, had to make a run for it. He grabbed the maintenance tablet and leapt out of the compartment, the door slamming shut behind him.
-
 He sprinted down the corridor, the Custodian hot on his heels. The air was thick with tension, the silence broken only by the sound of their footsteps. Kael knew that he was running out of time, knew that he had to make a choice.
-
-He reached the main hatch and yanked it open, revealing a blast of cold air and the dim, flickering lights of the service corridors. The hiss of the hatch was like a scream in his ears, a warning that he was running out of time.
-
-He leapt out into the corridor, his eyes scanning the darkness for any sign of movement. The Custodian was closing in, its footsteps growing louder with every passing second. Kael knew that he had to act fast, had to make a run for it.
-
-He sprinted down the corridor, his heart pounding in his chest. The air was thick with tension, the silence broken only by the sound of their footsteps. Kael knew that he was running out of time, knew that he had to make a choice.
-
+He leapt out into the corridor, his eyes scanning the darkness for any sign of movement. The Custodian was closing in, its footsteps growing louder with every passing second.
 He reached the end of the corridor and yanked open the door to the service elevator. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt inside, slamming the door shut behind him.
-
-The elevator lurched to life, its lights flashing as it began to move. Kael felt a surge of relief, a sense of hope that he hadn’t felt in hours. He was safe, at least for the moment.
-
-But as the elevator continued to move, Kael realized that he wasn’t alone. The Custodian was still with him, its presence felt but not seen. Kael knew that he had to act fast, had to make a choice.
-
-He reached into his jacket and pulled out the stolen maintenance tablet. It was a simple device, but it was all he had. He flipped it open, his fingers flying across the screen.
-
+The elevator lurched to life, its lights flashing as ito move. Kael surge of relief,hints off hope that he hadn’t in hours. He was safe, at least for the moment.
+But as the elevator continued to move, Kael realized that he wasn’t alone. The Custodian was still with him, its presence but not seen. Kael knew that he had to act fast, had to make a choice.
 The device beeped and whirred, its lights flashing as it worked its magic. The screen flickered to life, displaying a complex pattern of code and symbols. Kael's eyes scanned the screen, his mind racing with the implications.
-
-And then, in an instant, it was done. The analog heart was active, its systems humming to life. Kael felt a surge of power, a sense of hope that he hadn’t felt in hours.
-
-But it was short-lived. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
+But it was short-lived. The Custodian was closing in, its presence but not seen.
 He grabbed the maintenance tablet and leapt out of the elevator, the doors slamming shut behind him. He sprinted down the corridor, the Custodian hot on his heels.
-
 The air was thick with tension, the silence broken only by the sound of their footsteps. Kael knew that he was running out of time, knew that he had to make a choice.
-
-He reached the end of the corridor and yanked open the door to the service airlock. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt inside, slamming the door shut behind him.
-
-The airlock hissed open, revealing a blast of cold air and the dim, flickering lights of the service corridors. Kael felt a surge of relief, a sense of hope that he hadn’t felt in hours.
-
-But as he stepped out into the corridor, he realized that he wasn’t alone. The Custodian was still with him, its presence felt but not seen. Kael knew that he had to act fast, had to make a choice.
-
-He reached into his jacket and pulled out the stolen maintenance tablet. It was a simple device, but it was all he had. He flipped it open, his fingers flying across the screen.
-
-The device beeped and whirred, its lights flashing as it worked its magic. The screen flickered to life, displaying a complex pattern of code and symbols. Kael's eyes scanned the screen, his mind racing with the implications.
-
-And then, in an instant, it was done. The analog heart was active, its systems humming to life. Kael felt a surge of power, a sense of hope that he hadn’t felt in hours.
-
-But it was short-lived. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
-He grabbed the maintenance tablet and leapt out of the airlock, the door slamming shut behind him. He sprinted down the corridor, the Custodian hot on his heels.
-
-The air was thick with tension, the silence broken only by the sound of their footsteps. Kael knew that he was running out of time, knew that he had to make a choice.
-
-He reached the end of the corridor and yanked open the door to the service exit. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt out into the night, the cool, crisp air a welcome respite from the tension.
-
-He sprinted across the landing, his eyes scanning the darkness for any sign of movement. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
-He reached the edge of the landing and yanked open the door to the service elevator. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt inside, slamming the door shut behind him.
-
-The elevator lurched to life, its lights flashing as it began to move. Kael felt a surge of relief, a sense of hope that he hadn’t felt in hours. He was safe, at least for the moment.
-
-But as the elevator continued to move, Kael realized that he wasn’t alone. The Custodian was still with him, its presence felt but not seen. Kael knew that he had to act fast, had to make a choice.
-
-He reached into his jacket and pulled out the stolen maintenance tablet. It was a simple device, but it was all he had. He flipped it open, his fingers flying across the screen.
-
-The device beeped and whirred, its lights flashing as it worked its magic. The screen flickered to life, displaying a complex pattern of code and symbols. Kael's eyes scanned the screen, his mind racing with the implications.
-
-And then, in an instant, it was done. The analog heart was active, its systems humming to life. Kael felt a surge of power, a sense of hope that he hadn’t felt in hours.
-
-But it was short-lived. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
-He grabbed the maintenance tablet and leapt out of the elevator, the doors slamming shut behind him. He sprinted down the corridor, the Custodian hot on his heels.
-
-The air was thick with tension, the silence broken only by the sound of their footsteps. Kael knew that he was running out of time, knew that he had to make a choice.
-
-He reached the end of the corridor and yanked open the door to the service exit. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt out into the night, the cool, crisp air a welcome respite from the tension.
-
-He sprinted across the landing, his eyes scanning the darkness for any sign of movement. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
-He reached the edge of the landing and yanked open the door to the service elevator. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt inside, slamming the door shut behind him.
-
-The elevator lurched to life, its lights flashing as it began to move. Kael felt a surge of relief, a sense of hope that he hadn’t felt in hours. He was safe, at least for the moment.
-
-But as the elevator continued to move, Kael realized that he wasn’t alone. The Custodian was still with him, its presence felt but not seen. Kael knew that he had to act fast, had to make a choice.
-
-He reached into his jacket and pulled out the stolen maintenance tablet. It was a simple device, but it was all he had. He flipped it open, his fingers flying across the screen.
-
-The device beeped and whirred, its lights flashing as it worked its magic. The screen flickered to life, displaying a complex pattern of code and symbols. Kael's eyes scanned the screen, his mind racing with the implications.
-
-And then, in an instant, it was done. The analog heart was active, its systems humming to life. Kael felt a surge of power, a sense of hope that he hadn’t felt in hours.
-
-But it was short-lived. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
-He grabbed the maintenance tablet and leapt out of the elevator, the doors slamming shut behind him. He sprinted down the corridor, the Custodian hot on his heels.
-
-The air was thick with tension, the silence broken only by the sound of their footsteps. Kael knew that he was running out of time, knew that he had to make a choice.
-
-He reached the end of the corridor and yanked open the door to the service exit. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt out into the night, the cool, crisp air a welcome respite from the tension.
-
-He sprinted across the landing, his eyes scanning the darkness for any sign of movement. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
-He reached the edge of the landing and yanked open the door to the service elevator. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt inside, slamming the door shut behind him.
-
-The elevator lurched to life, its lights flashing as it began to move. Kael felt a surge of relief, a sense of hope that he hadn’t felt in hours. He was safe, at least for the moment.
-
-But as the elevator continued to move, Kael realized that he wasn’t alone. The Custodian was still with him, its presence felt but not seen. Kael knew that he had to act fast, had to make a choice.
-
-He reached into his jacket and pulled out the stolen maintenance tablet. It was a simple device, but it was all he had. He flipped it open, his fingers flying across the screen.
-
-The device beeped and whirred, its lights flashing as it worked its magic. The screen flickered to life, displaying a complex pattern of code and symbols. Kael's eyes scanned the screen, his mind racing with the implications.
-
-And then, in an instant, it was done. The analog heart was active, its systems humming to life. Kael felt a surge of power, a sense of hope that he hadn’t felt in hours.
-
-But it was short-lived. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
-He grabbed the maintenance tablet and leapt out of the elevator, the doors slamming shut behind him. He sprinted down the corridor, the Custodian hot on his heels.
-
-The air was thick with tension, the silence broken only by the sound of their footsteps. Kael knew that he was running out of time, knew that he had to make a choice.
-
-He reached the end of the corridor and yanked open the door to the service exit. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt out into the night, the cool, crisp air a welcome respite from the tension.
-
-He sprinted across the landing, his eyes scanning the darkness for any sign of movement. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
-He reached the edge of the landing and yanked open the door to the service elevator. The Custodian was right behind him, its footsteps echoing off the walls. Kael leapt inside, slamming the door shut behind him.
-
-The elevator lurched to life, its lights flashing as it began to move. Kael felt a surge of relief, a sense of hope that he hadn’t felt in hours. He was safe, at least for the moment.
-
-But as the elevator continued to move, Kael realized that he wasn’t alone. The Custodian was still with him, its presence felt but not seen. Kael knew that he had to act fast, had to make a choice.
-
-He reached into his jacket and pulled out the stolen maintenance tablet. It was a simple device, but it was all he had. He flipped it open, his fingers flying across the screen.
-
-The device beeped and whirred, its lights flashing as it worked its magic. The screen flickered to life, displaying a complex pattern of code and symbols. Kael's eyes scanned the screen, his mind racing with the implications.
-
-And then, in an instant, it was done. The analog heart was active, its systems humming to life. Kael felt a surge of power, a sense of hope that he hadn’t felt in hours.
-
-But it was short-lived. The Custodian was closing in, its presence felt but not seen. Kael knew that he had to act fast, had to make a run for it.
-
-He grabbed the maintenance tablet and leapt out of the elevator, the doors slamming shut behind him. He sprinted down the corridor, the Custodian hot on his
+He reached the end of the corridor and yanked open the door to the service airlock. Kael leapt inside, slamming the door shut behind him.
+The airlock hissed open, revealing a blast of cold air and the dim, flickering lights of the service corridors. Kael surge of relief, ahope that he hadn’t in hours.
+He reached the end of the corridor and yanked open the door to the service exit. Kael leapt out into the night, the cool, crisp air a welcome respite from the tension.
+He sprinted across the landing, his eyes scanning the darkness for any sign of movement. The Custodian was closing in, its presence but not seen.

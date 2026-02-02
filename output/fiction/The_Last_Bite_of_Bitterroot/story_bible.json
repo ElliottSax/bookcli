@@ -50,5 +50,6 @@
   "narrative_voice": "Close third-person, primarily from Elara's perspective. The prose is sensory and evocative, mirroring a critic's attention to detail\u2014describing tastes, smells, textures, and atmospheres with precision. It becomes a tool for investigation.",
   "tone": "Atmospheric, slowly unfolding, and contemplative. It blends the cozy warmth of a bakery with the chilling unease of a buried mystery. The tone is more melancholic and literary than frantic, focusing on the weight of secrets and the search for genuine experience.",
   "plot_summary": "Disgraced food critic Elara Finch flees to the remote mountain town of Bitterroot to disappear. Seeking solace in simplicity, she becomes intrigued by the local baker, Leo, and his uniquely perfect sourdough, which the townspeople treat with near-reverence. Her professional curiosity leads her to investigate the bread's origin, unwittingly unraveling a long-buried town secret connected to Bitterroot's founding and a possible murder. As she pieces together the truth\u2014that the legendary sourdough starter may have a macabre origin\u2014she must decide whether to expose it or let the town keep its peace. She chooses truth, but a nuanced, respectful one, and finds redemption and a new home with Leo in the bakery. However, her hard-won peace is threatened by the arrival of a mysterious man named Alistair Finch, who implies a claim to the very legacy she has just helped protect, setting the stage for a new conflict.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 9
 }

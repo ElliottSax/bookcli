@@ -56,5 +56,6 @@
   "narrative_voice": "Direct, authoritative, and coaching-oriented. Blends gripping, novelistic vignettes (like Michael Thorne's opening) with clear, instructional exposition. Often uses the second-person \"you\" to engage the reader personally, shifting between storyteller and tactical coach.",
   "tone": "Urgent yet hopeful; rigorous and unsentimental but ultimately empowering. Combines the gravity of a diagnostic report with the motivating energy of a special ops briefing. Avoids vague spirituality, favoring concrete, operational language.",
   "plot_summary": "The book dismantles the romanticized 'Myth of the Chaotic Genius' leader through the opening story of Michael Thorne's breakdown. It then introduces seven counter-examples\u2014leaders who built empires not from frenzy, but from cultivated focus. The core narrative is the reader's own transformation, guided through a four-phase protocol: 1) **Awareness & Audit** (mapping personal chaos triggers), 2) **Design** (creating a single, stupidly simple mindful protocol), 3) **Deployment & Discipline** (executing with surgical precision to build self-trust), and 4) **Integration & Scaling** (systematically building an internal infrastructure of calm). The journey moves from external reaction to internal command, arguing that the ultimate competitive advantage is a mind that can be quieted and directed at will.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 12
 }

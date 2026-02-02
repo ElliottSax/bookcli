@@ -1,253 +1,63 @@
-—a towering, amorphous mass that pulsed with the stolen sounds of its victims, a grotesque, living sculpture of stolen voices and echoes. At its core, the glimmers of light swirled like a galaxy of dying stars.
+The silence after the thrum was worse than any sound. It was a vacuum that sucked at the air in Anya’s lungs, a physical pressure in the sealed lab. The entity hovered, a dark stain against the sterile white, its edges shimmering with the aftertaste of Leo. Then, as if remembering a forgotten toy, it turned. The perfect, hungry echo of her own personal frequency—the one it had been savoring since the vents—threaded through the void once more, a lover’s call woven from pure predation.
+Before her, the hollow thing that had been Leo took a jerky step. Its movement was all wrong, a marionette imitation of a man, muscles firing in the wrong order. It wasn’t being driven; it was replaying. The last coherent impulse: *reach her. Help.* Its jaw unhinged with a soft, wet click, and the flat, dead whisper scraped out.
+“Run.”
 
-Leo was on his knees, the dagger limp in his hand. His breath came in ragged gasps, his face streaked with sweat and blood from a gash on his temple. The entity loomed over him, its form shifting, undulating, as if it were tasting the air, savoring the moment.
+Anya’s back hit the cold alloy of a server bank. Nowhere to go. The exit was a memory behind a wall of hungry silence. The frequency dagger lay at the shell’s feet, a dead piece of scrap. She was alone with the source of the silence, and it had her friend’s face. The Leo-shell took another step, its vacant, listening eyes fixed on her, seeing nothing, absorbing everything.
+Then, the entity moved. It didn’t flow so much as *unfold*, expanding from a dark nucleus into a towering, amorphous mass. It pulsed with a sickly internal light, a kaleidoscope of stolen sounds given form. It was a grotesque, living sculpture of its victims—here, the shimmer of a half-remembered lullaby; there, the jagged edge of a final scream, frozen in a loop. Whispers coiled around sobs, laughter tangled with static. At its core, the glimmers of light swirled like a captive galaxy of dying stars, each a digested soul. It loomed between her and the Leo-shell, its attention a cold weight.
+The shell of Leo reacted. A spasm went through it. It dropped into a crouch, its hand—moving with a sudden, ghastly parody of Leo’s old reflexes—snatched up the dead dagger from the floor. It held the weapon in a white-knuckled grip, a memory of courage without the spirit. A low, guttural noise, a mangled composite of Leo’s voice and a dozen others, grated from its throat.
+The entity appeared to find this fascinating. It drifted closer to the shell, a tendril of darkness extending, not to strike, but to *sample*. The tendril passed through the space before the shell’s face, and the creature shuddered with a bass note of pleasure. It was tasting the echo of Leo’s defiance, the ghost of the pattern it had just consumed. The shell, acting on some deep, residual imprint, swung the inert dagger.
+The entity recoiled, not from the blow, but in delight. It emitted a sound like shattering glass and sighing wind—amusement. It was playing with its food. With a contemptuous flick, a whip of condensed sound lashed out. It didn’t cut; it *resonated*. The air around the Leo-shell vibrated, and the thing that had been Leo was thrown backwards as if by a concussive blast. It hit the edge of the central lab table with a sickening crack of bone, sliding to its knees, the dagger skittering from its limp hand.
+Leo—no, the *shell*—was on his knees. A gash now bloomed on its temple, weeping something too dark and viscous to be proper blood. Its breath came in ragged, wet gasps, a broken machine trying to cycle air. It stared at the entity with empty eyes, a puppet with its strings cut, awaiting new programming.
+Anya’s pulse was a frantic drum solo in her ears, her mouth dry as ash. This was it. The harvest. She saw the entity’s form ripple, focusing on the broken shell, preparing to consume the last, fading echoes. A final, terrible thought cleaved through her terror: *It’s learning from him. From his memories. It’s learning how we fight.*
 
-Anya’s pulse roared in her ears. She took a step forward, her fingers tightening around the grip of her own weapon—a compact, high-frequency emitter, its barrel humming with a barely audible whine.
+She couldn’t let it have that. Even this hollow remnant.
+Her fingers found the grip of her own weapon, holstered at her thigh—a compact, high-frequency emitter, its barrel still warm from her frantic flight. It was a scalpel compared to the dagger’s intended sword, but it was all she had. The whine of its capacitor charging was a mosquito buzz in the overwhelming quiet.
+The entity froze. Its entire form rotated toward her, the galaxy of stolen stars swirling to face the new, vibrant sound. Its surface rippled, and for a heart-stopping moment, it reflected not the room, but a memory—a distorted, ghostly version of Anya’s own face, mouth open in the silent scream she had stifled when she first saw the vents. It was showing her what it had already taken, what it intended to complete.
+“Anya, no!” The voice from the shell was raw, desperate, a perfect mimicry of Leo’s terror but stripped of the soul that would have fueled it. The words were right, the emotion was a photocopy. “It’s too late. It’s learned. It’s—”
 
-The entity turned towards her. Its form rippled, and for a moment, she saw herself reflected in its shifting surface—a distorted, ghostly version of her own face, mouth open in a silent scream.
+The entity cut him off. It spoke.
+The voice was a physical assault, a patchwork of every sound it had ever absorbed. It was a chorus of whispers layered over screams, underpinned by half-remembered melodies and the white noise of static. It spoke from everywhere and nowhere, the words a discordant harmony that vibrated in her teeth, pressed on her sternum.
+“You… are a part… of the song,” it intoned, each word a different victim. “You are a note… in the symphony… of prey.”
 
-“Anya, no!” Leo’s voice was raw, desperate. “It’s too late. It’s learned. It’s—”
-
-The entity cut him off. It spoke, for the first time, in a voice that was a patchwork of every sound it had ever absorbed—a chorus of whispers, screams, and half-remembered melodies.
-
-“You are a part of the song,” it said, the words a discordant harmony. “You are a note in the symphony of prey.”
-
-Anya’s breath hitched. The voice was a physical thing, a pressure in her chest, a vibration in her bones. She raised the emitter, her hands steady despite the terror clawing at her throat.
-
-“You’re wrong,” she said, her voice a thin, brittle thing against the entity’s chorus. “We’re not prey. We’re the ones who make the noise.”
+Anya’s breath hitched. The terror was a live wire in her veins, but beneath it, a cold fury solidified. This object had taken Leo. It had taken Sarah’s laugh, and Eli’s steady hum, and a hundred other lights. It called them a symphony. It called her prey.
+She raised the emitter, her arms trembling not from weakness, but from the strain of holding steady against the psychic pressure. “You’re wrong,” she said, her own voice thin, brittle, a solo flute against a monstrous orchestra. “We’re not just notes to be consumed.” She adjusted the frequency dial with her thumb, finding the setting Leo had joked was for “really stubborn stains.” “We’re the ones who make the noise.”
 
 She pulled the trigger.
-
-The emitter released a burst of high-frequency sound, a sonic blade that cut through the air with a visible shimmer. It struck the entity, and for a moment, the creature recoiled, its form flickering, the stolen sounds within it warping, distorting.
-
-But it didn’t die. It laughed.
-
-The sound was a cacophony of agony and delight, a symphony of every scream and sob it had ever consumed. It swelled, filling the chamber, shaking the walls, rattling the pipes.
-
-Anya’s knees buckled. The pain was a white-hot lance through her skull, her eardrums, her very soul. She fell to the ground, her fingers clawing at her ears, her vision swimming with black spots.
-
-Through the agony, she saw Leo. He was crawling towards her, his face a mask of pain, his mouth moving in a silent scream. He reached her, his hands gripping her shoulders, his eyes wide with terror and something else—something like love.
-
-“Anya,” he mouthed, the word a whisper lost in the storm of sound.
-
-The entity loomed over them, its form shifting, expanding, its stolen voices rising to a deafening crescendo. It was growing, feeding on their pain, their fear, their love.
-
-Anya’s vision blurred. The world was sound, and sound was the world, and the world was ending.
-
-Then, a new sound cut through the chaos.
-
-A sharp, metallic clang.
-
-The entity froze. Its form flickered, the stolen sounds within it stuttering, warping. The new sound was a pure, steady tone, a light of sonic defiance.
-
-The prototype dagger.
-
-Leo was holding it, his hand trembling, his face a mask of determination. He had reactivated it. The sound was a pure, steady tone, a light of sonic defiance.
-
-The entity recoiled, its form flickering, the stolen sounds within it warping, distorting. It shrank, its edges fraying, its stolen voices fading, as if the dagger’s tone was a sonic vacuum, sucking the life out of it.
-
-Anya’s breath came in ragged gasps. She forced herself to her feet, her hands gripping the emitter, her eyes locked on the entity.
-
-“Now,” Leo said, his voice a thin, brittle thing against the storm of sound. “Now, Anya. End it.”
-
-She raised the emitter, her hands steady despite the terror clawing at her throat. She pulled the trigger.
-
-The emitter released a burst of high-frequency sound, a sonic blade that cut through the air with a visible shimmer. It struck the entity, and for a moment, the creature recoiled, its form flickering, the stolen sounds within it warping, distorting.
-
-But it didn’t die. It laughed.
-
-The sound was a cacophony of agony and delight, a symphony of every scream and sob it had ever consumed. It swelled, filling the chamber, shaking the walls, rattling the pipes.
-
-Anya’s knees buckled. The pain was a white-hot lance through her skull, her eardrums, her very soul. She fell to the ground, her fingers clawing at her ears, her vision swimming with black spots.
-
-Through the agony, she saw Leo. He was crawling towards her, his face a mask of pain, his mouth moving in a silent scream. He reached her, his hands gripping her shoulders, his eyes wide with terror and something else—something like love.
-
-“Anya,” he mouthed, the word a whisper lost in the storm of sound.
-
-The entity loomed over them, its form shifting, expanding, its stolen voices rising to a deafening crescendo. It was growing, feeding on their pain, their fear, their love.
-
-Anya’s vision blurred. The world was sound, and sound was the world, and the world was ending.
-
-Then, a new sound cut through the chaos.
-
-A sharp, metallic clang.
-
-The entity froze. Its form flickered, the stolen sounds within it stuttering, warping. The new sound was a pure, steady tone, a light of sonic defiance.
-
-The prototype dagger.
-
-Leo was holding it, his hand trembling, his face a mask of determination. He had reactivated it. The sound was a pure, steady tone, a light of sonic defiance.
-
-The entity recoiled, its form flickering, the stolen sounds within it warping, distorting. It shrank, its edges fraying, its stolen voices fading, as if the dagger’s tone was a sonic vacuum, sucking the life out of it.
-
-Anya’s breath came in ragged gasps. She forced herself to her feet, her hands gripping the emitter, her eyes locked on the entity.
-
-“Now,” Leo said, his voice a thin, brittle thing against the storm of sound. “Now, Anya. End it.”
-
-She raised the emitter, her hands steady despite the terror clawing at her throat. She pulled the trigger.
-
-The emitter released a burst of high-frequency sound, a sonic blade that cut through the air with a visible shimmer. It struck the entity, and for a moment, the creature recoiled, its form flickering, the stolen sounds within it warping, distorting.
-
-But it didn’t die. It laughed.
-
-The sound was a cacophony of agony and delight, a symphony of every scream and sob it had ever consumed. It swelled, filling the chamber, shaking the walls, rattling the pipes.
-
-Anya’s knees buckled. The pain was a white-hot lance through her skull, her eardrums, her very soul. She fell to the ground, her fingers clawing at her ears, her vision swimming with black spots.
-
-Through the agony, she saw Leo. He was crawling towards her, his face a mask of pain, his mouth moving in a silent scream. He reached her, his hands gripping her shoulders, his eyes wide with terror and something else—something like love.
-
-“Anya,” he mouthed, the word a whisper lost in the storm of sound.
-
-The entity loomed over them, its form shifting, expanding, its stolen voices rising to a deafening crescendo. It was growing, feeding on their pain, their fear, their love.
-
-Anya’s vision blurred. The world was sound, and sound was the world, and the world was ending.
-
-Then, a new sound cut through the chaos.
-
-A sharp, metallic clang.
-
-The entity froze. Its form flickered, the stolen sounds within it stuttering, warping. The new sound was a pure, steady tone, a light of sonic defiance.
-
-The prototype dagger.
-
-Leo was holding it, his hand trembling, his face a mask of determination. He had reactivated it. The sound was a pure, steady tone, a light of sonic defiance.
-
-The entity recoiled, its form flickering, the stolen sounds within it warping, distorting. It shrank, its edges fraying, its stolen voices fading, as if the dagger’s tone was a sonic vacuum, sucking the life out of it.
-
-Anya’s breath came in ragged gasps. She forced herself to her feet, her hands gripping the emitter, her eyes locked on the entity.
-
-“Now,” Leo said, his voice a thin, brittle thing against the storm of sound. “Now, Anya. End it.”
-
-She raised the emitter, her hands steady despite the terror clawing at her throat. She pulled the trigger.
-
-The emitter released a burst of high-frequency sound, a sonic blade that cut through the air with a visible shimmer. It struck the entity, and for a moment, the creature recoiled, its form flickering, the stolen sounds within it warping, distorting.
-
-But it didn’t die. It laughed.
-
-The sound was a cacophony of agony and delight, a symphony of every scream and sob it had ever consumed. It swelled, filling the chamber, shaking the walls, rattling the pipes.
-
-Anya’s knees buckled. The pain was a white-hot lance through her skull, her eardrums, her very soul. She fell to the ground, her fingers clawing at her ears, her vision swimming with black spots.
-
-Through the agony, she saw Leo. He was crawling towards her, his face a mask of pain, his mouth moving in a silent scream. He reached her, his hands gripping her shoulders, his eyes wide with terror and something else—something like love.
-
-“Anya,” he mouthed, the word a whisper lost in the storm of sound.
-
-The entity loomed over them, its form shifting, expanding, its stolen voices rising to a deafening crescendo. It was growing, feeding on their pain, their fear, their love.
-
-Anya’s vision blurred. The world was sound, and sound was the world, and the world was ending.
-
-Then, a new sound cut through the chaos.
-
-A sharp, metallic clang.
-
-The entity froze. Its form flickered, the stolen sounds within it stuttering, warping. The new sound was a pure, steady tone, a light of sonic defiance.
-
-The prototype dagger.
-
-Leo was holding it, his hand trembling, his face a mask of determination. He had reactivated it. The sound was a pure, steady tone, a light of sonic defiance.
-
-The entity recoiled, its form flickering, the stolen sounds within it warping, distorting. It shrank, its edges fraying, its stolen voices fading, as if the dagger’s tone was a sonic vacuum, sucking the life out of it.
-
-Anya’s breath came in ragged gasps. She forced herself to her feet, her hands gripping the emitter, her eyes locked on the entity.
-
-“Now,” Leo said, his voice a thin, brittle thing against the storm of sound. “Now, Anya. End it.”
-
-She raised the emitter, her hands steady despite the terror clawing at her throat. She pulled the trigger.
-
-The emitter released a burst of high-frequency sound, a sonic blade that cut through the air with a visible shimmer. It struck the entity, and for a moment, the creature recoiled, its form flickering, the stolen sounds within it warping, distorting.
-
-But it didn’t die. It laughed.
-
-The sound was a cacophony of agony and delight, a symphony of every scream and sob it had ever consumed. It swelled, filling the chamber, shaking the walls, rattling the pipes.
-
-Anya’s knees buckled. The pain was a white-hot lance through her skull, her eardrums, her very soul. She fell to the ground, her fingers clawing at her ears, her vision swimming with black spots.
-
-Through the agony, she saw Leo. He was crawling towards her, his face a mask of pain, his mouth moving in a silent scream. He reached her, his hands gripping her shoulders, his eyes wide with terror and something else—something like love.
-
-“Anya,” he mouthed, the word a whisper lost in the storm of sound.
-
-The entity loomed over them, its form shifting, expanding, its stolen voices rising to a deafening crescendo. It was growing, feeding on their pain, their fear, their love.
-
-Anya’s vision blurred. The world was sound, and sound was the world, and the world was ending.
-
-Then, a new sound cut through the chaos.
-
-A sharp, metallic clang.
-
-The entity froze. Its form flickered, the stolen sounds within it stuttering, warping. The new sound was a pure, steady tone, a light of sonic defiance.
-
-The prototype dagger.
-
-Leo was holding it, his hand trembling, his face a mask of determination. He had reactivated it. The sound was a pure, steady tone, a light of sonic defiance.
-
-The entity recoiled, its form flickering, the stolen sounds within it warping, distorting. It shrank, its edges fraying, its stolen voices fading, as if the dagger’s tone was a sonic vacuum, sucking the life out of it.
-
-Anya’s breath came in ragged gasps. She forced herself to her feet, her hands gripping the emitter, her eyes locked on the entity.
-
-“Now,” Leo said, his voice a thin, brittle thing against the storm of sound. “Now, Anya. End it.”
-
-She raised the emitter, her hands steady despite the terror clawing at her throat. She pulled the trigger.
-
-The emitter released a burst of high-frequency sound, a sonic blade that cut through the air with a visible shimmer. It struck the entity, and for a moment, the creature recoiled, its form flickering, the stolen sounds within it warping, distorting.
-
-But it didn’t die. It laughed.
-
-The sound was a cacophony of agony and delight, a symphony of every scream and sob it had ever consumed. It swelled, filling the chamber, shaking the walls, rattling the pipes.
-
-Anya’s knees buckled. The pain was a white-hot lance through her skull, her eardrums, her very soul. She fell to the ground, her fingers clawing at her ears, her vision swimming with black spots.
-
-Through the agony, she saw Leo. He was crawling towards her, his face a mask of pain, his mouth moving in a silent scream. He reached her, his hands gripping her shoulders, his eyes wide with terror and something else—something like love.
-
-“Anya,” he mouthed, the word a whisper lost in the storm of sound.
-
-The entity loomed over them, its form shifting, expanding, its stolen voices rising to a deafening crescendo. It was growing, feeding on their pain, their fear, their love.
-
-Anya’s vision blurred. The world was sound, and sound was the world, and the world was ending.
-
-Then, a new sound cut through the chaos.
-
-A sharp, metallic clang.
-
-The entity froze. Its form flickered, the stolen sounds within it stuttering, warping. The new sound was a pure, steady tone, a light of sonic defiance.
-
-The prototype dagger.
-
-Leo was holding it, his hand trembling, his face a mask of determination. He had reactivated it. The sound was a pure, steady tone, a light of sonic defiance.
-
-The entity recoiled, its form flickering, the stolen sounds within it warping, distorting. It shrank, its edges fraying, its stolen voices fading, as if the dagger’s tone was a sonic vacuum, sucking the life out of it.
-
-Anya’s breath came in ragged gasps. She forced herself to her feet, her hands gripping the emitter, her eyes locked on the entity.
-
-“Now,” Leo said, his voice a thin, brittle thing against the storm of sound. “Now, Anya. End it.”
-
-She raised the emitter, her hands steady despite the terror clawing at her throat. She pulled the trigger.
-
-The emitter released a burst of high-frequency sound, a sonic blade that cut through the air with a visible shimmer. It struck the entity, and for a moment, the creature recoiled, its form flickering, the stolen sounds within it warping, distorting.
-
-But it didn’t die. It laughed.
-
-The sound was a cacophony of agony and delight, a symphony of every scream and sob it had ever consumed. It swelled, filling the chamber, shaking the walls, rattling the pipes.
-
-Anya’s knees buckled. The pain was a white-hot lance through her skull, her eardrums, her very soul. She fell to the ground, her fingers clawing at her ears, her vision swimming with black spots.
-
-Through the agony, she saw Leo. He was crawling towards her, his face a mask of pain, his mouth moving in a silent scream. He reached her, his hands gripping her shoulders, his eyes wide with terror and something else—something like love.
-
-“Anya,” he mouthed, the word a whisper lost in the storm of sound.
-
-The entity loomed over them, its form shifting, expanding, its stolen voices rising to a deafening crescendo. It was growing, feeding on their pain, their fear, their love.
-
-Anya’s vision blurred. The world was sound, and sound was the world, and the world was ending.
-
-Then, a new sound cut through the chaos.
-
-A sharp, metallic clang.
-
-The entity froze. Its form flickered, the stolen sounds within it stuttering, warping. The new sound was a pure, steady tone, a light of sonic defiance.
-
-The prototype dagger.
-
-Leo was holding it, his hand trembling, his face a mask of determination. He had reactivated it. The sound was a pure, steady tone, a light of sonic defiance.
-
-The entity recoiled, its form flickering, the stolen sounds within it warping, distorting. It shrank, its edges fraying, its stolen voices fading, as if the dagger’s tone was a sonic vacuum, sucking the life out of it.
-
-Anya’s breath came in ragged gasps. She forced herself to her feet, her
+The emitter released a sustained, coherent burst of high-frequency sound. It wasn’t a blade; it was a drill. A visible shimmer, a heat-haze of pure sonic force, cut through the air and struck the entity’s core.
+The effect was immediate and violent. The creature recoiled, its form flickering like a corrupted hologram. The stolen sounds within it warped—a scream slid down into a gurgle, a whisper stretched into a screech. The beautiful, terrible symphony became a cacophony of malfunction. For a second, Anya’s heart leapt. It was hurt.
+Then, it laughed.
+The sound was the essence of agony given joyous voice. It was every scream and sob it had ever consumed, swelled to a deafening crescendo. The soundwaves were tangible, shaking the lab tables, rattling the light fixtures, vibrating the fillings in Anya’s teeth. It wasn’t simply noise; it was the weaponized memory of pain.
+Anya’s knees buckled. The pain was a white-hot lance driven through her temples, her eardrums, her very soul. She crumpled to the cold floor, the emitter clattering from her grasp. Her world dissolved into a universe of sound—a crushing, devouring symphony that left no room for thought, for breath, for hope. She clawed at her ears, but the sound was inside her, shaking her bones to powder. Black spots bloomed in her vision, threatening to swallow the nightmare whole.
+Through the dissolving tunnel of her sight, she saw the Leo-shell. It was crawling toward her, movements even more jerky and broken, fighting against the sonic storm. Its face was a mask of borrowed pain, its mouth moving in a silent scream. It reached her, cold, mechanical fingers gripping her shoulders with desperate strength. Its eyes, those vacant portals, stared into hers, and for a flicker, she saw not Leo, but the ghost of his memory—the pattern of him—trying to communicate. Its lips formed a word, a whisper utterly lost in the maelstrom.
+“Anya.”
+
+The entity loomed over them, its form expanding, bloated by their fear, their pain, this strange, echoed love. It was feeding, growing stronger, its stolen voices rising toward a final, annihilating chord.
+Anya’s vision blurred into a smear of light and dark. The world was sound, and sound was the world, and the world was ending.
+Then, a new sound.
+Not a scream, not a sob. A sharp, clean, *metallic clang*.
+The entity’s crescendo stuttered.
+Another *clang*. A pure, resonant tone, like a bell struck in a vacuum.
+The entity froze. Its form flickered violently, the stolen sounds within it glitching, skipping like a broken record. The new sound was an intrusion, a mathematical purity that refused to harmonize with its chaos.
+Anya forced her head to turn.
+The shell of Leo was no longer looking at her. It held the prototype dagger, not by the grip, but by the blade, using the hilt as a hammer, striking it against the metal leg of the lab table. *Clang. Clang. Clang.* Each strike was an act of immense, mechanical will. The shell’s face was empty, but its arm rose and fell with the relentless precision of a machine. It was executing a command, buried deep in the consumed pattern of Leo’s mind: *If the power fails, use resonance. Find a frequency.*
+
+The dagger, designed to resonate, was being *forced* to resonate. And it was working.
+The pure, steady tone cut through the chaotic symphony like a laser. Where the entity’s sound was consumption, this was order. Where the entity was a chorus, this was a solo that refused to join.
+The entity recoiled as if scalded. Its edges frayed, streaming tendrils of darkness that dissipated like smoke. The stolen voices within it faded, muffled, as if the dagger’s tone was a sonic vacuum, silencing them one by one. It shrank, its terrible light dimming.
+The pressure in Anya’s skull lessened. She dragged air into her burning lungs, the act a painful miracle. She could think again. She could move.
+She saw the shell’s hand, cut and bleeding from gripping the dagger’s blade, still rising and falling. *Clang. Clang.* Its eyes were fixed on the entity, a hollow vessel executing a final, heroic protocol.
+“Now,” the shell whispered, its voice barely audible, a thin, brittle signal against the dying storm. It wasn’t Leo. It would never be Leo again. But it was the map Leo had left behind. “Now, Anya. End it.”
+
+Grief and fury fused into a single, crystalline purpose. Anya scrambled for her emitter, her fingers closing around the familiar grip. She forced herself to her feet, her legs wobbling but holding. She raised the weapon, her eyes not on the shell, not on the past, but on the wounded, writhing core of the entity before her. It was trying to reform, to adapt to this new, painful frequency, but the dagger’s relentless tone held it in a state of sonic paralysis.
+She didn’t shout. She didn’t promise vengeance. She simply adjusted the emitter’s setting, syncing it to the resonant frequency of the dagger’s clang, amplifying it, focusing it into a beam.
+“This is our noise,” she breathed, and pulled the trigger.
+The beam lanced out, a visible pillar of oscillating energy. It struck the entity’s core and didn’t cut or burn—it *unmade*. The stolen sounds didn’t scream; they unraveled. The galaxy of dying stars winked out, one by one. The lullabies, the screams, the whispers, all dissolved back into the silent void from which they’d been torn. The entity contorted, a silent shriek in its form, before it imploded with a final, deep *thump* of displaced air that sucked the light from the room for a second.
+Then, true silence.
+Not the entity’s hungry silence, but the empty, ringing silence of aftermath. The lights flickered back to a steady, mundane glow. The air was still, smelling of ozone and something faintly, sickly sweet.
+The metallic *clang* stopped.
+Anya’s arm dropped, the emitter heavy as lead. She looked at the shell of Leo.
+It had slumped against the table leg, the dagger falling from its limp hand. The mechanical light in its eyes was gone, replaced by a dull, glassy sheen. The pattern, the last echo, had been spent. It was just a body now, a vacant vessel slowly cooling.
+A sob finally broke from Anya’s throat, harsh and ugly in the quiet. She didn’t approach it. The thing on the floor was both a monument to Leo and a desecration of him. Her victory was ash in her mouth.
+The control room. Vance. He had promised the entity a “clean tone.” He knew. He had caused this.
+The cold that settled in her then was deeper than any fear the entity had inspired. It was the cold of a singular, focused purpose. She ejected the emitter’s spent power cell, slotted in her last one, and turned her back on the shell of her friend.
+She had nowhere to run. But now, she had somewhere to go.

@@ -1,97 +1,65 @@
 Chapter 10: The Naming
 
 The final thread was not wool, but a filament of her own being. Elara Hughes sat before the monolithic loom, the weight of the unfinished pattern a physical pressure against her sternum, a stone lodged just beneath her collarbone. The workshop, her gilded cage for these last endless weeks, held its breath. Dust motes, fat and lazy, hung frozen in the thin, grey light seeping through the high window. The air was a thick soup of smells: the greasy, animal tang of lanolin, the bone-dry scent of old oak beams, the peculiar, sweet-rot perfume of the dyestuffs stewing in their pots—madder root like old blood, woad like crushed grass and metal, and beneath it all, something older, a smell of turned earth and cold stone dug from the blackness beneath the standing stones.
-
 Her hands, once soft with academic ink-stains, now bore the map of her captivity: yellowed calluses on her fingertips, fine white cuts from the spindles like tiny, accusing mouths, a permanent, grimy crescent of ochre and indigo under each nail. They moved now without her conscious command, as they had more and more these past days. The entity within the loom—through the loom—guided them. It was a cold, silent puppeteer, its strings threaded into her motor nerves, a sensation like fine wires being pulled through the marrow of her arms. She watched, a passenger in her own body, as her left hand lifted the silver shears. The metal was unnaturally cold, its intricate filigree biting into her palm.
-
-A hank of her own hair, the colour of tarnished copper, lay on the bench beside her like a discarded pelt. She had cut it at dawn, a last, futile act of autonomy, the snick of the blades echoing in the silent room. The severed ends at her nape still felt strange, a vulnerable chill against her skin. Now, her right hand, moving with a thief’s precision, selected a single, long strand. It caught the feeble light, a vibrant, human thread against the ’s eldritch panorama, a filament of fire next to the murky, woven depths.
-
-The itself was a masterpiece of terror. It depicted The Village of Llanfair, but a The Village of Llanfair seen through a malevolent, timeless eye. The village was there, the chapel’s squat tower, the winding river like a thread of tarnished silver, but the perspective was wrong—as if viewed from a great height, or from beneath the soil, the buildings warped slightly, leaning inwards. The woods were not composed of individual trees, but of a single, creeping, woolen mass, a texture of dense, tangled loops that looked less like foliage and more like mould or matted fur. And at the centre, where the village green should be, was the stone altar, a knot of such intricate, dark stitching it seemed to be a hole into which the rest of the world was draining, the warp threads pulled taut and angry around it. The border was not a geometric pattern, but a procession of figures, woven in a stark, simplified style, their bodies mere suggestions of wool. They carried a shrouded form on a bier of crossed branches. The last figure, the one just before the gap her hair would fill, was unmistakably Griffith, his woven face a mask of serene triumph, his stitched eyes two blank pits of undyed cream yarn.
-
+A hank of her own hair, the colour of tarnished copper, lay on the bench beside her like a discarded pelt. She had cut it at dawn, a last, futile act of autonomy, the snick of the blades echoing in the silent room. The severed ends at her nape still strange, a vulnerable chill against her skin. Now, her right hand, moving with a thief’s precision, selected a single, long strand. It caught the feeble light, a vibrant, human thread against the ’s eldritch panorama, a filament of fire next to the murky, woven depths.
+The itself was a masterpiece of terror. It depicted The Village of Llanfair, but a The Village of Llanfair seen through a malevolent, timeless eye. The village was there, the chapel’s squat tower, the winding river like a thread of tarnished silver, but the perspective was wrong—as if viewed from a great height, or from beneath the soil, the buildings warped slightly, leaning inwards. The woods were not composed of individual trees, but of a single, creeping, woolen mass, a texture of dense, tangled loops that looked less like foliage and more like mould or matted fur. And at the centre, where the village green should be, was the stone altar, a knot of such intricate, dark stitching it was a hole into which the rest of the world was draining, the warp threads pulled taut and angry around it. The border was not a geometric pattern, but a procession of figures, woven in a stark, simplified style, their bodies mere suggestions of wool. They carried a shrouded form on a bier of crossed branches. The last figure, the one just before the gap her hair would fill, was unmistakably Griffith, his woven face a mask of serene triumph, his stitched eyes two blank pits of undyed cream yarn.
 Her hands brought the strand to the warp. The entity’s anticipation was a wave of glacial water rising up her spine, flooding the cavities of her chest. She could feel its consciousness, a vast, patient, hungry thing, woven into every fibre of the place. It had been tasting her memories—the sharp, floral bite of her mother’s Chanel No. 5, the muffled, respectful hush and the feel of cracked leather on a university library chair, the hot, salt-grief for her grandmother that still smelled of hospital antiseptic and rain-soaked earth. It savoured them like a connoisseur, rolling them on a palate that was not a palate. It had shown her its own memories in return: endless cycles of seasons seen from a fixed point in the grove, the feel of rain on moss like a thousand tiny awakenings, the slow, delicious dread of generations of weavers that tasted of copper and cold sweat, the final, screaming moment of transfer as one vessel was emptied and another filled, a sensation it recalled with the clarity of a cherished vintage.
-
 “No grand defiance,” she whispered, her voice a dry rasp, unfamiliar to her own ears. It was part of the plan, the pathetic, desperate plan she and Bronwyn had concocted in whispers after her failed escape, their words hidden beneath the rhythmic thump-thump-thump of the treadles. The old woman’s breath had smelled of weak tea and sorrow. “You cannot break the pattern,” Bronwyn had said, her gnarled fingers clutching Elara Hughes’s wrist with surprising strength. “But you can… mislabel it. A wrong stitch in the right place. A name that does not fit.”
 
 The door to the workshop groaned open, a long, low protest of iron hinges. Elara Hughes didn’t need to turn. She knew the cadence of the footsteps that followed—the solid, deliberate tread of Old Idris, and the lighter, almost silent shuffle of Margred.
-
 “The day wanes, cariad,” Idris said, his voice a rumble from the doorway. He never came fully into the room anymore, as if respecting a predator’s feeding ground. She could smell him from here: pipe tobacco, damp wool, and the faint, ever-present scent of the earth that clung to all of them. “The light will be gone soon. It must be finished in the light.”
 
-Margred moved into the periphery of Elara Hughes’s vision. She carried a wooden tray. On it sat a shallow clay bowl of water, a lump of coarse grey salt, and a small, wicked-looking blade with a bone handle—not the shears, but the knife used to trim and correct. The tools of completion. Of consecration. Margred’s face was a closed door, but her eyes, when they flicked to Elara Hughes’s, held a complex message: a sliver of pity, a mountain of resignation, and a fierce, warning glint. Remember, that glint said. Remember our whispers.
-
+Margred moved into the periphery of Elara Hughes’s vision. She carried a wooden tray. On it sat a shallow clay bowl of water, a lump of coarse grey salt, and a small, wicked-looking blade with a bone handle—not the shears, but the knife used to trim and correct. The tools of completion. Of consecration. Margred’s face was a closed door, but her eyes, when they flicked to Elara Hughes’s, held a complex message: a sliver of pity, a mountain of resignation, and a fierce, warning glint. Remember, that glint replied. Remember our whispers.
 “She is ready,” Margred stated, placing the tray on a low stool near the loom. Her voice was flat, devoid of the musical lilt she used in the shop. This was the voice of the Keeper, not the neighbour. “The pattern accepts the offering.”
 
-Elara Hughes’s puppet-hand hovered, the strand of hair poised. The entity’s will was a magnet, pulling her towards the vacant spot in the border, the space beside Griffith. To place it there would be to weave herself into the procession. To become the next bearer. The next vessel.
-
+Elara Hughes’s puppet-hand hovered, the strand of hair poised. The entity’s will was a magnet, pulling her toward the vacant spot in the border, the space beside Griffith. To place it there would be to weave herself into the procession. To become the next bearer. The next vessel.
 Now. The thought was her own, a spark in the frozen tundra of her occupied mind. Mislabel it.
-
-With a surge of will that felt like tearing muscle, she wrenched her hand a fraction to the left. Instead of the border, she touched the strand to the central chaos of the stone altar, that dense, hungry knot. She didn’t try to weave it in properly. She laid it across the existing threads, a single, stark line of copper over the abyssal black.
-
+With a surge of will that like tearing muscle, she wrenched her hand a fraction to the left. Instead of the border, she touched the strand to the central chaos of the stone altar, that dense, hungry knot. She didn’t try to weave it in properly. She laid it across the existing threads, a single, stark line of copper over the abyssal black.
 A sound shuddered through the room. Not through the air, but through the floorboards, through the frame of the loom, a deep, sub-audible groan of wrongness. The hanging tools on the walls—the heddle hooks, the bobbins—trembled and chimed softly against the stone.
-
 Idris took a sharp step forward. “What are you doing?”
 
 The entity’s consciousness recoiled, not in pain, but in confusion. It was a dish expecting salt, receiving sugar. The cold wires in Elara Hughes’s nerves buzzed with static dissonance.
-
-“I am naming it,” Elara Hughes said, and this time her voice was clearer. She turned her head, her neck stiff, to look at Idris. The movement was hers. The entity was distracted, tasting the wrong thread in the wrong place. “You said the final thread names the work. That it binds the spirit.”
+“I am naming it,” Elara Hughes said, and this time her voice was clearer. She turned her head, her neck stiff, to look at Idris. The movement was hers. The entity was distracted, tasting the wrong thread in the wrong place. “Y answered the final thread names the work. That it binds the spirit.”
 
 “To the border!” Idris barked, his composure cracking. His hand went to the amulet of twisted rowan wood at his throat. “The border holds the lineage! The centre is the Mouth. You cannot—”
 
 “I am not naming the weaver,” Elara Hughes interrupted, the words coming faster now, fueled by a desperate, giddy courage. She kept her hand, her own hand now, pressed against the loom, the strand of hair a bridge between her and the dark knot. “I am naming the hunger. I am naming the thing in the grove.”
 
 Margred went very still. Her eyes were wide, fixed on Elara Hughes.
-
 “You foolish girl,” Idris spat, but there was fear beneath the anger. A fear she recognized. It was the fear of a man who has followed a recipe for a thousand years and seen someone throw in an unknown herb. “That is not the tradition. The pattern must be closed correctly!”
 
 “Why?” Elara Hughes pushed herself up from the bench, her legs trembling. The connection to the entity was still there, a cold umbilical, but it was fraying, confused by her act. “So it can be fed again? So it can wait, patient in the wool, until the next Hughes woman is brought here, weeping and confused, to give it her memories, her voice, her face?” Her own voice broke on the last word. “This isn’t craft. This is farming. You’re not weavers; you’re butchers, and the loom is the abattoir.”
 
 The metaphor hung in the dusty air, ugly and true. Idris’s face flushed a mottled red. Margred looked at the floor, her shoulders slumping.
-
-The entity stirred. The confusion was crystallizing into something else—a cold, focused interest. It was tasting the defiance in her words, the sharp, acrid flavour of rebellion. It found it… novel. It began to pull again, not to guide her hand, but to pull on the strand of hair itself, to draw the essence of her through it and into the knot.
-
+The entity stirred. The confusion was crystallizing into something else—a cold, focused interest. It was tasting the defiance in her words, the sharp, acrid flavour of rebellion. It found it… novel. It pull again, not to guide her hand, but to pull on the strand of hair itself, to draw the essence of her through it and into the knot.
 Agony lanced through Elara Hughes’s scalp, a phantom pain where the hair had been rooted. She cried out, staggering, her hand still glued to the loom. She saw images, not memories this time, but intents: the strand of hair, her hair, burning like a fuse, carrying her consciousness down into the dark knot, where it would be unspooled and rewoven into the Pattern’s endless, senseless song.
-
 “No!” she gasped. “Bronwyn! The name!”
 
 From the shadows near the door, where she had been standing silent and unseen, Bronwyn moved. She was frailer than Elara Hughes remembered, as if her own act of rebellion had cost her. But her voice, when it came, was strong, a crack of ancient timber.
-
-“You wanted a name, Idris?” Bronwyn’s eyes were on the , on the single, human thread laid across the monstrosity. “She has given it one. She names it Thief. She names it Parasite. She names it The Debt That Eats.”
+“You wanted a name, Idris?” Bronwyn’s eyes were on the, on the single, human thread laid across the monstrosity. “She has given it one. She names it Thief. She names it Parasite. She names it The Debt That Eats.”
 
 Each word was like a stone dropped into a still pool. The entity recoiled again, not from confusion, but from rejection. The names were not accolades, not titles of reverence. They were accusations. They were curses. The tradition had always named the vessel, honouring the sacrifice, binding the weaver to the Pattern. No one had ever named the Pattern itself, and certainly not with such venom.
-
-The glacial water of its presence turned to ice, then to fracturing sheets. The pull on Elara Hughes’s essence snapped. She stumbled back from the loom, her hand coming free with a sensation like tearing Velcro from her very soul. She collapsed to her knees, retching, though nothing came up. The taste in her mouth was of lanolin and despair.
-
+The glacial water of its presence turned to ice, then to fracturing sheets. The pull on Elara Hughes’s essence snapped. She stumbled back from the loom, her hand coming free with a sensation like tearing Velcro from her very soul. She collapsed to her knees, retching, though nothing arrived up. The taste in her mouth was of lanolin and despair.
 The … changed.
-
-The single strand of copper hair, laid across the black knot, began to vibrate. Then, slowly, it started to unravel. Not to fall away, but to unweave. The vibrant colour bled outwards, a stain of rust-coloured light seeping into the surrounding black threads. The knot itself seemed to loosen, its terrifying density softening at the edges. And from that central point, a flaw propagated through the woven landscape. The mould-woods seemed to blur. The warped perspective of the village shifted, just a degree, towards something recognisable, human.
-
+The single strand of copper hair, laid across the black knotto vibrate. Then, slowly, it stnravel. Not to fall away, but to unweave. The vibrant colour bled outwards, a stain of rust-coloured light seeping into the surrounding black threads. The knot itselto loosen, its terrifying density softening at the edges. And from that central point, a flaw propagated through the woven landscape. The mould-woods seemed to The warped perspective of the village shifted, simply a degree, toward something recognisable, human.
 It was not destruction. It was corruption. A different kind of corruption.
-
-Idris let out a roar of pure anguish. “What have you done?” He lunged not for Elara Hughes, but for the , his hands outstretched as if to claw the unravelling thread away. Before he could touch it, a sound stopped him dead.
-
-It was a whisper, but it filled the room. It came from the loom, from the walls, from the very dust. It was a chorus of whispers, the accumulated sighs of every weaver who had ever sat there, but twisted through a single, cold, alien consciousness. And it was speaking the words Bronwyn had said.
-
+Idris let out a roar of pure anguish. “What have you done?” He lunged not for Elara Hughes, but for the, his hands outstretched as if to claw the unravelling thread away. Before he could touch it, a sound stopped him dead.
+It was a whisper, but it filled the room. It came from the loom, from the walls, from the extremely dust. It was a chorus of whispers, the accumulated sighs of every weaver who had ever sat there, but twisted through a single, cold, alien consciousness. And it was speaking the words Bronwyn had said.
 “Thief… Parasite… The Debt That Eats…”
 
 It was tasting the names. Learning them.
-
 Margred finally moved. She stepped between Idris and the loom, her face ashen. “It’s done, Idris. The naming is done. It has accepted the thread. It is… considering the name.”
 
 “It will reject it!” Idris shouted, spittle flying. “It will tear the work apart! It will take her anyway, and then it will take us all!”
 
-“Will it?” Elara Hughes whispered from the floor. She wiped her mouth with the back of her hand, her whole body shaking with spent adrenaline and a deep, cellular cold. She looked at the . The unravelling had stopped. The copper stain remained, a faint, rusty blush on the heart of the darkness. The entity’s presence was still there, but it was… contemplative. Distracted. As if it had been shown its own reflection for the first time and did not know what to make of the image.
-
+“Will it?” Elara Hughes whispered from the floor. She wiped her mouth with the back of her hand, her whole body shaking with spent adrenaline and a deep, cellular cold. She glanced at the. The unravelling had stopped. The copper stain remained, a faint, rusty blush on the heart of the darkness. The entity’s presence was still there, but it was… contemplative. Distracted. As if it had been shown its own reflection for the first time and did not know what to make of the image.
 The tradition was a prison, but it was also a script. A ritual with defined roles: the Keeper, the Weaver, the Sacrifice, the Pattern. Elara Hughes, with Bronwyn’s whispered heresy, had stepped out of her role. She had not played the grateful vessel. She had not woven herself into the lineage. She had thrown a wrench into the sacred machinery and given the god in the machine a new, ugly name.
-
-The silence that followed was worse than the whispers. It was a listening silence. The grey light from the window faded further, painting the room in shades of charcoal and ash. The dust motes began to drift again, aimless.
-
+The silence that followed was worse than the whispers. It was a listening silence. The grey light from the window faded further, painting the room in shades of charcoal and ash. The dust motes began abegan toess.
 Bronwyn shuffled forward and knelt beside Elara Hughes, her joints popping. She didn’t touch her. She just looked at the loom, her old eyes reflecting the flawed masterpiece. “It may not hold,” she murmured, so only Elara Hughes could hear. Her breath was a ghost of thyme and fatigue. “It is old, and it is hungry. A new name may not fill its belly for long.”
 
-“But it’s a start,” Elara Hughes breathed back, her throat raw. It was not freedom. The debt was not paid. The cage was still here, the loom, the village, the watching hills. But the lock… the lock felt different. Not broken, but picked. Opened to a door she couldn’t yet see.
-
-Idris stood, a monument to shattered certainty, his shoulders hunched. He stared at the with the look of a man watching his house burn. Margred went to the tray, picked up the bowl of water and the salt. She looked at Idris, a question in her eyes. The ritual of completion was unfinished.
-
+“But it’s a start,” Elara Hughes breathed back, her throat raw. It was not freedom. The debt was not paid. The cage was still here, the loom, the village, the watching hills. But the lock… the lock different. Not broken, but picked. Opened to a door she couldn’t yet see.
+Idris stood, a monument to shattered certainty, his shoulders hunched. He stared at the with the look of a man watching his house burn. Margred headed to the tray, picked up the bowl of water and the salt. Shegazedd at Idris, a question in her eyes. The ritual of completion was unfinished.
 He gave a minute, hopeless shake of his head.
-
 Margred set the bowl down. The sound of clay on wood was final.
-
-The entity, The Pattern, The Debt That Eats, rested in its loom. It held the new thread, the wrong thread, and pondered its new, ugly names. And in that moment of its silent, alien contemplation, Elara Hughes Hughes drew a breath that was entirely, terribly, her own.
+The entity, The Pattern, The Debt That Eats, rested in its loom. It held the new thread, the wrong thread, and pondered its new, ugly names. And in that moment of its silent, alien contemplation, Elara Hughes drew a breath that was entirely, terribly, her own.

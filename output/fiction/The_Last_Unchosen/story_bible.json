@@ -41,5 +41,6 @@
   "narrative_voice": "Close third-person, primarily following Kael. The voice is gritty, sensory, and cynical at the start, slowly gaining a tone of weary clarity and finally, open-ended possibility. It treats the fantasy tropes with realism and irony.",
   "tone": "Begins with grimdark cynicism and satirical observation, shifts to tense and revolutionary, and concludes with a tone of bittersweet, hopeful uncertainty. The finale is quietly triumphant in its rejection of epic climaxes.",
   "plot_summary": "In a grimy capital controlled by a corrupt priesthood, the 'Auction of Fate' sells the supposed Chosen One to the highest bidder every generation. Kael, a mercenary hired by scholar Elara to observe, gets unwillingly thrust into the center of a rebellion when the system's hypocrisy is exposed. He becomes the accidental symbol of the revolt, leading to the overthrow of the priesthood. At the moment of victory, when the people expect him to become their new leader\u2014a new 'Chosen One'\u2014he deliberately dismantles the role. He refuses leadership, telling the people to draw their own map on a blank page. He then walks away with Elara, not as heroes ending a story, but as two people beginning their own unchosen, ordinary journey into a free and uncertain world.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 8
 }

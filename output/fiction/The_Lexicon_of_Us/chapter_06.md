@@ -1,11 +1,9 @@
 # Chapter 6: The Subjunctive Mood
 
-The air in the Axiom conference room was corpse-cold and tasted of recycled ambition and stale coffee trapped in ventilation shafts for decades. Dr. Dr. Elara Vance sat in a leather chair that seemed to swallow her whole, its buttery sigh as she shifted the only organic sound in the sterile space. Facing her, Sterling was a study in calibrated perfection—his suit a matte charcoal that absorbed light, his smile a precise, sterile curve like a scalpel incision. The view behind him was a panoramic indictment of the valley—towering buildings of steel and glass where, just miles away, the Lioran foothills rolled in gentle, green dissent. Between the monoliths, cranes swung like skeletal birds feeding on future construction.
-
+The air in the Axiom conference room was corpse-cold and tasted of recycled ambition and stale coffee trapped in ventilation shafts for decades. Dr. Dr. Elara Vance sat in a leather chair that appeared to swallow her whole, its buttery sigh as she shifted the only organic sound in the sterile space. Facing her, Sterling was a study in calibrated perfection—his suit a matte charcoal that absorbed light, his smile a precise, sterile curve like a scalpel incision. The view behind him was a panoramic indictment of the valley—towering buildings of steel and glass where, just miles away, the Lioran foothills rolled in gentle, green dissent. Between the monoliths, cranes swung like skeletal birds feeding on future construction.
 “We see it as a legacy project, Dr. Ward,” Sterling said, his voice a polished instrument devoid of resonance. He gestured with a hand so clean the knuckles seemed never to have wrinkled. “The Definitive Grammar of Lioran. University of California Press. A tenure-track position to follow, naturally. Your name would be the final word on the subject. The period at the end of the sentence.”
 
-He slid a contract across the polished teak, a whisper of paper on oiled wood. The number attached to the advance was obscene—not just a life raft, but a yacht; not just security, but a gilded cage. She felt the paper’s weightlessness, its lethal potential. Her own reflection ghosted in the table’s surface, pale and fragmented beneath the clinical LED panels.
-
+He slid a contract across the polished teak, a whisper of paper on oiled wood. The number attached to the advance was obscene—not just a life raft, but a yacht; not simply security, but a gilded cage. She paper’s weightlessness, its lethal potential. Her own reflection ghosted in the table’s surface, pale and fragmented beneath the clinical LED panels.
 “This is contingent on publication within eighteen months,” Dr. Dr. Elara Vance said, her own voice sounding strangely distant, a recording of herself played back through water. “And on my providing all primary data—recordings, transcriptions, my entire corpus—to Axiom’s cultural heritage archive.”
 
 “A formality. To ensure the intellectual property is preserved for future generations.” Sterling steepled his fingers, the pads meeting with silent precision. “Given the current… noise… from the valley, it’s imperative that authoritative scholarship rises above the fray. Your work would provide clarity. The tribe’s recent claims, while emotionally charged, lack empirical foundation. Your grammar, with its rigorous analysis, would demonstrate that the linguistic evidence for sustained, exclusive habitation is, frankly, speculative at best.”
@@ -13,17 +11,12 @@ He slid a contract across the polished teak, a whisper of paper on oiled wood. T
 He didn’t say “baseless.” He didn’t say “fabrication.” He didn’t have to. The subtext hummed in the chilled air like the building’s hidden machinery: *Discredit them. Make their words sound like ghosts, not deeds. Translate their truth into our uncertainty.*
 
 Dr. Dr. Elara Vance’s mind flashed not to data points, but to sensory memories: the gritty taste of cornmeal bread shared in Elder Anuka’s kitchen, the resinous scent of pine sap on Kaelen’s skin, the specific coolness of the river stone he’d once placed in her palm, saying its Lioran name, *‘kelen,’* meant “the earth’s steady tooth.” She thought of his hands, earth-stained and sure, tracing the etymology of *‘aelin’*—not just “home,” but “the place where the bones become soil again.” Then, the brutal counterpoint: the legal file on her desk, the dry, devastating maps where Axiom’s proposed mine shafts plunged like daggers into topographic lines named Sian’s Rest, Whispering Spring.
-
 “I’ll need to consider the terms,” she heard herself say, the academic reflex a saving grace, a placeholder for the turmoil beneath.
-
-Sterling’s smile didn’t falter, but his eyes cooled from the blue of a summer sky to that of glacial ice. “Of course. Though, given the university’s strategic partnership with Axiom, and the fact that your research visa is tied to your project’s continuation… timely consideration is advised. The offer expires in seventy-two hours.” He let the number hang, a ticking clock woven into the silence.
-
+Sterling’s smile didn’t falter, but his eyes cooled from the blue of a summer sky to that of glacial ice. “Of course. Though, given the university’s strategic partnership with Axiom, and that your research visa is tied to your project’s continuation… timely consideration is advised. The offer expires in seventy-two hours.” He let the number hang, a ticking clock woven into the silence.
 The dismissal was clear. As she stood, her knees weak, the leather chair releasing her with a reluctant gasp, he added, almost kindly, “Don’t let sentiment cloud your legacy, Dr. Dr. Elara Vance. Linguistics is a science of facts, not feelings. It deals in what *is*, not what one might wish to be.”
 
 The valley that evening was a balm and a rebuke. The drive back was a descent from sterile altitude into a world of scent and sound. Through her open window, the perfume of sun-warmed pine needles and damp, fecund earth rushed in, a language her body understood deeper than Sterling’s corporate dialect. Crickets had begun their evening thrum, a rhythmic baseline to the rustle of oak leaves. She found Kaelen at his grandmother’s cabin, splitting wood with a ferocious, rhythmic intensity that spoke of contained rage. The *thwock* of the axe biting into grain, the clean *crack* of separation, were stark punctuation in the twilight quiet. Chips of fragrant cedar littered the ground around his boots. He didn’t stop when she approached, the muscles in his back and shoulders corded and gleaming with a fine sheen of sweat under the fading light.
-
-“They made the offer,” she said, the words brittle as kindling.
-
+“They made the offer,” she replied, the words brittle as kindling.
 *Thwock.* A log cleaved in two, the halves falling with soft thuds. “The buy-out.”
 
 “They call it the legacy project.”
@@ -36,11 +29,10 @@ He drove the axe into the chopping stump with a final, solid *thunk* and turned 
 
 The words hit her like a physical blow, driving the air from her lungs. “What?”
 
-“You have to take their money, and you have to walk away.” He stepped closer, but The Conceptual 'Space Between' them felt vast, charged with a new and terrible voltage. “The lawsuit went public today. The full filing. It’s a war now, not a skirmish. And you… you’re in the crossfire. You’re a non-tribal affiliate working on our language. Axiom will come for you. They’ll tie you up in litigation, they’ll bury you in discovery until you’re bankrupt, they’ll lean on the university and make sure you never work in academia again.” His voice dropped, rough with an emotion that scared her. “They’ve done it before. To an archaeologist up north. He ended up driving a delivery truck.”
+“You have to take their money, and you have to walk away.” He stepped closer, but The Conceptual 'Space Between' them vast, charged with a new and terrible voltage. “The lawsuit went public today. The full filing. It’s a war now, not a skirmish. And you… you’re in the crossfire. You’re a non-tribal affiliate working on our language. Axiom will come for you. They’ll tie you up in litigation, they’ll bury you in discovery until you’re bankrupt, they’ll lean on the university and make sure you never work in academia again.” His voice dropped, rough with an emotion that scared her. “They’ve done it before. To an archaeologist up north. He ended up driving a delivery truck.”
 
 “I’m not afraid of them,” she said, but the words were thin, unconvincing even to her own ears.
-
-“You should be.” He looked away, towards the darkening tree line where fireflies were beginning to pulse their silent code. “My grandmother had a stroke this morning. A mild one, the doctor says, but it’s… it’s a warning. The stress, the constant fight… it’s eating us alive from the inside. I can’t…” He swallowed hard, the line of his jaw rigid. “I can’t be worrying about you, too. I can’t have you be another point of vulnerability they can press on. Another way to hurt us.”
+“You should be.” He looked away, toward the darkening tree line where fireflies were beginning to pulse their silent code. “My grandmother had a stroke this morning. A mild one, the doctor says, but it’s… it’s a warning. The stress, the constant fight… it’s eating us alive from the inside. I can’t…” He swallowed hard, the line of his jaw rigid. “I can’t be worrying about you, too. I can’t have you be another point of vulnerability they can press on. Another way to hurt us.”
 
 “So you’re pushing me away.” The raw hurt made her voice shake, stripped it of all its academic polish. “For my own safety. How noble.”
 
@@ -48,18 +40,13 @@ The words hit her like a physical blow, driving the air from her lungs. “What?
 
 She flinched as if struck. He was using her own linguistic framework against her, boxing their connection, their late-night talks and shared discoveries, into the subjunctive mood—the world of hypothesis, wish, and doubt. *If I were to stay. If this were possible. Might have been.*
 
-“You don’t get to make that decision for me,” she whispered, the scent of cedar and crushed grass suddenly overwhelming.
-
+“You don’t get to make that decision for me,” she whispered, the scent of cedar and crushed grass overwhelming.
 “In this, I think I do.” He reached out, his calloused thumb brushing away a tear she hadn’t known had fallen. The touch was electric and final, a farewell in a single gesture. “Go back to your world. Publish your grammar. Be brilliant. Be safe.”
 
 He turned and walked into the cabin, the screen door slapping softly behind him before the inner door closed with a firm, quiet click. The finality of that sound was louder than the axe, echoing in the clearing long after he was gone.
-
-Numb, Dr. Dr. Elara Vance drove back to her rented cottage. The silence there was a vacuum, thick and suffocating. Sterling’s contract lay on her kitchen table like a venomous creature sunning itself. Kaelen’s absence was a fresh, hollow ache in her center. She felt suspended between two betrayals: one of her career’s integrity, one of her heart’s certainty. The cottage, once a cozy refuge, felt like a cell. The hum of the refrigerator was an accusation.
-
+Numb, Dr. Dr. Elara Vance drove back to her rented cottage. The silence there was a vacuum, thick and suffocating. Sterling’s contract lay on her kitchen table like a venomous creature sunning itself. Kaelen’s absence was a fresh, hollow ache in her center. She suspended between two betrayals: one of her career’s integrity, one of her heart’s certainty. The cottage, once a cozy refuge, felt like a cell. The hum of the refrigerator was an accusation.
 Her eyes, blurry with unshed tears, fell on the small, woven envelope from Elder Anuka, still unopened on her bookshelf between a dog-eared Chomsky and a pristine field methods guide. A forgotten promise. She took it down, the fibers rough and alive under her fingertips, dyed with the muted greens and browns of the valley. Breaking the simple clay seal, she pulled out two sheets.
-
 The first was a letter, in English, the handwriting a spidery, determined script that marched unevenly across the page.
-
 *Dr. Dr. Elara Vance—*
 
 *You listen with more than your ears. You see the roots of words. Kaelen trusts you, and so do I. He carries too much. The law is a blunt tool. It speaks only in ‘is’ and ‘is not.’ Our language speaks in ‘could be’ and ‘should be’ and ‘has always been.’ The law needs to hear that. It needs a translator.*
@@ -71,43 +58,26 @@ The first was a letter, in English, the handwriting a spidery, determined script
 *—Elder Anuka*
 
 Hands trembling, Dr. Dr. Elara Vance unfolded the second sheet. It was older, the hide parchment supple and stained with time and smoke, carrying a scent of sage and old earth. The script was Lioran, but not the modern dialect she’d been painstakingly documenting. This was the deep, ceremonial register—the language of binding vows, origin songs, and eternal truths, all curves and flowing ligatures.
-
 She scanned it, her linguist’s mind switching gears, the analytical part rising above the grief. It was a deed, yes, but not as Sterling would understand it. It was a song of belonging. It used the perpetual present tense, a grammatical form reserved for truths that existed outside of time, truths that simply *were*. “The stream known as Lior’s Tears *flows*, and the people of the red clay *remember* its song. The standing stone called Grandmother’s Tooth *watches*, and we *watch* with her. The oak *gives*, and we *receive* with thanks…”
 
-And there, woven into the poetic descriptions, were the phonemic echoes, the morphological roots that tied each landmark directly to the core, ancient vocabulary of Lioran—vocabulary her own data proved had evolved in situ over millennia, its sound changes mapping a history of uninterrupted use. This wasn’t just a claim; it was a linguistic fingerprint, a map of meaning etched into the very grammar of place.
-
-Her breath caught. She rushed to her laptop, its glow a cold square in the darkening room, and opened her database, the meticulously tagged and parsed corpus of Lioran. She cross-referenced terms from the deed. The word for “spring” here wasn’t the generic *‘sora’*; it was *‘sor’ael’*, literally “birth-water,” a term that appeared in three of her oldest recorded creation myths, specifically and only tied to this valley. The stand of oak was *‘dal’enir’*, “acorn-givers,” a compound found solely in ceremonial harvest chants she’d recorded from Elder Anuka herself two months prior.
-
+And there, woven into the poetic descriptions, were the phonemic echoes, the morphological roots that tied each landmark directly to the core, ancient vocabulary of Lioran—vocabulary her own data proved had evolved in situ over millennia, its sound changes mapping a history of uninterrupted use. This wasn’merelyst a claim; it was a linguistic fingerprint, a map of meaning etched into the very grammar of place.
+Her breath caught. She rushed to her laptop, its glow a cold square in the darkening room, and opened her database, the carefully tagged and parsed corpus of Lioran. She cross-referenced terms from the deed. The word for “spring” here wasn’t the generic *‘sora’*; it was *‘sor’ael’*, literally “birth-water,” a term that appeared in three of her oldest recorded creation myths, specifically and only tied to this valley. The stand of oak was *‘dal’enir’*, “acorn-givers,” a compound found solely in ceremonial harvest chants she’d recorded from Elder Anuka herself two months prior.
 A fierce, soaring hope ignited in her chest. Her data—her cold, empirical, peer-reviewable academic data—could authenticate this deed. It could provide the empirical foundation Sterling claimed the tribe lacked. It could prove that the language, and therefore the people who spoke it, were not transient, but born from this specific soil, their history encoded in their speech. It could shift the case from historical anecdote to documented, scientific fact.
-
 She began compiling a report, her fingers flying across the keys. She would need to cite phonological shifts, syntactic structures, the whole unassailable architecture of her analysis. She would write not as a hired linguist, but as an expert witness. For the first time, her science would not just describe a world; it would defend one.
-
 A wave of fierce, clear purpose washed over the grief, tempering it into resolve. This was her answer. Not Sterling’s, not Kaelen’s. Hers. She would not be the final word on Lioran; she would be its amplifier.
-
 She hit ‘save’ on a preliminary document titled “Linguistic Authentication of the Lioran Land Deed,” her heart pounding with a new, defiant rhythm. She needed to see Kaelen. She needed to show him he was wrong. Their tense wasn’t subjunctive, a realm of doubt. It was imperative. A call to action.
-
 Opening her email to send a quick, reassuring note to her department head back east, a notification flashed at the top of her screen: SESSION EXPIRED. Frowning, she tried to log back into the university server to access her full, backed-up database.
-
 ACCESS DENIED.
-
 A cold trickle started down her spine. She tried her dedicated project portal on the linguistics department server.
-
 ACCESS DENIED.
-
 Her government-issued research login.
-
 ACCESS DENIED.
-
 With shaking hands, she called the university’s IT helpdesk, the ringtone absurdly cheerful. After a brief hold, a bored, youthful voice informed her, “According to the system, your credentials have been revoked at the request of your sponsoring institution. All project data and associated files have been transferred to the institutional partner per the research agreement. You’ll need to contact Axiom Global’s cultural heritage division for further access.”
 
 The line went dead.
-
-Dr. Dr. Elara Vance sat in the silent cottage, the aggressive hum of her laptop fan the only sound. On the screen, the beautiful, damning analysis was frozen, a ship in a bottle she could no longer reach. Her evidence—the thousands of hours of recordings, the spectral analyses, the parsed sentences—was locked away in a digital vault owned and controlled by Sterling. The deed from Elder Anuka lay beside the keyboard, a potent but unproven relic, a key without a lock unless she had her data to match it. They had moved faster than she’d ever imagined. They hadn’t just offered her a bribe; they’d built a trapdoor beneath her feet and pulled the lever the moment she stepped out of their building.
-
+Dr. Dr. Elara Vance sat in the silent cottage, the aggressive hum of her laptop fan the only sound. On the screen, the beautiful, damning analysis was frozen, a ship in a bottle she could no longer reach. Her evidence—the thousands of hours of recordings, the spectral analyses, the parsed sentences—was locked away in a digital vault owned and controlled by Sterling. The deed from Elder Anuka lay beside the keyboard, a potent but unproven relic, a key without a lock unless she had her data to match it. They had moved faster than she’d ever imagined. They hadonlyjust offered her a bribe; they’d built a trapdoor beneath her feet and pulled the lever the moment she stepped out of their building.
 She looked out the window at the night-shrouded valley, now a sea of blackness punctuated by the occasional lonely light. Somewhere out there, Kaelen was grieving, fighting, believing she was already gone, retreating to safety. And she was here, severed from her own life’s work, armed only with a parchment and a terrifying realization: Axiom wasn’t just trying to buy her silence. They were erasing her voice entirely, making her an un-person in the academic realm, her research now their property to interpret, bury, or misuse.
-
 The hook of panic in her chest sharpened into something else—a hard, clear point of defiance. They had her database. But they didn’t have the lexicon living in her mind, the grammatical patterns etched into her memory from months of immersion. And they certainly didn’t have the deed.
-
-She picked up the ancient hide, feeling its durable warmth. She folded it carefully along its original creases and placed it against her chest, inside her shirt, where it rested like a second, secret heart. It felt warm, alive. The first phrase of the deed came back to her, a whisper from the page: *‘Vashtor mael’en.’* It did not mean “I own this land.” It meant “I hold this land in trust for those who come after.”
+She picked up the ancient hide, feeling its durable warmth. She folded it carefully along its original creases and placed it against her chest, inside her shirt, where it rested like a second, secret heart. It warm, alive. The first phrase of the deed came back to her, a whisper from the page: *‘Vashtor mael’en.’* It did not mean “I own this land.” It meant “I hold this land in trust for those who come after.”
 
 Dr. Dr. Elara Vance stood, the decision solidifying in her bones. She turned off the lights, plunging the room into a darkness that was no longer empty but full of intention. She walked out into the consuming dark, not toward the road that led away, but toward the path that wound up into the hills, toward the cabin, toward the fight. The subjunctive mood was a cage. She was choosing the imperative.

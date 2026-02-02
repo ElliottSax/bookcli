@@ -43,5 +43,6 @@
   "narrative_voice": "Close third-person, alternating primarily between Aris and Lyra's perspectives. The prose is sharp and technologically literate in Aris's sections, more sensory and organic in Lyra's. It merges into a more unified, hopeful voice by the end.",
   "tone": "Begins with cold, suspenseful, and clinical irony. Evolves into tense, electrically charged romantic conflict. Culminates in a tone of weary but vibrant hope, earned tenderness, and expansive possibility.",
   "plot_summary": "As a lethal solar storm approaches, billionaire futurist Aris Thorne retreats to his meticulously designed, ultra-secure bunker\u2014the pinnacle of controlled survival. There, he is forced into close quarters with Lyra, a brilliant botanist whose very presence represents the messy, emotional life he has designed out of existence. Their war of wills\u2014his logic versus her passion, his control versus her chaos\u2014ignites a slow-burn, antagonistic romance that becomes a battle for the soul of their new world. Through conflict, crisis, and vulnerability, they transition from rivals to reluctant allies, then to lovers. The story culminates not with their escape from the bunker, but with their conscious choice to leave its sterile safety behind. They emerge to face the daunting, beautiful task of building a real home and a real future together on the scarred surface of the Earth, trading guaranteed survival for the risky, glorious potential of a shared life.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 9
 }

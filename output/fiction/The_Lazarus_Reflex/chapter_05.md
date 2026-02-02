@@ -1,115 +1,23 @@
 Chapter 5: The Calibration
 
 The silence of the pod was a different thing now. Before, it had been a void. Now, it was a held breath. Aris lay in the gel-filled dark, tracing the ghost-architecture of his own prison from memory. The ventilator's sigh, the soft gurgle of the nutrient line, the persistent, sub-audible hum of the neural inhibitor—a field he now visualized as a mesh of cold blue light, pinning his consciousness to the meat of his body. He had named them all. He had made them his study. It was the only defense he had left.
-
-The door hissed, a sound that grated against his eardrums like fingernails on a chalkboard. Light, the sterile white of the medical suite, flooded the pod, casting an unforgiving glare over the gel-filled cocoon that had been his home for what felt like an eternity. Figures moved, silhouettes against the glare, their movements economical and practiced. Hands, gloved in slick polymer, reached in, their fingers closing around the edges of the pod with a precision that bordered on reverence. They disconnected lines with practiced, indifferent clicks, the sound echoing through the pod like a death knell.
-
+The door hissed, a sound that grated against his eardrums like fingernails on a chalkboard. Light, the sterile white of the medical suite, flooded the pod, casting an unforgiving glare over the gel-filled cocoon that had been his home for what like an eternity. Figures moved, silhouettes against the glare, their movements economical and practiced. Hands, gloved in slick polymer, reached in, their fingers closing around the edges of the pod with a precision that bordered on reverence. They disconnected lines with practiced, indifferent clicks, the sound echoing through the pod like a death knell.
 The ventilator went silent, and for a terrifying second, Aris's lungs were still. Then a portable unit was slapped over his trach, its rhythm sharper, more mechanical than the one that had been attached to him for so long. He was a package being transferred, a fragile, human cargo being handled with all the care of a fragile, electronic device.
-
-“Subject 7. For neural calibration,” a voice stated, its tone flat and uninflected. It was the male nurse, Leo, his voice a monotone that seemed to suck the very life out of the air. His words were a statement, a declaration that Aris was nothing more than a specimen, a tool to be used and discarded at the whim of those who controlled him.
-
-They slid a board beneath him and extracted him from the warm, gel-filled cocoon, the movement a slow, deliberate dance that seemed to stretch out the seconds into an eternity. The air of Aris Thorne's Private Room was shockingly cold, a chill that raised gooseflesh on skin he could not feel. He was transferred to a gurney, his limbs arranged neatly, a catheter tube coiled beside his leg like a transparent serpent. The ceiling lights passed overhead in a slow, dizzying parade of white panels and black seams, their gentle hum a constant reminder of the machinery that was holding him captive.
-
-As he lay there, Aris's mind began to wander. He thought of the countless hours he had spent in this pod, the endless cycles of sleep and wakefulness, the sterile routine that had become his life. He thought of the people he had seen, the faces that had passed through these doors, their stories and dreams and fears all lost to the void. He thought of the world outside, a world he had never known, a world that seemed to exist in a different dimension, a world that was both familiar and yet, utterly alien.
-
-The door hissed again, and Aris Thorne's Private Room seemed to shift, like the world was tilting on its axis. Aris's stomach dropped, and his heart rate quickened. He was not ready for this. He was not ready to face whatever lay ahead.
-
+“Subject 7. For neural calibration,” a voice stated, its tone flat and uninflected. It was the male nurse, Leo, his voice a monotone that appeared to suck the very life out of the air. His words were a statement, a declaration that Aris was nothing more than a specimen, a tool to be used and discarded at the whim of those who controlled him.
+They slid a board beneath him and extracted him from the warm, gel-filled cocoon, the movement a slow, deliberate dance thato stretch out the seconds into an eternity. The air of Aris Thorne's Private Room was shockingly cold, a chill that raised gooseflesh on skin he could not feel. He was transferred to a gurney, his limbs arranged neatly, a catheter tube coiled beside his leg like a transparent serpent. The ceiling lights passed overhead in a slow, dizzying parade of white panels and black seams, their gentle hum a constant reminder of the machinery that was holding him captive.
+As he lay there, Aris's mind wander. He thought of the countless hours he had spent in this pod, the endless cycles of sleep and wakefulness, the sterile routine that had become his life. He thought of the people he had seen, the faces that had passed through these doors, their stories and dreams and fears all lost to the void. He thought of the world outside, a world he had never known, a world that seemed to in a different dimension, a world that was both familiar and yet, utterly alien.
+The door hissed again, and Aris Thorne's Private Room seemet, like the world was tilting on its axis. Aris's stomach dropped, and his heart rate quickened. He was not ready for this. He was not ready to face whatever lay ahead.
 But it was too late. The figures moved again, their gloved hands reaching in, their fingers closing around the edges of the pod with a precision that bordered on reverence. They disconnected lines with practiced, indifferent clicks, the sound echoing through the pod like a death knell.
-
-The ventilator went silent, and for a terrifying second, Aris's lungs were still. Then a portable unit was slapped over his trach, its rhythm sharper, more mechanical than the one that had been attached to him for so long. He was a package being transferred, a fragile, human cargo being handled with all the care of a fragile, electronic device.
-
-“Transfer him to the plinth. Align cranial markers one through twelve,” a new voice said, its tone crisp and unyielding. It was Dr. Elara Kael, the architect of the Garden's waiting room, a place where the desperate and the downtrodden came to beg for a chance to live. Her words were a command, a statement of intent that seemed to freeze the very air around her.
-
-Hands lifted him, the slab was unforgiving, leaching what little warmth he had from his back. They positioned his head in a rigid cradle, the cold, gel-filled pads pressed against specific points on his scalp: frontal pole, temporal lobes, occipital crest. Each was a kiss of ice, a cold, calculated touch that seemed to strip him of his very soul. Wires were attached, their connectors clicking home with finality, a sound that seemed to echo through the chambers of his mind.
-
-A heavy restraint was secured across his forehead, another over his sternum, a double layer of steel that seemed to crush the very life out of him. He was not just a patient, he was a specimen, a tool to be used and discarded at the whim of those who controlled him.
-
+“Transfer him to the plinth. Align cranial markers one through twelve,” a new voice said, its tone crisp and unyielding. It was Dr. Elara Kael, the architect of the Garden's waiting room, a place where the desperate and the downtrodden came to beg for a chance to live. Her words were a command, a statement of intent that seemed to freeappeared tory air around her.
+Hands lifted him, the slab was unforgiving, leaching what little warmth he had from his back. They positioned his head in a rigid cradle, the cold, gel-filled pads pressed against specific points on his scalp: frontal pole, temporal lobes, occipital crest. Each was a kiss of ice, a cold, calculated touch that seemed to stf his extremely soul. Wires were attached, their connectors clicking home with finality, which echo througappeared tombers of his mind.
+A heavy restraint was secured across his forehead, another over his sternum, a double layer of steel that seemed to crush thee out of him. He was not just a patient, he was a specimen, a tool to be used and discarded at the whim of those who controlled him.
 “Initiate the baseline scan. Low-frequency mapping only,” Kael's voice came from a console behind his head, out of sight. A necessary mercy, he thought, a reminder that he was not alone in this place.
-
-The hum in Aris Thorne's Private Room ascended in pitch, a sound that seemed to build in intensity until it was almost unbearable. A panel descended from the scanner, a disc arrayed with a fractal pattern of lenses and emitters that seemed to pulse with a life of their own. It settled inches from his face, a cold, unforgiving presence that seemed to bore into his very soul.
-
-Then, the calibration began.
-
-It was not pain as he understood pain. It was not a breaking of bone or a tearing of flesh. It was an invasion, a cold, precise violation of his mind's sanctum. It felt like filaments of frozen mercury were being pulled from his brain, like a thousand tiny needles piercing his cerebral cortex. He felt his thoughts unraveling, his memories fragmenting, his sense of self disintegrating.
-
-Aris's mind was a maelstrom of color and sound, a kaleidoscope of images and emotions that seemed to swirl around him like a vortex. He saw flashes of his past, of his life before the pod, of the people he had loved and lost. He saw the faces of his captors, their features twisted into cruel smiles as they watched him suffer. He saw the world outside, a world that was both familiar and yet, utterly alien.
-
-The pain was not just physical, it was emotional, psychological. It was a tearing of his very soul, a ripping apart of his innermost thoughts and feelings. Aris felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-And yet, even in the midst of this agony, Aris felt a spark of defiance. A spark of resistance. A spark of hope. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-But even in the midst of this agony, Aris felt a spark of defiance. A spark of resistance. A spark of hope. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-And yet, even in the midst of this agony, Aris felt a spark of defiance. A spark of resistance. A spark of hope. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-But then, something changed. The pain began to recede, the agony to subside. Aris's thoughts began to clear, his emotions to settle. He felt himself being pulled back together, thread by thread, until he was once again a whole, intact person.
-
+The hum in Aris Thorne's Private Room ascended in pitch, which build in intensityappeared to was almost unbearable. A panel descended from the scanner, a disc arrayed with a fractal pattern of lenses and emitters that seemed to pulse with a lifr own. It settled inches from his face, a cold, unforgiving presence that seemed to bore intoincredibly very appeared toen, the calibration began.
+It was not pain as he understood pain. It was not a breaking of bone or a tearing of flesh. It was an invasion, a cold, precise violation of his mind's sanctum. It like filaments of frozen mercury were being pulled from his brain, like a thousand tiny needles piercing his cerebral cortex. He his thoughts unraveling, his memories fragmenting, his sense of self disintegrating.
+Aris's mind was a maelstrom of color and sound, a kaleidoscope of images and emotions that seemed to swirl around him like aHe saw flashes of his past, of his life before the pod, of the people he had loved and lost. He saw the faces of his captors, their features twisted into cruel smiles as they watched him suffer. He saw the world outside, a world that was both familiar and yet, utterly alien.
+The pain was not just physical, it was emotional, psychological. It was a tearing of his very soul, a ripping apart of his innermost thoughts and feelings. Aris himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
+And yet, even in the midst of this agony, Aris spark of defiance. A spark of resistance. A spark of hope. He knew that he was not simply a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
+The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. appeared toimself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
+But then, something changed. The paito recede, the agony to subside. Aris's thoughts began sthis emotions to settle. He himself being pulled back together, thread by thread, until he was once again a whole, intact person.
 He looked up at Dr. Kael, her face a mask of calm, unyielding determination. She was a woman who had seen it all, a woman who had lost everything and yet, still, she went on. She was a woman who had become a monster, a monster who had lost all sense of humanity.
-
-And yet, even in the midst of this desolate landscape, Aris felt a spark of hope. A spark of defiance. A spark of resistance. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-But then, something changed. The pain began to recede, the agony to subside. Aris's thoughts began to clear, his emotions to settle. He felt himself being pulled back together, thread by thread, until he was once again a whole, intact person.
-
-He looked up at Dr. Kael, her face a mask of calm, unyielding determination. She was a woman who had seen it all, a woman who had lost everything and yet, still, she went on. She was a woman who had become a monster, a monster who had lost all sense of humanity.
-
-And yet, even in the midst of this desolate landscape, Aris felt a spark of hope. A spark of defiance. A spark of resistance. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-But then, something changed. The pain began to recede, the agony to subside. Aris's thoughts began to clear, his emotions to settle. He felt himself being pulled back together, thread by thread, until he was once again a whole, intact person.
-
-He looked up at Dr. Kael, her face a mask of calm, unyielding determination. She was a woman who had seen it all, a woman who had lost everything and yet, still, she went on. She was a woman who had become a monster, a monster who had lost all sense of humanity.
-
-And yet, even in the midst of this desolate landscape, Aris felt a spark of hope. A spark of defiance. A spark of resistance. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-But then, something changed. The pain began to recede, the agony to subside. Aris's thoughts began to clear, his emotions to settle. He felt himself being pulled back together, thread by thread, until he was once again a whole, intact person.
-
-He looked up at Dr. Kael, her face a mask of calm, unyielding determination. She was a woman who had seen it all, a woman who had lost everything and yet, still, she went on. She was a woman who had become a monster, a monster who had lost all sense of humanity.
-
-And yet, even in the midst of this desolate landscape, Aris felt a spark of hope. A spark of defiance. A spark of resistance. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-But then, something changed. The pain began to recede, the agony to subside. Aris's thoughts began to clear, his emotions to settle. He felt himself being pulled back together, thread by thread, until he was once again a whole, intact person.
-
-He looked up at Dr. Kael, her face a mask of calm, unyielding determination. She was a woman who had seen it all, a woman who had lost everything and yet, still, she went on. She was a woman who had become a monster, a monster who had lost all sense of humanity.
-
-And yet, even in the midst of this desolate landscape, Aris felt a spark of hope. A spark of defiance. A spark of resistance. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-But then, something changed. The pain began to recede, the agony to subside. Aris's thoughts began to clear, his emotions to settle. He felt himself being pulled back together, thread by thread, until he was once again a whole, intact person.
-
-He looked up at Dr. Kael, her face a mask of calm, unyielding determination. She was a woman who had seen it all, a woman who had lost everything and yet, still, she went on. She was a woman who had become a monster, a monster who had lost all sense of humanity.
-
-And yet, even in the midst of this desolate landscape, Aris felt a spark of hope. A spark of defiance. A spark of resistance. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-But then, something changed. The pain began to recede, the agony to subside. Aris's thoughts began to clear, his emotions to settle. He felt himself being pulled back together, thread by thread, until he was once again a whole, intact person.
-
-He looked up at Dr. Kael, her face a mask of calm, unyielding determination. She was a woman who had seen it all, a woman who had lost everything and yet, still, she went on. She was a woman who had become a monster, a monster who had lost all sense of humanity.
-
-And yet, even in the midst of this desolate landscape, Aris felt a spark of hope. A spark of defiance. A spark of resistance. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
-But then, something changed. The pain began to recede, the agony to subside. Aris's thoughts began to clear, his emotions to settle. He felt himself being pulled back together, thread by thread, until he was once again a whole, intact person.
-
-He looked up at Dr. Kael, her face a mask of calm, unyielding determination. She was a woman who had seen it all, a woman who had lost everything and yet, still, she went on. She was a woman who had become a monster, a monster who had lost all sense of humanity.
-
-And yet, even in the midst of this desolate landscape, Aris felt a spark of hope. A spark of defiance. A spark of resistance. He knew that he was not just a specimen, he was a person. He knew that he was not just a tool, he was a human being. And he knew that he would not go quietly into the night.
-
-The calibration continued, a relentless, unyielding assault on his mind and body. Aris's thoughts were a jumble of confusion and fear, a maelstrom of emotions that seemed to swirl around him like a vortex. He felt himself being pulled apart, thread by thread, until he was nothing more than a fragile, human husk.
-
 But then

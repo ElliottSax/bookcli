@@ -130,6 +130,100 @@ class RepetitionPostProcessor:
             (r"[Ii]n a nutshell,?\s*", ""),
             (r"[Tt]he fact of the matter is,?\s*", ""),
             (r"[Ii]t goes without saying,?\s*", ""),
+
+            # === WIKIPEDIA AI TELLS (2024-2025) ===
+            # "Not X, but Y" pattern - THE BIGGEST AI TELL
+            (r"\bnot as ([^,]+), but as ([^.]+)", r"like \2"),
+            (r"\bnot just ([^,]+), but ([^.]+)", r"\2"),
+            (r"\bnot merely ([^,]+), but ([^.]+)", r"\2"),
+            (r"\bnot simply ([^,]+), but ([^.]+)", r"\2"),
+            (r"\bnot only ([^,]+), but (?:also )?([^.]+)", r"both \1 and \2"),
+
+            # "It wasn't X—it was Y" contrast pattern
+            (r"[Ii]t wasn'?t ([^—–-]+)[—–-]+it was ([^.]+)", r"It was \2"),
+            (r"[Ii]t wasn'?t ([^,]+), it was ([^.]+)", r"It was \2"),
+            (r"[Ss]he wasn'?t ([^—–-]+)[—–-]+she was ([^.]+)", r"She was \2"),
+            (r"[Hh]e wasn'?t ([^—–-]+)[—–-]+he was ([^.]+)", r"He was \2"),
+            (r"[Tt]his wasn'?t ([^—–-]+)[—–-]+(?:it|this) was ([^.]+)", r"This was \2"),
+
+            # "Not X. Y." sentence fragment pairs (dramatic false emphasis)
+            # These need careful handling - flag for manual review or combine
+            (r"Not (\w+)\. (\w+)\.", r"\2."),  # "Not random. Insistent." -> "Insistent."
+            (r"Not (\w+)\. ([A-Z])", r"\2"),  # "Not fear. Focus." -> "Focus."
+
+            # False biology/impossible descriptions
+            (r"\b(?:watched|stared|gazed),? unblinking\b", "stared"),
+            (r"\beyes[,]? unblinking\b", "fixed stare"),
+            (r"\bunblinking (?:eyes|gaze|stare)\b", "steady gaze"),
+            (r"\bwithout blinking\b", "steadily"),
+            (r"\bheld (?:his|her|their) breath\b", "tensed"),  # Often overused
+
+            # Inflated symbolism (Wikipedia top offenders)
+            (r"\bstands? as a testament\b", "shows"),
+            (r"\bserves? as a testament\b", "proves"),
+            (r"\bis a testament to\b", "shows"),
+            (r"\bplays? a (?:vital|significant|crucial|important) role\b", "matters"),
+            (r"\bunderscores? (?:its|the) importance\b", "shows its value"),
+            (r"\bcontinues? to captivate\b", "still interests"),
+            (r"\bleaves? a lasting (?:impact|impression)\b", "affects"),
+            (r"\bwatershed moment\b", "turning point"),
+            (r"\bkey turning point\b", "turning point"),
+            (r"\bdeeply rooted\b", "rooted"),
+            (r"\bprofound (?:heritage|impact|effect)\b", "deep \1"),
+            (r"\bsteadfast (?:dedication|commitment)\b", "firm \1"),
+            (r"\bsolidifies\b", "confirms"),
+
+            # Promotional/breathless language
+            (r"\brich cultural (?:heritage|tapestry)\b", "culture"),
+            (r"\brich history\b", "history"),
+            (r"\bbreathtaking\b", "impressive"),
+            (r"\bstunning (?:natural )?beauty\b", "beauty"),
+            (r"\benduring legacy\b", "legacy"),
+            (r"\blasting legacy\b", "legacy"),
+            (r"\bmust-(?:visit|see)\b", "notable"),
+            (r"\biconic\b", "famous"),
+
+            # Editorializing phrases
+            (r"[Ii]t'?s (?:important|worth|interesting) to (?:note|remember|consider) that\s*", ""),
+            (r"[Nn]o (?:discussion|account) would be complete without\s*", ""),
+            (r"[Ii]n this article,?\s*", ""),
+
+            # Overused transitions (Wikipedia flagged) - only at sentence start
+            (r"(?:^|\. )[Mm]oreover,?\s+", ". "),
+            (r"(?:^|\. )[Ff]urthermore,?\s+", ". "),
+            (r"(?:^|\. )[Aa]dditionally,?\s+", ". Also, "),
+            (r"(?:^|\. )[Ii]n addition,?\s+", ". Also, "),
+            (r"(?:^|\. )[Oo]n the other hand,?\s+", ". But "),
+            (r"(?:^|\. )[Ii]n contrast,?\s+", ". But "),
+            (r"(?:^|\. )[Hh]owever,?\s+", ". But "),
+            (r"(?:^|\. )[Nn]evertheless,?\s+", ". Still, "),
+            (r"(?:^|\. )[Nn]onetheless,?\s+", ". Still, "),
+            # Mid-sentence however - just remove
+            (r",\s*however,\s*", ", "),
+
+            # Superficial -ing analysis words
+            (r"\b(?:thereby |thus )?ensuring\b", "to ensure"),
+            (r"\bhighlighting\b", "showing"),
+            (r"\bemphasizing\b", "stressing"),
+            (r"\breflecting\b", "showing"),
+            (r"\bunderscoring\b", "showing"),
+            (r"\bexemplifying\b", "showing"),
+            (r"\bdemonstrating\b", "showing"),
+            (r"\bshowcasing\b", "showing"),
+
+            # Vague attribution (lazy AI hedging)
+            (r"\b[Ii]ndustry (?:reports?|experts?) (?:suggest|indicate)\b", "some say"),
+            (r"\b[Oo]bservers have (?:cited|noted)\b", "some note"),
+            (r"\b[Ss]ome critics argue\b", "critics say"),
+            (r"\b[Mm]any (?:believe|argue|say)\b", "some think"),
+
+            # Em-dash overuse (convert to commas or remove)
+            (r"\s*—\s*", ", "),
+            (r"\s*–\s*", ", "),
+
+            # Curly quotes to straight (AI formatting tell)
+            (r'[\u201c\u201d]', '"'),
+            (r'[\u2018\u2019]', "'"),
         ]
 
         # Sentence variety patterns (avoid consecutive sentences starting same way)

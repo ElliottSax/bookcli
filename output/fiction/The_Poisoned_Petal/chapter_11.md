@@ -1,23 +1,19 @@
 Chapter 11: The Last Petal Falls
 
 The air in Beatrice Winstone's pristine conservatory was thick with the cloying perfume of night-blooming jasmine and the sharp, metallic tang of fear. Elara Bloom, her back pressed against a cold terracotta pot containing a particularly vicious-looking specimen of Dieffenbachia, felt the weight of the syringe in Beatrice's steady hand as if it were already pricking her skin. Nutmeg, a quivering ball of orange and white fur, was tucked behind Elara's ankles, a low, continuous growl rumbling in his tiny chest. The sound vibrated through Elara's entire body, a reminder that she was not alone in this desperate, last-ditch attempt to save her own life.
-
 "It really is a shame, Elara," Beatrice sighed, the picture of genteel regret. She adjusted her grip on the syringe, a delicate instrument that looked better suited for inoculating orchids than delivering a fatal dose of tetrodotoxin. The soft, golden light of the setting sun cast a warm glow over the room, but it did little to dispel the sense of foreboding that hung in the air like a challenge. "You have a genuine gift for nuisance. I had hoped you'd see reason, take the blame with some dignity. A tragic, guilt-ridden suicide after your 'breakdown.' The village would have mourned you, eventually."
 
-Elara's heart hammered against her ribs, a frantic bird in a cage. Her eyes darted from Beatrice's calm face to the glass walls of the conservatory, reflecting the deepening indigo of the twilight sky. The police were out there, supposedly. Constable Miller, alerted by a frantic, coded text from Elara an hour ago, should have been lurking in the rhododendrons. But the only movement was the slow, sinister unfurling of a Darlingtonia pitcher plant in the corner. Its leaves, a deep, glossy green, seemed to be watching Elara with cold, calculating eyes.
-
-"Dignity seems in short supply when you're being framed for multiple murders, Beatrice," Elara said, forcing her voice into a conversational tone that felt utterly alien. The words tasted bitter on her tongue, a reminder of the desperation that had driven her to this point. "And I'm afraid my knowledge of local fungi extends beyond the culinary. Suicide by rare Japanese pufferfish toxin would raise even old Dr. Henderson's eyebrows from his grave."
+Elara's heart hammered against her ribs, a frantic bird in a cage. Her eyes darted from Beatrice's calm face to the glass walls of the conservatory, reflecting the deepening indigo of the twilight sky. The police were out there, supposedly. Constable Miller, alerted by a frantic, coded text from Elara an hour ago, should have been lurking in the rhododendrons. But the only movement was the slow, sinister unfurling of a Darlingtonia pitcher plant in the corner. Its leaves, a deep, glossy green, was watching Elara with cold, calculating eyes.
+"Dignity seems in short supply when you're being framed for multiple murders, Beatrice," Elara said, forcing her voice into a conversational tone that utterly alien. The words tasted bitter on her tongue, a reminder of the desperation that had driven her to this point. "And I'm afraid my knowledge of local fungi extends beyond the culinary. Suicide by rare Japanese pufferfish toxin would raise even old Dr. Henderson's eyebrows from his grave."
 
 A flicker of irritation crossed Beatrice's perfectly composed features. Her eyes narrowed, and for a moment, Elara thought she saw a glimmer of something else there, something that looked almost like anger. But it was quickly suppressed, replaced by a mask of calm, calculated indifference. "A minor detail. The 'why' is always more compelling than the 'how' for people like them. A broken woman, her business failing, lashing out at those who slighted her... then consumed by remorse." She took a small step forward, her sensible brogues silent on the flagstone floor. "Now, hold still. This will be quicker if you don't struggle. And for heaven's sake, control your rodent."
 
-Nutmeg's growl intensified. Elara felt a surge of protective fury that burned away some of the fear. She had to keep Beatrice talking. The recorder in her cardigan pocket was a silent witness, but it wouldn't be much help if she were dead. The soft, muffled sound of the recorder's recording light flickered in the darkness, a reminder that she was not entirely alone.
-
-"Before you do something we'll both regret—well, that you'll regret—I have to say," Elara began, her gaze drifting past Beatrice to the stands of lush, deadly greenery. The air was heavy with the scent of blooming flowers, a heady mix of roses, lilies, and freesias that seemed to be suffocating her. "I've always admired your Aconitum. The monkshood. It's a magnificent specimen. The 'Queen of Poisons,' they call it. So... biblical. A crown of vengeance."
+Nutmeg's growl intensified. Elara surge of protective fury that burned away some of the fear. She had to keep Beatrice talking. The recorder in her cardigan pocket was a silent witness, but it wouldn't be much help if she were dead. The soft, muffled sound of the recorder's recording light flickered in the darkness, a reminder that she was not entirely alone.
+"Before you do something we'll both regret—well, that you'll regret—I have to say," Elara began, her gaze drifting past Beatrice to the stands of lush, deadly greenery. The air was heavy with the scent of blooming flowers, a heady mix of roses, lilies, and freesias thato be suffocating her. "I've always admired your Aconitum. The monkshood. It's a magnificent specimen. The 'Queen of Poisons,' they call it. So... biblical. A crown of vengeance."
 
 Beatrice paused, her head tilting slightly. Praise of her horticultural prowess was a key that turned a lock in her. "Aconitum napellus," she corrected, a teacher's pride softening her voice. "Not merely 'monkshood.' Every part of it exquisite, and every part fatal. It was the first in my collection."
 
 "It was your choice for Gerald, wasn't it?" Elara pressed, her mind racing. The memory of Gerald's face, his smug, self-satisfied smile, flashed before her eyes. She had always known that he was trouble, that he was the kind of man who would stop at nothing to get what he wanted. But she had never suspected that he was the key to Beatrice's twisted game.
-
 "You do understand," Beatrice murmured, almost pleased. "It's not mere killing, Elara. It's curation. Pruning the rotten branches to protect the health of the whole. Gerald, that noisy, vulgar YouTube man, Marjorie with her toxic gossip... they were blights. I am a gardener."
 
 "The best in the county," Elara agreed, nodding slowly. She inched her right foot sideways, creating a slightly wider barrier for Nutmeg. "Your illustrations proved that. The detail! The Daphne for Marjorie, its pretty berries hiding its corrosive sap. The Foxglove for the internet fellow, all showy trumpet and deadly digitalis. You didn't just kill them; you annotated them. It's a level of artistry I can only aspire to."
@@ -25,81 +21,26 @@ Beatrice paused, her head tilting slightly. Praise of her horticultural prowess 
 Beatrice's lips twitched in a semblance of a smile. The syringe lowered a fraction of an inch. "But even artists make mistakes," Elara said, her tone shifting subtly from admiration to collegial critique. "With Gerald. The monkshood. You grew it here, in this private conservatory, harvested the roots, mashed them, strained the liquor into his bottle. A flawless process. But you see, Constable Miller—bless his plodding heart—sent the murder weapon, the sherry bottle, to a specialist lab in London. At my suggestion."
 
 Beatrice's knuckles whitened around the syringe. "There was nothing to find. I wore gloves. I cleaned everything." Her voice was a low, menacing growl, a warning that she would not be defeated so easily.
-
 "Not everything," Elara whispered, the suspense coiling in the fragrant air. "Pollen, Beatrice. A specific, rare pollen from a subspecies of Aconitum that only flowers under very specific conditions of humidity and shade. Conditions, according to the county horticultural society database, that you alone have perfected in your award-winning 'Hades' Bower' micro-climate project. That pollen was on the lip of the bottle. Invisible to the naked eye, but as damning as a fingerprint to a palynologist. It places that bottle, irrevocably, here. In this room."
 
 It was a gamble. A huge one. The pollen analysis was real—Elara had read the report that morning after badgering Miller for weeks—but the link to Beatrice's private sub-species was an inspired bluff, woven from snippets of gossip from the garden club and Beatrice's own boastful article in The Botanist's Quarterly. Elara had always been a master of misdirection, and she was confident that she could talk her way out of this one.
-
 For a long moment, Beatrice simply stared. Then a flush crept up her neck, mottling her porcelain skin. "That's impossible," she hissed. "The Aconitum variegatum in your report was a mistake. A simple error. I could have—"
 
-"No," Elara interrupted, her voice firm. "You can't. You see, I've been doing some digging of my own. I've been talking to the other gardeners in the village, and they all remember you talking about your 'Hades' Bower' project. They remember the way you spoke about it, with such passion and such conviction. And they remember the way you reacted when I mentioned it. The way you seemed to... shrink away."
+"No," Elara interrupted, her voice firm. "You can't. You see, I've been doing some digging of my own. I've been talking to the other gardeners in the village, and they all remember you talking about your 'Hades' Bower' project. They remember the way you spoke about it, with such passion and such conviction. And they remember the way you reacted when I mentioned it. The way you seemed to ink away."
 
 Beatrice's eyes flashed with anger, but Elara pressed on, her words pouring out in a rush. "I know you, Beatrice. I know what you're capable of. And I know that you'll do anything to protect yourself. Anything to keep your secrets safe."
 
-The air in the conservatory seemed to vibrate with tension, a living, breathing thing that pulsed with the beat of Elara's heart. Beatrice's face was a mask of calm, but Elara could see the fear lurking beneath, a fear that she was determined to exploit.
+The air in the conservatory seemeate with tension, a living, breathing thing that pulsed with the beat of Elara's heart. Beatrice's face was a mask of calm, but Elara could see the fear lurking beneath, a fear that she was determined to exploit.
+"It's over, Beatrice," Elara replied, her voice low and even. "It's over. You can't keep running, can't keep hiding. The police are closing in, and soon they'll be knocking on your door. And when they do, you'll have to face the consequences of your actions."
 
-"It's over, Beatrice," Elara said, her voice low and even. "It's over. You can't keep running, can't keep hiding. The police are closing in, and soon they'll be knocking on your door. And when they do, you'll have to face the consequences of your actions."
-
-Beatrice's eyes narrowed, her gaze fixed on Elara with a cold, calculating intensity. For a moment, Elara thought she saw something else there, something that looked almost like... regret. But it was quickly suppressed, replaced by a mask of calm, calculated indifference.
-
+Beatrice's eyes narrowed, her gaze fixed on Elara with a cold, calculating intensity. For a moment, Elara thought she saw something else there, something that glanced almost like... regret. But it was quickly suppressed, replaced by a mask of calm, calculated indifference.
 "I think it's time for you to go, Elara," Beatrice said, her voice dripping with malice. "Time for you to leave this place and its secrets behind. But don't think for a moment that this is the end. This is only the beginning."
 
-Elara's heart sank, a cold, hard weight that seemed to press down on her chest. She knew that she was running out of time, that she had to act fast if she was going to save herself. She took a deep breath, her eyes locked on Beatrice's, and began to speak, her words pouring out in a rush.
-
+Elara's heart sank, a cold, hard weight that seemed to presappeared to her chest. She knew that she was running out of time, that she had to act fast if she was going to save herself. She took a deep breath, her eyes locked on Beatrice's, and speak, her words pouring out in a rush.
 "I know what you did, Beatrice. I know what you did to Gerald, to Marjorie, to all of them. And I know that you'll do it again, if you have the chance. But I also know that you're not invincible. I know that you have weaknesses, that you have fears. And I'm going to use them against you."
-
-The air in the conservatory seemed to vibrate with tension, a living, breathing thing that pulsed with the beat of Elara's heart. Beatrice's face was a mask of calm, but Elara could see the fear lurking beneath, a fear that she was determined to exploit.
-
-"It's over, Beatrice," Elara said, her voice low and even. "It's over. You can't keep running, can't keep hiding. The police are closing in, and soon they'll be knocking on your door. And when they do, you'll have to face the consequences of your actions."
 
 Beatrice's eyes flashed with anger, but Elara pressed on, her words pouring out in a rush. "I know what you did, Beatrice. I know what you did to Gerald, to Marjorie, to all of them. And I know that you'll do it again, if you have the chance. But I also know that you're not invincible. I know that you have weaknesses, that you have fears. And I'm going to use them against you."
 
 The words hung in the air, a challenge to Beatrice, a gauntlet thrown down. And for a moment, Elara thought she saw something else there, something that looked almost like... fear. But it was quickly suppressed, replaced by a mask of calm, calculated indifference.
-
-"It's over, Beatrice," Elara said, her voice low and even. "It's over. You can't keep running, can't keep hiding. The police are closing in, and soon they'll be knocking on your door. And when they do, you'll have to face the consequences of your actions."
-
-The words seemed to hang in the air forever, a challenge to Beatrice, a gauntlet thrown down. And then, in a movement that was almost imperceptible, Beatrice's hand seemed to twitch, the syringe glinting in the fading light.
-
-Elara's heart skipped a beat, a cold, hard weight that seemed to press down on her chest. She knew that she was running out of time, that she had to act fast if she was going to save herself. She took a deep breath, her eyes locked on Beatrice's, and began to speak, her words pouring out in a rush.
-
-"I know what you did, Beatrice. I know what you did to Gerald, to Marjorie, to all of them. And I know that you'll do it again, if you have the chance. But I also know that you're not invincible. I know that you have weaknesses, that you have fears. And I'm going to use them against you."
-
-The words seemed to hang in the air forever, a challenge to Beatrice, a gauntlet thrown down. And then, in a movement that was almost imperceptible, Beatrice's hand seemed to twitch, the syringe glinting in the fading light.
-
-Elara's heart sank, a cold, hard weight that seemed to press down on her chest. She knew that she was running out of time, that she had to act fast if she was going to save herself. She took a deep breath, her eyes locked on Beatrice's, and began to speak, her words pouring out in a rush.
-
-"I know what you did, Beatrice. I know what you did to Gerald, to Marjorie, to all of them. And I know that you'll do it again, if you have the chance. But I also know that you're not invincible. I know that you have weaknesses, that you have fears. And I'm going to use them against you."
-
-The words seemed to hang in the air forever, a challenge to Beatrice, a gauntlet thrown down. And then, in a movement that was almost imperceptible, Beatrice's hand seemed to twitch, the syringe glinting in the fading light.
-
-Elara's heart sank, a cold, hard weight that seemed to press down on her chest. She knew that she was running out of time, that she had to act fast if she was going to save herself. She took a deep breath, her eyes locked on Beatrice's, and began to speak, her words pouring out in a rush.
-
-"I know what you did, Beatrice. I know what you did to Gerald, to Marjorie, to all of them. And I know that you'll do it again, if you have the chance. But I also know that you're not invincible. I know that you have weaknesses, that you have fears. And I'm going to use them against you."
-
-The words seemed to hang in the air forever, a challenge to Beatrice, a gauntlet thrown down. And then, in a movement that was almost imperceptible, Beatrice's hand seemed to twitch, the syringe glinting in the fading light.
-
-Elara's heart sank, a cold, hard weight that seemed to press down on her chest. She knew that she was running out of time, that she had to act fast if she was going to save herself. She took a deep breath, her eyes locked on Beatrice's, and began to speak, her words pouring out in a rush.
-
-"I know what you did, Beatrice. I know what you did to Gerald, to Marjorie, to all of them. And I know that you'll do it again, if you have the chance. But I also know that you're not invincible. I know that you have weaknesses, that you have fears. And I'm going to use them against you."
-
-The words seemed to hang in the air forever, a challenge to Beatrice, a gauntlet thrown down. And then, in a movement that was almost imperceptible, Beatrice's hand seemed to twitch, the syringe glinting in the fading light.
-
-Elara's heart sank, a cold, hard weight that seemed to press down on her chest. She knew that she was running out of time, that she had to act fast if she was going to save herself. She took a deep breath, her eyes locked on Beatrice's, and began to speak, her words pouring out in a rush.
-
-"I know what you did, Beatrice. I know what you did to Gerald, to Marjorie, to all of them. And I know that you'll do it again, if you have the chance. But I also know that you're not invincible. I know that you have weaknesses, that you have fears. And I'm going to use them against you."
-
-The words seemed to hang in the air forever, a challenge to Beatrice, a gauntlet thrown down. And then, in a movement that was almost imperceptible, Beatrice's hand seemed to twitch, the syringe glinting in the fading light.
-
-Elara's heart sank, a cold, hard weight that seemed to press down on her chest. She knew that she was running out of time, that she had to act fast if she was going to save herself. She took a deep breath, her eyes locked on Beatrice's, and began to speak, her words pouring out in a rush.
-
-"I know what you did, Beatrice. I know what you did to Gerald, to Marjorie, to all of them. And I know that you'll do it again, if you have the chance. But I also know that you're not invincible. I know that you have weaknesses, that you have fears. And I'm going to use them against you."
-
-The words seemed to hang in the air forever, a challenge to Beatrice, a gauntlet thrown down. And then, in a movement that was almost imperceptible, Beatrice's hand seemed to twitch, the syringe glinting in the fading light.
-
-Elara's heart sank, a cold, hard weight that seemed to press down on her chest. She knew that she was running out of time, that she had to act fast if she was going to save herself. She took a deep breath, her eyes locked on Beatrice's, and began to speak, her words pouring out in a rush.
-
-"I know what you did, Beatrice. I know what you did to Gerald, to Marjorie, to all of them. And I know that you'll do it again, if you have the chance. But I also know that you're not invincible. I know that you have weaknesses, that you have fears. And I'm going to use them against you."
-
-The words seemed to hang in the air forever, a challenge to Beatrice, a gauntlet thrown down. And then, in a movement that was almost imperceptible, Beatrice's hand seemed to twitch, the syringe glinting in the fading light.
-
+The words seemed to ha air forever, a challenge to Beatrice, a gauntlet thrown down. And then, in a movement that was almost imperceptible, Beatrice's hand seemed to twitch, theappeared toglinting in the fading light.
 Elara's heart sank

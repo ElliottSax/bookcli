@@ -6,71 +6,33 @@ Fixes:
 - Unprocessed placeholders (e.g., "(primary setting)")
 - LLM instruction artifacts (e.g., "**Target: 2500 words**")
 - Duplicate content (repeated chapters/paragraphs)
+- Generation loops (repeated sentences across chapter)
 - Repetitive AI phrases
 """
 
 import re
-from typing import List, Tuple, Set, Pattern
+from collections import Counter
+from typing import List, Tuple, Set, Pattern, Dict
 
 from .base import BaseFixer, BookContext
 from lib.logging_config import get_logger
 
+# Import patterns from consolidated pattern library
+from lib.patterns import (
+    AI_ARTIFACT_PATTERNS as LLM_ARTIFACTS,
+    PLACEHOLDER_PATTERNS,
+    REPETITIVE_PHRASE_PATTERNS,
+    TRIPLE_WORD,
+    DOUBLE_WORD,
+    DOUBLE_PHRASE,
+    MULTIPLE_SPACES,
+    SPACE_BEFORE_PUNCT,
+    LEADING_SPACES,
+    TRAILING_SPACES,
+    MULTIPLE_NEWLINES,
+)
+
 logger = get_logger(__name__)
-
-
-# Pre-compiled LLM instruction artifact patterns (compiled once at module load)
-LLM_ARTIFACTS: List[Pattern] = [
-    re.compile(r'\*\*Target:\s*\d+\+?\s*words?\*\*', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'\*\*Additional Requirements:\*\*', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'\*\*Completed Chapter:\*\*', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'\*\*Requirements:\*\*', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'\*\*Word Count Target:\*\*', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'\*\*Chapter Requirements:\*\*', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'^\d+\.\s+Add\s+(?:more\s+)?sensory details.*$', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'^\d+\.\s+Expand\s+dialogue.*$', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'^\d+\.\s+Add\s+internal\s+thoughts.*$', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'^\d+\.\s+Describe\s+settings.*$', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'^\d+\.\s+Show\s+emotions.*$', re.MULTILINE | re.IGNORECASE),
-    re.compile(r'^\d+\.\s+Add\s+tension.*$', re.MULTILINE | re.IGNORECASE),
-]
-
-# Pre-compiled placeholder patterns (pattern, replacement)
-PLACEHOLDER_PATTERNS: List[Tuple[Pattern, str]] = [
-    (re.compile(r'\s*\(primary\s+setting\)', re.IGNORECASE), ''),
-    (re.compile(r'\s*\(primary\s+location\)', re.IGNORECASE), ''),
-    (re.compile(r'\s*\(protagonist\)', re.IGNORECASE), ''),
-    (re.compile(r'\s*\(antagonist\)', re.IGNORECASE), ''),
-    (re.compile(r'\s*\(setting\)', re.IGNORECASE), ''),
-    (re.compile(r'\s*\(location\)', re.IGNORECASE), ''),
-    (re.compile(r'The City \(Exterior\)', re.IGNORECASE), 'the city'),
-    (re.compile(r'\s*\([^)]*(?:primary|setting|location|protagonist|antagonist)[^)]*\)', re.IGNORECASE), ''),
-]
-
-# Pre-compiled overused AI phrase patterns
-REPETITIVE_PHRASE_PATTERNS: List[Pattern] = [
-    re.compile(r'(?:like\s+)?a\s+(?:key\s+turning|doorway\s+opening)\s+in\s+(?:her|his|their)\s+mind', re.IGNORECASE),
-    re.compile(r'seemed\s+to\s+(?:haunt|fill|seep\s+into)\s+(?:her|his|their)\s+(?:very\s+)?soul', re.IGNORECASE),
-    re.compile(r'(?:a\s+)?sense\s+of\s+\w+\s+that\s+seemed\s+to\s+(?:seep|creep|spread)', re.IGNORECASE),
-    re.compile(r'(?:like\s+)?a\s+punch\s+to\s+the\s+gut', re.IGNORECASE),
-    re.compile(r'(?:like\s+)?a\s+wake-?up\s+call', re.IGNORECASE),
-    re.compile(r'a\s+living,?\s+breathing\s+(?:entity|thing|creature)', re.IGNORECASE),
-    re.compile(r'seemed\s+to\s+(?:pour|flow|stream)\s+out\s+(?:of|from)\s+(?:her|him|them)', re.IGNORECASE),
-    re.compile(r'(?:like\s+)?a\s+challenge,?\s+a\s+doorway', re.IGNORECASE),
-    re.compile(r'the\s+sensation\s+like\s+a', re.IGNORECASE),
-    re.compile(r'the\s+sound\s+like\s+a', re.IGNORECASE),
-    re.compile(r'the\s+smell\s+like\s+a', re.IGNORECASE),
-    re.compile(r'the\s+(?:feeling|thought|image)\s+like\s+a', re.IGNORECASE),
-]
-
-# Pre-compiled common patterns
-TRIPLE_WORD = re.compile(r'\b(\w+)\s+\1\s+\1\b', re.IGNORECASE)
-DOUBLE_WORD = re.compile(r'\b(\w+)\s+\1\b', re.IGNORECASE)
-DOUBLE_PHRASE = re.compile(r'\b(\w+\s+\w+)\s+\1\b', re.IGNORECASE)
-MULTIPLE_SPACES = re.compile(r'[ \t]+')
-SPACE_BEFORE_PUNCT = re.compile(r' +([.,;:!?])')
-LEADING_SPACES = re.compile(r'\n +')
-TRAILING_SPACES = re.compile(r' +\n')
-MULTIPLE_NEWLINES = re.compile(r'\n{3,}')
 
 
 class TextFixer(BaseFixer):
@@ -95,6 +57,7 @@ class TextFixer(BaseFixer):
         total += self.fix_placeholders()
         total += self.fix_llm_artifacts()
         total += self.fix_duplicate_content()
+        total += self.fix_generation_loops()
         # Note: repetitive phrases detection only, no auto-fix
         return total
 
@@ -250,6 +213,110 @@ class TextFixer(BaseFixer):
                     content = '\n\n'.join(unique_paragraphs)
                     self._save_chapter(num, content)
                     self._log_fix(num, "Removed duplicate paragraphs")
+                    fixes += 1
+
+        return fixes
+
+    def fix_generation_loops(self) -> int:
+        """
+        Fix generation loops where sentences repeat excessively.
+
+        This handles AI generation bugs where:
+        - Sentences repeat more than 3 times across the chapter
+        - Near-duplicate paragraphs (>80% Jaccard similarity)
+
+        Returns:
+            Number of chapters fixed
+        """
+        fixes = 0
+
+        for num, content in self.context.chapters.items():
+            original = content
+            original_size = len(content)
+
+            # PHASE 1: Global sentence deduplication
+            all_sentences = re.findall(r'[^.!?]+[.!?]+', content)
+
+            # Build mapping of lowercase -> original sentences
+            lowercase_to_originals: Dict[str, Set[str]] = {}
+            for s in all_sentences:
+                s_stripped = s.strip()
+                if len(s_stripped) > 20:
+                    lower = s_stripped.lower()
+                    if lower not in lowercase_to_originals:
+                        lowercase_to_originals[lower] = set()
+                    lowercase_to_originals[lower].add(s_stripped)
+
+            global_sent_counts = Counter(
+                s.strip().lower() for s in all_sentences if len(s.strip()) > 20
+            )
+
+            # Get all original forms of heavily repeated sentences (>5 times to avoid removing legitimate emphasis)
+            heavily_repeated: Set[str] = set()
+            for lower, count in global_sent_counts.items():
+                if count > 5:
+                    heavily_repeated.update(lowercase_to_originals.get(lower, set()))
+
+            sentences_removed = 0
+
+            if heavily_repeated:
+                # Remove all but the first occurrence of each heavily repeated sentence
+                for repeated_sent in heavily_repeated:
+                    pattern = re.escape(repeated_sent)
+                    matches = list(re.finditer(pattern, content))
+
+                    if len(matches) > 1:
+                        # Remove all but the first occurrence (going backwards to preserve indices)
+                        for match in reversed(matches[1:]):
+                            start, end = match.start(), match.end()
+                            # Remove the sentence and any following whitespace
+                            while end < len(content) and content[end] in ' \t':
+                                end += 1
+                            content = content[:start] + content[end:]
+                            sentences_removed += 1
+
+            # PHASE 2: Near-duplicate paragraph removal using Jaccard similarity
+            paragraphs = re.split(r'\n\s*\n', content)
+            unique_paragraphs = []
+            paragraphs_removed = 0
+
+            for para in paragraphs:
+                para_stripped = para.strip()
+                if not para_stripped:
+                    continue
+
+                is_duplicate = False
+                para_words = set(para_stripped.lower().split())
+
+                # Check Jaccard similarity against existing paragraphs
+                if len(para_words) > 10:  # Only check substantial paragraphs
+                    for existing in unique_paragraphs:
+                        existing_words = set(existing.lower().split())
+                        if len(existing_words) > 10:
+                            intersection = len(para_words & existing_words)
+                            union = len(para_words | existing_words)
+                            similarity = intersection / union if union > 0 else 0
+                            if similarity > 0.95:  # Require 95% match to avoid removing similar-but-different content
+                                is_duplicate = True
+                                paragraphs_removed += 1
+                                break
+
+                if not is_duplicate:
+                    unique_paragraphs.append(para_stripped)
+
+            if paragraphs_removed > 0 or sentences_removed > 0:
+                content = '\n\n'.join(unique_paragraphs)
+                if not content.endswith('\n'):
+                    content += '\n'
+
+                bytes_removed = original_size - len(content)
+                if bytes_removed > 0:
+                    self._save_chapter(num, content)
+                    self._log_fix(
+                        num,
+                        f"Fixed generation loops ({sentences_removed} sentences, "
+                        f"{paragraphs_removed} paragraphs, {bytes_removed:,} bytes removed)"
+                    )
                     fixes += 1
 
         return fixes

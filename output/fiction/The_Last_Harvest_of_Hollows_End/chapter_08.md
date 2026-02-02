@@ -3,98 +3,55 @@ Chapter 8: Hunger Rising
 Chapter 8: Hunger Rising
 
 The silence that followed Brother Anselm’s departure was not a true silence. It was a held breath. Elara stood at the kitchen window long after his black coat had dissolved into the grey smear of the afternoon, her fingers numb on the cold sill. The words “It doesn’t want a chicken. It wants a season” echoed in The surrounding Appalachian landscape of her skull, a grim chant. Her logical mind, that trusted old machine, sputtered and sparked against it. A season wasn’t a unit of measurement. It was a concept, a poem. You couldn’t weigh it on a scale.
-
 But The surrounding Appalachian landscape, she was beginning to understand, had a different mathematics.
-
 She turned to the ledger, still open on the rough oak table. The entry for the Autumn Tithe glared up at her, the ink in the ‘Offered’ column a pathetic, watery blue where she’d scribbled ‘One Plymouth Rock Hen (prime condition).’ A child’s offering. A joke. In the ‘Received’ column, the script was no longer the crisp copperplate of her grandfather’s day. It was jagged, dark, and damp, as if the paper itself had sweated the words out: ‘Blight. Exposure. Attention.’
 
 The first two she could parse. The third was a hole into which her thoughts tumbled, endless and cold.
-
 A need for practical action, a bulwark against the creeping dread, seized her. She would inventory. She would prepare. She went to the pantry, a deep, cool closet that always smelled of dried herbs and earth. The shelves, usually lined with her careful preserves—jars of tomatoes, pickled beans, jams glowing like gemstones—were wrong. The glass was clouded with a sickly, greenish condensation. She picked up a jar of strawberry preserves, her prize from June. The fruit inside, once a vibrant crimson, was a mass of floating grey fuzz. She unscrewed the lid. Not the sweet-sour scent of fermentation, but the gagging reek of a long-dead thing, a cellar smell. She recoiled, the jar slipping from her hand. It shattered on the stone floor, but no liquid pooled. The contents were dust, dry and scentless, as if they’d rotted instantly and then desiccated over decades.
-
 Heart hammering, she lunged for the sink. The water had to be safe. The well was deep, fed by the same aquifer that had sustained the farm for generations. She turned the cast-iron handle. A guttural groan came from the pipes, a sound of protest. What trickled out was not water. It was the colour of weak tea, thick with suspended silt. It smelled of pond bottom, of forgotten roots and wet clay. She let it run until her wrist ached from holding the handle, but it only grew darker, more viscous. The land was revoking its gifts. The protection was failing.
-
-As dusk began to bleed the colour from the world, the view from the windows changed. The fields, once merely empty, now seemed occupied. At the far tree line, where the skeletal maples clawed at the lavender sky, she saw them. Not clearly—never clearly—but as interruptions in the twilight. Tall, impossibly so, and thin, with a jerky, disjointed way of moving that had nothing to do with the wind. They were the colour of old bark and shadow. They didn’t approach the house. They didn’t need to. They simply stood, or shifted, or perhaps grew, at the periphery. Watching. The ‘Attention’ in the ledger made flesh, or something like it.
-
-Nightfall was worse. The electric lights, usually a harsh but comforting yellow, began to stutter. The bulb above the kitchen table flickered, dimming to a dull orange ember before flaring back to life, each cycle leaving the room a little darker. The digital clock on the stove died with a soft pop and a scent of ozone. Her phone, plugged into the wall, showed a dead battery icon despite the charger’s glowing light. When she tried the landline, the receiver emitted only a low, wet static, like the sound of mud being stirred.
-
+As dusk bleed the colour from the world, the view from the windows changed. The fields, once merely empty, now seemed occupied. At the far tree line, where the skeletal maples clawed at the lavender sky, she saw them. Not clearly—never clearly—but as interruptions in the twilight. Tall, impossibly so, and thin, with a jerky, disjointed way of moving that had nothing to do with the wind. They were the colour of old bark and shadow. They didn’t approach the house. They didn’t need to. They simply stood, or shifted, or perhaps grew, at the periphery. Watching. The ‘Attention’ in the ledger made flesh, or something like it.
+Nightfall was worse. The electric lights, usually a harsh but comforting yellowto stutter. The bulb above the kitchen table flickered, dimming to a dull orange ember before flaring back to life, each cycle leaving the room a little darker. The digital clock on the stove died with a soft pop and a scent of ozone. Her phone, plugged into the wall, showed a dead battery icon despite the charger’s glowing light. When she tried the landline, the receiver emitted only a low, wet static, like the sound of mud being stirred.
 With the failure of the lights came the sounds.
-
-It started as a faint, intermittent scrape beneath the floorboards of the parlour. She froze, a glass of murky water (boiled, strained, still tasting of dirt) halfway to her lips. It stopped. She exhaled. Then it came again, not a scrape but a deliberate drag, as of something heavy and soft being pulled over rough wood. Directly below where she sat.
-
+It started as a faint, intermittent scrape beneath the floorboards of the parlour. She froze, a glass of murky water (boiled, strained, still tasting of dirt) halfway to her lips. It stopped. She exhaled. Then it arrived again, not a scrape but a deliberate drag, as of something heavy and soft being pulled over rough wood. Directly below where she sat.
 She stood up too fast, the chair legs shrieking on the floor. The sound beneath her feet ceased. A trade. Now, from the wall behind the old hearth, a new sound: a rapid, skittering scratch, like many small, hard claws. It travelled up the inside of the wall, across the ceiling beam, and down the other side. It was learning the architecture of her house.
-
-Elara retreated to her bedroom, the smallest room, the one that felt most like hers. She barricaded the door with her dresser, its wood groaning in protest. The scratching didn’t follow her here. Instead, a pressure began to build. It wasn’t in the air, but inside her own head. A gnawing, psychic weight, a sense of being minutely examined, of her thoughts being turned over like stones to see what writhered beneath. It was the feeling of being utterly, irrevocably known. It made her want to peel her own skin off to escape the scrutiny.
-
-She must have slept, because the scream of a jay jolted her awake. Dawn was a grey smear. The house was silent. The pressure had receded to a dull ache behind her eyes. She felt a fragile, desperate hope. Daylight was a rule, wasn’t it? A constant.
-
+Elara retreated to her bedroom, the smallest room, the one that most like hers. She barricaded the door with her dresser, its wood groaning in protest. The scratching didn’t follow her here. Instead, a pressure began stIt wasn’t in the air, but inside her own head. A gnawing, psychic weight, feelings of being minutely examined, of her thoughts being turned over like stones to see what writhered beneath. It was the feeling of being utterly, irrevocably known. It made her want to peel her own skin off to escape the scrutiny.
+She must have slept, because the scream of a jay jolted her awake. Dawn was a grey smear. The house was silent. The pressure had receded to a dull ache behind her eyes. She fragile, desperate hope. Daylight was a rule, wasn’t it? A constant.
 She needed to see a face. A human face, even if it was her own, tired and frightened. The small, wavy mirror above her washstand was the only one she hadn’t covered or turned to the wall, a stubborn holdout of vanity. She splashed the tainted water on her face, the grit abrasive on her skin. Leaning in, she blinked the sleep from her eyes.
-
 Her reflection was pale, dark hollows smudged beneath her eyes. But it was hers. She let out a shaky breath. Then movement, in the dim corner of the room behind her, caught in the silvered glass.
-
 A figure stood there.
-
 It was tall, its head bowed to clear the eight-foot ceiling. It was impossibly thin, not like a starved person, but like a thing that had never known any other shape. Its skin was the grey-brown of rain-rotted linen stretched over a framework of sticks. It was caked in a fine, dark soil that fell in silent clumps onto the floorboards. It had no discernible face, just a smooth, elongated oval where a head should be.
-
 And it was standing directly behind her.
-
-Elara’s blood turned to ice. Her breath fogged the mirror. She did not scream. Her body was locked, a statue of terror. In the reflection, the gaunt, soil-covered thing did not move. It simply was, a fact in her bedroom. A recipient of the ‘Attention.’
+Elara’s blood turned to ice. Her breath fogged the mirror. She did not scream. Her body was locked, a statue of terror. In the reflection, the gaunt, soil-covered object did not move. It simply was, a fact in her bedroom. A recipient of the ‘Attention.’
 
 With a whimper tearing from her throat, she spun around, hands raised to fend it off.
-
 The corner was empty. Only the faded floral wallpaper and a shadow cast by the wardrobe.
-
 She whipped back to the mirror. Her own wide, wild eyes stared back. Nothing else. The room was silent save for the frantic drum of her heart. Had she imagined it? A trick of exhaustion and fear?
-
 Then she looked down.
-
 On the wide, pine floorboards, leading from the corner to a spot just behind where she had stood, was a trail of fresh, damp earth.
 The day was a prison sentence. The sun shone, but it was a cold, brass light that revealed too much. Every furrow in the field looked like a fresh dig. Every knot in the tree bark resembled a watching eye. The gangly figures were gone from the tree line, but their absence was more menacing. They could be anywhere.
-
-Elara tried to work. She took the rusted hatchet to the woodpile, the physical violence of the act a relief. Chop. The debt. Chop. The reflection. Chop. The scratching. With each blow, she felt the gnawing pressure in her head intensify, a teeth-grinding vibration that built with every impact. On the tenth swing, a splinter of wood flew up and gouged her cheek. She dropped the hatchet, pressing her hand to the stinging cut. Her fingers came away red. The blood, at least, was still her own.
-
-She retreated inside, the taste of copper in her mouth. The house was freezing, though the hearth was stacked with wood. She couldn’t bring herself to light it. Fire felt like an announcement, a light.
-
-By afternoon, the hunger began. Not her own—her stomach was a clenched fist—but The surrounding Appalachian landscape’s. She felt it in the way the floorboards seemed to sag slightly underfoot, as if the house was settling into a hungry belly. She saw it in the garden, where the few remaining kale plants, untouched by frost, had now blackened and curled in on themselves, their leaves brittle as insect wings. She heard it in the new sound that joined the scratching: a low, sub-audible hum that vibrated in her molars, a sound of vast, empty yearning.
-
+Elara tried to work. She took the rusted hatchet to the woodpile, the physical violence of the act a relief. Chop. The debt. Chop. The reflection. Chop. The scratching. With each blow, she gnawing pressure in her head intensify, a teeth-grinding vibration that built with every impact. On the tenth swing, a splinter of wood flew up and gouged her cheek. She dropped the hatchet, pressing her hand to the stinging cut. Her fingers came away red. The blood, at least, was still her own.
+She retreated inside, the taste of copper in her mouth. The house was freezing, though the hearth was stacked with wood. She couldn’t bring herself to light it. Fire like an announcement, a light.
+By afternoon, the hunger began. Not her own—her stomach was a clenched fist—but The surrounding Appalachian landscape’s. She it in the way the floorboards appeared to sag slightly underfoot, as if the house was settling into a hungry belly. She saw it in the garden, where the few remaining kale plants, untouched by frost, had now blackened and curled in on themselves, their leaves brittle as insect wings. She heard it in the new sound that joined the scratching: a low, sub-audible hum that vibrated in her molars, a sound of vast, empty yearning.
 Brother Anselm’s offer—the Church of the Unfolding Seed, their cryptic protection—flitted through her mind like a moth. A different kind of cage. A ritualized feeding. Was that any better than being consumed by whatever this was?
-
 As the long, shadowy fingers of twilight stretched across the fields once more, Elara made her decision. She would not wait to be taken in her sleep. She would confront the ledger, the source of the bargain. She lit an old kerosene lamp, its wavering flame a tiny defiance against the deepening gloom, and carried it to the study.
-
 The ledger lay on the desk. It was open to the Autumn Tithe page, though she had closed it that morning. The ‘Received’ column had grown. Below ‘Blight. Exposure. Attention.’ now writhed two more words, the ink glistening wetly: ‘The Roots. The Claim.’
 
-The air grew thick and sweet, the cloying scent of overripe apples and turned earth. The scratching in the walls became a frenzy, a unified frenzy, moving in from all sides towards the study. The floor beneath her feet trembled.
-
+The air grew thick and sweet, the cloying scent of overripe apples and turned earth. The scratching in the walls became a frenzy, a unified frenzy, moving in from all sides toward the study. The floor beneath her feet trembled.
 And then, from directly under the house, a new sound. A deep, wet, tearing crunch. The sound of a great mouth closing on something fibrous and dense. The Roots.
-
-The kerosene flame guttered wildly. The pressure in Elara’s head spiked into a white-hot point of agony. She clutched her temples, a moan escaping her. In the chaotic dance of shadows thrown by the lamp, the patterns on the wallpaper seemed to slither. The whorls in the wood grain pulsed. The very house was a throat, and it was swallowing.
-
+The kerosene flame guttered wildly. The pressure in Elara’s head spiked into a white-hot point of agony. She clutched her temples, a moan escaping her. In the chaotic dance of shadows thrown by the lamp, the patterns on the wallpapeto slither. The whorls in the wood grain pulsed. The very house was a throat, and it was swallowing.
 She stumbled from the study, down the hall, blind with panic. She needed to get out, to run into the night, even toward those things in the trees. Anything was better than this digestive embrace. She flung open the front door.
-
 The porch was gone.
-
-Where three wooden steps should have led down to the gravel path, there was only a void. A sheer, crumbling edge of foundation, and below it, darkness. Not the darkness of night, but a solid, velvety blackness that seemed to absorb the light from her lamp. It stretched away in every direction, from the edges of the house to the distant, invisible tree line. The farmyard, the fields, the lane—all were gone, consumed by this hungry, silent maw. The house was an island in a sea of nothing.
-
-Elara staggered back, slamming the door. She ran to the kitchen, to the back door. The same. A precipice. The windows showed only that same consumptive black. The land had not just withdrawn its protection. It had withdrawn itself. The ‘Exposure’ was complete. They were in its belly now.
-
+Where three wooden steps should have led down to the gravel path, there was only a void. A sheer, crumbling edge of foundation, and below it, darkness. Not the darkness of night, but a solid, velvety blackness that seemed appeared to the light from her lamp. It stretched away in every direction, from the edges of the house to the distant, invisible tree line. The farmyard, the fields, the lane—all were gone, consumed by this hungry, silent maw. The house was an island in a sea of nothing.
+Elara staggered back, slamming the door. She ran to the kitchen, to the back door. The same. A precipice. The windows showed only that same consumptive black. The land had not simply withdrawn its protection. It had withdrawn itself. The ‘Exposure’ was complete. They were in its belly now.
 The scratching reached a crescendo, no longer confined to the walls. It was in the room with her. From the corners, from under the table, from the hearth, a thousand tiny, scrabbling sounds. The lamp’s flame shrank to a blue pearl, then died.
-
-In the perfect, suffocating blackness, Elara felt a presence coalesce. It was in the centre of the kitchen. It was the feeling of the gaunt figure from the mirror, multiplied, given dimension and weight. It was the hunger given form. She could feel its regard like a physical coldness on her skin.
-
+In the perfect, suffocating blackness, Elara presence coalesce. It was in the centre of the kitchen. It was the feeling of the gaunt figure from the mirror, multiplied, given dimension and weight. It was the hunger given form. She could feel its regard like a physical coldness on her skin.
 A single, dry rustle. Like a page turning.
-
 From the study down the hall, a faint, phosphorescent green light emanated. The ledger was updating itself.
-
 She knew what it would say. The ‘Claim’ was being finalized.
-
 In the absolute dark, with the scrabbling things closing in and the vast, hungry presence waiting, Elara did the only thing left to do. She opened her mouth, not to scream, but to speak. To negotiate with the dark.
-
 “Wait,” she whispered, the word swallowed by the hungry silence. “Please. What… what do you want?”
 
 The rustling stopped. The pressure held, poised.
-
 From the study, in the faint, sickly glow, a shadow detached itself from the deeper black. It flowed into the hallway, tall and thin, and paused at the kitchen threshold. It was not the soil-covered figure. This one was darker, more substantial, a cut-out shape of utter void.
-
 It tilted its headless form.
-
 And the hunger in the room shifted, refined, and focused solely on her.

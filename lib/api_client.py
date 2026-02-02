@@ -11,6 +11,7 @@ Provides unified access to all LLM APIs with:
 - Response caching with TTL
 """
 
+import atexit
 import hashlib
 import threading
 import time
@@ -28,6 +29,100 @@ from .logging_config import get_logger
 from .retry import retry_with_backoff, RateLimiter, CircuitBreaker, CircuitBreakerOpen
 
 logger = get_logger(__name__)
+
+
+# =============================================================================
+# Usage Tracking
+# =============================================================================
+
+# Cost per 1M tokens (approximate, varies by provider)
+TOKEN_COSTS = {
+    "deepseek": {"input": 0.14, "output": 0.28},
+    "groq": {"input": 0.05, "output": 0.10},
+    "openrouter": {"input": 0.50, "output": 1.00},
+    "together": {"input": 0.20, "output": 0.20},
+    "cerebras": {"input": 0.10, "output": 0.10},
+    "anthropic": {"input": 3.00, "output": 15.00},
+    "default": {"input": 0.50, "output": 1.00},
+}
+
+
+class UsageTracker:
+    """
+    Tracks API token usage and costs across all providers.
+
+    Thread-safe usage tracking with cost estimation.
+
+    Example:
+        tracker = UsageTracker()
+        tracker.record("deepseek", tokens_used=1500)
+        print(tracker.get_summary())
+    """
+
+    def __init__(self):
+        self._lock = threading.Lock()
+        self._stats: Dict[str, Dict[str, Any]] = {}
+        self._total_tokens = 0
+        self._total_cost = 0.0
+
+    def record(self, api_name: str, tokens_used: int, is_input: bool = False):
+        """
+        Record token usage for an API call.
+
+        Args:
+            api_name: Name of the API provider
+            tokens_used: Number of tokens used
+            is_input: Whether these are input tokens (vs output)
+        """
+        with self._lock:
+            if api_name not in self._stats:
+                self._stats[api_name] = {
+                    "calls": 0,
+                    "tokens": 0,
+                    "cost": 0.0,
+                }
+
+            self._stats[api_name]["calls"] += 1
+            self._stats[api_name]["tokens"] += tokens_used
+            self._total_tokens += tokens_used
+
+            # Estimate cost
+            costs = TOKEN_COSTS.get(api_name, TOKEN_COSTS["default"])
+            cost_per_token = costs["input" if is_input else "output"] / 1_000_000
+            cost = tokens_used * cost_per_token
+
+            self._stats[api_name]["cost"] += cost
+            self._total_cost += cost
+
+            logger.debug(
+                f"Usage: {api_name} +{tokens_used} tokens "
+                f"(total: {self._total_tokens:,}, ${self._total_cost:.4f})"
+            )
+
+    def get_summary(self) -> Dict[str, Any]:
+        """Get usage summary."""
+        with self._lock:
+            return {
+                "by_provider": dict(self._stats),
+                "total_tokens": self._total_tokens,
+                "total_cost": round(self._total_cost, 4),
+            }
+
+    def reset(self):
+        """Reset all statistics."""
+        with self._lock:
+            self._stats.clear()
+            self._total_tokens = 0
+            self._total_cost = 0.0
+
+
+# Global usage tracker
+_usage_tracker = UsageTracker()
+
+
+def get_usage_tracker() -> UsageTracker:
+    """Get the global usage tracker."""
+    return _usage_tracker
 
 
 # =============================================================================
@@ -102,6 +197,10 @@ class ResponseCache:
         # Load from disk if available
         if cache_file and cache_file.exists():
             self._load_from_disk()
+
+        # Register atexit handler for cache persistence
+        if cache_file:
+            atexit.register(self._save_to_disk)
 
     def make_key(
         self,
@@ -395,11 +494,15 @@ class APIClient:
         self._api_functions: Dict[str, Callable] = {
             name: make_api_func(endpoint)
             for name, endpoint in self._endpoints.items()
-            if name != "cloudflare"  # Cloudflare has custom response format
+            if name not in ("cloudflare", "anthropic")  # Custom response formats
         }
-        # Add cloudflare with custom implementation
+        # Add custom API implementations
         if "cloudflare" in self._endpoints:
             self._api_functions["cloudflare"] = self._call_cloudflare
+        if "anthropic" in self._endpoints:
+            self._api_functions["anthropic"] = self._call_anthropic
+        if "huggingface" in self._endpoints:
+            self._api_functions["huggingface"] = self._call_huggingface
 
     @property
     def cache_stats(self) -> Dict[str, Any]:
@@ -493,16 +596,57 @@ class APIClient:
                 default_model=self.config.fireworks_model,
             )
 
+        # Huggingface
+        if self.config.huggingface_key:
+            endpoints["huggingface"] = APIEndpoint(
+                name="huggingface",
+                key=self.config.huggingface_key,
+                url=self.config.huggingface_url,
+                default_model=self.config.huggingface_model,
+            )
+
+        # Anthropic (Claude)
+        if self.config.anthropic_key:
+            endpoints["anthropic"] = APIEndpoint(
+                name="anthropic",
+                key=self.config.anthropic_key,
+                url=self.config.anthropic_url,
+                default_model=self.config.anthropic_model,
+            )
+
         # Cloudflare (special case - different URL format)
         if self.config.cloudflare_key and self.config.cloudflare_account:
+            url = self.config.cloudflare_url.format(account_id=self.config.cloudflare_account)
             endpoints["cloudflare"] = APIEndpoint(
                 name="cloudflare",
                 key=self.config.cloudflare_key,
-                url="",  # URL is built dynamically
-                default_model="@cf/meta/llama-3-8b-instruct",
+                url=url,
+                default_model=self.config.cloudflare_model,
             )
 
         return endpoints
+
+    def _make_http_request(
+        self,
+        url: str,
+        headers: Dict[str, str],
+        payload: Dict[str, Any],
+        timeout: float,
+    ) -> requests.Response:
+        """
+        Make HTTP request with retry logic.
+
+        Uses exponential backoff for transient failures.
+        """
+        @retry_with_backoff(
+            max_attempts=3,
+            base_delay=1.0,
+            retryable_exceptions=(ConnectionError, Timeout, RequestException),
+        )
+        def _do_request():
+            return requests.post(url, headers=headers, json=payload, timeout=timeout)
+
+        return _do_request()
 
     def _call_openai_compatible(
         self,
@@ -544,27 +688,47 @@ class APIClient:
                 **endpoint.extra_headers,
             }
 
-            response = requests.post(
+            payload = {
+                "model": model or endpoint.default_model,
+                "messages": messages,
+                "max_tokens": max_tokens,
+                "temperature": temperature,
+            }
+
+            response = self._make_http_request(
                 endpoint.url,
-                headers=headers,
-                json={
-                    "model": model or endpoint.default_model,
-                    "messages": messages,
-                    "max_tokens": max_tokens,
-                    "temperature": temperature,
-                },
-                timeout=self.config.default_timeout,
+                headers,
+                payload,
+                self.config.default_timeout,
             )
 
             if response.status_code == 200:
                 data = response.json()
                 content = data["choices"][0]["message"]["content"]
+                tokens_used = data.get("usage", {}).get("total_tokens", 0)
+
+                # Track usage
+                if tokens_used > 0:
+                    _usage_tracker.record(endpoint.name, tokens_used)
+
+                # Check if response was truncated due to token limit
+                finish_reason = data.get("choices", [{}])[0].get("finish_reason", "stop")
+                if finish_reason == "length":
+                    return APIResponse(
+                        content=content,
+                        success=False,
+                        api_name=endpoint.name,
+                        error="Response truncated at token limit - incomplete content",
+                        model=model or endpoint.default_model,
+                        tokens_used=tokens_used,
+                    )
+
                 return APIResponse(
                     content=content,
                     success=True,
                     api_name=endpoint.name,
                     model=model or endpoint.default_model,
-                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
+                    tokens_used=tokens_used,
                 )
             elif response.status_code == 429:
                 return APIResponse(success=False, api_name=endpoint.name, error="Rate limited")
@@ -640,9 +804,9 @@ class APIClient:
                 error=f"Unknown API: {api_name}"
             )
 
-        # Check cache first (only for deterministic calls, skip high-temperature)
+        # Check cache first - cache all temperatures (temperature is part of cache key)
         cache_key = None
-        if use_cache and temperature <= 0.3:
+        if use_cache:
             cache_key = self._cache.make_key(prompt, max_tokens, temperature, system_prompt)
             if cached := self._cache.get(cache_key):
                 logger.debug(f"Cache hit for {api_name} call")
@@ -762,6 +926,73 @@ class APIClient:
     # Special API implementations (non-OpenAI compatible)
     # =========================================================================
 
+    def _call_anthropic(
+        self,
+        prompt: str,
+        max_tokens: int,
+        temperature: float,
+        system_prompt: Optional[str],
+        model: Optional[str],
+    ) -> APIResponse:
+        """Call Anthropic Claude API."""
+        if not self.config.anthropic_key:
+            return APIResponse(success=False, api_name="anthropic", error="No API key")
+
+        model_name = model or self.config.anthropic_model
+
+        try:
+            # Anthropic uses a different message format
+            headers = {
+                "x-api-key": self.config.anthropic_key,
+                "anthropic-version": "2023-06-01",
+                "Content-Type": "application/json",
+            }
+
+            messages = [{"role": "user", "content": prompt}]
+
+            payload = {
+                "model": model_name,
+                "max_tokens": max_tokens,
+                "temperature": temperature,
+                "messages": messages,
+            }
+
+            if system_prompt:
+                payload["system"] = system_prompt
+
+            response = requests.post(
+                self.config.anthropic_url,
+                headers=headers,
+                json=payload,
+                timeout=self.config.default_timeout,
+            )
+
+            if response.status_code == 200:
+                data = response.json()
+                content = data.get("content", [{}])[0].get("text", "")
+                return APIResponse(
+                    content=content,
+                    success=True,
+                    api_name="anthropic",
+                    model=model_name,
+                )
+            elif response.status_code == 429:
+                return APIResponse(success=False, api_name="anthropic", error="Rate limited")
+            else:
+                error_msg = f"HTTP {response.status_code}"
+                try:
+                    error_data = response.json()
+                    if "error" in error_data:
+                        error_msg += f": {error_data['error'].get('message', '')}"
+                except:
+                    pass
+                return APIResponse(success=False, api_name="anthropic", error=error_msg)
+
+        except Timeout:
+            return APIResponse(success=False, api_name="anthropic", error="Request timeout")
+        except Exception as e:
+            return APIResponse(success=False, api_name="anthropic", error=str(e))
+
     def _call_cloudflare(
         self,
         prompt: str,
@@ -824,6 +1055,67 @@ class APIClient:
             return APIResponse(success=False, api_name="cloudflare", error="Request timeout")
         except Exception as e:
             return APIResponse(success=False, api_name="cloudflare", error=str(e))
+
+    def _call_huggingface(
+        self,
+        prompt: str,
+        max_tokens: int,
+        temperature: float,
+        system_prompt: Optional[str],
+        model: Optional[str],
+    ) -> APIResponse:
+        """Call Huggingface Inference API via router."""
+        if not self.config.huggingface_key:
+            return APIResponse(success=False, api_name="huggingface", error="No API key")
+
+        model_name = model or self.config.huggingface_model
+        url = f"{self.config.huggingface_url}/{model_name}/v1/chat/completions"
+
+        messages = []
+        if system_prompt:
+            messages.append({"role": "system", "content": system_prompt})
+        messages.append({"role": "user", "content": prompt})
+
+        try:
+            response = requests.post(
+                url,
+                headers={
+                    "Authorization": f"Bearer {self.config.huggingface_key}",
+                    "Content-Type": "application/json",
+                },
+                json={
+                    "model": model_name,
+                    "messages": messages,
+                    "max_tokens": max_tokens,
+                    "temperature": temperature,
+                    "stream": False,
+                },
+                timeout=self.config.default_timeout,
+            )
+
+            if response.status_code == 200:
+                data = response.json()
+                content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+                return APIResponse(
+                    content=content,
+                    success=True,
+                    api_name="huggingface",
+                    model=model_name,
+                    tokens_used=data.get("usage", {}).get("total_tokens", 0),
+                )
+            elif response.status_code == 429:
+                return APIResponse(success=False, api_name="huggingface", error="Rate limited")
+            else:
+                return APIResponse(
+                    success=False,
+                    api_name="huggingface",
+                    error=f"HTTP {response.status_code}: {response.text[:200]}"
+                )
+
+        except Timeout:
+            return APIResponse(success=False, api_name="huggingface", error="Request timeout")
+        except Exception as e:
+            return APIResponse(success=False, api_name="huggingface", error=str(e))
 
 
 # Singleton instance

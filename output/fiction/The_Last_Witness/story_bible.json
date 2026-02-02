@@ -49,5 +49,6 @@
   "narrative_voice": "Close third-person, primarily from Elara Vance's perspective. The prose is taut, sensory, and procedural, mirroring a legal mind observing and dissecting a broken world. It carries a current of simmering intensity and forensic detail.",
   "tone": "Initially tense, claustrophobic, and despairing, evolving into a gritty, paranoid, and investigative mood, finally settling into a resolute and clear-toned determination.",
   "plot_summary": "The story begins with elite defense attorney Elara Vance being convicted for evidence tampering\u2014a crime she didn't commit, framed for refusing to compromise her ethics. After serving time, she is disbarred and abandoned. Instead of fleeing, she sets up a bare-bones practice to help others the system has failed. Her first real client, disgraced ex-sergeant Frank Dern, arrives with a story of being framed by a sophisticated, corporate-like conspiracy called 'The Consensus.' Recognizing the same chilling precision that destroyed her, Elara takes his case. The ending marks not a resolution, but a beginning: Elara, armed with hard-won knowledge and a new purpose, deliberately steps into a larger, more dangerous fight against a hidden enemy that perfects injustice, transforming from a victim of the system into its most formidable adversary from the outside.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 11
 }

@@ -1,135 +1,15 @@
-The coffee in your mug has gone cold, a thin, oily sheen catching the light from your screen. The ceramic feels slick under your thumb where you've been rubbing it, the gentle friction a soothing balm for your frazzled nerves. The spreadsheet glows, a grid of numbers that feels less like a plan and more like a puzzle with missing pieces. You've tracked your spending, you've identified the leaks—the subscription you forgot, the takeout that felt necessary in the moment, a raw, gnawing hunger in your gut that demanded immediate satiation—and a familiar, heavy sensation settles in your chest, just behind your sternum. It's not just frustration. It's a voice, quiet but insistent, with a texture like grit in your teeth: “See? You always do this. You're just bad with money.”
+The coffee in your mug has gone cold, a thin, oily sheen catching the light from your screen. The ceramic feels slick under your thumb where you've been rubbing it, the gentle friction a soothing balm for your frazzled nerves. The spreadsheet glows, a grid of numbers that feels less like a plan and more like a puzzle with missing pieces. You've tracked your spending, you've identified the leaks—the subscription you forgot, the takeout that necessary in the moment, a raw, gnawing hunger in your gut that demanded immediate satiation—and a familiar, heavy sensation settles in your chest, just behind your sternum. It's not just frustration. It's a voice, quiet but insistent, with a texture like grit in your teeth: “See? You always do this. You're simply bad with money.”
 
 As you sit in the cramped space of your apartment, the old newspapers have piled up against the wall, holding the heavy smell of your own self-doubt. The sunlight filtering through the grimy windows paints the air yellow and casts long shadows on the walls, like a scene from a bad dream. You can almost see the weight of your past financial mistakes settling over your shoulders, suffocating you with every step. The air is thick with the scent of stale coffee and yesterday's laundry, a potent reminder of the stagnation that's been holding you back.
-
 You take a deep breath, feeling the cool air fill your lungs, and the tension in your shoulders begin to ease. The silence in the room is almost palpable, a physical presence that wraps around you like a blanket. It's a silence that's both calming and unnerving, a reminder that the only sound that matters is the one you make.
-
 As you close your eyes, the sounds of the city outside seem to fade into the background, replaced by the gentle hum of the air conditioner and the soft clinking of a spoon against the ceramic mug on your desk. The chair beneath you feels solid and supportive, a reminder that you're grounded in this moment, even as your mind is racing with thoughts and emotions.
-
 You take a moment to savor the texture of the chair, the gentle give of the cushion, and the soft creak of the wooden frame. It's a tactile experience that feels almost primal, a reminder that you're a physical being, not just a collection of thoughts and emotions.
-
-As you sit in silence, you begin to feel a sense of calm wash over you. It's a calm that's not just emotional, but physical, a reminder that your body is responding to the stillness. Your heart rate slows, your breathing deepens, and your muscles relax, letting go of the tension that's been holding you back.
-
+As you sit in silence, you begin to feel feelings of calm wash over you. It's a calm that's no merely st emotional, but physical, a reminder that your body is responding to the stillness. Your heart rate slows, your breathing deepens, and your muscles relax, letting go of the tension that's been holding you back.
 You take a deep breath, feeling the cool air fill your lungs, and begin to write. The pen scratches against the paper, marking time in a way that feels both deliberate and instinctual. The words flow easily, a stream of consciousness that's both raw and honest.
-
-As you write, you begin to feel a sense of clarity emerge from the fog. It's a clarity that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-The words flow easily, a stream of consciousness that's both raw and honest. You write about your earliest memories of money, about the way it made you feel, and the way it shaped your relationship with yourself. You write about the voice in your head, the one that tells you you're not good enough, that you're just bad with money.
-
-As you write, you begin to feel a sense of power emerge from the pages. It's a power that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the memories that have shaped your relationship with money, about the way they've made you feel, and the way they've shaped your behavior. You write about the voice in your head, the one that tells you you're not good enough, that you're just bad with money.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
+As you write, you begin to feelhints off clarity emerge from the fog. It's a clarity that's not just intellectual, but emotional, a reminder that you're onlyjust thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
+The words flow easily, a stream of consciousness that's both raw and honest. You write about your earliest memories of money, about the way it made you feel, and the way it shaped your relationship with yourself. You write about the voice in your head, the one that tells you're not good enough, that yousimplyjust terrible with money.
+As you write, you begin to feel apower emerge from the pages. It's a power that's not just intellectual, but emotional, a reminder that you'r merely t just thinking about your finances, but feeling them deeply.
+You write about the memories that have shaped your relationship with money, about the way they've made you feel, and the way they've shaped your behavior. You write about the voice in your head, the one that tells you're not good enough, that you're just bad with money.
+As you write, you begin to feel a sense of feelings oftion take place. It's a transformation thaonlynot just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply.
 You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of clarity emerge from the fog. It's a clarity that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages. It's an excitement that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new narrative you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of transformation take place. It's a transformation that's not just intellectual, but emotional, a reminder that you're not just thinking about your finances, but feeling them deeply. You're not just analyzing your spending habits, but experiencing them as a part of your life.
-
-You write about the new protocol you want to create, one that's based on your values and your strengths. You write about the person you want to become, one who is confident, capable, and in control of their finances.
-
-As you write, you begin to feel a sense of excitement emerge from the pages
+As you write, you begin to feel a sense ofhints oft emerge from the pages

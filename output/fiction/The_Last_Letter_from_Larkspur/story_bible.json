@@ -44,5 +44,6 @@
   "narrative_voice": "Close third-person, limited to Elara's perspective. The prose is lyrical, sensory, and introspective, mirroring a novelist's observational eye. It seamlessly blends external description with internal thought and memory.",
   "tone": "Elegiac, intimate, yearning, and ultimately hopeful. It begins with a soft melancholy and builds toward a poignant, earned warmth.",
   "plot_summary": "Reclusive novelist Elara Vance lives a quiet, structured life in her Cumbrian cottage, her only real connection to deep emotion being the handwritten letters she receives. The arrival of a letter with a familiar Parisian postmark\u2014from Leo, a great love from her past who shattered her heart\u2014shatters her peaceful existence. The story unfolds through their renewed correspondence and Elara's memories, exploring what went wrong years before. As letters bridge the distance, old wounds and enduring feelings surface. Leo returns, seeking forgiveness and a second chance. After conflict, vulnerability, and the rediscovery of their connection, they reconcile. The story culminates not with an end, but a new beginning: Elara finds a long-lost, hopeful letter she wrote to him at their start, which he has saved and returned to her with a note asking to 'begin again.' Inspired, she picks up her pen to write the first words of their new story: 'Dear Leo\u2026'",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 14
 }

@@ -57,6 +57,7 @@ class APIConfig:
     fireworks_key: Optional[str] = field(default_factory=lambda: os.environ.get("FIREWORKS_API_KEY"))
     anthropic_key: Optional[str] = field(default_factory=lambda: os.environ.get("ANTHROPIC_API_KEY"))
     openai_key: Optional[str] = field(default_factory=lambda: os.environ.get("OPENAI_API_KEY"))
+    huggingface_key: Optional[str] = field(default_factory=lambda: os.environ.get("HUGGINGFACE_API_KEY"))
 
     # API Endpoints
     deepseek_url: str = "https://api.deepseek.com/v1/chat/completions"
@@ -66,6 +67,9 @@ class APIConfig:
     github_url: str = "https://models.inference.ai.azure.com/chat/completions"
     cerebras_url: str = "https://api.cerebras.ai/v1/chat/completions"
     fireworks_url: str = "https://api.fireworks.ai/inference/v1/chat/completions"
+    huggingface_url: str = "https://router.huggingface.co/models"
+    anthropic_url: str = "https://api.anthropic.com/v1/messages"
+    cloudflare_url: str = "https://api.cloudflare.com/client/v4/accounts/{account_id}/ai/run/@cf/meta/llama-3.1-8b-instruct"
 
     # Default models for each API
     deepseek_model: str = "deepseek-chat"
@@ -75,6 +79,9 @@ class APIConfig:
     github_model: str = "gpt-4o-mini"
     cerebras_model: str = "llama-3.3-70b"
     fireworks_model: str = "accounts/fireworks/models/llama-v3p1-8b-instruct"
+    huggingface_model: str = "meta-llama/Llama-3.2-3B-Instruct"
+    anthropic_model: str = "claude-3-5-sonnet-20241022"
+    cloudflare_model: str = "@cf/meta/llama-3.1-8b-instruct"
 
     # Timeouts (seconds)
     default_timeout: int = 120
@@ -88,8 +95,10 @@ class APIConfig:
         "together": 60,
         "github": 15,
         "cerebras": 30,
-        "cloudflare": 60,
+        "cloudflare": 100,
         "fireworks": 60,
+        "huggingface": 100,
+        "anthropic": 50,
     })
 
     def __post_init__(self):
@@ -116,6 +125,8 @@ class APIConfig:
             "cerebras": self.cerebras_key,
             "cloudflare": self.cloudflare_key and self.cloudflare_account,
             "fireworks": self.fireworks_key,
+            "huggingface": self.huggingface_key,
+            "anthropic": self.anthropic_key,
         }
         for name, key in key_mapping.items():
             if key:
@@ -247,12 +258,36 @@ class PipelineConfig:
 
 
 @dataclass
+class PromptConfig:
+    """Prompt templates."""
+    concept_generation: str = ""
+    outline_creation: str = ""
+    chapter_writing_basic: str = ""
+    story_bible_generation: str = ""
+
+def load_prompts(prompt_file: Path) -> PromptConfig:
+    """Load prompts from YAML file."""
+    if not prompt_file.exists():
+        raise FileNotFoundError(f"Prompt file not found: {prompt_file}")
+    with open(prompt_file) as f:
+        templates = yaml.safe_load(f).get('templates', {})
+    
+    return PromptConfig(
+        concept_generation=templates.get('concept_generation', ''),
+        outline_creation=templates.get('outline_creation', ''),
+        chapter_writing_basic=templates.get('chapter_writing_basic', ''),
+        story_bible_generation=templates.get('story_bible_generation', '')
+    )
+
+
+@dataclass
 class Config:
     """Main configuration class combining all settings."""
     paths: PathConfig = field(default_factory=PathConfig)
     api: APIConfig = field(default_factory=APIConfig)
     quality: QualityConfig = field(default_factory=QualityConfig)
     pipeline: PipelineConfig = field(default_factory=PipelineConfig)
+    prompts: PromptConfig = field(default_factory=PromptConfig)
 
     # Environment
     env: str = field(default_factory=lambda: _ENV)
@@ -339,6 +374,11 @@ def get_config(config_file: Optional[Path] = None) -> Config:
                 _config = Config.from_yaml(default_config)
             else:
                 _config = Config()
+
+        # Load prompts
+        prompt_file = Path(__file__).parent.parent / "config" / "prompt_templates.yaml"
+        if prompt_file.exists():
+            _config.prompts = load_prompts(prompt_file)
 
     return _config
 

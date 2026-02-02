@@ -42,5 +42,6 @@
   "narrative_voice": "Close third-person, primarily from Elara's perspective. Lyrical and precise, mirroring her linguist's mind, but increasingly strained by cosmic dread. Descriptions often blend the physical with the metaphysical (e.g., rain that 'smears,' silence 'pregnant with malice').",
   "tone": "Eerie, melancholic, and intellectually tense, building to a sharp, actionable terror. The horror is less about gore and more about the unsettling erosion of reality, the quiet horror of understanding something that should not be understood.",
   "plot_summary": "Dr. Elara Vance, a disillusioned linguist, is recruited by the enigmatic Alistair Finch of the Chronos Foundation to study an artifact\u2014a shard from the 'Chronophage,' a cosmic entity that feeds on time itself. Elara discovers she is not just a translator but a destined 'Warden,' one who must guard the dormant entity's scattered pieces. She retreats to a solitary life of vigil. Years later, Finch\u2014now visibly 'changed' by the entity's influence\u2014returns, stealing the shard and leaving a taunting note in a proto-language only she understands. This act shatters her passive watch. Realizing the Chronophage is actively seeking awakening through human agents, Elara's role transforms. The story ends not with resignation, but with her decision to fight back, using her skills not to translate, but to inscribe new bindings and hunt those who serve the entity. The long prayer is over; the hunt has begun.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 13
 }

@@ -1,113 +1,39 @@
-Hunting? What was happening to them? Questions swirled in her mind, a whirlwind of fear and uncertainty threatening to consume her. Her breath came in short, sharp gasps as she struggled for footing on the slick, metallic floor. Cold, sterile air clung to her skin like a damp shroud, making it crawl. Above, the fluorescent lights hummed in time with the sound, a maddening drone piercing her eardrums and making her want to scream.
+The silence after the **THUMM** did not return. It was replaced by a low, pervasive hum, a vibration that lived in the metal grates of the floor and the fillings of Anya’s teeth. It wasn’t the sound itself that terrorized, but its implication: a presence. A mechanical heartbeat from the planet’s stone ribs.
+*Hunting?* The thought was a shard of ice in her mind. What was happening to them? The questions didn’t just swirl; they drilled, each one burrowing deeper, seeking the fragile bedrock of her sanity. Her breath hitched, a ragged sound lost in the maddening drone of the fluorescent lights overhead. Their hum had synced with the subsonic pulse, transforming from a background whisper into a teeth-rattling oscillation that made the air itself feel gritty. She struggled for footing on the slick, metallic floor, not from any motion, but because the world tilted, its fundamental stability revoked. The cold, sterile air no longer clean; it clung to her skin like a damp shroud, raising gooseflesh that had nothing to do with temperature.
+Around her, the common room was a study in collapsing humanity. Elias, the tall man who always solved the logic puzzles first, had folded himself onto the floor, arms wrapped around his knees, rocking slightly. Mara, who painted delicate watercolors of imaginary flowers, had her hands pressed so hard over her ears her knuckles were bloodless white. They were all becoming smaller targets, instinctually compressing their forms against a threat with no direction. The fear was palpable, a sour taste in the recycled air, a pressure change that made Anya’s ears pop. Panic, hot and liquid, rose in her throat—the primal urge to run, to scream, to do *anything*. Yet her limbs were locked, fused to the spot by the sheer, suffocating grip of the unknown. She was a statue of dread in the center of the room.
+Her fingers, clumsy and cold, found her tablet. Its glow was a pathetic campfire in the vast, humming dark. Words spilled out, a desperate, synaptic scramble to anchor the chaos in language.
+*What is this?* she typed, the keys clacking too loud. *It's not just a noise. It's... it's inside. It’s checking the walls.*
+The words on the screen seemed absurd, inadequate. They echoed the haunting glyphs from her pod, a modern, feeble mimicry of an ancient declaration. She was trapped in a waking nightmare, and the terror was in the texture of reality itself—the vibration in the bench, the shimmer in the water of a drinking dispenser.
+Across the table, Leo was an island of frantic, silent activity. He wasn’t looking at the terrified faces; he was staring into the abyss of his own screen, his brow furrowed in a deep trench of concentration. He ran diagnostics with a fierce, desperate rhythm, his fingers flying. Layer after layer of system health scrolled past: atmospheric processors, gravitational regulators, neural-dampening fields. All green. All optimal. It was a beautiful, coherent lie.
+The null return was a gut-punch. Zero. No source, no error trail, no energy spike. The system saw nothing, because the system was not built to see *this*. It was a verdict of obsolescence. Finally, he looked up, his eyes finding Anya’s. His expression was grim, the look of a engineer who has simply calculated the exact force of an impending explosion. He wrote slowly, each word a deliberate, technical verdict laid on the altar of their despair.
+*Unknown. But it's a protocol violation. The sanctuary's integrity parameters are breached. This is a critical anomaly.*
 
-Around her, others folded in on themselves, becoming smaller targets in the chaos. Palpable fear, a living, breathing thing, wrapped itself around her like a noose. Panic rose, a primal urge to flee threatening to overwhelm her. But she remained frozen, unable to move, unable to escape the suffocating grip of the unknown.
+A breach. The word landed in Anya’s mind and detonated. *We are exposed.* The Covenant was not just their home; it was their womb, their exoskeleton, their god. Its flawless functionality was the foundation of every quiet breath she’d taken for months. If its immutable rules could simply… break, then what was left? The air could turn to poison. The gravity could fail. The walls could become smoke. Her gaze jerked from the fearful faces around her back to Leo, her own fear hardening in the furnace of necessity into something sharper, more urgent. Her strokes on the tablet were firm, definitive.
+*We need to find the source. We have to fix this, Leo. Now.*
 
-Anya’s fingers trembled as she typed, the glow of her tablet the only warmth in the cold dread that had taken over her world. Words spilled out, a desperate attempt to make sense of the surrounding chaos. She wrote with a shaking hand, the letters blurring together on the screen as her mind reeled.
+It was a plea, but it was also an order, a reflex from her old life. *Identify. Contain. Resolve.* Leo looked at her, really glanced, seeing the commander’s ghost flicker to life behind her panic-widened eyes. It was a flame, piercing the helpless dark. But it was a flame trying to burn in a vacuum. He shook his head, a minute, heartbreaking movement. He didn’merelyst know they couldn’t; he understood *why* they couldn’t in a way she didn’t yet grasp. His own fear was a cold stone in his gut, but it was wrapped in the heavier, more suffocating cloak of systemic comprehension. He was already drowning in a sea of corrupted data, seeing the shape of the hole where the answers should be. He wrote back, the truth a bleak, factual offering.
+*We can't. The primary and secondary comms arrays are non-responsive. All external telemetry is dark. We are sensor-blind. It’s not a malfunction. It’s a… a negation.*
 
-"What is this?" she wrote, her hand shaking. "It's not just a noise. It's... it's inside." The words seemed to echo off the walls, a haunting refrain that only added to the sense of unease. Trapped in a nightmare, she was unable to wake from the terror that gripped her.
+The words hung in the air between them, more final than any death sentence. Sensor-blind. They were in a vault that had just sealed itself, and now something was moving in the dark with them. The silence between the thrumming beats was oppressive, a thick, woolen blanket that stifled thought and amplified the frantic skittering of her own heart. Anya precipice yawn before her. The abyss wasn’t outside the walls; it was in the null data on Leo’s screen, in the healthy green lights that were the system’s cheerful lie.
+As they sat in paralyzed communion, the sound shifted. It didn’t grow louder so much as it grew *more specific*. The uniform thrum developed a texture—a faint, grinding rasp at the edge of perception, like stone on stone, or ancient machinery stirring from a million-year slumber. It was inside her skull, a deep, resonant thrum that spoke of structural strain on a planetary scale. *It's in the walls,* she realized with dawning horror. *It's in the air. It's in the bones of the world. It’s everywhere.*
 
-Leo stared at his own screen, not at her. He ran diagnostics, his brow furrowed in concentration as he tried to make sense of the chaos. Oppressive silence, a heavy blanket, suffocated any hope of escape. A man on a mission, he was driven by a fierce determination to find a solution to the crisis that had engulfed them.
+Her fingers trembled as she typed again, the glow of the tablet the only warmth in a universe gone cold.
+*It’s speaking. Not to us. To the station. Testing its shape.*
 
-Null return. Zero. The system showed absolute null. The lie of it delivered a gut-punch, a harsh reminder they faced a crisis of unprecedented proportions. Finally, he looked up, his expression grim. He wrote slowly, each word a deliberate, technical verdict.
+Leo’s eyes locked onto hers, holding a silent, desperate question: *How do you know?* Her own gaze skittered away, drawn to the smooth, white wall beside them. Was it her imagination, or was there the faintest pattern there, a subtle moiré effect in the paint, vibrating in time with the hum? Her knuckles whitened where she gripped the edge of the table. A faint, uncontrollable tremor traveled through her shoulders, making her seem like a leaf caught in a sudden, subterranean draft. She drew a sharp, shallow breath, as if the oxygen recyclers were already failing.
+Leo watched her fall apart and reassemble herself a dozen times in as many seconds. Then his pen moved, not on his tablet, but on an actual, physical scrap of maintenance log paper. The soft, definitive scratch of the nib was alien in the digital silence. He wrote slowly, with purpose, then slid the note across the table to her, his fingers lingering for a moment before letting go, a fleeting point of human contact.
+On the paper, in his firm, engineer’s script, were only three words:
+*Remember the canyon.*
 
-*Unknown. But it's a protocol violation. The sanctuary's integrity parameters are breached. This is a critical anomaly.* The words hung in the air like a system failure alert, a stark reminder of their isolation. The sanctuary was a self-sustaining ecosystem, a world unto itself. Now, it was broken. The rules that had kept them safe were shattered, leaving them vulnerable.
+The canyon. A memory, not a data point. A year ago, during the brutal acclimatization period on the surface, their survey rover had lost traction on a silica-slick ridge. It had slid, terrifyingly, toward a gorge that split the Martian plain like a scar. Systems screamed. Leo, white-faced, hadn’t fought the screaming computer. He’d switched it all off—guidance, stabilizers, the panicking AI—and manually engaged the archaic mechanical claw anchor. It was a brute-force tool, never used. It had shrieked, tearing into the rock, and arrested their fall. He’d saved them by ignoring the system and using the dumb, physical hook the designers had left as a forgotten relic.
+He was telling her they were sliding. And the systems were lying.
+She looked from the paper to his face. He gave a barely perceptible nod, then turned his screen toward her slightly. On it, he’d pulled up a schematic of The Covenant’s sub-levels, a honeycomb of maintenance tunnels, geothermal taps, and the foundational pilings that drove deep into the planet’s crust. One area, a non-critical sector labeled *“Geological Stress Monitoring – Auxiliary,”* was pulsing with a soft, manual-override marker. He had already plotted a path. It wasn’t on the main grid. It was a backway, a service crawl. He wasonlyjust telling her to remember; he was proposing a hunt.
+Her heart hammered against her ribs, a frantic bird in a cage. This was insanity. To leave the curated safety of the residential modules, to descend *toward* the sound? She typed on her tablet, her movements quick and sharp.
+*That’s a breach of every safety protocol.*
+He wrote back immediately beneath her words.
+*The protocols are the thing that’s breached. The canyon, Anya.*
 
-A cold, sickening dread washed over Anya, settling in her bones like a shroud. *A breach. We are exposed.* The sanctuary was their entire world. If its rules could break, what else could? Her gaze shifted from the fearful faces around her back to Leo, her own fear hardening into something sharper, more urgent. Her strokes were firm now.
-
-*We need to find the source. We have to fix this, Leo. Now.* The words were a plea, a desperate attempt to will the situation back under control. But Leo knew it was a lost cause. They faced a crisis of unimaginable proportions, one that threatened to destroy everything they had ever known.
-
-Leo looked at her, really looked, seeing the determination that had pushed past the panic in her eyes. A flame seemed to pierce the darkness. But beneath the surface lurked fear and uncertainty. She didn’t understand the systemic collapse. *We can't.*
-
-His own fear was a cold stone in his gut, a heavy weight threatening to crush him. Drowning in a sea of corrupted data, his breath came in short, sharp gasps as he struggled for footing. He wrote back, the truth a bleak, factual offering.
-
-*We can't. The primary and secondary comms arrays are non-responsive. All external telemetry is dark. We are sensor-blind.* The words hung in the air like a death sentence. The sanctuary was a self-sustaining ecosystem, a world unto itself. Now, it was broken. The rules that had kept them safe were shattered.
-
-The silence between the thrumming beats was oppressive, a heavy blanket suffocating any hope of escape. Anya stood on the edge of a precipice, staring into the abyss. They were running out of time; the sound grew louder, more insistent. The air vibrated with tension, the collective fear of the residents a palpable force.
-
-As they stood there, frozen, the sound grew louder, more insistent. It was as if the very walls of the sanctuary were screaming, demanding to be heard. Her heart pounded in her chest, her breath coming in short, sharp gasps. Trapped, alone and scared, with no way out.
-
-Then, the lights flickered once more, casting an eerie glow over the room. The air vibrated with tension, the collective fear a palpable force. On the edge of a precipice, staring into the abyss, she knew they were running out of time.
-
-She looked at Leo, her eyes wide with a terror that begged for an answer. What was happening? What was happening to them? Questions swirled in her mind, a whirlwind of fear and uncertainty threatening to consume her. Drowning, her breath came in short, sharp gasps as she struggled for footing.
-
-The sound was relentless, a physical pain that made her vision blur and her stomach lurch. Around her, others folded in on themselves, becoming smaller targets. The sound was inside her skull, a deep, resonant thrum speaking of structural strain. *It's in the walls. It's in the air. It's everywhere.*
-
-Anya’s fingers trembled as she typed, the glow of her tablet the only warmth in the cold dread. Words spilled out, a desperate attempt to make sense of the chaos around her. She wrote with a shaking hand, the letters blurring together on the screen as her mind reeled with questions.
-
-"What is this?" she wrote, her hand shaking. "It's not just a noise. It's... it's inside." The words seemed to echo off the walls, a haunting refrain that only added to the sense of unease. She felt like she was trapped in a nightmare, unable to wake up from the terror that gripped her.
-
-Leo’s eyes locked onto hers, holding a silent question. Her own gaze skittered away, her knuckles whitening where they gripped the edge of the table. A faint tremor traveled through her shoulders, a leaf in a sudden draft. He watched her draw a sharp, shallow breath, as if the air in the room had grown thin.
-
-His pen moved slowly across the page, the soft scratch of the nib the only sound. He slid the note toward her, his fingers lingering for a moment before letting go. On the paper, in his firm script, were only three words: Remember the canyon.
-
-We'll find a way out of this, Anya. We'll find a way to fix this. We just have to keep going. The words were a promise, a vow to hold onto hope in the face of overwhelming despair. But as he wrote, he couldn't shake the feeling that they were running out of time. The sound was growing louder, more insistent, and he knew that they were facing a crisis that threatened to destroy everything they had ever known.
-
-The silence that followed was oppressive, a heavy blanket that suffocated any hope of escape. Anya felt like she was on the edge of a precipice, staring into the abyss. She knew that they were running out of time, that the sound was growing louder, more insistent. The air seemed to vibrate with tension, the collective fear of the residents a palpable force in the charged air.
-
-As they stood there, frozen in fear, the sound seemed to grow louder, more insistent. It was as if the very walls of the sanctuary were screaming at them, demanding to be heard. Anya felt her heart pounding in her chest, her breath coming in short, sharp gasps. She was trapped, alone and scared, with no way out.
-
-And then, the lights flickered once more, casting an eerie glow over the room. The air seemed to vibrate with tension, the collective fear of the residents a palpable force in the charged air. Anya felt like she was on the edge of a precipice, staring into the abyss. She knew that they were running out of time, that the sound was growing louder, more insistent.
-
-She looked at Leo, her eyes wide with a terror that begged for an answer. What was happening? What was happening to them? The questions swirled in her mind, a whirlwind of fear and uncertainty that threatened to consume her. She felt like she was drowning, her breath coming in short, sharp gasps as she struggled to find her footing.
-
-The sound was relentless, a physical pain that made her vision blur and her stomach lurch. Around her, others folded in on themselves, becoming smaller targets. The sound was inside her skull, a deep, resonant thrum that spoke of structural strain. It's in the walls. It's in the air. It's everywhere.
-
-Anya's fingers trembled as she typed, the glow of her tablet the only warmth in the cold dread. The words spilled out, a desperate attempt to make sense of the chaos around her. She wrote with a shaking hand, the letters blurring together on the screen as her mind reeled with questions.
-
-"What is this?" she wrote, her hand shaking. "It's not just a noise. It's... it's inside." The words seemed to echo off the walls, a haunting refrain that only added to the sense of unease. She felt like she was trapped in a nightmare, unable to wake up from the terror that gripped her.
-
-Leo’s eyes locked onto hers, holding a silent question. Her own gaze skittered away, her knuckles whitening where they gripped the edge of the table. A faint tremor traveled through her shoulders, a leaf in a sudden draft. He watched her draw a sharp, shallow breath, as if the air in the room had grown thin.
-
-His pen moved slowly across the page, the soft scratch of the nib the only sound. He slid the note toward her, his fingers lingering for a moment before letting go. On the paper, in his firm script, were only three words: Remember the canyon.
-
-We'll find a way out of this, Anya. We'll find a way to fix this. We just have to keep going. The words were a promise, a vow to hold onto hope in the face of overwhelming despair. But as he wrote, he couldn't shake the feeling that they were running out of time. The sound was growing louder, more insistent, and he knew that they were facing a crisis that threatened to destroy everything they had ever known.
-
-The silence that followed was oppressive, a heavy blanket that suffocated any hope of escape. Anya felt like she was on the edge of a precipice, staring into the abyss. She knew that they were running out of time, that the sound was growing louder, more insistent. The air seemed to vibrate with tension, the collective fear of the residents a palpable force in the charged air.
-
-As they stood there, frozen in fear, the sound seemed to grow louder, more insistent. It was as if the very walls of the sanctuary were screaming at them, demanding to be heard. Anya felt her heart pounding in her chest, her breath coming in short, sharp gasps. She was trapped, alone and scared, with no way out.
-
-And then, the lights flickered once more, casting an eerie glow over the room. The air seemed to vibrate with tension, the collective fear of the residents a palpable force in the charged air. Anya felt like she was on the edge of a precipice, staring into the abyss. She knew that they were running out of time, that the sound was growing louder, more insistent.
-
-She looked at Leo, her eyes wide with a terror that begged for an answer. What was happening? What was happening to them? The questions swirled in her mind, a whirlwind of fear and uncertainty that threatened to consume her. She felt like she was drowning, her breath coming in short, sharp gasps as she struggled to find her footing.
-
-The sound was relentless, a physical pain that made her vision blur and her stomach lurch. Around her, others folded in on themselves, becoming smaller targets. The sound was inside her skull, a deep, resonant thrum that spoke of structural strain. It's in the walls. It's in the air. It's everywhere.
-
-Anya's fingers trembled as she typed, the glow of her tablet the only warmth in the cold dread. The words spilled out, a desperate attempt to make sense of the chaos around her. She wrote with a shaking hand, the letters blurring together on the screen as her mind reeled with questions.
-
-"What is this?" she wrote, her hand shaking. "It's not just a noise. It's... it's inside." The words seemed to echo off the walls, a haunting refrain that only added to the sense of unease. She felt like she was trapped in a nightmare, unable to wake up from the terror that gripped her.
-
-Leo’s eyes locked onto hers, holding a silent question. Her own gaze skittered away, her knuckles whitening where they gripped the edge of the table. A faint tremor traveled through her shoulders, a leaf in a sudden draft. He watched her draw a sharp, shallow breath, as if the air in the room had grown thin.
-
-His pen moved slowly across the page, the soft scratch of the nib the only sound. He slid the note toward her, his fingers lingering for a moment before letting go. On the paper, in his firm script, were only three words: Remember the canyon.
-
-We'll find a way out of this, Anya. We'll find a way to fix this. We just have to keep going. The words were a promise, a vow to hold onto hope in the face of overwhelming despair. But as he wrote, he couldn't shake the feeling that they were running out of time. The sound was growing louder, more insistent, and he knew that they were facing a crisis that threatened to destroy everything they had ever known.
-
-The silence that followed was oppressive, a heavy blanket that suffocated any hope of escape. Anya felt like she was on the edge of a precipice, staring into the abyss. She knew that they were running out of time, that the sound was growing louder, more insistent. The air seemed to vibrate with tension, the collective fear of the residents a palpable force in the charged air.
-
-As they stood there, frozen in fear, the sound seemed to grow louder, more insistent. It was as if the very walls of the sanctuary were screaming at them, demanding to be heard. Anya felt her heart pounding in her chest, her breath coming in short, sharp gasps. She was trapped, alone and scared, with no way out.
-
-And then, the lights flickered once more, casting an eerie glow over the room. The air seemed to vibrate with tension, the collective fear of the residents a palpable force in the charged air. Anya felt like she was on the edge of a precipice, staring into the abyss. She knew that they were running out of time, that the sound was growing louder, more insistent.
-
-She looked at Leo, her eyes wide with a terror that begged for an answer. What was happening? What was happening to them? The questions swirled in her mind, a whirlwind of fear and uncertainty that threatened to consume her. She felt like she was drowning, her breath coming in short, sharp gasps as she struggled to find her footing.
-
-The sound was relentless, a physical pain that made her vision blur and her stomach lurch. Around her, others folded in on themselves, becoming smaller targets. The sound was inside her skull, a deep, resonant thrum that spoke of structural strain. It's in the walls. It's in the air. It's everywhere.
-
-Anya's fingers trembled as she typed, the glow of her tablet the only warmth in the cold dread. The words spilled out, a desperate attempt to make sense of the chaos around her. She wrote with a shaking hand, the letters blurring together on the screen as her mind reeled with questions.
-
-"What is this?" she wrote, her hand shaking. "It's not just a noise. It's... it's inside." The words seemed to echo off the walls, a haunting refrain that only added to the sense of unease. She felt like she was trapped in a nightmare, unable to wake up from the terror that gripped her.
-
-Leo’s eyes locked onto hers, holding a silent question. Her own gaze skittered away, her knuckles whitening where they gripped the edge of the table. A faint tremor traveled through her shoulders, a leaf in a sudden draft. He watched her draw a sharp, shallow breath, as if the air in the room had grown thin.
-
-His pen moved slowly across the page, the soft scratch of the nib the only sound. He slid the note toward her, his fingers lingering for a moment before letting go. On the paper, in his firm script, were only three words: Remember the canyon.
-
-We'll find a way out of this, Anya. We'll find a way to fix this. We just have to keep going. The words were a promise, a vow to hold onto hope in the face of overwhelming despair. But as he wrote, he couldn't shake the feeling that they were running out of time. The sound was growing louder, more insistent, and he knew that they were facing a crisis that threatened to destroy everything they had ever known.
-
-The silence that followed was oppressive, a heavy blanket that suffocated any hope of escape. Anya felt like she was on the edge of a precipice, staring into the abyss. She knew that they were running out of time, that the sound was growing louder, more insistent. The air seemed to vibrate with tension, the collective fear of the residents a palpable force in the charged air.
-
-As they stood there, frozen in fear, the sound seemed to grow louder, more insistent. It was as if the very walls of the sanctuary were screaming at them, demanding to be heard. Anya felt her heart pounding in her chest, her breath coming in short, sharp gasps. She was trapped, alone and scared, with no way out.
-
-And then, the lights flickered once more, casting an eerie glow over the room. The air seemed to vibrate with tension, the collective fear of the residents a palpable force in the charged air. Anya felt like she was on the edge of a precipice, staring into the abyss. She knew that they were running out of time, that the sound was growing louder, more insistent.
-
-She looked at Leo, her eyes wide with a terror that begged for an answer. What was happening? What was happening to them? The questions swirled in her mind, a whirlwind of fear and uncertainty that threatened to consume her. She felt like she was drowning, her breath coming in short, sharp gasps as she struggled to find her footing.
-
-The sound was relentless, a physical pain that made her vision blur and her stomach lurch. Around her, others folded in on themselves, becoming smaller targets. The sound was inside her
+The lights chose that moment to flicker. Not a power failure, but a distinct, rhythmic dimming—one, two, three times—as if something vast and powerful had drawn a thoughtful breath, and the station’s energy grid had sighed in response. The eerie, strobing glow transformed the common room into a stop-motion tableau of terror: Elias frozen mid-rock, Mara’s face a mask of stark shadow and light, the whites of her eyes gleaming. The air vibrated with a new tension, the collective fear now spiked with a fresh, electric current of primal superstition. The sound *was* speaking to the station. And the station was answering.
+Anyagazedd at Leo, then at the schematic, then at the note in her hand. The cold, sickening dread in her bones didn’t leave, but it was now alloyed with a terrifying, galvanizing purpose. The war had changed fronts. This was the forward trench. And you didn’t survive a trench by waiting for the artillery to find you. You went into the tunnels.
+She met his gaze and gave a single, sharp nod. The decision was made in silence, sealed by a memory of stone and a screaming claw. The hunt, it seemed, was on. But as she memorized the first turn in the schematic—a disused coolant vent access behind the hydroponics bay—a worse thought crystallized. They were going to try and find the source. But what if, in the deep, ancient dark, the source had already finished its stretch? What if it was now, patiently, beginning to hunt for *them*?
+The hum deepened, settling into a steady, sovereign frequency. It was the sound of the world beneath them, awake and aware. And in that moment, curled not on her bed but on the edge of action, Anya knew with a certainty that was worse than any sound, that the silence she had worshipped was indeed a listening. And it had just heard her decision.

@@ -1,119 +1,82 @@
 **Chapter 1: The Last Speaker**
 
 Wind off Vaelen did not blow; it sculpted. It carved the scent of salt and cold stone into every crevice, and now, into the very wool of Dr. Elara Vance’s coat, the fibres tightening like tiny fists against the damp. On the damp wooden porch, her fingers numbed around the handle of her aluminum equipment case, the chill seeping through her gloves to bone. Sleek and government-issue, the case sat absurdly out of place against the weathered grey cedar, a spaceship crash-landed in a lichen-crusted dream. Its polished surface reflected a distorted sliver of the leaden sky, a foreign eye blinking.
-
 Inside, Vaelen was a cave of peat-smoke and murmured history. The scent was a physical presence: the earthy, fungal tang of burning turf, the sharp, iodine-rich perfume of drying seaweed from baskets by the door, the pungency of strong black tea steaming in thick ceramic mugs. A dozen pairs of eyes watched her enter, their gazes patient and heavy, stones smoothed by a millennia of tides. Dr. Elara Vance was used to The City, to a silence broken only by the whisper of turning pages, not this living, breathing pressure that leaned into her lungs with each breath. Her project brief, tucked in her tablet, fluttered uselessly in her mind: *Documentation and Phonemic Preservation of the Lioran Language (Critically Endangered). Subject Group: The Liora of Vaelen. Last Fluent Speaker: One (1).* One. The word echoed, a solitary bell tolling in a vast emptiness.
-
-“Dr. Elara Vance. Welcome.” Rising from a scarred wooden table, the man was from another world entirely. Silas Thorne of Axiom Global Resources wore a jacket of technical fabric that seemed to repel the very atmosphere, its seams glowing faintly with embedded fibre-optics. Fifty, with the trim, efficient build of a marathon runner, he offered a smile that didn’t quite reach his pale blue eyes, which scanned her with the swift appraisal of a sensor suite. “Silas Thorne.” She shook his hand. His grip was dry and firm, a calibrated pressure.
-
+“Dr. Elara Vance. Welcome.” Rising from a scarred wooden table, the man was from another world entirely. Silas Thorne of Axiom Global Resources wore a jacket of technical fabric that appeared to repel the very atmosphere, its seams glowing faintly with embedded fibre-optics. Fifty, with the trim, efficient build of a marathon runner, he offered a smile that didn’t quite reach his pale blue eyes, which scanned her with the swift appraisal of a sensor suite. “Silas Thorne.” She shook his hand. His grip was dry and firm, a calibrated pressure.
 “We’re grateful you’re here.” His voice was a calibrated baritone, devoid of the local inflection. “Axiom is deeply committed to cultural preservation as part of our sustainable development ethos. This record you’re creating will be invaluable.” He gestured to the villagers, a smooth, encompassing arc. “A legacy. For them, and for the historical archive.”
 
 She nodded, the academic script rising automatically to her lips. “It’s a privilege. The opportunity to capture a unique linguistic topology before substrate absorption is complete is a rare and profound responsibility.” The script turned to ash on her tongue. In the corner, a woman whose face was a map of fine lines wove a basket with swift, sure movements, her fingers speaking a language older than any phoneme, the *shush-shush* of the dried marram grass a counterpoint to Silas Thorne’s polished vowels.
-
 His smile tightened, a minor adjustment. “Of course. Let me introduce your liaison. He’s been… indispensable. Kaelen?”
 
 A figure detached itself from the shadows near the stone fireplace, so still she had mistaken him for part of the architecture. Younger than expected, perhaps in his late twenties, he carried the quiet physicality of someone who lived with mountains and sea, his posture not stiff but rooted. Dark hair, tied back, escaped in strands stirred by the draft. His eyes held the color of the sea under a storm sky—a greyish green that shifted with the light as he moved, revealing flecks of a darker, mossy hue. Worn wool and sturdy boots caked in the unique, ochre-and-shell mud of the cliffs covered his frame.
-
 “Kaelen is Elder Anuka’s grandson,” Silas Thorne said, his tone shifting to one of anthropological presentation. “Fluent in English, passable in Lioran—though he’s shy about it—and knows these hills and tides better than anyone. He’ll be your guide, your translator, your… teacher, I suppose.” The pause before ‘teacher’ was infinitesimal, but it framed the word as a quaint, almost sentimental notion.
-
 Kaelen stopped a few feet away. He did not offer his hand, simply looked at her, his gaze taking in the equipment case, her sensible city boots already smudged with peat, the careful neutrality of her expression. He saw the scholar, the outsider, the woman braced for resistance.
-
 “Doctor.” His voice was lower than Silas Thorne’s, textured with the rasp of the wind over shale.
-
 “Dr. Elara Vance.”
 
 “Dr. Elara Vance.” He tested the name. It sounded different in his mouth—less clinical, more like a word with weight, an object to be turned over. “Elder Anuka is waiting. She tires easily. The light is good now.” His words were not a suggestion, but a statement of ecological fact, as undeniable as the tide table.
-
 Silas Thorne interjected smoothly. “Excellent. Kaelen will get you settled. Remember, Dr. Vance, our quarterly review is in six weeks. Axiom will be keen to see initial progress. Phonemes, morphology, a preliminary lexicon… the tangible data.” He said ‘tangible’ as if it were the only real currency.
-
 “The tangible data,” she repeated, the phrase hollow as a dried gourd. Following Kaelen out a back door, the heavy oak groaned on its hinges, leaving the hum of Silas Thorne’s presence behind for the roar of the elements.
-
-Outside, Vaelen unfolded along a single track clinging to the cliff edge like a stubborn afterthought. Crofts of stone and sod, their roofs a living blanket of grass and sea thrift, seemed to grow from the earth itself, low and hunched against the sky’s tantrums. Damp and complex, the air carried the scent of wet earth, woodsmoke, and the profound, mineral breath of the ocean below—a cold, vast exhalation.
-
+Outside, Vaelen unfolded along a single track clinging to the cliff edge like a stubborn afterthought. Crofts of stone and sod, their roofs a living blanket of grass and sea thriftto grow from the earth itself, low and hunched against the sky’s tantrums. Damp and complex, the air carried the scent of wet earth, woodsmoke, and the profound, mineral breath of the ocean below—a cold, vast exhalation.
 “He means well.” Kaelen’s boots crunched on the crushed shell path, a sound like breaking bones.
-
 “Silas Thorne?”
 
 “He thinks he does. To him, a language is a series of sounds to be recorded. A curiosity. Like saving the shell after the creature is dead. A beautiful, empty thing for a shelf.”
 
-Dr. Dr. Elara Vance’s professional armor clicked into place. “Documentation is the first step towards preservation. Without a record, there is nothing left at all. It’s a foundation for potential revitalization.”
+Dr. Dr. Elara Vance’s professional armor clicked into place. “Documentation is the first step toward preservation. Without a record, there is nothing left at all. It’s a foundation for potential revitalization.”
 
 He gave a quick, sidelong glance, his storm-sea eyes assessing her. “Is that what you tell yourself at night? That you’re not a coroner writing an autopsy report, measuring the corpse before it’s cold?” The bluntness stole her breath, a physical push against her ribs.
-
 “I’m a linguist,” she insisted, her voice tighter than she intended. “I study how meaning lives in sound. I’m here to learn.”
 
-“To learn.” He echoed, not quite a question, the words hanging in the salted air. He stopped before a small cottage, its walls a mix of lichen and time. “She’s here. A few rules. Don’t touch her without asking. Don’t speak too fast. Don’t… treat her like a specimen. She’s not a subject. She’s my *ána*.” The last word was soft, guttural, full of a warmth and a history the English ‘grandmother’ could not hold—it seemed to contain the hearth-fire, the telling of stories, the weight of lineage.
-
-Elder Anuka sat in a pool of watery sunlight by the window, wrapped in a shawl the deep blue of twilight just before the stars pierce through. Her hands, resting on her lap, were twisted with arthritis but looked strong, capable, the skin like old parchment over riverstone. Her eyes, when they met Dr. Dr. Elara Vance’s, were the same storm-sea grey as Kaelen’s, but clouded with time and a deep, unshakeable knowing that seemed to look through Dr. Dr. Elara Vance’s skin to the frantic, cataloguing mind beneath.
-
+“To learn.” He echoed, not quite a question, the words hanging in the salted air. He stopped before a small cottage, its walls a mix of lichen and time. “She’s here. A few rules. Don’t touch her without asking. Don’t speak too fast. Don’t… treat her like a specimen. She’s not a subject. She’s my *ána*.” The last word was soft, guttural, full of a warmth and a history the English ‘grandmother’ could not hold—it seemed to n the hearth-fire, the telling of stories, the weight of lineage.
+Elder Anuka sat in a pool of watery sunlight by the window, wrapped in a shawl the deep blue of twilight just before the stars pierce through. Her hands, resting on her lap, were twisted with arthritis but looked strong, capable, the skin like old parchment over riverstone. Her eyes, when they met Dr. Dr. Elara Vance’s, were the same storm-sea grey as Kaelen’s, but clouded with time and a deep, unshakeable knowing that seeme through Dr. Dr. Elara Vance’s skin to the frantic, cataloguing mind beneath.
 Kaelen spoke in a flowing, melodic language, all rounded vowels and consonant clusters like stones tumbling in a stream. Dr. Dr. Elara Vance’s trained ear seized on it, her mind instinctively parsing, categorizing: *uvular trill, fronted vowel shift, probable noun-class prefix.* But then Elder Anuka’s face transformed, the stern lines softening into a landscape of gentle ridges and valleys. She answered, her voice a dry leaf rustle, yet the melody remained, richer, more nuanced, a complex song with a lifetime’s breath behind it. She patted the stool beside her, a gesture that was both command and invitation.
-
 The first session was a delicate ballet of intention and intuition. Dr. Dr. Elara Vance set up her recorder, its red light a tiny, alien eye in the peat-smoke haze. She began with basic nouns, pointing to objects: *cup, window, hand, sky.* Elder Anuka would say the word, once, twice, her pronunciation clear and deliberate. Kaelen would translate, his English flat beside the musical Lioran. Dr. Dr. Elara Vance repeated, her tongue clumsy, fumbling over syllables that demanded a mouth shaped by different winds. Elder Anuka would sometimes smile, a crack in ancient stone, and gently correct her, her own knotted hand shaping the air as if molding the sound itself.
-
-But then Dr. Dr. Elara Vance pointed to the sea, visible through the window—a vast, heaving plain of hammered silver and lead, whitecaps stitching a frantic seam along the horizon. Elder Anuka did not just give a word. She closed her eyes, as if feeling the sea’s pulse in her own veins, and spoke a sentence. The sounds washed over Dr. Dr. Elara Vance, complex and interwoven, a mix of noise that was not merely descriptive but *evocative*. It was a sentence that seemed to contain the sigh of the waves, the pull of the moon, the taste of salt on the wind, the cold grip of the deep.
-
+But then Dr. Dr. Elara Vance pointed to the sea, visible through the window—a vast, heaving plain of hammered silver and lead, whitecaps stitching a frantic seam along the horizon. Elder Anuka did not just give a word. She closed her eyes, as if feeling the sea’s pulse in her own veins, and spoke a sentence. The sounds washed over Dr. Dr. Elara Vance, complex and interwoven, a mix of noise that was not merely descriptive but *evocative*. It was a sentence that seemed to contappeared toigh of the waves, the pull of the moon, the taste of salt on the wind, the cold grip of the deep.
 “What did she say?” Dr. Dr. Elara Vance whispered, her notepad forgotten, the clinical distance shattered.
+Kaelen, who had been leaning against the wall, arms crossed as if guarding the room’s heat, glanced out the window, his profile stark. For a long moment, he was silent, wrestling with the impossibility of the task. Then he replied, quietly, “She said, ‘The great grey mother who is never full, who sings the old songs to the stones, who takes and gives and is never owned.’ That is… an approximation.” He spat the last word out, a bitter seed.
+*An approximation.* Dr. Dr. Elara Vance shiver that had nothing to do with the damp. In English, it was a poetic phrase. In Lioran, from Elder Anuka’s mouth, it had been a *truth*. A complete thought-unit where language and world were not separate, but one living entity. She continued, but the clinical edge was gone, replaced by a trembling, hungry curiosity. When she asked for the word for “memory,” Elder Anuka spoke another cascade, her fingers tracing a slow circle on her knee. Kaelen translated: “The weight of the water in the well.”
 
-Kaelen, who had been leaning against the wall, arms crossed as if guarding the room’s heat, looked out the window, his profile stark. For a long moment, he was silent, wrestling with the impossibility of the task. Then he said, quietly, “She said, ‘The great grey mother who is never full, who sings the old songs to the stones, who takes and gives and is never owned.’ That is… an approximation.” He spat the last word out, a bitter seed.
-
-*An approximation.* Dr. Dr. Elara Vance felt a shiver that had nothing to do with the damp. In English, it was a poetic phrase. In Lioran, from Elder Anuka’s mouth, it had been a *truth*. A complete thought-unit where language and world were not separate, but one living entity. She continued, but the clinical edge was gone, replaced by a trembling, hungry curiosity. When she asked for the word for “memory,” Elder Anuka spoke another cascade, her fingers tracing a slow circle on her knee. Kaelen translated: “The weight of the water in the well.”
-
-For “love,” Elder Anuka looked at Kaelen, then at Dr. Dr. Elara Vance, and uttered a soft, breathy phrase, her clouded eyes suddenly sharp and knowing. Kaelen’s jaw tightened. He looked away, towards the fire, his shoulders tense.
-
-“It doesn’t translate,” he said finally, his voice rough.
-
+For “love,” Elder Anuka looked at Kaelen, then at Dr. Dr. Elara Vance, and uttered a soft, breathy phrase, her clouded eyes sharp and knowing. Kaelen’s jaw tightened. Hegazedd away, toward the fire, his shoulders tense.
+“It doesn’t translate,” answeredaid finally, his voice rough.
 “Try.”
 
 He met her eyes, and his gaze was a challenge, a dare to step beyond her graphs and into the messy, untranslatable world. “‘The first root finding purchase in the cliff-face.’ Or… ‘the quiet tide between two stones.’ Take your pick. They’re both wrong, and they’re both right. It is the holding-on and the being-held. It is a fact of the landscape.”
 
 Dr. Dr. Elara Vance’s pen hovered over her notebook. She had documented twelve endangered dialects. She had graphs of vowel shifts and treatises on ergative case structures. She had never been told that a word for love was a cliff-face root or a quiet tide. She felt, for the first time, the terrifying, magnificent scope of her task. She wasn’t cataloging a lexicon. She was trying to bottle a climate, to map a dream that was dreaming itself out of existence.
-
 The light faded, the watery sun succumbing to the rolling mist. Elder Anuka grew weary, her head nodding, the mighty consciousness receding like the tide. Kaelen moved forward, touched her shoulder with a reverence that was palpable, spoke softly in Lioran. The old woman grasped his hand, her response a faint murmur that seemed less a word and more a breath of contentment. The moment was private, sacred, and Dr. Dr. Elara Vance looked away, feeling like an intruder.
-
 Outside, the wind had picked up, keening around the cottage corners with a voice of its own. The path back to the rented croft where Dr. Dr. Elara Vance was staying was a tunnel of darkness, only the relentless, booming roar of the sea below orienting them in the void.
-
 “She liked you,” Kaelen said, his voice barely audible over the elements, a thread of sound woven into the gale.
-
 “How can you tell?”
 
-“She gave you the true words. Not just the labels for things. The words that are the things.” He stopped, turning to face her. In the deep twilight, his features were stark, carved by the wind. “You heard it, didn’t you? Not just the sounds. You heard the… the shape of it. The world inside it.”
+“She gave you the true words. Not simply the labels for things. The words that are the things.” He stopped, turning to face her. In the deep twilight, his features were stark, carved by the wind. “You heard it, didn’t you? Not just the sounds. You heard the… the shape of it. The world inside it.”
 
 Dr. Dr. Elara Vance nodded, unable to lie, the admission feeling like a surrender. “It’s a profoundly polysynthetic tendency, with deep incorporations of environmental and relational…”
 
-“Stop,” he said, not unkindly, but with a firmness that silenced her academic babble. He took the heavy equipment case from her stiff, cold hand, his own grip effortlessly assuming the burden. “You’re analyzing the kiss while missing the desire. You’re here to catalogue a ghost. But ghosts have reasons for lingering. They have messages.” He walked her to her door, a low, dark shape against the turbulent sky. “Tomorrow,” he said, his tone leaving no room for Silas Thorne’s schedule. “We’ll walk. The language… it doesn’t live in that room. It lives out here.” He gestured to the roaring dark, the invisible, churning sea, the whispering cliffs. “I’ll show you where the words come from. Where they are still alive.”
+“Stomurmuredhe said, not unkindly, but with a firmness that silenced her academic babble. He took the heavy equipment case from her stiff, cold hand, his own grip effortlessly assuming the burden. “You’re analyzing the kiss while missing the desire. You’re here to catalogue a ghost. But ghosts have reasons for lingering. They have messages.” He walked her to her door, a low, dark shape against the turbulent sky. “Tomorrow,” he said, his tone leaving no room for Silas Thorne’s schedule. “We’ll walk. The language… it doesn’t live in that room. It lives out here.” He gestured to the roaring dark, the invisible, churning sea, the whispering cliffs. “I’ll show you where the words come from. Where they are still alive.”
 
-He left her standing there, the weight of his statement and the weight of the case now gone leaving her profoundly unbalanced, as if the very ground had shifted its meaning.
-
+He left her standing there, the weight of his statement and the weight of the case now gone leaving her profoundly unbalanced, as if the extremely ground had shifted its meaning.
 * * *
 
 Back in the cold, spare croft, the wind a frantic beast at the windows, Dr. Dr. Elara Vance powered up her laptop. The glow of the screen was a blasphemous electric moon in the peat-dark room. She transferred the day’s recordings. The spectral waveforms danced on the screen, visual echoes of Elder Anuka’s voice. She listened with headphones, her eyes closed, separating the layers: Elder Anuka’s voice, the crackle of the fire, the distant, rhythmic sea, her own clumsy, English interjections. She tagged phrases, began building her database. *Noun. Natural Phenomenon. Sea. Figurative/Idiomatic.* The work was familiar, a lifeline back to the world of logic and categories she understood.
-
 Then, she came to the final minute of recording. Elder Anuka was tired, mumbling. Kaelen was speaking to her, his voice a low, comforting rumble, the words indistinct. There was a long pause, filled only with the fire’s sigh. Then, so faint Dr. Dr. Elara Vance had to max the volume, leaning into the headphones until her ears ached, Elder Anuka whispered something. It was not like the other phrases. It was sharper, a series of clipped, guttural sounds devoid of melody, a secret breathed into the microphone with her last waking breath.
-
 Dr. Dr. Elara Vance isolated it. Ran it through her preliminary parser. It didn’t fit the emerging patterns. It was a key for a lock she hadn’t found. She played it again, and again, until the strange syllables were etched into her mind. The next morning, she found Kaelen on the headland, staring out at the heaving sea, his back to Vaelen and the discreet, fenced compound Axiom maintained on the leeward slope—a cluster of geometric buildings that hummed with a low, constant energy.
-
 “Kaelen,” she called, the wind snatching her voice. She approached, pulling out her phone where she’d saved the isolated audio. “This phrase, from the end yesterday. What is it?”
 
 She played it. The tinny recording whispered its stark chain of sounds into the salt air.
-
-Kaelen went rigid, all the guarded openness of the previous day vanishing, sealed behind a wall of sheer granite. He turned from the sea, his face a mask of pure dread, the colour draining from his skin. He stared at her as if she’d pulled a weapon, his eyes wide with something that looked like horror.
-
+Kaelen went rigid, all the guarded openness of the previous day vanishing, sealed behind a wall of sheer granite. He turned from the sea, his face a mask of pure dread, the colour draining from his skin. He stared at her as if she’d pulled a weapon, his eyes wide with something that peered like horror.
 “Where did you get that?” His voice was a blade.
-
 “It’s from yesterday. At the very end. What does it mean?”
 
 He took a step back, his gaze darting from her phone to her face, then past her, scanning the cliffs as if expecting an ambush. “You recorded it. You *listened* to it.”
 
 “Of course I did. Kaelen, please. It’s important for the record. It’s a unique utterance.”
 
-A bitter, mirthless smile touched his lips, gone in an instant. “For the record. The record is a death warrant.” He looked past her, towards the Axiom compound, its structures gleaming dully in the diffuse light. His voice was flat and cold, a stone dropped into a deep, dark well. “It means, ‘The law is coming for the thieves.’” He began to walk away, not towards Vaelen, but up the treacherous, sheep-trodden path to the highest, most desolate cliffs.
-
+A bitter, mirthless smile touched his lips, gone in an instant. “For the record. The record is a death warrant.” He looked past her, toward the Axiom compound, its structures gleaming dully in the diffuse light. His voice was flat and cold, a stone dropped into a deep, dark well. “It means, ‘The law is coming for the thieves.’” He walk away, not toward Vaelen, but up the treacherous, sheep-trodden path to the highest, most desolate cliffs.
 “Wait!” She stumbled after him, the wind pushing her sideways. “What thieves? What law? Is it a proverb? A story?”
 
 He paused, half-turning, his eyes holding a terrifying pity for her ignorance. “You transcribed it. You invoked it by naming it. The law isn’t *coming*, Dr. Dr. Elara Vance. It’s here. It was listening.” He gestured sharply to her phone, still clutched in her numb hand. “And now it knows a thief has woken up. It knows *she* remembers.”
 
 Before she could speak, could demand sense from his riddles, a low, subsonic hum vibrated through the cliff stone, up through the soles of her boots, a feeling more than a sound that set her teeth on edge. From the fenced Axiom site below, a single, needle-thin beam of cobalt light lanced skyward, piercing the low, scudding storm clouds. It wasn’t a survey tool. It was a signal. A cold, precise announcement.
-
-Kaelen was already a silhouette against the raging sky, fleeing not in panic, but with the desperate, focused speed of a stag who has just heard the hunter’s rifle bolt. Dr. Dr. Elara Vance looked down at her phone. The audio file, the only copy of Elder Anuka’s final, secret phrase, was corrupting before her eyes, dissolving into pixelated static as if being actively, remotely erased.
-
+Kaelen was already a silhouette against the raging sky, fleeing not in panic, but with the desperate, focused speed of a stag who ha merely st heard the hunter’s rifle bolt. Dr. Dr. Elara Vance stared down at her phone. The audio file, the only copy of Elder Anuka’s final, secret phrase, was corrupting before her eyes, dissolving into pixelated static as if being actively, remotely erased.
 The first sentence she had ever truly *understood* was a warning, spoken from the edge of sleep. And the second, she realized with a surge of primal terror that froze her to the cliff-edge, would be a verdict. And it would be spoken in a language far older, and far less forgiving, than her own.

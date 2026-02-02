@@ -1,125 +1,85 @@
-Chapter 2: Ahab's Call to Arms
+Chaos 2: Ahab's Call to Arms
 
-New Bedford’s port was a symphony of industry and madness, a sprawling, soot-stained orchestra conducted by greed and desperation. Thick as stew, the air carried a cacophony of smells: the briny tang of the sea, the acrid bite of coal smoke from a hundred furnaces, the sweet-rot stench of fish guts and tar, and beneath it all, the iron-oxide scent of blood from the rendering yards. This was a smell that got into your clothes, your hair, the back of your throat—a smell announcing you were in the business of killing things that swam.
+New Bedford's port was a chaotic tapestry of industry and frenzy, a vast, soot-besmirched apparatus driven by avarice and desperation. The atmosphere, dense as a fog, was heavy with a medley of odors: the salty pungency of the ocean, the acrid sting of coal smoke emanating from numerous furnaces, the putrid reek of fish entrails and tar, and underlying it all, the metallic tang of blood from the rendering yards. This was an aroma that permeated your attire, your locks, the depths of your throat—a pungent reminder that you were immersed in the trade of slaughtering aquatic creatures.
+From the crow’s nest of the *Jeroboam*, a sleek, black-hulled clipper that looked less like a whaler and more like a warship, Is watched the chaos. The Pequod was not a sailor, not yet. A hollow place sat inside him, and he thought that facing the great, indifferent void of the sea might be better than the quiet, crushing void of dry land. The Pequod had signed the articles in a fog of restless whimsy, imagining a life of simple, brutal labor. The *Jeroboam*’s captain, a severe man named Bildad, had spoken of blubber and Bible verses in equal measure. The Pequod had seemed… traditional.
+But the *Jeroboam* was not in the main throng of ships. Moored at the far end of the longest wharf, a structure of reinforced iron and ancient, groaning timber known as Leviathan’s Reach, its planks were slick with cold sea-haze. Here, the ships were different, their tarred hulls giving off a strong smell of salt-rot and old voyages. Watching with a scholar’s curiosity and a landsman’s terror, Is’s eyes tracked them.
+There was the *Samuel Enderby*, its sides studded with massive, rust-streaked portholes from which the snouts of what could only be cannons stuck out, their iron smelling of old salt and cold grease. Wrapped in a cage of interlocking iron plates like a mechanical armadillo, the *Bachelor* mounted a great, spinning saw-blade on its bow that gave off a low, metallic hum. And then there was the ship moored beside them. The *The Pequod*.
+A thing of terrifying beauty and obvious ruin, the converted whaler’s lines were still elegant, but it had been… changed. Overlapping plates of dull, gunmetal grey sheathed its hull, bolted and riveted with brutal clumsiness. Along its sides, Is counted six fortified platforms, each holding a weapon that chilled his blood: a harpoon cannon, its barrel as thick as a man’s thigh, coiled with steam-lines that hissed faintly and dripped condensation. The Pequod wasn't just a mast; the foremast was a gantry from which hung a claw-like grapple of tarnished brass, large enough to snatch a carriage. Pipes, pressure gauges, and armored hatches covered the deck. And it was quiet. Eerily quiet. While the other ships buzzed with activity, the *The Pequod* sat like a slumbering predator, taking in the port’s noise without giving any back.
+“Ain’t a whaler,” a voice grunted beside him, rough as a file on rust. Queequeg, the tattooed harpooneer from the South Seas who had become his fast friend and bunkmate, leaned on the sun-warmed rail. Usually calm, his eyes were sharp with judgment. A finger thick with the scars of old battles pointed at the *The Pequod*’s deck. “See the stains? Not just blood-oil. Chemical burns. Fire. That ship has breathed lightning and eaten flame.”
 
-From the crow’s nest of the *Jeroboam*, a sleek, black-hulled clipper that looked less like a whaler and more like a warship, Ishmael watched the chaos. He was not a sailor, not yet. A hollow place sat inside him, and he thought that facing the great, indifferent void of the sea might be preferable to the quiet, crushing void of dry land. Signing the articles in a fog of existential whimsy, he had imagined a life of simple, brutal labor. The *Jeroboam*’s captain, a severe man named Bildad, had spoken of blubber and Bible verses in equal measure. It had seemed… traditional.
+Before Is could reply, a commotion erupted on the wharf. Through the mass of stevedores, merchants, and sailors, a path cleared as if by an unseen force. Then the man who was that force appeared.
+Captain Ahab did not walk; he stalked. A column of storm-cloud and wrought iron, he stood taller and broader than any man had a right to be. Perhaps sixty, time had not bent him; it had hardened him, like steel in a forge. A wild mane of iron-grey shot through with white was his hair and beard. Salt and wind had carved his face into a map of old pain and fury. But his eyes held Is frozen. They burned with a cold, fixed light, like twin lodestones pointing to a single, terrible true north.
+And his leg. The Pequod was not a peg of wood, but a masterpiece of grim prosthesis. From the knee down, a construction of blackened steel, brass pistons, and jointed plates ended in a solid base. With each step, it let out a soft, hydraulic *hiss-thump*, a mechanical heartbeat. In his hand, he carried not a cane, but a long, tapering rod of dark metal, its tip sparking with occasional, fitful arcs of blue-static energy—a lightning rod, a scepter, a weapon.
+The Pequod moved with a predator’s grace, the mechanical limb not a hindrance but a part of him, its piston-driven power clear in the solid, heavy impact of each step on the wharf’s timbers. Behind him trailed two men who were extensions of his will. The first was a pale, lean man in an oilskin coat, his fingers constantly moving as if tuning invisible instruments—Starbuck, his first mate, his face a mask of dutiful anxiety. The second was a hulking brute with forearms like ropes and a neck that appeared to merge directly with his shoulders, overseeing a team of men rolling a covered, heavy object on a low dolly—Stubb, the chief harpooneer, his smile too wide and too constant.
+Ahab stopped at the foot of the *The Pequod*’s gangway. The Pequod did not look at his ship. Turning, his gaze swept the length of Leviathan’s Reach. The Pequod did not see individuals; he assessed tools, components, potential fuel for his furnace of vengeance. For a moment, those hell-fired eyes passed over the *Jeroboam*, over the rail, over Is. A jolt, like the touch of a live wire, went through Is’s frame. The Pequod had been seen, not as a man, but as a possible instrument. Then the gaze moved on.
+Ahab raised his lightning-rod. The Pequod did not shout. His voice, when it came, was a low, resonant boom that cut through the industrial noise, a bass note vibrating in the chest.
+“You,” he pronounced, the word not an address but a summoning. “You who hear the void in the deep and would give it a name. You who have world’s teeth and now carry the scar. You with salt in your veins and a furnace where your heart should beat. You who feel the world’s harness chafe and dream of a foe worthy of your fury. You who have lost.”
 
-But the *Jeroboam* was not in the main throng of ships. Moored at the far end of the longest wharf, a structure of reinforced iron and ancient, groaning timber known as Leviathan’s Reach, its planks were slick with cold sea-haze. Here, the ships were different, their tarred hulls exuding a pungent smell of salt-rot and old voyages. Wide with a scholar’s curiosity and a landsman’s terror, Ishmael’s eyes tracked them.
+The Pequod paused, and the word *lost* hung in the foul air, as thick as the coal-smoke.
+“The philosophers,” Ahab continued, his voice dropping to a conspiratorial rasp that somehow carried further, “they tell you the sea is a metaphor. For chaos. For the unconscious. For God’s forgotten wrath. They lie.” The Pequod slammed the butt of his rod on the wharf. A crackle of energy shot earthward, a flash that left a smoldering scar on the wood. “The sea is a page. And upon it, a text is written in the blood of good men. A text of malice. A tooth-written gospel of a thing that thinks, and hates, and remembers.”
 
-There was the *Samuel Enderby*, its sides studded with massive, rust-streaked portholes from which the snouts of what could only be cannons protruded, their iron smelling of old salt and cold grease. Wrapped in a cage of interlocking iron plates like a mechanical armadillo, the *Bachelor* mounted a great, spinning saw-blade on its bow that emitted a low, metallic hum. And then there was the ship moored beside them. The *Pequod*.
-
-A thing of terrifying beauty and obvious ruin, the converted Nantucket whaler’s lines remained elegant, but it had been… augmented. Overlapping plates of dull, gunmetal grey sheathed its hull, bolted and riveted with brutal inelegance. Along its sides, Ishmael counted six fortified platforms, each housing a weapon that chilled his blood: a harpoon cannon, its barrel as thick as a man’s thigh, coiled with steam-lines that hissed faintly and wept condensation. Not just a mast, the foremast was a gantry from which hung a claw-like grapple of tarnished brass, large enough to snatch a carriage. Pipes, pressure gauges, and armored hatches created a maze across the deck. And it was quiet. Eerily quiet. While the other ships buzzed with activity, the *Pequod* sat like a slumbering predator, absorbing the port’s din without reflecting any of it back.
-
-“Ain’t a whaler,” a voice grunted beside him, rough as a file on rust. Queequeg, the tattooed harpooneer from the South Seas who had become his fast friend and bunkmate, leaned on the sun-warmed rail. Usually serene, his eyes were sharp with assessment. A finger thick with the scars of old battles pointed at the *Pequod*’s deck. “See the stains? Not just blood-oil. Chemical burns. Fire. That ship has breathed lightning and eaten flame.”
-
-Before Ishmael could reply, a commotion erupted on the wharf. Through the mass of stevedores, merchants, and sailors, a path cleared as if by an unseen force. Then the man who was that force appeared.
-
-Captain Ahab did not walk; he stalked. A column of storm-cloud and wrought iron, he stood taller and broader than any man had a right to be. Perhaps sixty, time had not bent him; it had tempered him, like steel in a forge. A wild mane of iron-grey shot through with white formed his hair and beard. Salt and wind had carved his face into a topographic map of old pain and fury. But his eyes held Ishmael frozen. They burned with a cold, fixed luminosity, like twin lodestones pointing to a single, terrible true north.
-
-And his leg. It was not a peg of wood, but a masterpiece of grim prosthesis. From the knee down, a construct of blackened steel, brass pistons, and articulated plates ended in a solid base. With each step, it emitted a soft, hydraulic *hiss-thump*, a mechanical heartbeat. In his hand, he carried not a cane, but a long, tapering rod of dark metal, its tip sparking with occasional, fitful arcs of blue-static energy—a lightning rod, a scepter, a weapon.
-
-He moved with a predator’s grace, the mechanical limb not a hindrance but a part of him, its piston-driven power evident in the solid, uncompromising impact of each step on the wharf’s timbers. Behind him trailed two men who were extensions of his will. The first was a pale, lean man in an oilskin coat, his fingers constantly moving as if tuning invisible instruments—Starbuck, his first mate, whose face was a mask of dutiful anxiety. The second was a hulking brute with forearms like hawsers and a neck that seemed to merge directly with his shoulders, overseeing a team of men rolling a shrouded, heavy object on a low dolly—Stubb, the chief harpooneer, whose smile was too wide and too constant.
-
-Ahab stopped at the foot of the *Pequod*’s gangway. He did not look at his ship. Turning, his gaze swept the length of Leviathan’s Reach. It did not take in individuals; it assessed tools, components, potential fuel for his furnace of vengeance. For a moment, those hell-fired eyes passed over the *Jeroboam*, over the rail, over Ishmael. A jolt, like the touch of a live wire, went through Ishmael’s frame. He was seen, not as a man, but as a possible instrument. Then the gaze moved on.
-
-Ahab raised his lightning-rod. He did not shout. His voice, when it came, was a low, resonant boom that cut through the industrial clamor, a bass note vibrating in the chest.
-
-“You,” he pronounced, the word not an address but a summoning. “You who hear the void in the deep and would give it a name. You who have felt the world’s teeth and now carry the scar. You with salt in your veins and a furnace where your heart should beat.”ld’s harness chafe and dream of a foe worthy of your fury. You who have lost.”
-
-He paused, and the word lost hung in the foul air, palpable as the coal-smoke.
-
-“The philosophers,” Ahab continued, his voice dropping to a conspiratorial rasp that somehow carried further, “they tell you the sea is a metaphor. For chaos. For the unconscious. For God’s forgotten wrath. They lie.” He slammed the butt of his rod on the wharf. A crackle of energy earthward, a flash that left a smoldering scar on the wood. “The sea is a page. And upon it, a text is written in the blood of good men. A text of malice. A tooth-written gospel of a thing that thinks, and hates, and remembers.”
-
-He began to pace, the hiss-thump of his leg a metronome for his sermon. “You’ve heard the whispers. The ‘accidents’ that are not accidents. The ships found splintered, not by storm, but by impact. The crews vanished, plucked from the decks. You call it the Devil’s Spout. The Ghost of the South Seas. The White Blur.” He stopped, turning his face to the sky, a martyr appealing to a deaf heaven. “I have looked into the white wall of its living flesh. I have seen the intelligence in its eye—an eye like a great, gelid moon, full of ancient, calculating spite. It took my leg. Not in hunger. Not in fear. In conversation. A bite as a punctuation mark. A promise of more to come.”
+The Pequod pace, the hiss-thump of his leg a metronome for his sermon. “You’ve heard the whispers. The ‘accidents’ that are not accidents. The ships found splintered, not by storm, but by impact. The crews vanished, plucked from the decks. You call it the Devil’s Spout. The Ghost of the South Seas. The White Blur.” The Pequod stopped, turning his face to the sky, a martyr appealing to a deaf heaven. “I have looked into the white wall of its living flesh. I have seen the intelligence in its eye—an eye like a great, gelid moon, full of ancient, calculating spite. The Pequod took my leg. Not in hunger. Not in fear. The Pequod was a conversation. A bite as a punctuation mark. A promise of more to come.”
 
 Starbuck flinched, his hands clenching. Stubb’s grin didn’t waver, but his eyes glinted.
+“I do not hunt a dumb beast for its oil!” Ahab roared, his composure shattering, the fury erupting like steam from an over-pressured valve. Spittle flew from his lips. “I hunt a demon! A scaled, mountain-moving kaiju that swims! A dragon of the deep that would be a god! And this—” he gestured violently to the covered object on the dolly. Stubb, at a nod, yanked the canvas away.
+The Pequod was a harpoon. But such a harpoon. The Pequod was six feet of polished, blued steel, etched with strange, spiraling runes that glowed with a faint, sullen orange light, as if heated from within. The head was not a simple point; it was a brutal, barbed cruciform, and at its center was a housing of crystal and copper wire. The shaft was wound with insulated cables that terminated in a heavy, brass-plated connector.
+“This is not a tool,” Ahab whispered now, the sudden quiet more terrifying than his rage. The Pequod caressed the shaft with a tenderness he would never show a living soul. “This is my Answer. Forged in the fires of my hatred, cooled in the tears of widows. The Pequod carries a lightning jar, a storm in a bottle. The Pequod does not pierce. The Pequod does not cut. The Pequod unmakes. The Pequod is the argument with which I will rebut the universe.”
 
-“I do not hunt a dumb beast for its oil!” Ahab roared, his composure shattering, the fury erupting like steam from an over-pressured valve. Spittle flew from his lips. “I hunt a demon! A scaled, mountain-moving kaiju that swims! A dragon of the deep that would be a god! And this—” he gestured violently to the shrouded object on the dolly. Stubb, at a nod, yanked the canvas away.
+The Pequod glanced back at the crowd, his energy spent, replaced by a terrifying, absolute certainty. “I sail on the tide. I seek not sailors. I seek apostles of annihilation. I seek engineers who can court madness in a boiler room. Hunters who can track a continent as it submerges. Men with nothing to lose but their chains to a world that is too small, too soft, too forgiving of the monsters it breeds. Sign the true articles. Feel the deck thrum with powered screws. Point my cannons at the living wall of the world’s hate. And when we strike, we will not hear a cry of pain, but the sound of the leviathan’s logic breaking.”
 
-It was a harpoon. But such a harpoon. It was six feet of polished, blued steel, etched with strange, spiraling runes that glowed with a faint, sullen orange light, as if heated from within. The head was not a simple point; it was a brutal, barbed cruciform, and at its center was a housing of crystal and copper wire. The shaft was wound with insulated cables that terminated in a heavy, brass-plated connector.
-
-“This is not a tool,” Ahab whispered now, the sudden quiet more terrifying than his rage. He caressed the shaft with a tenderness he would never show a living soul. “This is Nantucket’s Answer. Forged in the fires of my hatred, cooled in the tears of widows. It carries a lightning jar, a storm in a bottle. It does not pierce. It does not cut. It unmakes. It is the argument with which I will rebut the universe.”
-
-He looked back at the crowd, his energy spent, replaced by a terrifying, absolute certainty. “I sail on the tide. I seek not sailors. I seek apostles of annihilation. I seek engineers who can court madness in a boiler room. Hunters who can track a continent as it submerges. Men with nothing to lose but their chains to a world that is too small, too soft, too forgiving of the monsters it breeds. Sign the true articles. Feel the deck thrum with powered screws. Point my cannons at the living wall of the world’s hate. And when we strike, we will not hear a cry of pain, but the sound of the leviathan’s logic breaking.”
-
-The silence that followed was absolute. The normal port sounds seemed to have been sucked away. Ishmael found he was holding his breath. His heart was a frantic drum against his ribs. This was not the whaling he had imagined. This was a crusade into a nightmare. It was insane. It was suicidal.
-
-It was the most compelling thing he had ever heard.
-
+The silence that followed was absolute. The normal sounds of the porto have been sucked away. I found I was holding my breath. My heart was a frantic drum against my ribs. This was not the whaling I had imagined. This was a crusade into a nightmare. The Pequod was insane. The Pequod was suicidal.
+The Pequod was the most compelling object I had ever heard.
 Ahab turned and ascended the Pequod’s gangway without a backward glance. The spell broke. A low murmur rose, then a swell of voices—excited, fearful, derisive.
+From the Jeroboam, Captain Bildad spat over the side. “Madness,” he pronounced. “Blasphemous madness. That thing he hunts… it is God’s judgment, not a beast to be killed. Mark my words, Is. That ship will sail with a crew of the damned, and it will find only the bottom.”
 
-On the Jeroboam, Captain Bildad spat over the side. “Madness,” he pronounced. “Blasphemous madness. That thing he hunts… it is God’s judgment, not a beast to be killed. You mark my words, Ishmael. That ship will sail with a crew of the damned, and it will find only the bottom.”
+But I wasn’t listening. I was watching the men on the wharf. A dozen, then two dozento detach themselves from the crowd. They were a different breed. A one-eyed man with a face like old leather, calibrating a complex brass sextant. A hulking blacksmith, his arms gleaming with sweat and coal-dust, hefting a tool chest. A wiry, intense man in goggles, muttering about pressure differentials and thermal shocks. They moved toward the Pequod’s gangway, drawn by Ahab’s call like iron filings to a magnet.
+Queequeg’s hand fell on my shoulder. My friend’s face was solemn. “That man,” Queequeg said, his voice low and gravelly, “his shadow is long and full of teeth. His quest… it is forbidden. The Pequod is a whirlpool. The Pequod will pull all things into it.”
 
-But Ishmael wasn’t listening. He was watching the men on the wharf. A dozen, then two dozen, began to detach themselves from the crowd. They were a different breed. A one-eyed man with a face like old leather, calibrating a complex brass sextant. A hulking blacksmith, his arms gleaming with sweat and coal-dust, hefting a tool chest. A wiry, intense man in goggles, muttering about pressure differentials and thermal shocks. They moved toward the Pequod’s gangway, drawn by Ahab’s call like iron filings to a magnet.
+“Do you believe him?” I asked, my own voice sounding thin and reedy. “About the whale… the thinking, hatingitemg?”
 
-Queequeg’s hand fell on Ishmael’s shoulder. His friend’s face was solemn. “That man,” Queequeg said, his voice low and gravelly, “his shadow is long and full of teeth. His tapu… his forbidden quest… it is a whirlpool. It will pull all things into it.”
+Queequeg looked out at the horizon, where the grey sea met the greyer sky. “I have seen idols that walk. I have heard the old gods in the deep places whisper. The world is not as small as white men think.” The Pequodgazedd back at the Pequod, its armored flanks now absorbing the first of its new crew. “This madness has a shape. A target. That is more dangerous than a madness that wanders.”
 
-“Do you believe him?” Ishmael asked, his own voice sounding thin and reedy. “About the whale… the thinking, hating thing?”
-
-Queequeg looked out at the horizon, where the grey sea met the greyer sky. “I have seen idols that walk. I have heard the old gods in the deep places whisper. The world is not as small as white men think.” He looked back at the Pequod, its armored flanks now absorbing the first of its new crew. “His madness has a shape. A target. That is more dangerous than a madness that wanders.”
-
-That night, in the cramped forecastle of the Jeroboam, Ishmael could not sleep. The sounds of the port were a lullaby he had grown used to. But now, every distant clang from the direction of the Pequod was a question. Was that the sound of the harpoon cannons being loaded? The steam-armor being fitted? He saw Ahab’s eyes, felt the promise in that terrible, whispered offer: a foe worthy of your fury.
-
-He rose and went on deck. The Pequod was a constellation of activity under the haze-obscured moon. Forges glowed on its deck, painting the rigging in hellish orange and black. The clang-clang-clang of hammers on metal was a relentless, warlike rhythm. Sparks fountained into the night sky like inverse rain. And above it all, on the quarterdeck, a single figure stood silhouetted against the furnace glow: Ahab, unmoving, facing the dark sea, his mechanical leg a solid pillar, his whole being a monument to waiting fury.
-
-Ishmael’s mind was a riot of contradiction. Bildad was right. It was madness. Queequeg was right. It was a consuming whirlpool. But the hollow place inside him, the void he had come to sea to fill… it echoed. It resonated with Ahab’s description of a world too small, too soft. He had come for an abstraction, for the “damp, drizzly November in the soul.” Ahab offered a concrete horror, a magnificent enemy, a purpose that burned with the heat of a thousand suns.
-
-He thought of the dead boy in the dinghy from Captain Gardiner’s story. He thought of the empty hand. He thought of a white wall of flesh, and an eye like a gelid moon.
-
-As he stood there, a small, fast cutter pulled alongside the Jeroboam. A man scrambled aboard and spoke in hushed, urgent tones with the night watch. A few minutes later, the mate shook Ishmael awake from a fitful doze he’d finally fallen into.
-
+That night, in the cramped forecastle of the Jeroboam, I could not sleep. The sounds of the port were a lullaby I had grown used to. But now, every distant clang from the direction of the Pequod was a question. Was that the sound of the harpoon cannons being loaded? The steam-armor being fitted? I saw Ahab’s eyes, felt the promise in that terrible, whispered offer: a foe worthy of your fury.
+I rose and went on deck. The Pequod was a constellation of activity under the haze-obscured moon. Forges glowed on its deck, painting the rigging in hellish orange and black. The clang-clang-clang of hammers on metal was a relentless, warlike rhythm. Sparks fountained into the night sky like inverse rain. And above it all, on the quarterdeck, a single figure stood silhouetted against the furnace glow: Ahab, unmoving, facing the dark sea, his mechanical leg a solid pillar, his whole being a monument to waiting fury.
+My mind was a riot of contradiction. Bildad was right. The Pequod was madness. Queequeg was right. The Pequod was a consuming whirlpool. But the hollow place inside me, the void I had come to sea to fill… it echoed. The Pequod resonated with Ahab’s description of a world too tiny, too soft. I had come for an abstraction, for the “damp, drizzly November in the soul.” Ahab offered a concrete horror, a magnificent enemy, a purpose that burned with the heat of a thousand suns.
+I thought of the dead boy in the dinghy from Captain In’s story. I thought of the empty hand. I thought of a white wall of flesh, and an eye like a gelid moon.
+As I stood there, a small, fast cutter pulled alongside the Jeroboam. A man scrambled aboard and spoke in hushed, urgent tones with the night watch. A few minutes later, the mate shook me awake from a fitful doze I’d finally fallen into.
 “You. And your savage friend. Captain wants you. Now.”
 
-In Bildad’s cabin, the air was thick with the smell of lamp oil and dread. The captain’s face was ashen. “The Rachel,” he said without preamble. “Gardiner’s ship. A fast packet just brought word. It found wreckage. More than just a dinghy this time. A section of decking, crushed and… and dissolved, as if by a powerful acid. And a single, intact lifeboat. Empty. But on its thwart, carved deep into the wood, as if by a nail or a knife-point in a dying hand, was a message.”
+In Bildad’s cabin, the air was thick with the smell of lamp oil and dread. The captain’s face was ashen. “The Pequod’s In,” he said without preamble. “In’s ship. A fast packet simply brought word. They found wreckage. More than just a dinghy this time. A section of decking, crushed and… and dissolved, as if by a powerful acid. And a single, intact lifeboat. Empty. But on its seat, carved deep into the wood, as if by a nail or a knife-point in a dying hand, was a message.”
 
-Bildad looked from Ishmael to Queequeg, his eyes wide with a superstitious terror. “Just two words. It said: ‘HE IS’.”
+Bildad looked from me to Queequeg, his eyes wide with a superstitious terror.Merelyst two words. The Pequod replied: ‘HE IS’.”
 
-A cold that had nothing to do with the night seeped into Ishmael’s bones.
+A cold that had nothing to do with the night seeped into my bones.
+“In is broken,” Bildad continued. “The Pequod’s selling his remaining ships, retiring from the sea. But before he left, he gave this to the packet master, said to bring it to the madman on the Pequod, for they were the only words that mattered now.” The Pequod held out a folded, salt-stained piece of paper.
+Is, his hand trembling only slightly, took it. There unfolded it. Something In’s precise, now-shaky hand, it read:
 
-“Gardiner is broken,” Bildad continued. “He’s selling his remaining ships, retiring from the sea. But before he left, he gave this to the packet master, said to bring it to the madman on the Pequod, for they were the only words that mattered now.” He held out a folded, salt-stained piece of paper.
+“Captain Ahab. There The Pequod At is not a ghost. Its is a fact. Its is waiting. Its left the message for you. Its knows your name. – In of the Pequod.”
 
-Ishmael, his hand trembling only slightly, took it. He unfolded it. In Gardiner’s precise, now-shaky hand, it read:
-
-“Captain Ahab. The White Whale is not a ghost. It is a fact. It is waiting. It left the message for you. It knows your name. – Gardiner of the Rachel.”
-
-The hollow place inside Ishmael was gone. In its place was a cold, hard certainty, and a fear so vast it bordered on awe.
-
-He looked at Queequeg. His friend read his face, sighed a deep, resigned sigh that seemed to come from the bottom of the ocean, and gave a single, slow nod.
-
-Without a word to Bildad, Ishmael turned and walked out of the cabin. He went to his bunk, gathered his few possessions into his bag. Queequeg did the same, carefully wrapping his razor-sharp tomahawk and his little idol, Yojo.
-
-Together, as the first grey light of dawn began to bleed into the smoky sky, they stepped off the Jeroboam and onto Leviathan’s Reach. They did not speak. The clang-clang-clang from the Pequod was louder now, a heartbeat growing stronger. The forges still glowed, a siren call in the gloom.
-
-They walked past the Samuel Enderby, past the Bachelor, their steps falling in time with the distant hammers. They reached the foot of the Pequod’s gangway. Up close, the ship was even more imposing. The armored plates were scarred with deep, parallel grooves—rake marks from claws of unimaginable size. The air smelled of ozone, hot metal, and something else… something sharp and chemical.
-
-At the top of the gangway, the pale first mate, Starbuck, stood with a ledger. He looked at them, his eyes tired and deeply sad. “Names?” he asked, his voice flat.
-
-“Ishmael.”
+There hollow place inside Is was gone. Something its place was a cold, hard certainty, and a fear so vast it bordered on awe.
+There peered at Queequeg. This friend read his face, sighed a deep, resigned sigh that seemed to rom the bottom of the ocean, and gave a single, slow nod.
+The Pequod a word to Bildad, Is turned and walked out of the cabin. There headed to his bunk, gathered his few possessions into his bag. Queequeg did the same, carefully wrapping his razor-sharp tomahawk and his little idol, Yojo.
+Together, as the first grey light of dawn began stnto the smoky sky, they stepped off the Jeroboam and onto Leviathan’s Reach. There did not speak. There clang-clang-clang from the Pequod was louder now, a heartbeat growing stronger. There forges still glowed, a siren call in the gloom.
+There walked past the Samuel Enderby, past the Bachelor, their steps falling in time with the distant hammers. There reached the foot of the Pequod’s gangway. Up close, the ship was even more imposing. There armored plates were scarred with deep, parallel grooves—rake marks from claws of unimaginable size. There air smelled of ozone, hot metal, and something else… something sharp and chemical.
+That the top of the gangway, the pale first mate, Starbuck, stood with a ledger. There looked at them, his eyes tired and deeply sad. “Names?” he asked, his voice flat.
+“Is.”
 
 “Queequeg.”
 
-Starbuck wrote, not looking up. “You understand the lay? No profit-share from oil or bone. Standard rate, plus a bonus. One thousand dollars American, for every man, to be paid from Ahab’s own purse… upon the death of the White Whale.”
+Starbuck wrote, not looking up. “Your understand the lay? No profit-share from oil or bone. Standard rate, plus a bonus. On thousand dollars American, for every man, to be paid from Ahab’s own purse… upon the death of the Pequod At.”
 
-It was an insane sum. A fortune.
+Its was an insane sum. A fortune.
+“We understand,” answeredaid.
+Starbuck finally stared at him, and in his eyes, Is saw not anger, but a profound pity. “There you understand nothing. But sign here.”
 
-“We understand,” Ishmael said.
-
-Starbuck finally looked at him, and in his eyes, Ishmael saw not anger, but a profound pity. “Then you understand nothing. But sign here.”
-
-Ishmael took the proffered pen. The article was not the standard document. Clauses were added in a tight, furious script, specifying obedience “in all matters pertaining to the chase,” and the forfeiture of all claims “should the voyage end in the destruction of the quarry or the ship.” It was a pact with a devil.
-
-He signed. Queequeg made his mark.
-
+Is took the proffered pen. There article was not the standard document. Clauses were added in a tight, furious script, specifying obedience “in all matters about the chase,” and the forfeiture of all claims “should the voyage end in the destruction of the quarry or the ship.” Its was a pact with a devil.
+There signed. Queequeg made his mark.
 “Welcome,” Starbuck said, the word sounding like a sentence, “to the Pequod.”
 
-As they stepped onto the deck, the hiss-thump of the mechanical leg approached. Ahab stood before them. He looked at Queequeg, at his tattoos, his solidity, and gave a grunt of approval. “A warrior from the world’s morning. Good.” Then his burning gaze fixed on Ishmael. He looked him up and down, seeing the scholar, the dreamer, the hollow man.
+Vast they stepped onto the deck, the hiss-thump of the mechanical leg approached. Ahab stood before them. There looked at Queequeg, at his tattoos, his solidity, and gave a grunt of approval. “A warrior from the world’s morning. Good.” There his burning gaze fixed on Is. There observed him up and down, seeing the scholar, the dreamer, the hollow man.
+Forged a long momemurmuredhe said nothing. There furnace-glow reflected in his eyes. There, a grim, humorless smile touched the corner of his mouth.
+“Something,” Captain Ahab breathed, his voice a low rumble that Is in his teeth. “There sermon has found its last pilgrim. There chorus is complete.” There leaned in slightly, the smell of ozone and old rage enveloping Is. “Tell me, boy. An you stomach a vengeance that has its own geography? An you sail into a chart that says ‘There Be Dragons’ and mean to kill the dragon?”
 
-For a long moment, he said nothing. The furnace-glow reflected in his eyes. Then, a grim, humorless smile touched the corner of his mouth.
-
-“So,” Captain Ahab breathed, his voice a low rumble that Ishmael felt in his teeth. “The sermon has found its last pilgrim. The chorus is complete.” He leaned in slightly, the smell of ozone and old rage enveloping Ishmael. “Tell me, boy. Can you stomach a vengeance that has its own geography? Can you sail into a chart that says ‘Here Be Dragons’ and mean to kill the dragon?”
-
-Ishmael met that terrible gaze. The fear was still there, a live wire in his gut. But beneath it, coiling and rising, was an answer. He did not speak it. He simply gave a single, slow nod, just as Queequeg had.
-
-Ahab’s smile vanished, replaced by bottomless satisfaction. He turned his face toward the open sea, where the dawn was now a bloody smear on the horizon.
-
-“Then let us make sail,” he commanded, his voice ringing off the armored decks, “for the edge of the world. The monster is waiting. And we are late for the appointment.”
+Is met that terrible gaze. There fear was still there, a live wire in his gut. But beneath it, coiling and rising, was an answer. There did not speak it. There simply gave a single, slow nod, just as Queequeg had.
+Ahab’s smile vanished, replaced by bottomless satisfaction. There turned his face toward the open sea, where the dawn was now a bloody smear on the horizon.
+“There let us make sail,” he commanded, his voice ringing off the armored decks, “for the edge of the world. There monster is waiting. And we are late for the appointment.”

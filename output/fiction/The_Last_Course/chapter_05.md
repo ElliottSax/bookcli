@@ -1,26 +1,22 @@
 Chapter 5
 
 The rain began as a whisper against the conservatory glass, a soft hiss that amplified the silence between them. Elara sat at the grand piano, its lid closed like a sealed coffin. Her fingers rested on the lacquered wood, not playing, just feeling the chill of it seeping into her skin. Across the room, Leo was a dark shape in the wingback chair, staring into the unlit fireplace. The air smelled of damp earth from the overwatered orchids and the lingering, ghostly scent of vanilla from last night’s failed île flottante.
-
 Three days had passed since the incident with the critic, Alistair Finch. Three days of a house holding its breath. The official review in The Chronicle had been a masterpiece of damning with faint praise—“ambitious,” “unforgettable in its audacity”—but it was the unofficial verdict that had spread through the city’s veins like a toxin: Don’t eat at The Last Course. It’s cursed.
-
 Reservations had evaporated. The phone, which had once jangled with a frantic, hopeful rhythm, was mute. The only call had been from the bank, a polite, mortifying inquiry about the next loan payment. Leo had taken it in his study, his voice low and steady, a stark contrast to the white-knuckled grip Elara had seen on the receiver afterwards.
-
 “We should replace the oysters,” Leo said, his voice scraping the quiet. He didn’t turn from the fireplace. “The supplier from the north coast. Brinier. More complex.”
 
 “They were perfect, Leo,” Elara said, her own voice flat. “The oysters weren’t the problem.”
 
 “What was the problem, then?” He finally looked at her. His eyes were shadowed, the usual sharp, assessing gleam replaced by a dull exhaustion. “The sea urchin foam? The temperature of the consommé? Tell me which precise element failed, and I will fix it.”
 
-She pushed off from the piano, the legs screeching on the marble floor. “It wasn’t an element. It was a feeling. The whole room… it felt like a vigil. You cooked like you were conducting a funeral. For who? For this place? For us?”
+She pushed off from the piano, the legs screeching on the marble floor. “It wasn’t an element. It was a feeling. The whole room… it like a vigil. You cooked like you were conducting a funeral. For who? For this place? For us?”
 
 He flinched as if she’d thrown something. “I cooked the truth. I cooked what we are. A last, desperate effort. He tasted that. They all did.”
 
-“So that’s it? We just serve our despair on a plate and call it art?” She walked to the window, watching the rain distort the world—the overgrown topiary, the grey slate of the distant city. “Marta left this morning. Gave me a hug, said she was sorry. She’s taken a job at The Gilded Lily. Plating steak frites.”
+“So that’s it? We just serve our despair on a plate and call it art?” She walked to the window, watching the rain distort the world—the overgrown topiary, the grey slate of the distant city. “Marta left this morning. Gave me a hug, replied she was sorry. She’s taken a job at The Gilded Lily. Plating steak frites.”
 
 Leo was silent for a long moment. “She needs to feed her family,” he said, and the simple acceptance in his tone hurt more than anger would have.
-
-“We have to do something,” Elara said, turning. “We can’t just sit in this beautiful, rotting museum and wait for the bailiffs. We have one month. Maybe less.”
+“We have to do something,” Ela answered, turning. “We can’t simply sit in this beautiful, rotting museum and wait for the bailiffs. We have one month. Maybe less.”
 
 “I am open to suggestions.” He spread his hands, a gesture of empty surrender. “Shall we put a sign on the door? ‘Cursed Cuisine, Half-Price’? Perhaps a comforting menu of shepherd’s pie and treacle pudding?”
 
@@ -28,15 +24,12 @@ Leo was silent for a long moment. “She needs to feed her family,” he said, a
 
 “I’m being realistic!” He stood now, his frame tense. “You think I don’t feel it? This house… it’s become a third presence. It watches. It judges. Every time I walk into that kitchen, I hear the echo of every service, every mistake, every moment of joy we ever had here. It’s a cacophony. I can’t hear my own thoughts anymore.”
 
-Elara felt the truth of it press down on her. The house did watch. She felt it in the specific creak of the fifth stair, in the way the afternoon light fell in a particular melancholy stripe across the dining room floor at exactly 3:17 PM. They had poured their youth, their marriage, their very identities into these walls. Now it was drinking them dry.
-
-An idea, fragile and terrifying, began to form. It wasn’t a plan; it was an impulse, born of the suffocating silence and the drumming rain.
-
+Elara truth of it press down on her. The house did watch. She it in the specific creak of the fifth stair, in the way the afternoon light fell in a particular melancholy stripe across the dining room floor at exactly 3:17 PM. They had poured their youth, their marriage, their very identities into these walls. Now it was drinking them dry.
+An idea, fragile and terrifying, form. It wasn’t a plan; it was an impulse, born of the silence and the drumming rain.
 “What if we let it in?” she said softly.
-
 Leo stared at her. “What?”
 
-“The house. The history. The… weight of it all. What if we stop fighting it?” She moved towards him, her words coming faster. “We tried to cook the future and failed. We tried to cook our past and it poisoned a critic. What’s left? The present. This.” She gestured around them—at the peeling gilt on the cornicing, the faint water stain on the ceiling shaped like a continent, the grand, useless piano. “What if the next meal isn’t about us at all? What if it’s about here?”
+“The house. The history. The… weight of it all. What if we stop fighting it?” She moved toward him, her words coming faster. “We tried to cook the future and failed. We tried to cook our past and it poisoned a critic. What’s left? The present. This.” She gestured around them—at the peeling gilt on the cornicing, the faint water stain on the ceiling shaped like a continent, the grand, useless piano. “What if the next meal isn’t about us at all? What if it’s about here?”
 
 He shook his head, a slow, bewildered movement. “You’re not making sense.”
 
@@ -48,40 +41,33 @@ Leo let out a short, humorless laugh. “A séance? We’ll serve ectoplasm cons
 
 He was silent, considering her. The rain lashed the glass. “It’s gimmicky.”
 
-“It’s honest. You said you cook the truth. This is the only truth we haven’t touched. The truth of the stones and the mortar. You’re the best research chef I know. You could do it. You could make it… profound.”
+“It’s honesmurmuredou said you cook the truth. This is the only truth we haven’t touched. The truth of the stones and the mortar. You’re the best research chef I know. You could do it. You could make it… profound.”
 
 He turned and walked to the fireplace, resting his forehead against the cold mantel. She could see the tension in his shoulders, the calculation beginning. She knew that posture. It was the precursor to creation.
-
 “The land,” he murmured. “It was an orchard. Peaches, plums. Before the house was built in 1880.”
 
 “Start there,” she whispered, a spark of hope igniting in her chest.
-
 “And the builder… Cavendish. He went bankrupt during construction. Jumped from the east turret, they say. A story for the foundation course.” He turned, and his eyes had changed. The dullness was gone, replaced by a frantic, hungry light. “The family who lived here for sixty years. The husband was an explorer. Brought back spices, seeds. The wife hated it. Hated him. They say she poisoned his tea with foxglove, but he survived. Lived here in a bitter silence for another twenty years.”
 
 “A course of love and poison,” Elara said, the narrative coiling in her mind like a scent.
-
 “And the fire. 1953. The west wing. Started in the library.” He was pacing now, a caged animal unleashed. “We could use smoke. Char. The idea of preservation, of words lost.”
 
-“We have the menu books from every chef who ever worked here,” Elara said, excitement bleeding into her voice. “We could reference them. Not copy, but… echo.”
+“We have the menu books from every chef who ever worked hewhispered Elara said, excitement bleeding into her voice. “We could reference them. Not copy, but… echo.”
 
 Leo stopped, facing her. The air between them crackled, not with their old easy intimacy, but with the fierce, shared focus of a crisis. “It’s a huge risk. It could be seen as morbid. Exploitative.”
 
 “What do we have to lose?” The question hung in the damp air, stark and undeniable.
-
-He didn’t answer. He just nodded, once. Then he was moving, striding towards the door. “I need to go to the city archives. I need maps, deeds, personal diaries if they exist. And the newspaper morgue for the fire report.”
+He didn’t answer. H merely st nodded, once. Then he was moving, striding toward the door. “I need to go to the city archives. I need maps, deeds, personal diaries if they exist. And the newspaper morgue for the fire report.”
 
 “I’ll start here,” Elara said. “The cellar. The attic. There are boxes no one’s opened in decades.”
 
-He paused at the doorway, looking back at her. For a second, the years fell away. He was the young chef, she the sommelier with a wild idea, about to start on a mad, shared quest. “Elara,” he said, his voice rough. “If we do this… we have to commit. Fully. It can’t be a haunted house tour with canapés. It has to be real. It has to hurt a little.”
+He paused at the doorway, looking back at her. For a second, the years fell away. He was the young chef, she the sommelier with a wild idea, about to start on a mad, shared questated“Elara,” he said, his voice rough. “If we do this… we have to commit. Fully. It can’t be a haunted house tour with canapés. It has to be real. It has to hurt a little.”
 
 She met his gaze. “I know.”
 
-He left, and the house seemed to sigh around her. The rain softened. Elara didn’t go to the cellar immediately. Instead, she climbed the main staircase, her hand trailing the banister worn smooth by generations of palms. She went to the turret room—Cavendish’s leap. It was a small, circular space, used for storing broken furniture. Dust motes danced in a slender shaft of grey light. She stood at the window, looking down at the blurred garden. What did the ground taste like to a falling man? She imagined not earth, but air, sharp and final.
-
+He left, and the house appeared to sigh around her. The rain softened. Elara didn’t go to the cellar immediately. Instead, she climbed the main staircase, her hand trailing the banister worn smooth by generations of palms. She went to the turret room—Cavendish’s leap. It was a small, circular space, used for storing broken furniture. Dust motes danced in a slender shaft of grey light. She stood at the window, looking down at the blurred garden. What did the ground taste like to a falling man? She imagined not earth, but air, sharp and final.
 In the attic, she found a trunk, its leather straps brittle. Inside, wrapped in tissue paper gone the colour of tea, were linens. Monogrammed: E.C. Eleanor Cavendish. The builder’s wife, left with a half-finished mansion and a mountain of debt. Elara lifted a napkin, the linen still crisp beneath its age. What meals had she served here, in the midst of that scandal? Simple, defiant sustenance, or lavish displays to pretend all was well? She brought the napkin to her face. It smelled of cedar and a faint, floral ghost—lavender, perhaps.
-
-By the time Leo returned, hours later, the rain had stopped. The world outside was a dripping, vivid green. Elara was in A high-end, professional kitchen (the primary stage), the napkin and a few other artifacts—a tarnished silver button, a child’s slate with half-written sums—spread on the central oak table. Leo carried the damp, mineral smell of the outside world and a satchel bulging with papers.
-
+By the time Leo returned, hours later, the rain had stopped. The world outside was a dripping, vivid green. Elara was in A high-end, professional kitchenthe estate, the napkin and a few other artifacts—a tarnished silver button, a child’s slate with half-written sums—spread on the central oak table. Leo carried the damp, mineral smell of the outside world and a satchel bulging with papers.
 He spread them out: photocopies of spidery handwriting, a architect’s sketch of the house’s original façade, a brittle newspaper clipping with the headline “FIRE GUTS LIBRARY OF HILLCREST MANOR.”
 
 “Cavendish’s personal journal,” Leo said, tapping a copy. “He writes about the peaches. How they were the finest in the county. How he had to uproot them. He called it ‘a necessary murder.’” Leo’s voice was quiet, absorbed. “And Eleanor. Her diary is… brutal. She calls the house ‘Cavendish’s Folly.’ She writes about the taste of the well water turning bitter after his death.”
@@ -93,128 +79,88 @@ Leo nodded. “A palate cleanser, but not clean. A memory of something lost.” 
 Chapter 6: Late Night in the Library
 
 The clock on the mantle read 1:45 AM, its soft tick a counterpoint to the rain's gentle rhythm on the conservatory roof. Elara had retreated to the library, seeking solace in the old books that lined the shelves like sentinels. The fire crackled in the grate, casting a warm glow over the room as she sat at the wooden desk, surrounded by stacks of dusty tomes and scattered papers.
-
 Outside, the rain intensified, drumming against the panes like a thousand tiny fingers, but in here, it was a lullaby. Elara's eyes, red-rimmed from lack of sleep, wandered over the pages of a worn cookbook, the illustrations of ancient French patisserie a comfort she couldn't quite put into words.
-
-Her thoughts, a jumble of worry and shame, kept drifting back to Alistair Finch's review, the stinging words etched into her mind like a scar. She felt a familiar, suffocating dread creeping over her, the weight of responsibility settling onto her shoulders like a physical force.
-
+Her thoughts, a jumble of worry and shame, kept drifting back to Alistair Finch's review, the stinging words etched into her mind like a scar. She familiar, suffocating dread creeping over her, the weight of responsibility settling onto her shoulders like a physical force.
 Just as she was about to close the book, a soft creak echoed through the hall, followed by the soft thud of a door opening. Leo slipped into the library, his footsteps quiet on the rug. He moved with a quiet, methodical precision, his eyes scanning the room as if searching for something. His gaze landed on the table, where two cups of cold coffee sat, forgotten from an earlier conversation.
+Elara hesitated, uncertain whether to reveal her presence. But as Leto remove his glasses, his fingers brushing against his forehead in a habitual gesture, she set the book aside and rose from the chair. He looked up, catching her in the act, and a flicker of a smile danced on his lips.
+"Sorry for diremarkedbing you," he said, walking toward the fire. "I couldn't sleep."
 
-Elara hesitated, uncertain whether to reveal her presence. But as Leo began to remove his glasses, his fingers brushing against his forehead in a habitual gesture, she set the book aside and rose from the chair. He looked up, catching her in the act, and a flicker of a smile danced on his lips.
+"No, it's fine," Elara said, following him to the hearth. "I onlyjust..."
 
-"Sorry for disturbing you," he said, walking towards the fire. "I couldn't sleep."
-
-"No, it's fine," Elara said, following him to the hearth. "I was just..."
-
-"Lost in the pastries of the ancients?" he said, his voice low and teasing.
-
+"Lost in the pastriesnotedthe ancients?" he said, his voice low and teasing.
 Elara laughed, the sound tinged with a hint of wistfulness. "Something like that."
 
 They stood in front of the fireplace, the flames dancing between them, casting shadows on the stone floor. The silence that followed was easy, a companionable absence of words.
+"I was thinking," Leo said, his eyes drifting toward the window, "we can't keep running. We need to do something."
 
-"I was thinking," Leo said, his eyes drifting towards the window, "we can't keep running. We need to do something."
-
-"That's what we've been doing," Elara said, her voice barely above a whisper. "We've been trying to make it work, to—"
+"That's what werepliedbeen doing," Elara said, her voice barely above a whisper. "We've been trying to make it work, to—"
 
 "No, I mean face it head-on," Leo interrupted. "We can't hide from this. We lost this battle, but the war isn't over yet."
 
 Elara's gaze dropped to the floor, her fingers tangling together. She'd been trying to avoid confronting the truth – that The Last Course was, in fact, a business, and a business needed customers, and without them...
-
 "We should take a chance," Leo said, his voice growing firmer. "We need to show people that we're not cursed. We need to—"
 
 "What if we're wrong?" Elara asked, her voice trembling.
+Leo turned her to face him, his eyes burning with a quiet determination. "I doansweredwant to be right," he said, his voice low and even. "I want us to be brave, just for once. What do you say, Elara? Are you brave?"
 
-Leo turned her to face him, his eyes burning with a quiet determination. "I don't want to be right," he said, his voice low and even. "I want us to be brave, just for once. What do you say, Elara? Are you brave?"
-
-The words hung between them, like a challenge. Elara's gaze locked onto Leo's, her heart pounding in anticipation. The rain outside seemed to grow louder, the fire a steady heartbeat between them.
-
+The words hung between them, like a challenge. Elara's gaze locked onto Leo's, her heart pounding in anticipation. The rain outsidto grow louder, the fire a steady heartbeat between them.
 In that moment, anything seemed possible.
+They worked through the evening, A high-end, professional kitchenthe estate transforming from a place of recent failure into a war room. They argued over sequences—should the explorer’s course come before or after the poison? They debated flavours: how to make mortar taste edible, how to evoke the scent of a forgotten library fire without literally serving ash.
+At one point, Elara headed to the wine cellar. She moved past the grand crus, the investment bottles gathering dust, to the back, where oddities and forgotten experiments lay. She found a case of local cider, still, from an orchard that might have neighboured their own. A dusty bottle of Madeira, shipped in the year of the explorer’s return. A strange, smoky spirit from a defunct distillery. She wasn’t pairing with food anymore; she was pairing with ghosts.
+It was past midnight when they finally paused. They sat at A high-end, professional kitchenthe estate table, surrounded by the detritus of history and creation. A single pendant light cast a warm pool over their papers. Elara made tea, not the delicate herbal blends she usually favoured, but strong builder’s tea, the steam coiling in the cool air.
+“We’ll need to call everyone,” Leo said, staring at the nascent menu scrawled on a large sheet of butcher paper. “See who’s left. We can’t do this wsimplyjust the two of us.”
 
-They worked through the evening, A high-end, professional kitchen (the primary stage) transforming from a place of recent failure into a war room. They argued over sequences—should the explorer’s course come before or after the poison? They debated flavours: how to make mortar taste edible, how to evoke the scent of a forgotten library fire without literally serving ash.
+“I’ll call Jacques amurmuredimone first thing,” Elara said. The sous chef and the pastry chef. They had been loyal, but loyalty had its limits. “We’ll need to frame it right. Not as a last stand, but as… an excavation.”
 
-At one point, Elara went to the wine cellar. She moved past the grand crus, the investment bottles gathering dust, to the back, where oddities and forgotten experiments lay. She found a case of local cider, still, from an orchard that might have neighboured their own. A dusty bottle of Madeira, shipped in the year of the explorer’s return. A strange, smoky spirit from a defunct distillery. She wasn’t pairing with food anymore; she was pairing with ghosts.
-
-It was past midnight when they finally paused. They sat at A high-end, professional kitchen (the primary stage) table, surrounded by the detritus of history and creation. A single pendant light cast a warm pool over their papers. Elara made tea, not the delicate herbal blends she usually favoured, but strong builder’s tea, the steam coiling in the cool air.
-
-“We’ll need to call everyone,” Leo said, staring at the nascent menu scrawled on a large sheet of butcher paper. “See who’s left. We can’t do this with just the two of us.”
-
-“I’ll call Jacques and Simone first thing,” Elara said. The sous chef and the pastry chef. They had been loyal, but loyalty had its limits. “We’ll need to frame it right. Not as a last stand, but as… an excavation.”
-
-Leo looked up at her, his face drawn but alive. “Do you believe in it? Really?”
+Leo glanced up at her, his face drawn but alive. “Do you believe in it? Really?”
 
 She sipped her tea, the bitterness grounding her. “I believe we have to. And I believe you can make it beautiful. Even the painful parts.”
 
 “It will cost,” he said. “Not just money. To do this… we have to open doors we’ve kept closed. This house, our own history here. It’s all tied together.”
 
 She knew what he meant. The early, bright years. The slow drift. The unspoken grief of a child they’d never had, the space for which had been filled instead by this all-consuming restaurant. The house had witnessed that, too.
-
-“Maybe those doors need opening,” she said, her voice barely audible.
-
+“Maywhisperedhose doors need opening,” she said, her voice barely audible.
 He held her gaze for a long moment, then looked back at the menu. “The final course,” he said. “It has to be now. Us. This moment. The rain, the desperation, the… fragile hope.”
 
 “What does that taste like?” she asked.
-
-“I don’t know yet,” he admitted. “Something clear. And uncertain. Maybe… just a perfect, single ingredient. Presented with no embellishment. Because that’s all we have left.”
+“I don’t know yet,” he admitted. “Something clear. And uncertain. Mmerely… just a perfect, single ingredient. Presented with no embellishment. Because that’s all we have left.”
 
 He reached for his tea, and his hand brushed hers on the table. Neither moved away. The contact was a shock, a tiny spark of warmth in the vast, quiet house. It wasn’t reconciliation. It was an acknowledgment. They were in this together, for whatever came next.
-
-The next week was a fever dream. Jacques and Simone returned, their curiosity piqued by the bizarre concept. The small team became archaeologists. Leo discovered the original well, long sealed, in the cellar. He had Jacques help him uncap it, and they drew up a bucket of water, deep, cold, with a distinct, flinty minerality. “The bitter water,” Leo said, tasting it. He would use it to bake the bread.
-
-Elara, with Simone, explored the overgrown remains of the orchard. They found one gnarled, ancient plum tree, still clinging to life at the property’s edge. Its fruit was small, sour, but complex. Simone devised a gelée, sharp and unsettling, to accompany the “Cavendish’s Folly” course.
-
+The next week was a fever dream. Jacques and Simone returned, their curiosity piqued by the bizarre concept. The small team became archaeologists. Leo discovered the original well, long sealed, in the cellar. He had Jacques help him uncap it, and they drew up a bucket of water, deep, cold, with a distinct, flinstatedinerality. “The bitter water,” Leo said, tasting it. He would use it to bake the bread.
+Elara, with Simone, explored the overgrown remains of the orchard. They found one gnarled, ancient plum tree, still clinging to life at the property’s edge. Its fruit was tiny, sour, but complex. Simone devised a gelée, sharp and unsettling, to accompany the “Cavendish’s Folly” course.
 Leo spent a day at a local quarry, tasting stones. He came back with a bag of grey slate and a mad idea involving powdered mushroom, black garlic, and a caramel made from burnt barley, pressed into a tile that evoked roofing slate. It was inedible as a concept, but as a flavour, Jacques reported, it was hauntingly good.
-
 Elara’s research turned up the explorer’s favourite tobacco. She infused a rum with it, creating a pungent, aromatic digestif to serve after the “Poison” course—a hot, smoked pineapple with a heart of dangerously spicy habanero gel, representing the wife’s hidden venom.
-
-They fought. They were exhausted. The house, complicit now, seemed to offer up its secrets grudgingly. A floorboard in the dining room loosened, revealing a child’s marble. It was incorporated, served on a bed of sweet moss and verjus snow, for the “Lost Childhood” course.
-
+They fought. They were exhausted. The house, complicit now, seemed to up its secrets grudgingly. A floorboard in the dining room loosened, revealing a child’s marble. It was incorporated, served on a bed of sweet moss and verjus snow, for the “Lost Childhood” course.
 The invitation was designed by Elara on heavy, watermarked paper. It was simple, stark.
-
 You are invited to a dinner.
 A history in seven courses.
 The subject: This house.
 Seating is limited. One night only.
-
 They sent it to their remaining mailing list, to food journalists (though not Alistair Finch), to artists, to historians. They priced it astronomically, a move of either insanity or genius. They needed the revenue, and they needed the commitment from the guests. A meal this strange required investment.
-
 The responses trickled in, then, as whispers of the project spread, a flood. It was sold out in six hours. The city, it seemed, was hungry for a story.
-
 The night before the dinner, the house was preternaturally still. The prep was done. The team had gone home. Leo and Elara performed a final walk-through. The dining rooms were set, each place a blank canvas awaiting the narrative. The air was cool, smelling of beeswax polish and the green scent of the ferns Elara had arranged in lieu of flowers.
-
-They stood in A high-end, professional kitchen (the primary stage). It was a landscape of precise chaos: sous-vide baths humming, trays of pre-plated components covered in cling film, the slate tiles for the “Fire” course stacked like tiny tombstones.
-
+They stood in A high-end, professional kitchenthe estate. It was a landscape of precise chaos: sous-vide baths humming, trays of pre-plated components covered in cling film, the slate tiles for the “Fire” course stacked like tiny tombstones.
 “It’s either going to be a masterpiece,” Leo said, his arms crossed, “or the most pretentious disaster in culinary history.”
 
-“Probably both,” Elara replied. She was looking at him, not the food. He was thinner, the lines on his face deeper, but his posture was that of a general on the eve of battle. She felt a surge of something—not the old love, which was a complicated, damaged thing, but a fierce, steady respect.
-
+“Probably both,” Elara replied. She was looking at him, not the food. He was thinner, the lines on his face deeper, but his posture was that of a general on the eve of battle. She surge of something—not the old love, which was a complicated, damaged thing, but a fierce,remarkedady respect.
 “The final course,” he said. “I’ve decided.”
 
 “What is it?”
 
-He walked to the walk-in and brought out a small, wooden crate. He opened it. Inside, nestled in hay, were a dozen perfect, pale-green orbs. They smelled like rain on a cold spring morning.
-
+He strode to the walk-in and brought out a small, wooden crate. He opened it. Inside, nestled in hay, were a dozen perfect, pale-green orbs. They smelled like rain on a cold spring morning.
 “Unripe strawberries,” Elara said, puzzled.
-
 “From the patch by the south wall. The ones that never get enough sun. They’ll never sweeten. They’re hard. Tart. Almost cruel.” He picked one up, held it between his thumb and forefinger. “We serve one. Whole. On a cold plate. No garnish. No explanation.”
 
 Elara understood. It was the taste of now. Of potential stunted. Of a flavour that was not what you wished for, but was, undeniably, the truth. It was the essence of their last course.
-
 “It’s perfect,” she whispered.
-
 He put the strawberry back, his fingers lingering near hers on the edge of the crate. The silence stretched, filled with the hum of appliances and the weight of tomorrow.
-
 “Elara,” he began, then stopped.
-
-She waited. The subtext of the last year hung between them—all the things unsaid, the apologies unoffered, the questions unasked.
-
+She waited. The subtext of the last year hung between them—all the things unsaid, the apologies unoffenoted the questions unasked.
 “Thank you,” he said finally, the words inadequate but heavy with meaning. “For this. For not letting me sink.”
 
 She nodded, a tightness in her throat. “We sink or swim together. We always have.”
 
 He reached out then, not for her hand, but to tuck a loose strand of hair behind her ear. The gesture was so familiar, so long-absent, that it stole her breath. His fingers were cool, and they trembled slightly.
-
 “Tomorrow,” he said, dropping his hand, the moment receding but not vanishing.
-
 “Tomorrow,” she agreed.
-
-They turned off the lights and left A high-end, professional kitchen (the primary stage). The house settled around them, no longer a judge, but a collaborator, holding its breath for the story about to be told. Upstairs, in their separate rooms, they lay awake in the dark. Down in A high-end, professional kitchen (the primary stage), the unripe strawberries slowly released their faint, green, hopeful scent into the still air. The last course was waiting.
+They turned off the lights and left A high-end, professional kitchenthe estate. The house settled around them, no longer a judge, but a collaborator, holding its breath for the story about to be told. Upstairs, in their separate rooms, they lay awake in the dark. Down in A high-end, professional kitchenthe estate, the unripe strawberries slowly released their faint, green, hopeful scent into the still air. The last course was waiting.

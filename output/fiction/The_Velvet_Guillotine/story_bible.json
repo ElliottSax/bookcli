@@ -50,5 +50,6 @@
   "narrative_voice": "Close third-person, focused intensely on L\u00e9o Moreau. Lyrical yet weary, with a noir sensibility. It blends sharp, sensory detail (the smell of wet stone, the feel of a lock) with melancholic introspection.",
   "tone": "Dark, melancholic, and atmospheric with a pervasive sense of inevitable decay. The tone is cynical yet underpinned by a fragile, hard-won sense of moral purpose. The ending is bittersweet\u2014a victory that feels like a defeat, a liberation that is also a form of exile.",
   "plot_summary": "L\u00e9o Moreau, a once-legendary safecracker now drowning his failure in absinthe in a Montmartre dive bar, is pulled from his stupor for one last job. He is tasked with using his unique skills not to steal, but to uncover\u2014to open a metaphorical safe containing a state secret so explosive it could topple the government. As he navigates a labyrinth of corruption, moving from seedy bars to opulent, sinister offices, he is driven by a personal promise tied to an innocent life. The climax is not a physical confrontation, but the silent, decisive act of revealing the truth. He succeeds, triggering a monumental scandal, but in doing so must sever his own identity and vanish. The story ends with L\u00e9o as a ghost walking free yet imprisoned by his sacrifice, while the innocent he fought to protect watches the dawn, holding onto the promise that connects her to the vanished man who changed the world.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 11
 }

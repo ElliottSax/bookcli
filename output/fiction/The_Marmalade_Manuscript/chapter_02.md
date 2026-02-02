@@ -1,54 +1,38 @@
 Chapter 2: Stains and Suspicions
 
-Morning light filled the kitchen of Willow Cottage, a soft, honeyed diffusion pouring through the lace curtains to pool on the worn oak table. Dust motes danced in the beams like tiny, suspended galaxies. At the heart of it sat Eleanor Vance, the strange note—*It wasn’t an accident. Look deeper.*—laid before her like an exhibit. Beside it rested the hefty, cloth-bound cookbook, *The Practical Housekeeper*, smelling of cinnamon and old paper.
+Morning light filled the kitchen of Willow Cottage, a soft glow pouring through the lace curtains to pool on the worn oak table. Dust motes danced in the beams like tiny suspended particles. At the center of it all sat Eleanor Vance, the strange note - *It wasn’t an accident. Look deeper.* - laid before her. Beside it rested the hefty, cloth-bound cookbook, *The Practical Housekeeper*, smelling of cinnamon and old paper.
+She had slept poorly, the silence of Honeywick a stark contrast to the constant noise of London Archives. The note had been on her mind all night, and now, in the gentle light, she approached it with caution, slipping on the white cotton gloves she used for fragile documents.
+The note was tucked deep within the pages, marking a recipe for Seville Orange Marmalade. Agatha’s firm script declared the heading. The recipe itself was detailed, but the margins caught Eleanor's attention. Tiny, meticulous annotations appeared in the same ink, but finer, almost secretive. A date: Feb ‘57. An initial: R.J.. And a symbol resembling a small beehive.
+Her breath caught as she turned the page slowly. The next recipe, for Damson Jam, had similar marks: Aug ‘56 – L.P. – ☼. A sun? A coin? As she flipped further, a jolt of electricity ran through her veins. Blackberry Jelly: Oct ‘58 – M.K. – ♒. Greengage Preserve: Sept ‘57 – A.B. – ⚖. This looked like a code, or a catalogue. But what did it mean?
+Eleanor spent the next hour going through the entire book. Seventeen annotated recipes emerged, each with a date between 1955 and 1960, a set of initials, and a unique symbol. Only the marmalade recipe had the hidden slip of paper with the accusatory note. Why this one? The paper was thicker, a creamy vellum distinct from the cookbook’s pages. Holding it carefully, she raised it toward the window.
+The light revealed more than just the fiber. Faint, greyish impressions showed up on the lower half - not ink, but the indentations of type. Letters were pressed into the vellum from something that had lain on top of it. A cold thrill shot through her. Angling the paper and squinting brought fragments into view: “…local girl…” and “…still no sign…” and a clearer impression: “1956”.
+A missing girl. 1956. The year matched the first cluster of annotations.
+The cottage, once warm and welcoming, now was holding its breath. The cheerful curtains, the row of antique spoons, and the dormant Aga cooker were no longer just decorations, but the backdrop to a decades-old question.
+Eleanor needed some fresh air and context, a voice that wasn’t simply the whisper of old paper. She slipped the note into a clear sleeve, grabbed her coat, and stepped out into Honeywick.
+On the village green, the scene came alive. Ducks paddled on the pond, their wakes rippling the reflection of the ancient stone church. From a converted forge came the rhythmic clang of a blacksmith at work, a comforting sound. The air was filled with the scent of damp earth, woodsmoke, and baking bread - a peaceful scene that seemed at odds with the mystery.
+Her first stop was the village shop, a small store that sold everything from parsnips to postcards. Behind the counter stood a woman with kind eyes and a crown of braided silver hair.
+“You must be Agatha’s niece,” the woman said with a warm smile. “I’m Betty. We all loved your aunt. She was a unique person.”
 
-Sleep had been elusive, the silence of Honeywick a palpable hum against ears accustomed to London Archives’s perpetual growl. Through the dark, the note had pulsed with a quiet, insistent heartbeat. Now, in the gentle light, she approached it with a scholar’s caution, slipping on the white cotton gloves reserved for fragile documents.
+“Eleanor Vance,” she replied, feeling a bit like an imposter. “I’m just starting to realize that.”
 
-Tucked not into the front, but deep within the pages, the note marked a recipe: Seville Orange Marmalade. Agatha’s firm, looping script declared the heading. The recipe itself was detailed, with precise weights and timings, but the margins now snagged Eleanor Vance’s attention. Previously, she’d only seen the note. Now, tiny, meticulous annotations appeared in the same sepia ink, but finer, almost secretive. A date: Feb ‘57. An initial: R.J.. And a symbol resembling a small, stylised beehive.
+Betty handed over the milk and local paper. “Your aunt was one of a kind. She made the best marmalade in three counties. Won many awards at the Honeywick Show. Her Seville orange marmalade was a work of art. Dark, bitter, perfect shred. She’d start making it in January, when the Seville oranges wer merely st right. She said they had a ‘brief, glorious temper’.”
 
-Her breath caught. The paper whispered as she turned the page slowly. The next recipe, for Damson Jam, bore similar marks: Aug ‘56 – L.P. – ☼. A sun? A coin? Flipping further sent a jolt of electricity through her veins. Blackberry Jelly: Oct ‘58 – M.K. – ♒. Greengage Preserve: Sept ‘57 – A.B. – ⚖. A code, or a catalogue. But of what?
+Seville orange. That caught Eleanor's attention. “Did she keep records of her recipes and techniques?” she asked, trying to sound casual.
+Betty chuckled, ringing up the sale. “Agatha? She kept it all in her head, dear. Or so we thought. She was private about her methods, but generous with the results. Always a jar for a neighbor or for the vicar’s fête.” Leaning forward, her voice dropped to a confidential tone. “She was a good listener, your aunt. People would talk to her. She had a way about her. My husband Tom always replied she had a quiet curiosity.”
 
-For an hour, she methodically went through the entire book. Seventeen annotated recipes emerged, each with a date between 1955 and 1960, a set of initials, and a unique symbol. Only the marmalade recipe, with its accusatory note, also contained the hidden slip of paper. Why this one? The paper was thicker, a creamy vellum distinct from the cookbook’s pages. Holding it carefully by the edges, she raised it towards the window.
-
-Light revealed more than just the fibre. Faint, greyish impressions ghosted across the lower half—not ink, but the indentations of type. Letters pressed into the vellum from something that had lain atop it. A cold, sharp thrill shot through her. Angling the paper and squinting brought fragments into view: “…local girl…” and “…still no sign…” and a clearer, larger impression: “1956”.
-
-A missing girl. 1956. The year matching the first cluster of annotations.
-
-The cottage, so warm and whimsical moments before, seemed to hold its breath. Cheerful gingham curtains, the row of antique spoons on the wall, the dormant Aga cooker—they were no longer just set-dressing for a quaint inheritance, but the backdrop to a quiet, decades-old question.
-
-Air and context were needed, a voice that wasn’t the whispering of old paper. Slipping the note into a clear archival sleeve, she grabbed her coat and stepped out into Honeywick.
-
-On the village green, a postcard came to life. Ducks paddled on the pond, their V-shaped wakes rippling the reflection of the ancient stone church. From a converted forge-turned-gallery came the rhythmic clang of a blacksmith at work, a comforting, ancient metronome. Damp earth, woodsmoke, and the faint scent of baking bread filled the air—the antithesis of mystery, a picture of pastoral permanence.
-
-Her first stop was the village shop, an Aladdin’s cave of everything from parsnips to postcards. Behind the counter stood a woman with kind, forget-me-not blue eyes and a crown of braided silver hair.
-
-“You’ll be Agatha’s niece.” The woman’s smile was immediate and warm. “I’m Betty. We were all so fond of your aunt. A proper character.”
-
-“Eleanor Vance.” She returned the smile, feeling like an imposter. “I’m just starting to realise that.”
-
-“Oh, she was one of a kind.” Betty handed over the milk and local paper. “Best marmalade in three counties. Won more ribbons at the Honeywick Show than I’ve had hot dinners. Her Seville orange was a work of art. Dark, bitter, perfect shred. She’d start in January, when the Seville oranges were just right. Said they had a ‘brief, glorious temper’.”
-
-Seville orange. The hook was set. “Did she… keep records? Of her recipes, her techniques?” Eleanor Vance aimed for casual interest.
-
-Betty chuckled, ringing up the sale. “Agatha? She had it all in her head, dear. Or so we thought. Private about her methods, but generous with the results. Always a jar for a poorly neighbour, or for the vicar’s fête.” Leaning forward slightly, her voice dropped to a confidential tone. “She was a listener, your aunt. People would talk to her. She had a way about her. A quiet curiosity, my Tom always said.”
-
-“Tom?”
-
-“My husband. The postman here for forty years. Knew everyone’s business, but like Agatha, he kept it to himself. He’s out the back, sorting the mail for the afternoon round. Go on through; he’ll be glad of a distraction.”
+“Tom?” Eleanor asked.
+“My husband. He was the postman here for forty years. He knew everyone’s business, but like Agatha, he kept it to himself. He’s out back, sorting the mail. Go on through; he’ll be glad of a distraction.”
 
 Pushing through the bead curtain revealed a back room stacked with newspapers and parcels. At a table sat a man with a weathered, friendly face and a postal uniform, spectacles perched on his nose.
-
 “Mr. Postman?” Eleanor Vance began.
-
 “Tom.” He looked up. “And you’re the Vance girl. You have her look about the eyes.” His gaze was direct, but not intrusive.
-
 “Betty said you knew my aunt well.”
 
 “Delivered to Willow Cottage every day for decades.” Tom tied a bundle of letters with a loop of red string. “Rain, snow, or shine. She was always there with a cup of tea if the weather was foul, and a question if it wasn’t.”
 
 “A question?”
 
-“Oh, not nosy questions,” Tom said, his hands moving deftly. “Thoughtful ones. ‘Tom, who lived in the old Miller house before the Cartwrights?’ ‘Tom, is it true the stream changed course after the war?’ ‘Tom, whatever happened to the Honeywick silver? The legend, I mean.’ She was piecing the village together, bit by bit. Not the gossip, mind. The history. The underneath of things.”
+“Oh, not nosy questions,” T answered, his hands moving deftly. “Thoughtful ones. ‘Tom, who lived in the old Miller house before the Cartwrights?’ ‘Tom, is it true the stream changed course after the war?’ ‘Tom, whatever happened to the Honeywick silver? The legend, I mean.’ She was piecing the village together, bit by bit. Not the gossip, mind. The history. The underneath of things.”
 
 *The underneath of things.* A shiver traced Eleanor Vance’s spine.ver run down her spine. “What do you mean by the underneath of things?”
 
@@ -66,79 +50,54 @@ Eleanor Vance’s mind raced, connecting the dots. The note, the annotations, th
 
 Tom’s eyes met hers, a mix of sadness and resolve. “Agatha was a woman of few words, but when she spoke, you listened. She once told me, ‘Sometimes the truth is buried beneath the soil, and it takes patience and care to unearth it.’ I believe she was onto something, but she never shared her findings with anyone. If you want to know more, you’ll have to dig deeper yourself.”
 
-Eleanor Vance thanked Tom and stepped back into the bright morning light. The village green seemed to stretch out before her, a mix of lives and stories woven together over generations. She walked slowly, her mind a whirl of questions and possibilities. The path led her to the village church, its ancient stone walls standing as a silent witness to the passage of time.
-
+Eleanor Vance thanked Tom and stepped back into the bright morning light. The village greeto stretch out before her, a mix of lives and stories woven together over generations. She walked slowly, her mind a whirl of questions and possibilities. The path led her to the village church, its ancient stone walls standing as a silent witness to the passage of time.
 Inside, the air was cool and fragrant with the scent of old wood and polished brass. Stained glass windows cast colorful patterns on the stone floor, and the soft hum of a hymn drifted from the choir loft. Eleanor Vance found a pew near the back and sat down, letting the quiet envelop her.
-
 As she sat, she opened the cookbook again, tracing the annotations with her finger. Each mark, each symbol, was a clue, a piece of a puzzle waiting to be solved. She closed her eyes, trying to imagine Agatha’s world, the village as it was in the 1950s. The people, the places, the secrets they held.
-
-When she opened her eyes, a small, leather-bound journal caught her eye on the pew in front of her. It was old, the cover worn and faded, but the pages inside were surprisingly well-preserved. Curiosity got the better of her, and she opened it to find a series of entries, each dated and signed with initials.
-
+When she opened her eyes, a tiny, leather-bound journal caught her eye on the pew in front of her. It was old, the cover worn and faded, but the pages inside were surprisingly well-preserved. Curiosity got the better of her, and she opened it to find a series of entries, each dated and signed with initials.
 March 15, 1956 - L.P.
 The search continues. No sign of Lily. The villagers are growing restless. Agatha seems more determined than ever to find answers. She spends hours poring over old maps and records, asking questions no one else thinks to ask. I hope she finds what she’s looking for, but part of me fears what the truth might reveal.
-
 May 3, 1956 - R.J.
 Agatha has been visiting the old millhouse. She says she feels a connection to the place, that it holds secrets. I don’t understand it, but I trust her instincts. She’s always been good at seeing things others miss.
-
 July 12, 1956 - M.K.
 The police have given up. They say there’s nothing more they can do. But Agatha won’t let it go. She’s been talking to the older residents, digging through archives. She believes there’s more to the story, and I have to agree. Something doesn’t feel right.
+Eleanor’s heart raced. The journal entries matched the notes in the cookbook, proving Agatha’s search had gone much deeper than she’d thought. She slipped the journal into her bag, meaning to bring it back later, and left the church, her head full of questions.
+Back at Willow Cottage, Eleanor spread the cookbook and the journal on the kitchen table, lining up the dates and initials. Things were starting to connect, but the story was still incomplete. She needed to know more.
+She decided to go to the village hall, where the old records were kept. The building was plain, its wooden doors groaning as she pushed them open. Inside, the air smelled of old paper, and shelves were packed with dusty files and ledgers.
+At a desk by the window, an elderly woman with a keen look glanced up. “Can I help you?”
 
-Eleanor Vance’s heart pounded in her chest. The journal entries matched the annotations in the cookbook, confirming that Agatha’s investigations were far more extensive than she had initially realized. She quickly tucked the journal into her bag, planning to return it later, and left the church, her mind racing with new information.
+“I’m Eleanor Vancemurmuredhe said. “I’m trying to learn about my aunt, Agatha Vance. She lived here in the fifties and sixties. I found some notes that make me think she was looking into a missing girl from 1956. Is there anything here about that?”
 
-Back at Willow Cottage, Eleanor Vance spread the cookbook and the journal on the kitchen table, comparing the dates and initials. The pieces were falling into place, but the full picture remained elusive. She needed more context, more voices from the past.
+The woman’s face softened with recognition. “Agatha Vance. She was a force. I remember her. I’m Margaret, the archivist. What do you need?”
 
-Determined, she decided to visit the village hall, where the archives were kept. The building was a modest structure, its wooden doors creaking as she pushed them open. Inside, the air was musty, the shelves lined with rows of dusty files and bound volumes.
+Eleanor showed her the cookbook and the journal. Margaret studied them closely. “This is interesting. Agatha always had an eye for what others missed. Let me see what we have.”
 
-At a desk near the window, an elderly woman with a sharp, intelligent gaze looked up. “Can I help you, dear?”
+Margaret took her to a part of the archives for local history. After a short search, she pulled out a file labeled *Honeywick Missing Persons - 1956*.
+“This is where to start,” Margaret said, handing it over. “Lily’s case is in here, along with others from that year. There are newspaper articles and police reports, too.”
 
-“I’m Eleanor Vance Vance,” she introduced herself. “I’m trying to learn more about my aunt, Agatha Vance. She lived in Honeywick in the 1950s and 1960s. I’ve found some notes and annotations that suggest she was involved in investigating a missing girl case from 1956. Could you help me find any records or information related to that?”
+Eleanor found a chair and opened the file. The first page was a police report. Lily was last seen leaving school on a Friday afternoon, her backpack over her shoulder. People remembered her walking home, but after that, she vanished.
+The newspaper clippings told a story of growing worry. The town arrived together, forming search parties and offering rewards. But as days became weeks, and weeks became months, people lose hope.
+Eleanor’s chest tightened as she read. Lily’s parents, her friends, the whole village—everyone had been shaken by her disappearance. And still, no one ever learned what happened.
+Further in, she found letters from villagers to the police. One stood out. It was from a woman named Martha, who lived near the old millhouse.
+*Dear Sir,*
 
-The woman’s eyes lit up with recognition. “Ah, Agatha Vance. She was a remarkable woman. I remember her well. I’m Margaret, the archivist. What exactly are you looking for?”
+*I’m writing about Lily going missing. I’ve lived in Honeywick a long time, and I’ve seen strange things around the old millhouse lately. It’s been empty for years, but now I see lights and hear noises there late at night. I think it might have something to do with Lily. Please look into it.*
 
-Eleanor Vance explained her findings, showing Margaret the cookbook and the journal. Margaret’s eyes widened as she examined the documents. “This is quite something. Agatha was always a bit of a detective, you know. She had a knack for uncovering things that others overlooked. Let me see what I can find.”
+*Sincerely,*
+*Martha*
 
-Margaret led her to a section of the archives dedicated to local history and incidents. After a few minutes of searching, she pulled out a thick file labeled Honeywick Missing Persons - 1956.
-
-“This should give you a good starting point,” Margaret said, handing the file to Eleanor Vance. “Lily’s case is in here, along with other missing persons reports from that year. There are also some newspaper clippings and police reports.”
-
-Eleanor Vance settled into a reading nook, the file spread out before her. The first document was a police report, detailing Lily’s disappearance. She was last seen leaving school on a Friday afternoon, her backpack slung over her shoulder. Witnesses reported seeing her walking home, but after that, there was no trace of her.
-
-The newspaper clippings followed, each one more desperate than the last. The community had rallied, organizing search parties and offering rewards. But as the days turned into weeks, and the weeks into months, hope began to fade.
-
-Eleanor Vance’s heart ached as she read through the accounts. Lily’s parents, her friends, the entire village—all had been affected by her disappearance. And yet, despite the efforts, no one had ever found out what had happened to her.
-
-As she went deeper into the file, she came across a series of letters, written by various villagers to the local authorities. One letter, in particular, caught her eye. It was from a woman named Martha, who lived near the old millhouse.
-
-Dear Sir,
-
-I write to you with great concern regarding the disappearance of Lily. I have lived in Honeywick for many years, and I have noticed some strange occurrences around the old millhouse. It has been abandoned for some time, but lately, I have seen lights and heard noises coming from there late at night. I believe it may be connected to Lily’s disappearance, and I urge you to investigate further.
-
-Sincerely,
-Martha
-
-Eleanor Vance’s pulse quickened. The millhouse. It was mentioned in the journal, and now in this letter. Was it a coincidence, or was it a crucial piece of the puzzle?
-
-She thanked Margaret for her help and returned to Willow Cottage, her mind buzzing with new leads. The millhouse was her next destination, and she was determined to uncover the truth, no matter what it might reveal.
-
-As the sun began to set, casting long shadows across the village, Eleanor Vance set out towards the old millhouse. The path was overgrown, the air thick with the scent of wildflowers and damp earth. The millhouse loomed ahead, its once-grand facade now crumbling and overgrown with ivy.
-
-Stepping inside, Eleanor Vance was greeted by the musty smell of decay. The interior was dark, the only light filtering through cracks in the walls. She moved cautiously, her flashlight beam cutting through the gloom. The main room was empty, save for a few scattered pieces of rotting wood and debris.
-
+Eleanor’s pulse jumped. The millhouse. It was in the journal, and now in this letter. That couldn’t be an accident.
+She thanked Margaret and went back to Willow Cottage, her thoughts racing. The millhouse was clearly her next step. She was going to find the truth, whatever it was.
+As the sun dipped low, stretching shadows across the village, Eleanor walked toward the old millhouse. The path was tangled with weeds, the air sweet with wildflowers and wet soil. The building stood ahead, its old walls crumbling under a blanket of ivy.
+Inside, the air was stale and damp. It was dark, with only thin shafts of light breaking through the walls. She moved carefully, her flashlight piercing the gloom. The main room was empty, just broken wood and rubble scattered across the floor.
 But as she explored further, she found a small, hidden compartment behind a loose brick in the wall. Inside, wrapped in an oilskin, was a collection of old photographs and documents. Eleanor Vance’s hands trembled as she unfolded the papers, revealing a series of letters and notes, all dated from the 1950s.
-
 One letter, in particular, stood out. It was addressed to Agatha, and the handwriting was familiar—Martha’s.
-
 Dear Agatha,
 
 I know you are determined to find out what happened to Lily. I have some information that may help. The millhouse has a secret room, hidden behind the wall. I discovered it by accident, and inside, I found evidence that suggests Lily was held captive there. I fear for her safety, and I believe someone is covering it up. Please, be careful. There are powerful forces at play, and they will stop at nothing to keep the truth buried.
-
 Yours truly,
 Martha
 
 Eleanor Vance’s heart raced as she read the letter. The pieces were finally coming together. The millhouse, the hidden room, the missing girl—Agatha had been right all along. Someone had taken Lily, and they had gone to great lengths to cover it up.
-
 But why? And who was behind it?
-
 With the evidence in hand, Eleanor Vance knew she had to act quickly. She needed to speak to the remaining villagers who might have known something, to piece together the final parts of the puzzle.
-
 As she left the millhouse, the sky was darkening, the stars beginning to twinkle overhead. The village of Honeywick, so peaceful and idyllic on the surface, held a dark secret. And Eleanor Vance was determined to bring it to light, no matter the cost.

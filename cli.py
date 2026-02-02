@@ -47,14 +47,13 @@ from lib.config import get_config
 
 def cmd_generate(args):
     """Generate a new book."""
-    from autonomous_pipeline import ConceptGenerator, BookWriter
+    from lib.unified_generator import UnifiedBookGenerator
 
     setup_logging()
     logger = get_logger("cli.generate")
     config = get_config()
 
-    generator = ConceptGenerator()
-    writer = BookWriter()
+    generator = UnifiedBookGenerator(config.paths.fiction_dir)
 
     if args.title:
         # Generate with specific title
@@ -73,20 +72,11 @@ def cmd_generate(args):
 
     logger.info(f"Generating: {concept.get('title')}")
 
-    # Create output directory
-    title_slug = concept['title'].replace(' ', '_').replace("'", "")
-    book_dir = config.paths.fiction_dir / title_slug
-    book_dir.mkdir(parents=True, exist_ok=True)
+    # Generate the book using unified generator
+    result = generator.generate_book(concept)
 
-    # Save concept
-    import json
-    (book_dir / "metadata.json").write_text(json.dumps(concept, indent=2))
-
-    # Write book
-    success = writer.write_book(concept, book_dir)
-
-    if success:
-        logger.info(f"Book generated: {book_dir}")
+    if result and result.success:
+        logger.info(f"Book generated: {result.book_dir}")
         return 0
     else:
         logger.error("Book generation failed")
@@ -144,7 +134,8 @@ def cmd_fix(args):
 
 def cmd_analyze(args):
     """Analyze book quality."""
-    from comprehensive_scorer import ComprehensiveBookScorer
+    from lib.quality_scorer import QualityScorer
+    from fixers import BookContext
 
     setup_logging()
     logger = get_logger("cli.analyze")
@@ -156,23 +147,37 @@ def cmd_analyze(args):
 
     logger.info(f"Analyzing: {book_path.name}")
 
-    scorer = ComprehensiveBookScorer()
-    result = scorer.score_book(book_path)
+    # Load book chapters
+    context = BookContext(book_path)
+    scorer = QualityScorer()
+
+    # Analyze each chapter
+    chapter_scores = []
+    all_issues = []
+
+    for chapter_num, content in context.chapters.items():
+        report = scorer.analyze(content)
+        chapter_scores.append(report.score)
+        for issue in report.issues:
+            all_issues.append(f"Ch{chapter_num}: {issue.message}")
+
+    avg_score = sum(chapter_scores) / len(chapter_scores) if chapter_scores else 0
 
     print(f"\n{'='*60}")
     print(f"QUALITY ANALYSIS: {book_path.name}")
     print(f"{'='*60}")
-    print(f"Overall Score: {result['overall_score']:.1f}/100")
-    print(f"\nDimension Scores:")
+    print(f"Overall Score: {avg_score:.1f}/100")
+    print(f"Chapters Analyzed: {len(chapter_scores)}")
+    print(f"\nChapter Scores:")
 
-    for dim, score in sorted(result['dimensions'].items(), key=lambda x: -x[1]):
+    for i, score in enumerate(chapter_scores, 1):
         bar = '█' * int(score / 10)
         status = '✓' if score >= 70 else '⚠' if score >= 50 else '✗'
-        print(f"  {status} {dim:25s}: {bar:10s} {score:.1f}")
+        print(f"  {status} Chapter {i:2d}: {bar:10s} {score:.1f}")
 
-    if result.get('issues'):
-        print(f"\nIssues Found ({len(result['issues'])}):")
-        for issue in result['issues'][:5]:
+    if all_issues:
+        print(f"\nIssues Found ({len(all_issues)}):")
+        for issue in all_issues[:10]:
             print(f"  - {issue}")
 
     return 0

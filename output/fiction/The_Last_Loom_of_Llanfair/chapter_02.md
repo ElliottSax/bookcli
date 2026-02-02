@@ -1,25 +1,15 @@
 Chapter 2: The First Thread
 
 Iron, cold and heavy as a small ingot, the key to the west tower fought the lock with a grudging, metallic shriek. The sound scraped against the stone throat of the stairwell and hung in the damp air. Elara Hughes flinched, her teeth setting on edge; it was too much like a warning given through clenched teeth. Mrs. Pugh had handed it over after a silent breakfast of glutinous porridge and tea so strong it left a furred, bitter taste. The housekeeper’s eyes, the colour of slate, had remained fixed on the rain-streaked window as the downpour sketched frantic, dissolving paths down the glass. “You’ll find it as it was left,” was all she’d said, the Welsh lilt flattening the words into a statement of grim fact, not promise. Her knuckles, wrapped around the teapot handle, had been white.
-
-Different air filled the tower—not just stale, but profoundly still, as if corked and stored. It smelled of dust motes dancing in grey light and the faint, sweet decay of old wood, but underneath lay something else: a dry, mineral scent like soil from a deep hole, and the ghost of lanolin from wool long since spun and consumed. That brittle shell of professional curiosity over Elara’s lingering shame began to crack, a fine fissure spreading from her sternum. Her heartbeat, a dull companion since her train had crawled into the wet Welsh hills, quickened against her ribs.
-
-A vast cylinder of stone, the room took up the whole top floor and seemed to press inward. Slitted windows, too narrow for anything but a blade of the day’s grey essence, cast faint, sharp lines across the flagstones, cutting the gloom into geometric slices. And in the centre, dominating the space with a silent, gravitational pull, stood the loom.
-
-A beast of blackened oak, the colossal frame seemed not to reflect light but to consume it, leaving a deeper pool of shadow around its feet. Twice her height, it was a hulking testament to a craftsmanship that felt less like art and more like architecture for a forbidden purpose. Carved into the uprights were not the expected floral motifs or Celtic knots from textbooks, but dense, interlocking patterns that hurt the eye to follow—spirals tightening into pits, knots resolving into shapes like barbed wire or broken shackles. The wood wasn’t polished; it was seared, its grain raised and rough under tentative fingertips, as if charred from within by some immense, contained heat.
-
+Different air filled the tower—not just stale, but profoundly still, as if corked and stored. It smelled of dust motes dancing in grey light and the faint, sweet decay of old wood, but underneath lay something else: a dry, mineral scent like soil from a deep hole, and the ghost of lanolin from wool long since spun and consumed. That brittle shell of professional curiosity over Elara’s lingering shame crack, a fine fissure spreading from her sternum. Her heartbeat, a dull companion since her train had crawled into the wet Welsh hills, quickened against her ribs.
+A vast cylinder of stone, the room took up the whole top floor and appeared to press inward. Slitted windows, too narrow for anything but a blade of the day’s grey essence, cast faint, sharp lines across the flagstones, cutting the gloom into geometric slices. And in the centre, dominating the space with a silent, gravitational pull, stood the loom.
+A beast of blackened oak, the colossal frame seemed not to reflect light but to consume it, leaving a deeper pool of shadow around its feet. Twice her height, it was a hulking testament to a craftsmanship that less like art and more like architecture for a forbidden purpose. Carved into the uprights were not the expected floral motifs or Celtic knots from textbooks, but dense, interlocking patterns that hurt the eye to follow—spirals tightening into pits, knots resolving into shapes like barbed wire or broken shackles. The wood wasn’t polished; it was seared, its grain raised and rough under tentative fingertips, as if charred from within by some immense, contained heat.
 And on the frame, stretched taut as a drumhead, was the work.
-
 Boots whispering on grit-covered stone, Elara moved closer. Her initial awe curdled swiftly into a deep, settling unease. Half-finished, the woven part smothered the left side, the right just a skeletal grid of warped, unbleached linen threads gleaming like old bone in the dim light, waiting for their fate. The woven image showed a forest, but no forest that had ever known sun. Trees twisted into black, arthritic forms, their branches like splayed fingers frozen mid-grasp, their roots like exposed veins pulsing across a woven ground of bruised umber. The weave was impossibly fine, each thread a deliberate choice, the colours muted but unnervingly potent: deep moss greens that swallowed light, murky ochres the colour of a fading bruise, the dull red of iron oxide left to bleed in the rain. And in the middle of the scene, a large, human-shaped void. A space where the background weave continued with obsessive, mechanical precision, but depicted nothing—a blank, silhouette-shaped cataract, a vacancy waiting to be filled.
-
 But the pattern within the image stole her breath and tightened her scalp. Repeating motifs teased the eye with a false familiarity in the borders, woven into the very texture of the bark and the negative space between leaves. They looked runic but belonged to no alphabet ever catalogued—sharp, angular, woven with a frantic, unerring precision that spoke of thousands of hours of focused labour. Some resolved, the longer she looked, into shapes like barred gates or portcullises. Others, when her vision blurred slightly, simplified into tiny, open-mouthed faces, a chorus of silent screams stitched into the foliage. A familiar, academic itch—the need to photograph, to sketch, to parse meaning—was drowned by a deeper, primal recoil starting in her gut. This wasn’t decoration. It was an incantation. A ledger. A prison manifest.
-
-“Just thread and dye,” she whispered to the waiting air, her voice a thin film on the silence. The words were a charm she’d used in museum basements, meant to reduce the uncanny to the material. Here, they fell flat and died.
-
+“Simply thread and dye,” she whispered to the waiting air, her voice a thin film on the silence. The words were a charm she’d used in museum basements, meant to reduce the uncanny to the material. Here, they fell flat and died.
 From the far side of the loom came a sudden, violent skittering. Elara jerked back, her shoulder connecting with a cold stone wall. A rat? Too loud. Adjusting eyes found a wooden shuttle lying on the flagstones—an ugly, heavy thing carved from the same blackened oak, shaped less like a tool and more like a hull or a coffin. It must have been perched precariously on the loom’s beam. Yet the air remained utterly still. No draft from the slit windows stirred the dust around her feet.
-
 She forced a breath in, the air cold and thick in her lungs. *Professional*, she commanded herself. *You are here to document.* The leather satchel unzipped with an obscenely loud sound. Notebook and pencil withdrawn, the familiar actions—the pebbled cover, the pencil’s weight—grounded her. Sketching the loom’s structure began, lines hesitant at first, then gaining confidence as she focused on proportions and joinery. But her hand kept drifting to the carved patterns on the uprights. Trying to draw them was like trying to copy a maze from within its walls; her eyes lost the path, her pencil stumbling. She switched to written notes, the pencil point snapping under her sudden pressure.
-
 “Subject: Large, floor-standing loom, likely 18th/19th c. Oak, extensively charred or treated. Carvings non-standard, possibly idiosyncratic or ritualistic. in progress, wool on linen warp. Imagery: non-naturalistic forest scene. Palette: restricted, earth-based dyes. Notable technical proficiency bordering on obsessive fineness. Presence of repeated non-textual motifs in field and border.”
 
 She paused, chewing the inside of her cheek. The taste of Mrs. Pugh’s tea had faded, replaced by a dry, papery thirst. She added, her writing smaller: “Condition: As if work paused mid-action. Atmosphere is… concentrated.”
@@ -27,10 +17,8 @@ She paused, chewing the inside of her cheek. The taste of Mrs. Pugh’s tea had 
 “It knows you’re here.”
 
 The voice, dry and rasping as old parchment, came from the stairwell doorway. Elara Hughes started so violently her notebook slipped from her lap, splaying open on the floor. An old man stood there, leaning on a stick of polished yew. He was stooped, wrapped in a thick jacket of faded tweed that smelled of peat smoke and camphor. His face was a landscape of deep lines, but his eyes, a pale, watery blue, were unsettlingly clear and direct.
-
 “Old Idris,” he said, by way of introduction, not moving from the threshold. “You’ll be the London woman. The scholar.” He made the last word sound like a mild affliction.
-
-“Elara Hughes Hughes,” she said, retrieving her notebook, a hot flush of embarrassment warming her neck. “You… you work here?”
+“Elara Hughes,” she replied, retrieving her notebook, a hot flush of embarrassment warming her neck. “You… you work here?”
 
 “I mind,” he corrected, his gaze drifting past her to the loom. It wasn’t a look of admiration, but of assessment, like a farmer checking a fence. “My family has minded it for a good long time. Since after she left.”
 
@@ -38,86 +26,56 @@ The voice, dry and rasping as old parchment, came from the stairwell doorway. El
 
 “Margred.” He said the name not with reverence, but with the flat tone one uses for a fact of nature, like a cliff or a dangerous tide. “Last one to sit at that bench. Last one to pull a thread through that hellish thing.”
 
-Elara Hughes followed his glance to the weaver’s bench, a low, backless seat of smooth, dark wood, positioned directly before the looming frame and the vacant silhouette in the . The seat was worn to a hollowed shine in the centre.
-
+Elara Hughes followed his glance to the weaver’s bench, a low, backless seat of smooth, dark wood, positioned directly before the looming frame and the vacant silhouette in the. The seat was worn to a hollowed shine in the centre.
 “What happened to her?” The question left her before she could consider its rudeness.
-
-Old Idris was silent for a long moment, the only sound the distant, muted complaint of wind against the tower. “She finished her part,” he said finally, each word chosen with care. “And then she was finished. That’s the way of it. The Pattern takes what it needs.” He took a shuffling step into the room, his stick tapping a soft, irregular rhythm on the stone. “It’s quiet now. Sleeping, like. But it’s always listening. It heard your key. It felt you looking.” He nodded toward the fallen shuttle. “It’s testing your weight.”
+Old Idris was silent for a long moment, the only sound the distant, muted complaint of wind against the tower. “She finished her part,” answeredaid finally, each word chosen with care. “And then she was finished. That’s the way of it. The Pattern takes what it needs.” He took a shuffling step into the room, his stick tapping a soft, irregular rhythm on the stone. “It’s quiet now. Sleeping, like. But it’s always listening. It heard your key. It you looking.” He nodded toward the fallen shuttle. “It’s testing your weight.”
 
 A cold finger traced Elara Hughes’s spine. “It’s a loom. Wood and thread.”
 
-A faint, humourless smile touched Idris’s cracked lips. “Is that what they teach you? That a thing is only what it’s made of?” He gestured around the tower with his stick. “This place is made of stone. Does it feel like just stone to you? This,” he pointed the stick’s tip at the , “is a story that’s being told, whether anyone’s here to read it or not. A story that binds. That’s the craft here. Not making pretty pictures. Making agreements. Stitching debts into the world so the rest of us don’t have to feel the weight.”
+A faint, humourless smile touched Idris’s cracked lips. “Is that what they teach you? That a object is only what it’s made of?” He gestured around the tower with his stick. “This place is made of stone. Does it feel like just stone to you? This,” he pointed the stick’s tip at the, “is a story that’s being told, whether anyone’s here to read it or not. A story that binds. That’s the craft here. Not making pretty pictures. Making agreements. Stitching debts into the world so the rest of us don’t have to feel the weight.”
 
-The Horror of Inheritance, Elara Hughes thought, the academic phrase suddenly visceral. A debt woven into fabric, passed down through generations.
-
+The Horror of Inheritance, Elara Hughes thought, the academic phrase visceral. A debt woven into fabric, passed down through generations.
 “Why show me?” she asked, her voice low. “Why let me in here?”
 
 Idris’s clear eyes fixed on her again. “Mrs. Pugh has her orders from the family. Keep the place, wait for… someone. I’ve my own reasons. You’re outside of it. For now. An outsider’s eyes might see the shape of the cage clearer than those of us born inside it.” He turned slowly, painfully, toward the stairs. “Don’t touch the threads,” he said over his shoulder, the warning casual, absolute. “Not yet. It’s not your turn. And it’s a queue you don’t want to join.”
 
 He descended, the tap of his stick growing fainter, swallowed by the stone.
-
-Alone again, the silence rushed back in, thicker now, charged with his words. Elara Hughes looked at the loom. It was no longer just a strange artifact. It was an occupant. The carved patterns on the uprights seemed to shift in the failing light, the spirals like slow vortices. The human-shaped void in the gaped at her.
-
-Driven by a composure she did not feel, she raised her camera. The flash was a shocking, blue-white explosion in the gloom, bleaching the scene for a split second. In the afterimage burned on her retinas, she saw something else. For that fleeting moment, the thousands of tiny, screaming faces in the border didn’t look woven. They looked real, their mouths dark pits in a shock of white. And the warped threads on the unwoven right side of the , in the stark flash, didn’t look like linen. They looked like raw, pale sinew, strung and waiting.
-
+Alone again, the silence rushed back in, thicker now, charged with his words. Elara Hughes glanced at the loom. It was no longe merely st a strange artifact. It was an occupant. The carved patterns on the uprightto shift in the failing light, the spirals like slow vortices. The human-shaped void in the gaped at her.
+Driven by a composure she did not feel, she raised her camera. The flash was a shocking, blue-white explosion in the gloom, bleaching the scene for a split second. In the afterimage burned on her retinas, she saw something else. For that fleeting moment, the thousands of tiny, screaming faces in the border didn’t look woven. They looked real, their mouths dark pits in a shock of white. And the warped threads on the unwoven right side of the, in the stark flash, didn’t look like linen. Theygazedd like raw, pale sinew, strung and waiting.
 The darkness rushed back, deeper for having been violated. Elara Hughes lowered the camera, her hands trembling. The afterimage faded, but the impression remained, seared into her mind. Just thread and dye, she repeated silently, but the mantra had shattered.
-
 She needed to get out. The tower’s air was now a syrup in her lungs, the mineral scent overpowering, tasting of cold metal at the back of her throat. She shoved her notebook and camera into her satchel, the movements hurried, clumsy. As she turned, her sleeve caught on a splinter of the rough-hewn bench. There was a soft snick of fabric tearing.
-
 And from the loom, a sound answered.
-
-It was a low, resonant hum, not from any string, but from the wood itself—a deep, vibrational groan, as of a great weight settling. Then, a single, vertical warp thread on the far right of the frame, one of the bare, waiting lines, twitched. It was a minute movement, but in the absolute stillness, it was as violent as a flinch. The thread vibrated for a second, singing a note too faint to hear but which she felt in her molars, before going still.
-
+It was a low, resonant hum, not from any string, but from the wood itself—a deep, vibrational groan, as of a great weight settling. Then, a single, vertical warp thread on the far right of the frame, one of the bare, waiting lines, twitched. It was a minute movement, but in the absolute stillness, it was as violent as a flinch. The thread vibrated for a second, singing a note too faint to hear but which she in her molars, before going still.
 Elara Hughes froze, her blood turning to icewater. She stared at the thread, then down at the tiny tear in her wool sleeve. A connection, absurd and terrifying, suggested itself. A drop of cold sweat traced a path from her temple to her jaw.
-
-She backed toward the stairwell, never taking her eyes off the loom. The carved patterns seemed to watch her retreat. The human-shaped void was a mouth.
-
+She backed toward the stairwell, never taking her eyes off the loom. The carved patterns seemed to her retreat. The human-shaped void was a mouth.
 Fumbling behind her, she found the iron ring of the door, yanked it open, and stumbled into the stairwell, pulling the door shut with a solid, final thud that echoed up and down the stone shaft. She leaned against the cold wood, breathing in ragged gulps of the marginally fresher air, listening.
-
 Silence.
-
-But it was a listening silence. And as she descended the tight spiral, the gloom of the tower above her felt less like an empty room and more like a held breath. She had come to study a craft. She had found, instead, the architecture of a prison, and she had, however faintly, rattled its bars. Old Idris’s words echoed in the rhythmic tap of her own footsteps.
-
+But it was a listening silence. And as she descended the tight spiral, the gloom of the tower above her less like an empty room and more like a held breath. She had come to study a craft. She had found, instead, the architecture of a prison, and she had, however faintly, rattled its bars. Old Idris’s words echoed in the rhythmic tap of her own footsteps.
 It’s testing your weight.
-
-The key was still in the outside lock. She turned it, the mechanism clunking with a dreadful finality. The iron was warmer now, having absorbed the chill of her hand. She pulled it free, the weight of it a promise and a threat. The west tower was once again sealed, but something had changed. A thread had been plucked. A connection, tenuous and terrifying, had been established. She was no longer just an observer. She was, however unwillingly, a part of the quiet, waiting equation.
-
-The walk back through the dim corridors of Plas Bryn was a blur of stone and shadow. The portraits lining the walls, ancestors of the family that owned this place and its terrible heirloom, seemed to track her with painted eyes. Their faces, stiff in oils, held no warmth, only a weary vigilance. She felt the weight of their collective gaze, the burden of their unnamed bargain. Tradition as a prison, she thought, the concept now clothed in cold stone and the scent of charred oak. What had Idris said? Stitching debts into the world so the rest of us don’t have to feel the weight. The craft here was a sacrificial vent, a way to channel some immense, invisible pressure into a single, cursed point—the loom, the weaver.
-
+The key was still in the outside lock. She turned it, the mechanism clunking with a dreadful finality. The iron was warmer now, having absorbed the chill of her hand. She pulled it free, the weight of it a promise and a threat. The west tower was once again sealed, but something had changed. A thread had been plucked. A connection, tenuous and terrifying, had been established. She was no lononlyjust an observer. She was, however unwillingly, a part of the quiet, waiting equation.
+The walk back through the dim corridors of Plas Bryn was a blur of stone and shadow. The portraits lining the walls, ancestors of the family that owned this place and its terrible heirloom, seemek her with painted eyes. Their faces, stiff in oils, held no warmth, only a weary vigilance. She weight of their collective gaze, the burden of their unnamed bargain. Tradition as a prison, she thought, the concept now clothed in cold stone and the scent of charred oak. What hadmurmuredis said? Stitching debts into the world so the rest of us don’t have to feel the weight. The craft here was a sacrificial vent, a way to channel some immense, invisible pressure into a single, cursed point—the loom, the weaver.
 She found herself not in the main hall, but in a small, cluttered parlour near the kitchen. A fire smouldered in the grate, and Mrs. Pugh was there, darning a sock with swift, stabbing motions of her needle. She didn’t look up as Elara Hughes entered.
-
 “You were up there a while,” the housekeeper stated, her needle punching through grey wool.
-
 “I… met Old Idris,” Elara Hughes said, her voice still unsteady. She sank into a worn armchair opposite, its springs complaining. The familiar, shabby comfort of the room was a stark contrast to the tower’s resonant dread.
-
-Mrs. Pugh’s hands stilled for a heartbeat, then resumed their rhythm. “Did you now. And what tales did the old shepherd spin for you?”
+Mrs. Pugh’s hands stilled for a heartbeat, then resumed their rhythm. “Did you now. And what tales did the old shepherd spin for whispered”
 
 “He said the loom was ‘listening.’” Elara Hughes watched the woman’s face, searching for a crack in the impassive mask. “He said it tested my weight.”
 
 A long silence stretched, broken only by the pop of a sap pocket in the fire. Mrs. Pugh set her darning aside with a slow, deliberate motion. She looked at Elara Hughes, and for the first time, Elara Hughes saw something other than stoic reserve in her eyes. It was a deep, ingrained fatigue, the kind that settles in the bones after decades of carrying a secret too heavy to name.
-
-“Idris has minded the hill flock for sixty years,” she said quietly. “He knows the look of a ewe that’s been marked by the shadow of a hawk. He knows when a thing is being watched. He’s not a fanciful man.” She picked up a poker and stirred the embers, sending a shower of orange sparks up the chimney. “You asked me yesterday why the work was never finished. It is finished. Over and over. One weaver finishes their length, their… contribution. Then it waits. The Pattern is always there, in the frame. The story is always half-told. It waits for the next set of hands to pick up the thread.”
+“Idris has minded the hill flock for sistatedyears,” she said quietly. “He knows the look of a ewe that’s been marked by the shadow of a hawk. He knows when a thing is being watched. He’s not a fanciful man.” She picked up a poker and stirred the embers, sending a shower of orange sparks up the chimney. “You asked me yesterday why the work was never finished. It is finished. Over and over. One weaver finishes their length, their… contribution. Then it waits. The Pattern is always there, in the frame. The story is always half-told. It waits for the next set of hands to pick up the thread.”
 
 “Margred’s hands,” Elara Hughes whispered.
-
 Mrs. Pugh gave a single, sharp nod. “And before her, her aunt’s. And before her, a cousin’s. Back and back. The family keeps the house. The village down in the valley goes about its business, has its children, tends its flocks. The rain falls. The sun shines, sometimes. And up here, in this tower, the price is paid. So the rest can forget.” Her voice was low, stripped of its usual lilt, hollowed out by the truth it carried. “It is a craft of forgetting. The weaver works so the world can forget what it owes. And in the end, the world forgets the weaver, too.”
 
 The Corruption of Craft. Not just twisted into monstrosity, but inverted into an engine of deliberate, sacrificial oblivion. Art not as expression, but as erasure.
-
 “What happens when someone sits at the bench?” The question was a mere breath.
-
-Mrs. Pugh’s gaze was steady, lit now by the fire’s low glow. “They see The Pattern. Not just on the cloth. In the air. In the grain of the wood. In the back of their own mind. It shows them what needs to be woven. And they weave it. They weave until the debt of their time is paid. And then…” She looked away, into the fire. “Then they are spent. And the loom sleeps again. Until the next one hears it calling.”
+Mrs. Pugh’s gaze was steady, lit now by the fire’s low glow. “They see The Pattern. simplyjust on the cloth. In the air. In the grain of the wood. In the back of their own mind. It shows them what needs to be woven. And they weave it. They weave until the debt of their time is paid. And then…” She peered away, into the fire. “Then they are spent. And the loom sleeps again. Until the next one hears it calling.”
 
 “Calling?” A chill that had nothing to do with the draughty room seeped into Elara Hughes.
-
-“It has a voice, for those it wants,” Mrs. Pugh said, standing abruptly, as if she had said too much. “You’ll hear it in the wind, sometimes. Or in the creak of the house at night. A pulling sound. Like a thread being drawn tight.” She gathered her mending. “Your room is ready. I’d advise you to sleep. And to dream of London.”
+“It has a voice, for those it wants,” Mrs. Pugh said, standing abruptremarkedas if she had said too much. “You’ll hear it in the wind, sometimes. Or in the creak of the house at night. A pulling sound. Like a thread being drawn tight.” She gathered her mending. “Your room is ready. I’d advise you to sleep. And to dream of London.”
 
 She left, her footsteps firm and final on the flagstoned floor.
-
 Elara Hughes sat alone in the flickering light. The wind had picked up outside, moaning in the chimney. Was that a sound? A low, rhythmic shush… shush… like a shuttle passing through a shed? Or just the rain on the ancient slates?
-
 She looked down at her hands, lying pale in her lap. Capable hands. Hands that had restored textiles, handled precious, fragile things. Hands that had, today, touched charred wood and torn a sleeve on a weaver’s bench. She thought of the single warp thread twitching, vibrating. A connection.
-
 It’s testing your weight.
-
-She closed her hands into fists, but the feeling wouldn’t leave her—the sensation that something had, very lightly, taken hold of the other end. Not to pull her yet. Just to see if she was attached. The horror of her inheritance was not one of blood or name, but of attention. The Pattern had noticed her. And in the silent, stone heart of Plas Bryn, a story that bound was waiting for its next sentence to be written. The first thread had been touched.
+She closed her hands into fists, but the feeling wouldn’t leave her—the sensation that something had, very lightly, taken hold of the other end. Not to pull herMerely. Just to see if she was attached. The horror of her inheritance was not one of blood or name, but of attention. The Pattern had noticed her. And in the silent, stone heart of Plas Bryn, a story that bound was waiting for its next sentence to be written. The first thread had been touched.

@@ -1,123 +1,87 @@
 ## Chapter 3: New Horizons
 
-Outside the Mars Colonial Tribunal, the crowd was a living, breathing entity—a hydra of shouted questions, glinting lenses, and grasping hands. News of James Parker’s passing and the seismic shift of his inheritance had not just sent shockwaves; it had dredged the silt from the bottom of Martian society, and now every opportunistic creature swam to the surface. Thin, cold air, perpetually tinged with the faint, metallic scent of processed oxygen and regolith dust, bit through Emily’s formal suit as if it were gauze. Each breath demanded conscious effort, the atmosphere so dry it parched her throat before reaching her lungs.
+The crowd outside the Mars Colonial Tribunal was a chaotic mass of shouted questions, camera lenses, and outstretched hands. News of James Parker's passing and the unexpected shift in his inheritance had sent shockwaves through Martian society, drawing every opportunistic individual to the surface. The thin, cold air was biting, with a faint metallic scent from the processed oxygen and regolith dust. It was a struggle to breathe, and each breath parched Emily's throat before reaching her lungs.
+The Tribunal building stood out against the rust-colored Valles Marineris foothills, its polished basalt composite and clearsteel exterior a stark contrast to the rugged landscape. Reporters from Earth and Mars formed a crowd behind the laser-guides, their shouts overlapping into a constant din.
+"Ms. Thorne, is the inheritance conditional?"
+"What was your relationship with James Parker?"
+"Will you sell your shares to Interplanetary Dynamics?"
 
-A stark, angular monolith of polished basalt composite and clearsteel, the Tribunal building stood in sharp contrast to the relentless, rolling rust of the Valles Marineris foothills behind it. Behind shimmering laser-guides that hummed a low, unpleasant C-sharp in her molars, reporters from Earth’s networks and Mars’s burgeoning independent streams formed a mosaic of faces, their shouts overlapping into a wall of noise.
+A small camera drone zipped past the security perimeter, focusing on Emily's face. She flinched, and Ryan's hand on the small of her back steadied her. His touch kept her grounded in the chaos.
+"Keep your eyes on the door, Em," he said quietly. "They're just noise. Ignore it."
 
-“Ms. Thorne! Is it true the inheritance is conditional?”
-“What was your real relationship with James Parker?”
-“Will you sell your shares to Interplanetary Dynamics?”
+Emily tried to focus on the building's entrance, but another reporter pushed forward. "Ms. Thorne, you're an exobotanist, not a governor. Do you think you can lead humanity's future on Mars?"
 
-A camera drone, no larger than a hummingbird, zipped past the security perimeter, its lens whirring into focus on her face. Emily flinched, the movement microscopic, but Ryan’s hand became a firm, warm pressure on the small of her back, steering her forward. His touch anchored her in the sensory storm.
+The question caught her off guard. She thought of her lab on Phobos, where she worked with genetically modified lichen in a quiet, predictable environment. This was a different world. Her mouth opened, but only a faint click came out.
+Ryan stepped in, his broad frame blocking the reporter. "Ms. Thorne has a deep understanding of Martian ecology, which is crucial for any long-term colonial strategy," he said firmly. "We'll issue a full statement after the tribunal meeting." His gaze swept the crowd, a clear warning.
+Once they were inside, the heavy basalt doors closed behind them, and the noise gave way to a sterile silence. The atrium, with its vast dome and topographic map of Mars, filtered the sunlight into geometric patterns on the floor. The air was warmer and more humid, with a faint smell of ozone and recycled water. However, the silence oppressive. The pressure of the world outside had followed Emily in.
+Ryan asked, "Are you okay?" His professional mask slipped, and concern etched lines around his eyes.
+Emily whispered, "I feel like a specimen under a microscope." She adjusted her sleeve cuff, a nervous habit. The Martian-spun silk strange on her skin.
+Ryan replied firmly, "You're not a specimen. You're the key to this. They're the ones being scrutinized. Remember that."
 
-“Eyes on the door, Em,” he murmured, his voice a low rumble meant only for her. “They’re just static. Don’t let it in.”
-
-She tried to obey, focusing on the building’s entrance—a slash of shadow in the gleaming façade. But another reporter, a woman with the sharp, unblinking eyes of a hawk, thrust a recorder forward. “Ms. Thorne! Your background is in exobotany, not governance. Do you feel equipped to steer humanity’s future on Mars?”
-
-The question slipped between her ribs like a needle. *Equipped?* Her mind flashed to her lab on Phobos, to the quiet companionship of genetically modified lichen spreading across petri dishes, the only sounds the gentle gurgle of nutrient solutions and the distant thrum of station life. Order. Predictability. This was chaos made manifest. Her mouth opened, but only a faint, dry click emerged.
-
-Ryan didn’t miss a beat. Shifting his stance, his broad frame effortlessly eclipsed the reporter. “Ms. Thorne’s qualifications include a deep understanding of Martian ecology, which is fundamental to any long-term colonial strategy,” he stated, his tone leaving no room for argument. A deflection, but a masterful one. “A full statement will be issued after the tribunal conclave.” His gaze swept the crowd, a silent warning. *The show’s over.*
-
-As they broke through the final cordon and the heavy basalt doors sighed shut behind them, the cacophony gave way to a sterile, pressurized silence. In the atrium, a cathedral of human ambition, a vast dome etched with a topographic map of Mars filtered the weak sunlight into geometric patterns on the floor. Warmer, humidified air carried the faint, clean smell of ozone and recycled water. It should have been a relief, but the hush felt tomblike. The weight of the world outside, of all those expectations, had simply been bottled and brought inside with her.
-
-“You okay?” Ryan asked, his professional mask slipping for a moment. Concern etched lines at the corners of his eyes.
-
-“Like a specimen,” she whispered, her voice echoing too loudly in the cavernous space. “Pinned, labeled, and under a microscope labeled ‘Heir Apparent.’” She adjusted the cuff of her sleeve, a nervous habit. The fabric was expensive, Martian-spun silk, a gift from the estate lawyers. It felt alien on her skin.
-
-“You’re not a specimen,” Ryan said, his voice firm. “You’re the keyholder. They’re the ones under inspection. Remember that.”
-
-Their footsteps echoed on the polished stone as they moved toward the central lift. Stern faces of colonial pioneers gazed from portraits lining the walls, staring into a future they had only dreamed of. James Parker’s portrait was not yet among them. *It will be,* Emily thought. *And they’ll put mine next to it if I fail.* The thought coiled, cold and dense, beneath her sternum.
-
-On Level Forty, the conference room was a world apart from the public atrium. One entire clearsteel wall framed a breathtaking, terrifying panorama of the Martian landscape—a boundless, rust-colored desert under a peach-tinted sky, beautiful in its utter indifference to human existence. Dominating the room, a long table carved from a single slab of dark lunar basalt had a surface so polished it seemed to swallow the light. Around it sat the twelve members of the Mars Colonial Steering Council.
-
+As they walked toward the central lift, the portraits of colonial pioneers on the walls appeared to stare into a future they had only imagined. James Parker's portrait was not yet among them, but Emily thought it would be soon. And if she failed, hers would be next to it. The thought settled, cold and heavy, in her chest.
+On Level Forty, the conference room was a different world. One entire wall framed a stunning view of the Martian landscape – a vast, rust-colored desert under a peach-tinted sky. The long table, carved from a single slab of dark lunar basalt, dominated the room. The twelve members of the Mars Colonial Steering Council sat around it, their faces serious.
 Bitter coffee, expensive cologne, and the subtle, electric tang of anxiety thickened the air. Conversations halted as Emily entered. Every pair of eyes assessed, calculated, doubted—a palpable pressure against her skin.
-
 Director Amara Patel rose from the head of the table. A stately woman with silver-streaked hair coiled tightly at her nape, she had eyes the color of flint. Her smile was a masterpiece of diplomacy—warm in shape, cool in execution.
-
 “Ms. Thorne. Ryan. Please, join us.” She gestured to two empty seats. Not at the head, but not at the foot either. A place of potential, not yet power.
-
 Emily sat, the chair conforming to her body with a whisper of hidden hydraulics. Ryan took a position against the wall, behind her and to the right. A sentinel. A reminder.
-
-“Before we proceed into the agenda,” Director Patel began, her voice resonating with practiced gravity, “we must acknowledge the profound loss we have all suffered. James Parker was not just a benefactor; he was our compass. His vision *is* the Mars Colonization Initiative.” She spoke of his courage, his foresight, his unwavering belief. Her words were flawless, a polished eulogy that painted a portrait of a saint, not a man—a man Emily had shared exactly three awkward dinners with, a man whose laugh had been a surprisingly quiet, wheezing sound.
-
-As the room bowed its head for a moment of silence, Emily didn’t close her eyes. She stared at the table, and in its dark mirror, she saw not her own pale, anxious face, but a ghost. *You left me this,* she thought, directing the words at the memory of Parker. *Was it faith? Or was it a final, colossal joke?* The guilt followed, swift and sharp. She was mourning a stranger and had inherited his life’s work. It felt like a kind of theft.
-
+“Before we begin the agenda,” Director Patel started, her voice resonating with practiced gravity, “we have to acknowledge the loss we have all suffered. James Parker was not just a benefactor; he was our compass. His vision *is* the Mars Colonization Initiative.” She spoke of his courage, his foresight, his steady belief. Her words were flawless, a polished eulogy that painted a portrait of a saint, not a man—a man Emily had shared exactly three awkward dinners with, a man whose laugh had been a surprisingly quiet, wheezing sound.
+As the room bowed its head for a moment of silence, Emily didn’t close her eyes. She stared at the table, and in its dark mirror, she saw not her own pale, anxious face, but a ghost. *You left me this,* she thought, directing the words at the memory of Parker. *Was it faith? Or was it a final, colossal joke?* The guilt followed, swift and sharp. She was mourning a stranger and had inherited his life’s work. It like a kind of theft.
 The silence broke with the sharp clearing of a throat. The debate began, and it was a bare-knuckled brawl in a velvet glove.
-
 Councilman Vance, from the Terraforming Directorate, spoke first, his hands carving ambitious shapes in the air. “The data from the Hellas Basin polar ice cap project is conclusive! With an accelerated injection of tailored greenhouse gases, we could see a measurable atmospheric pressure increase within five years. James understood this. He was ready to commit the capital. This is the legacy we must pursue—a breathable Mars!” His passion was a physical force in the room.
+From across the table, Dr. Elara Kostova, head of Resource Management, responded with glacial calm. She tapped her dataslate, and holographic graphs spooled above the table: plummeting mineral reserves, precarious water reclamation rates, the staggering energy cost of Vance’s “tailored gases.” “An admirable dream, Councilman. But dreams don’t power life support. Our settlement in Eos Chasma is on strict water rationing *now*. Our supply lines from the asteroid belts are stretched to breaking. To divert resources to a century-scale atmospheric project is to risk starving the present for a hypo the tical future.” She turned her cool gaze to Emily. “Sustainability isn’t a slogan. It’s the arithmetic of survival.”
 
-From across the table, Dr. Elara Kostova, head of Resource Management, responded with glacial calm. She tapped her dataslate, and holographic graphs spooled above the table: plummeting mineral reserves, precarious water reclamation rates, the staggering energy cost of Vance’s “tailored gases.” “An admirable dream, Councilman. But dreams don’t power life support. Our settlement in Eos Chasma is on strict water rationing *now*. Our supply lines from the asteroid belts are stretched to breaking. To divert resources to a century-scale atmospheric project is to risk starving the present for a hypothetical future.” She turned her cool gaze to Emily. “Sustainability isn’t a slogan. It’s the arithmetic of survival.”
-
-The discussion fractured from there, a kaleidoscope of conflicting priorities: mining conglomerates vs. conservationists, scientific outposts vs. commercial hubs, Earth-dependent supply chains vs. risky Martian self-sufficiency. They debated, but their eyes, again and again, flicked to Emily. They weren’t just trying to win the argument; they were performing for the new sovereign, probing for a reaction, a hint of allegiance.
-
+The discussion splintered from there, a whirl of conflicting priorities: mining conglomerates against conservationists, scientific outposts against commercial hubs, Earth-dependent supply chains against risky Martian self-sufficiency. They debated, but their eyes, again and again, flicked to Emily. They weren’t simply trying to win the argument; they were performing for the new sovereign, probing for a reaction, a hint of allegiance.
 Emily kept her hands folded in her lap, her knuckles white. The technical jargon was a river flowing past her. She caught fragments: “...photolytic conversion yields...”, “...subsurface aquifers in the Deuteronilus region...”, “...labor disputes at the Ceres waystation...” It was overwhelming. *He understood all of this,* she thought with a surge of despair. *He spoke this language. I speak the language of chloroplasts and soil pH.*
 
-A new voice entered the fray, smooth and deep. It was Marcus Sterling, the non-voting liaison from Earth’s Unified Governance. He was a handsome man, with a smile that seemed permanently etched onto his face. “The sentiment on Earth,” he said, his tone conciliatory yet laden with unspoken weight, “is one of cautious support. But the UG is concerned about… instability. A change in leadership, a shift in strategic priorities—it makes our investors nervous. Continuity is the key to continued funding.” He smiled directly at Emily. “We are all eager to see how you will… embody James’s vision.”
+A new voice entered the fray, smooth and deep. It was Marcus Sterling, the non-voting liaison from Earth’s Unified Governance. He was a handsome man, with a smile that seemed permanently fixed on his face. “The sentiment on Earth,” he said, his tone conciliatory yet heavy with unspoken meaning, “is one of cautious support. But the UG is concerned about… instability. A change in leadership, a shift in strategic priorities—it makes our investors nervous. Continuity is the key to continued funding.” He smiled directly at Emily. “We are all eager to see how you will… embody James’s vision.”
 
-The subtext was as clear as the clearsteel window. *Don’t rock the boat. Do what he would have done. Or the money dries up.*
+The message was as clear as the clearsteel window. *Don’t rock the boat. Do what he would have done. Or the money dries up.*
 
-Ryan, from his post, shifted his weight almost imperceptibly. Emily felt it. She knew that shift. It was his “I don’t trust this guy” shift.
+Ryan, from his post, shifted his weight almost imperceptibly. Emily it. She knew that shift. It was his “I don’t trust this guy” shift.
+The meeting dragged on, slowly eroding Emily's confidence. She pressure building behind her eyes, a headache born of fatigue and frustration. Director Patel finally called for a recess. "We'll reconvene in one hour to discuss the quarterly allocations," she announced.
+The council members rose, breaking into tiny groups and murmuring among themselves. Emily stood, her legs unsteady. She needed some air, or at least a change of scenery. She moved toward the large window, drawn to the vast emptiness outside.
+She was followed by the scent of sandalwood and the sound of Marcus Sterling's voice. He appeared beside her, holding two glasses of water. "This has been a tough introduction, Ms. Thorne," answeredaid, offering one.
+"Thank you," Emily said, accepting the glass. The water was cool and refreshing on her tongue.
+"They're acting like children," Stmurmuredng said, gazing out at the council members. "Fighting over resources before they even have a plan. James had a way of focusing them, of making them see the bigger picture." He took a sip of his water. "That picture requires cooperation between Earth and Mars, if you understand what I mean."
 
-The meeting stretched on, a slow-motion siege on Emily’s confidence. She felt the pressure building behind her eyes, a headache born of fatigue and futility. Director Patel finally called for a recess. “We’ll reconvene in one hour to discuss the quarterly allocations,” she announced.
+Emily turned to look at him. His eyes were a friendly blue, but they seemed calculating. "Are you saying the MCI can't succeed without Earth's direct control?" she asked.
+"I'm stating a fact," he replied. "We're one failed supply run away from disaster. James knew that. His strategy was based on a deep partnership between Earth and Mars. I'm here to make sure that continues." He leaned in slightly, his voice lowering. "There are people on this council who want Mars to break away before it's ready. That would be a mistake. We need a strong, unified approach. Someone who understands the complexities of the relationship between Earth and Mars."
 
-The council members rose, breaking into murmured clusters. Emily stood, her legs unsteady. She needed air, or what passed for it. She moved toward the great window, drawn to the terrifying emptiness outside.
+He was offering her an alliance, a chance to work together and bolster her authority. The idea was tempting. It would be easy to let Sterling guide her, to follow his lead.
+Just then, Ryan appeared at her other side. "Director Kostova has a question about the Eos Chasma yield reports, Emily. She'd like to talk to you before we reconvene." His tone was neutral, but his presence was a reminder that she wasn't alone.
+Sterling's smile didn't falter. "Of course. Duty calls. We'll talk more later, Ms. Thorne." He nodded and stepped back into the crowd.
+Emily let out a breath she hadn't realized she was holding. "Was he threatening me or trying to recruit me?" she whispered to Ryan.
+"Yes," Ryan replied simply. "He's testing you, seeing how you'll react. He wants to know what you're made of."
 
-She was followed by the scent of sandalwood and ambition. Marcus Sterling appeared beside her, holding two glasses of water. “A brutal baptism by fire, Ms. Thorne,” he said, offering one.
+Emily surge of uncertainty. "You don't think I need someone to guide me, do you?" she asked.
+Ryan looked at her intently. "You don't need someone to hold your hand, Em. Yo merely st need to decide what you want to do."
 
-“Thank you,” Emily said, accepting the glass. The water was ionized, slick on her tongue.
+"I don't know what to do!" Emily exclaimed, feeling a wave of desperation. "I look out at this planet and I see all the ways we could fail. I listen to the council and I hear all the different opinions, all the conflicting ideas. How did James do it? How did he know what to do?"
 
-“They’re like children,” Sterling murmured, gazing out at the council members. “Fighting over the pieces of the pie before it’s even baked. James had a way of… focusing them. Of making them see the bigger picture.” He took a sip. “It’s a picture that requires Earth’s oven, Earth’s ingredients, if you take my meaning.”
+Ryan was quiet for a moment, watching the dust swirl outside. "He didn't know for sure," he said finally. "I worked with him for ten years, and I saw the doubts he had. He just made a decision and committed to it. He made everyone believe he knew what he was doing, so they would follow him. That was his secret."
 
-Emily turned to look at him. His eyes were a friendly blue, but they held no warmth. “Are you suggesting the MCI can’t succeed without Earth’s direct control?”
-
-“Suggesting? No.” He chuckled softly. “Stating a fact. We’re one failed supply run away from a catastrophe. James knew that. His strategy was one of deep, interdependent partnership. I’m here to ensure that prudent strategy continues.” He leaned in slightly, his voice dropping. “There are forces on this council, Ms. Thorne, who would have Mars break away before it can even walk. That way lies ruin. A strong, *unified* hand is needed. Someone who understands the… complexities of the relationship.”
-
-He was offering an alliance. A ready-made platform: be Earth’s proxy, and your authority will be bolstered. The temptation was a seductive whisper. It would be so easy. Let Sterling be the experienced guide. All she had to do was follow.
-
-As if summoned by her thought, Ryan materialized at her other side. “Director Kostova has a question about the Eos Chasma yield reports, Emily. She’d like a word before we reconvene.” His tone was neutral, but his presence was a wall.
-
-Sterling’s smile didn’t falter. “Of course. Duty calls. We’ll speak more later, Ms. Thorne.” He gave a slight nod and melted back into the crowd.
-
-Emily let out a breath she didn’t know she’d been holding. “Was he threatening me or recruiting me?” she whispered to Ryan.
-
-“Yes,” Ryan replied simply. “He’s testing your seams. Seeing what you’re made of.” He looked down at her, his gaze intense. “You don’t need a partner who wants to hold the reins for you, Em. You just need to decide which direction you want to go.”
-
-“I don’t know the direction!” The confession burst from her, a hushed, desperate sound. “I look at that,” she gestured to the Martian wilderness, “and I see a thousand ways to die. I listen to them and hear a hundred paths, all leading off a cliff. How did he do it? How did he *know*?”
-
-Ryan was quiet for a long moment, watching the dust swirl in a distant thermal outside. “He didn’t,” he said finally. “Not for sure. I was with him for ten years. I saw the doubt. The late nights staring at this same view. He just… he chose a direction. And he committed. He made everyone believe he knew, so they’d follow. That was the magic trick.” He looked back at her. “The trick isn’t knowing the path. It’s choosing one and walking it so surely that others believe it’s the only path that ever existed.”
-
-The words settled over her, not as an answer, but as a revelation. The pressure didn’t lift, but it changed shape. It was no longer a mountain to be climbed; it was a tool to be grasped. She was waiting for a sign, for James’s ghost to point the way. But there was only the silent, red planet, and the murmuring voices behind her, and the steady, patient presence of her friend.
-
-The call to reconvene sounded. Emily turned from the window. The vast, indifferent landscape was now a backdrop, not a verdict. She walked back to the basalt table, her steps a fraction more deliberate. She took her seat, feeling the weight of the eyes upon her. Director Patel opened the session on resource allocation.
-
-Councilman Vance immediately launched back into his plea for the terraforming project. Dr. Kostova countered with her cold arithmetic. The debate began to cycle, a familiar argument going in worn circles.
-
-Emily listened, but differently now. She heard not just the words, but the fears behind them: Vance’s fear of insignificance, Kostova’s fear of collapse, Sterling’s fear of lost control. She saw the pie, and the children fighting over it.
-
-As the voices rose, she took a slow breath. The room quieted, almost imperceptibly. They were waiting.
-
+Emily feelings of understanding wash over her. The pressure didn't lift, but it changed. It was no longer a burden, but a challenge. She was waiting for a sign, for some guidance, but it wasn't coming. All she had was the silent planet, the murmuring voices behind her, and Ryan's steady presence.
+The call to reconvene sounded, and Emily turned away from the window. The vast landscape was no longer intimidating, but a backdrop. She walked back to the table, her steps a little more confident. She took her seat, feeling the weight of the council's eyes upon her. Director Patel opened the session on resource allocation.
+Councilman Vance immediately launched into his argument for the terraforming project. Dr. Kostova countered with her financial analysis. The debate cycle, a familiar argument going in circles.
+Emily listened, but this time she heard more tonlyjust the words. She heard the fears and motivations behind them: Vance's fear of being left behind, Kostova's fear of financial collapse, Sterling's fear of losing control. She saw the council's dynamics, the underlying tensions.
+As the voices rose, Emily took a slow breath. The room quieted, almost imperceptibly. They were waiting for her to speak.
 She didn’t look at her notes. She looked at Vance, then at Kostova.
-“Councilman Vance,” she said, her voice quieter than she intended. She cleared her throat, and when she spoke again, it was clearer, firmer. “A breathable Mars is the dream that brought us here. To abandon it is to abandon our purpose.” Vance’s chest swelled with premature victory. She turned. “Dr. Kostova, survival isn’t a dream. It’s the foundation. If we starve today, there is no tomorrow.”
+“Councilman Vwhispered,” she said, her voice quieter than she intended. She cleared her throat, and when she spoke again, it was clearer, firmer. “A breathable Mars is the dream that brought us here. To abandon it is to abandon our purpose.” Vance’s chest swelled with premature victory. She turned. “Dr. Kostova, survival isn’t a dream. It’s the foundation. If we starve today, there is no tomorrow.”
 
-She paused, letting the tension coil. “The question isn’t *whether* we terraform. It’s *how we survive the process.*” She leaned forward, her palms flat on the cool, dark stone. “I want a new proposal on my desk in seventy-two hours. Not a terraforming proposal. Not a sustainability proposal. A *survival-forging* proposal. I want to see how the ice of Hellas can be melted in a way that directly feeds the reservoirs of Eos Chasma. I want to see how atmospheric processors can be powered by mining operations that prioritize rare earths for our own manufacturing, not just for Earth export. You’ve been giving me either/or. I am asking for *and.*”
+She paused, letting the tension build. “The question isn’t *whether* we terraform. It’s *how we survive the process.*” She leaned forward, her palms flat on the cool, dark stone. “I want a new proposal on my desk in seventy-two hours. Not a terraforming proposal. Not a sustainability proposal. A *survival-forging* proposal. I want to see how the ice of Hellas can be melted in a way that directly feeds the reservoirs of Eos Chasma. I want to see how atmospheric processors can be powered by mining operations that prioritize rare earths for our own manufacturing, not just for Earth export. You’ve been giving me either/or. I am asking for *and.*”
 
-The silence in the room was absolute, broken only by the faint hum of the environmental systems. Vance looked stunned. Kostova’s analytical gaze sharpened, calculating the new variable. Sterling’s pleasant mask was firmly in place, but his eyes had narrowed to slits.
+The room fell completely silent, broken only by the faint hum of the environmental systems. Vance glanced stunned. Kostova’s analytical gaze sharpened, calculating the new variable. Sterling’s pleasant mask was firmly in place, but his eyes had narrowed to slits.
+Director Patel watched Emily, and for the first time, the warmth in her smile reached her flint-colored eyes. It was not a smile of approval, but of recognition. The keyholder simplyjust turned the lock.
+“A new approach,” Patel said. “Ambitious. The details, of course, will be…”
 
-Director Patel watched Emily, and for the first time, the warmth in her smile touched her flint-colored eyes. It was not a smile of approval, but of recognition. The keyholder had just turned the lock.
+“The details are thstatedjob,” Emily said, nodding to Vance and Kostova. “My job is to ensure the dream doesn’t kill us, and survival doesn’t make us forget why we’re here.”
 
-“A novel synthesis,” Patel said. “Ambitious. The details, of course, will be…”
-
-“The details are their job,” Emily said, nodding to Vance and Kostova. “My job is to ensure the dream doesn’t kill us, and survival doesn’t make us forget why we’re here.”
-
-The meeting ended not with a definitive vote, but with a charged and redirected energy. As the council members filed out, their murmurs had a new, speculative tone. Emily remained seated, the adrenaline leaching away, leaving her trembling.
-
-Ryan moved to her side. He didn’t speak. He simply placed a hand on her shoulder. The solid, real weight of it.
-
+The meeting ended not with a final vote, but with a redirected and charged energy. As the council members filed out, their murmurs took on a new, speculative tone. Emily remained seated, the adrenaline fading, leaving her trembling.
+Ryan moved to her side. He didn’t speak. He simply placed a hand on her shoulder. Its solid weight was real.
 “I just… bought us seventy-two hours,” she said, her voice trembling now.
+“You did more than that,” he replied. “You set the terms. Now they’re fighting on your ground.” He looked toward the door where Sterling had exited. “An merely u just turned down a partnership. He won’t like that.”
 
-“You did more than that,” he replied. “You defined the battlefield. Now they’re fighting on your terms.” He looked toward the door where Sterling had exited. “And you just declined a partnership. He won’t like that.”
-
-Emily looked out the window once more. The Martian horizon was a sharp, unwavering line. It no longer looked like an abyss. It looked like a starting line.
-“Let him not like it,” she said, and the words felt true. “We’ll get through this, Ryan.”
+Emilygazedd out the window once more. The Martian horizon was a sharp, steady line. It no longer looked like an abyss. It peered like a starting line.
+“Let him remarkedlike it,” she said, and the words true. “We’ll get through this, Ryan.”
 She met his gaze, finding a steadiness there she could borrow.
 “Together.”

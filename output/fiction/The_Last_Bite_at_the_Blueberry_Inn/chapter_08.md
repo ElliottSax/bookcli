@@ -1,111 +1,73 @@
 Chapter 8: A Palate for Poison
 
-The storm that had threatened all week finally broke over Blueberry Harbor. It wasn’t a violent tempest, but a persistent, whispering rain that seeped into everything. It turned the cobblestones to dark, gleaming mirrors, each one reflecting the bruised purple of the twilight sky. It filled the copper gutters with a sound like a hidden, rushing stream, a secret conversation the town was having with itself. Inside The Blueberry Inn, the world was reduced to a warm, golden sphere of lamplight and the thick, earthy scent of rising dough. Elara stood at the central island, her hands buried in a mound of rye flour and sourdough starter that felt cool and granular, like wet sand. The starter itself smelled profoundly alive—a sharp, fermented tang that cut through the storm’s dampness. But her mind was miles away, lost in the cold, precise language of toxicology reports and the phantom taste of bitter almonds that seemed to coat her own tongue.
+The storm that had threatened Blueberry Harbor all week finally arrived. It was not a violent tempest, but a persistent, whispering rain that seeped into the bones of the town. Cobblestones became dark, gleaming mirrors reflecting the bruised purple of the twilight sky. Copper gutters sang with the sound of a hidden, rushing stream. Inside The Blueberry Inn, the world shrank to a warm sphere of lamplight and the thick, earthy scent of rising dough. Elara Vance stood at the central island, her hands buried in a mound of rye flour and sourdough starter, the mixture cool and granular against her skin. The starter gave off a sharp, fermented tang that cut the damp air. Yet her thoughts circled a cold, precise language of toxicology reports, and a phantom taste of bitter almonds coated her tongue.
 
-Leo, the bartender, was a red herring. A frightened, guilty-feeling red herring, but a distraction all the same. She replayed his flight in her mind: the way his eyes had darted to the back door as if measuring the distance, the sheen of sweat on his temple catching the low light, the faint tremor in his hands as he polished an already-clean glass. He’d fled not because he’d administered the poison, but because he’d supplied the glass, wiped it clean of all prints but the victim’s, and known—or suspected with a nauseating certainty—who might have had access to it afterward. His connection to the old kitchen fire was a tragedy, a scar worn smooth by time, but it was not the weapon. The weapon was colder. The weapon was science.
+Leo, the bartender, was a red herring. Frightened, guilty, but a distraction. She replayed his flight: his eyes darting to the back door, measuring the distance; the sheen of sweat on his temple catching the low light; the tremor in his hands as he polished an already-clean glass. He’d fled not because he’d administered the poison, but because he’d supplied the glass, wiped it clean of all prints but the victim’s, and suspected—with a nauseating certainty—who had accessed it afterward. His connection to the old kitchen fire was a tragedy, a scar worn smooth by time. It was not the weapon. The weapon was colder. The weapon was science.
 
-After Leo panicked and vanished into the rain-slicked night, Elara had retreated to The Blueberry Inn’s small office, the air stale and tasting of old paper. She called in a favor from a former colleague, now a forensic chemist in Boston. The phone line crackled with static that mimicked the distant thunder. She described the symptoms, the rapid onset, the cherry-red blood lividity mentioned in the coroner’s initial, overly brief report—a detail that had been buried in clinical language but now screamed its significance. She pressed him, her voice low and urgent, and he murmured possibilities that hung in the quiet room like ghosts. When she suggested a specific cyanide compound—potassium ferrocyanide, used in old-school photography and, in a cruel, almost mocking twist, sometimes as an anti-caking agent in table salt—he went so quiet she thought the line had gone dead.
+After Leo vanished into the rain-slicked night, Elara retreated to the inn’s small office, the air stale with the taste of old paper. She called in a favor from a former colleague, a forensic chemist in Boston. The phone line crackled with static that mimicked the distant thunder. She listed the symptoms, the rapid onset, the cherry-red lividity buried in the coroner’s brief report—a detail that now screamed its significance. Her voice dropped, urgent. He murmured possibilities that hung in the quiet room like ghosts. When she suggested a specific cyanide compound—potassium ferrocyanide, used in old photography and, in a cruel twist, as an anti-caking agent in table salt—the line went so quiet she thought it had died.
 
-“Rare,” he finally said, the word crisp and careful. “Not your standard issue. Tasteless, works fast with moisture and acid. Like, say, in a cocktail. If it was that, your killer knew what they were doing. Or got very lucky.”
+“Rare,” he finally said, the word crisp. “Not standard issue. Tasteless, works fast with moisture and acid. In a cocktail, for instance. If it was that, your killer knew their business. Or got very lucky.”
 
-The memory of the mayor’s smug, composed face floated before her in the dim office. He hadn’t seemed lucky. He’d seemed informed. He’d seemed like a man reading from a prepared script.
+The mayor’s smug, composed face floated before her in the dim office. He hadn’t looked lucky. He’d looked informed. Like a man reading from a prepared script.
 
-Back in the kitchen, the dough beneath her fingers was alive, a resilient, breathing thing that pushed back against her palms with a soft, fleshy resistance. She kneaded with a rhythmic, almost punishing intensity, the heels of her hands pushing, folding, turning. The flour dusted her wrists like pale ash. Baking was alchemy, but it was honest alchemy. You couldn’t hide a bitter almond note in a perfect baguette; the flour and yeast would rebel, the crust would blister wrong, the crumb would tell the truth. Poison was a different kind of recipe, one that relied on concealment, on the betrayal of trust, on exploiting the very act of consumption. Someone had baked a lie into the very fabric of the town’s comfort, using tradition as a delivery system.
+Back in the kitchen, the dough beneath her fingers pushed back against her palms with a soft, fleshy resistance. She kneaded with a rhythmic, punishing intensity, the heels of her hands pushing, folding, turning. Flour dusted her wrists like pale ash. Baking was honest alchemy. You couldn’t hide a bitter note in a perfect baguette; the flour and yeast would rebel, the crust would blister wrong, the crumb would tell the truth. Poison was a different recipe, one that relied on concealment, on betraying trust, on exploiting the very act of consumption. Someone had baked a lie into the fabric of the town’s comfort, using tradition as a delivery system.
 
-The rain eased to a fine, misting drizzle as a thin, gray dawn bleached the sky the color of old porcelain. Elara, who had not slept at all, her nerves humming a constant, low-grade alarm, had finished the rye loaves—their dark, cross-hatched tops now cooling on racks, smelling of molasses and caraway—and started on a batch of lemon-poppy seed muffins. The act of zesting the lemons was a small, sharp rebellion; the citrus oil sprayed into the air, a bright, astringent scent that fought against her dark thoughts. The tiny, slate-blue poppy seeds stuck to her fingers, to the bowl, a thousand minute specks. She needed to follow the chemical. It was a tangible thread in a mix of whispers, a single hard fact in a swamp of suspicion.
+The rain eased to a fine drizzle as a thin, gray dawn bleached the sky the color of old porcelain. Elara, who had not slept, her nerves humming a constant alarm, slid the finished rye loaves from the oven. Their dark, cross-hatched tops cooled on racks, smelling of molasses and caraway. She started on lemon-poppy seed muffins. Zesting the lemons was a small, sharp rebellion; citrus oil sprayed into the air, a bright scent that fought the dark thoughts. Tiny, slate-blue poppy seeds stuck to her fingers, to the bowl, a thousand minute specks. She needed to follow the chemical. It was a tangible thread in a tangle of whispers, a single hard fact in a swamp of suspicion.
 
-Her first stop, after the quiet breakfast service where guests murmured over coffee and the muffins were praised for their lift, was the Blueberry Bay Pharmacy. The bell over the door jingled with a forlorn, tinny sound. The air inside was close and layered: the powdery sweetness of talcum, the medicinal bite of wintergreen, the dusty, vanilla scent of aged paper. Old Mr. Henderson moved like a clockwork figure behind the high, dark-wood counter, his spectacles perched on the end of his nose. She asked her question carefully, framing it as historical curiosity about old photographic methods.
+After the quiet breakfast service—guests murmuring over coffee, praising the muffins’ lift—her first stop was the Blueberry Bay Pharmacy. The bell over the door jingled, tinny and forlorn. The air sat close and layered: the powdery sweetness of talcum, the medicinal bite of wintergreen, the dusty vanilla of aged paper. Old Mr. Henderson moved like a clockwork figure behind the high, dark-wood counter, spectacles perched on the end of his nose. She framed her question as historical curiosity about old photographic methods.
 
-He adjusted his spectacles, the thick lenses magnifying the pale blue of his eyes, and consulted a ledger bound in cracked green leather. The pages whispered as he turned them. “Haven’t stocked cyanide compounds since the seventies, my dear,” he said, his voice a dry rustle. “Too much liability. Even for photography. The new fellows use safer chemicals.” He peered at her over the rims. “A shame, in a way. The old processes had a… permanence.”
+He adjusted his spectacles, the thick lenses magnifying the pale blue of his eyes, and consulted a ledger bound in cracked green leather. The pages whispered as they turned. “Haven’t stocked cyanide compounds since the seventies, my dear. Too much liability. Even for photography. The new fellows use safer chemicals.” He peered over the rims. “A shame, in a way. The old processes had a… permanence.”
 
-Photography.
+*Photography.*
 
-The word hung in the chemically-scented air, solid and undeniable. Blueberry Harbor had one full-time photographer.
+The word solidified in the chemically-scented air. Blueberry Harbor had one full-time photographer.
 
-The Harbor Light Studio was on a narrow lane that sloped down towards the wharves. The rain had picked up again, a steady, soaking curtain that darkened the clapboard siding of the studio to the color of a storm cloud. A hand-painted sign swung gently on its creaking bracket, the painted lighthouse on it faded. Elara pushed open the door, and a bell above it rang out, the sound swallowed by the rain. Inside, the studio was a warm, golden space, the air thick with the scent of developing chemicals and the soft, creamy light of a dozen photographic prints. A figure stood behind the counter, a woman with a kind face and a mop of curly brown hair. She looked up as Elara entered, and their eyes met in a moment of mutual understanding.
+The Harbor Light Studio occupied a narrow lane sloping toward the wharves. The rain had returned, a steady curtain darkening the clapboard siding to the color of a storm cloud. A hand-painted sign swung on a creaking bracket, its lighthouse faded. Elara pushed open the door, and a bell rang, the sound swallowed by the rain. Inside, the studio held a warm, golden stillness, the air thick with the scent of acetic acid and hypo, undercut by a softer note of paper and glue. A woman with a kind face and a wild crown of curly brown hair stood behind a counter cluttered with portrait proofs. She looked up, a polite smile ready, but it faltered for a heartbeat when their eyes met.
 
-“Welcome to the Harbor Light Studio,” the woman said, her voice warm and friendly. “What can I do for you today?”
+“Welcome,” the woman said, her voice warm but careful. “I’m Agnes Finch. What brings you in on such a day?”
 
-Elara smiled, feeling a sense of relief wash over her. “I’m looking for information about old photographic methods,” she said, her voice steady. “Specifically, about cyanide compounds.”
+Elara’s own smile thin. “Elara Vance. I’m researching local history. I understand you’re the expert on photography in the harbor.”
 
-The woman’s expression changed, a flicker of something like fear crossing her face. “Oh, yes,” she said, her voice a little too bright. “Cyanide compounds. Well, we don’t use those anymore, of course. They’re too... hazardous.”
+“I’ve been behind this camera a long time.” Agnes’s gaze drifted to the rain-streaked window. “What part of the history interests you?”
 
-Elara felt a surge of excitement. This was it. This was the break she had been waiting for. “I know,” she said, her voice low and urgent. “But I’m interested in the historical aspect. Can you tell me more about how they were used in photography?”
+“The methods. The old chemistry. I was at the pharmacy, and Mr. Henderson mentioned some compounds they don’t carry anymore. Cyanide-based ones, for developing.”
 
-The woman hesitated, her eyes darting around the studio as if searching for an escape. “Well, I suppose it’s all in the old books,” she said finally. “I can show you some of the equipment we used to use. But I have to warn you, it’s all very... outdated.”
+Agnes Finch went very still. The friendly warmth drained from her face, leaving something guarded and pale. Her fingers, resting on the counter, curled inward. “That’s… very old technique. Dangerous. Obsolete.”
 
-Elara nodded, her heart racing with excitement. This was it. This was the moment she had been waiting for. She followed the woman to a back room, the air thick with the scent of old chemicals and the soft, creamy light of a dozen photographic prints. The woman showed her the old equipment, the cyanide compounds, the chemicals, the processing trays. Elara’s eyes widened as she took it all in, her mind racing with the implications.
+“But it was used here.”
 
-And then, just as she was about to ask her next question, the woman spoke up, her voice low and urgent. “I think we should talk outside,” she said, her eyes darting around the room as if searching for an escape. “It’s not safe in here.”
+“Everywhere, once.” Agnes turned and busied herself straightening a stack of mat boards, her movements precise. “It’s not a safe topic for casual conversation.”
 
-Elara nodded, her heart racing with excitement. This was it. This was the moment she had been waiting for. She followed the woman outside, into the rain-soaked night, the sound of the rain pounding against the pavement like a drumbeat in her ears.
+“This isn’t casual.” Elara kept her voice low, even. “A man died last week. The poison that killed him matches one of those old photographic compounds.”
 
-As they walked, the woman spoke in a low, urgent voice. “I didn’t want to say anything in there,” she said, her eyes darting around the night as if searching for an escape. “But I think I know who might have used cyanide compounds in photography. And I think I know why.”
+The mat board slipped from Agnes’s hands, fanning out across the floor with a soft slap. She didn’t move to pick them up. She stared at the scattered rectangles of white. “You should leave.”
 
-Elara’s heart skipped a beat as she listened, her mind racing with the implications. This was it. This was the break she had been waiting for. She leaned in close, her voice low and urgent. “Who is it?” she asked, her eyes locked on the woman’s face.
+“I think you know something, Ms. Finch.”
 
-The woman hesitated, her eyes darting around the night as if searching for an escape. “It’s the mayor,” she said finally, her voice barely above a whisper. “I think he might have used cyanide compounds in his photography. And I think he might have used them to kill someone.”
+Agnes’s head snapped up. Fear, bright and sharp, flashed in her eyes. She glanced toward a curtained doorway at the back of the studio, then at the front window. “Not here.” The words were a breath. “The diner. In an hour. The back booth.” She bent to gather the mats, her hands trembling. “Please, just go now.”
 
-Elara’s eyes widened as she listened, her mind racing with the implications. This was it. This was the moment she had been waiting for. She leaned in close, her voice low and urgent. “Why do you think that?” she asked, her eyes locked on the woman’s face.
+Elara left, the bell jingling again behind her. The rain needled her face. She walked without direction, the chemist’s words echoing. *Rare. Not standard issue.*
 
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the old kitchen fire. And I think it might have something to do with the mayor’s past.”
+At the diner, she took the back booth, watching the door. Agnes Finch arrived ten minutes late, her hair damp from the rain, a bulky cardigan wrapped tight around her. She slid into the opposite seat, her eyes scanning the nearly empty room before settling on Elara.
 
-Elara’s heart skipped a beat as she listened, her mind racing with the implications. This was it. This was the break she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
+“He came to me,” Agnes said, the words rushing out in a low torrent. “Last month. The mayor. He brought in an old family album. Wanted high-quality reproductions made of some specific pictures. From the seventies. There was one… one of the old harbor festival, with the fire department’s demonstration kitchen in the background.” She swallowed, her throat working. “He was very particular about the contrast. Wanted every detail visible. Especially the people.”
 
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s family. And I think it might have something to do with the old photographs he used to take.”
+“What people?” Elara’s coffee cooled, untouched.
 
-Elara’s eyes widened as she listened, her mind racing with the implications. This was it. This was the moment she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
+“A group standing near the kitchen trailer. Younger versions of folks you’d know. Leo, from the bar. The previous mayor, Hal Finch—my uncle. And a woman named Margot Blaine.” Agnes’s voice dropped further. “The mayor pointed at her. Asked if the negative could be enhanced to show what was in her hand. He said it was for a sentimental project.”
 
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s past. And I think it might have something to do with the old photographs he used to take.”
+“What was in her hand?”
 
-Elara’s heart skipped a beat as she listened, her mind racing with the implications. This was it. This was the break she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
+“A small, dark bottle. The kind photographic chemicals used to come in. The label wasn’t clear, but the shape… I knew it. He knew I knew it.” Agnes pressed her fingers to her temples. “He paid me double my rate. Told me it was a private historical project. Then he took the original negatives when I was done. All of them.”
 
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s family. And I think it might have something to do with the old photographs he used to take.”
+“Margot Blaine,” Elara repeated. The name was a piece clicking into place. “She was the cook who died in the kitchen fire. The one Leo was blamed for.”
 
-Elara’s eyes widened as she listened, her mind racing with the implications. This was it. This was the moment she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
+Agnes nodded, a quick, jerky motion. “My uncle never believed Leo set it. He tried to reopen the inquiry before he died. Then the mayor got elected, and everything went quiet.” She leaned forward, her voice a scrape. “That compound… potassium ferrocyanide. It’s stable when dry. But heat and acid release the cyanide. A fire in a kitchen trailer, with vinegar and oil everywhere… it wouldn’t just burn.”
 
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s past. And I think it might have something to do with the old photographs he used to take.”
+Elara’s blood went cold. The pieces aligned with a terrible clarity. A poison used to kill twice, decades apart—first disguised as a tragic accident, then as a calculated murder. The weapon wasn’t just science. It was history, repeating.
 
-Elara’s heart skipped a beat as she listened, her mind racing with the implications. This was it. This was the break she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
+“The mayor has the negatives,” Elara said.
 
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s family. And I think it might have something to do with the old photographs he used to take.”
+“He has everything.” Agnes’s eyes were bleak. “And if he knows I’ve talked to you, he’ll make sure my studio has an unfortunate accident. Like an electrical fire.”
 
-Elara’s eyes widened as she listened, her mind racing with the implications. This was it. This was the moment she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s past. And I think it might have something to do with the old photographs he used to take.”
-
-Elara’s heart skipped a beat as she listened, her mind racing with the implications. This was it. This was the break she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s family. And I think it might have something to do with the old photographs he used to take.”
-
-Elara’s eyes widened as she listened, her mind racing with the implications. This was it. This was the moment she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s past. And I think it might have something to do with the old photographs he used to take.”
-
-Elara’s heart skipped a beat as she listened, her mind racing with the implications. This was it. This was the break she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s family. And I think it might have something to do with the old photographs he used to take.”
-
-Elara’s eyes widened as she listened, her mind racing with the implications. This was it. This was the moment she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s past. And I think it might have something to do with the old photographs he used to take.”
-
-Elara’s heart skipped a beat as she listened, her mind racing with the implications. This was it. This was the break she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s family. And I think it might have something to do with the old photographs he used to take.”
-
-Elara’s eyes widened as she listened, her mind racing with the implications. This was it. This was the moment she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s past. And I think it might have something to do with the old photographs he used to take.”
-
-Elara’s heart skipped a beat as she listened, her mind racing with the implications. This was it. This was the break she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s family. And I think it might have something to do with the old photographs he used to take.”
-
-Elara’s eyes widened as she listened, her mind racing with the implications. This was it. This was the moment she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But I think it might have something to do with the mayor’s past. And I think it might have something to do with the old photographs he used to take.”
-
-Elara’s heart skipped a beat as she listened, her mind racing with the implications. This was it. This was the break she had been waiting for. She leaned in close, her voice low and urgent. “What do you mean?” she asked, her eyes locked on the woman’s face.
-
-The woman hesitated, her eyes darting around the night as if searching for an escape. “I don’t know,” she said finally. “But
+Outside, the rain continued its whisper against the diner window. Elara saw not a town, but a crime scene decades in the making. The storm had broken, but a deeper darkness had been stirred from its sleep.

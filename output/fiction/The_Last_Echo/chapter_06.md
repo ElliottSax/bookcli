@@ -1,125 +1,78 @@
-Chapter 6: The Source Frequency
+**CHAPTER SIX: THE SOURCE FREQUENCY**
 
-CHAPTER SIX: THE SOURCE FREQUENCY
+The silence after the emergency lights died was a physical thing. It pressed against Anya’s eardrums, a vacuum that made the blood rushing in her head sound like a torrent. In the absence of the Entity’s broadcast, every tiny noise they made grotesquely amplified, a betrayal. She could hear the rustle of Leo’s jacket, the grind of grit between her teeth, the wet click as she swallowed. Beside her, Leo’s breathing was a ragged, controlled rhythm she’d come to memorize—a human metronome in the dark. The scent of ozone from the blown electrical panel still hung in the air, layered over the older, deeper smells of damp concrete and something faintly metallic, like old pennies. But underneath it now was a new smell: a dry, papery scent of deep dust and abandonment.
+“Service stairwell,” Leo whispered, his voice a dry leaf rustle in the dark. He was already moving, hands patting the cinderblock. “Maintenance schematic showed it behind panel C-14. Should bypass the sealed elevators, take us straight down to the sub-levels. If there’s an answer, it’s buried down there.”
 
-The silence after the emergency lights died was a physical thing. It pressed against Anya’s eardrums, a vacuum that made the blood rushing in her head sound like a torrent. She could hear Leo breathing beside her—a ragged, controlled rhythm she’d come to memorize. The scent of ozone from the blown electrical panel still hung in the air, layered over the older, deeper smells of damp concrete and something faintly metallic, like old pennies.
+Anya didn’t answer. She was listening *past* their sounds, into the fabric of the sanctuary itself. The usual ambient drone—the subliminal hum of electricity, the distant, almost-melody of pipes, the white-noise sigh of the ventilation—was gone. In its place was a terrifying purity of quiet. It wasn’t peace. It was the quiet of a predator holding its breath. Every scuff of Leo’s boot as he for the wall, every catch of her own breath, felt like a profanity. A broadcast announcing their location.
+Her fingers, trailing along the cold, rough block, found the vertical seam of the metal panel. It was unsecured, held only by friction and time. With a gritty, protesting squeal that made them both freeze, Leo pried it open. A colder, damper breath exhaled from the darkness within, carrying the unmistakable tang of rust and stagnant water. The opening was a black rectangle, promising nothing.
+The stairwell was a throat. They descended into its gullet, their footsteps on the grated metal steps not creating echoes, but swallowed sounds, as if the darkness was absorbing them immediately. Anya led, her hand on the icy railing, her entire being a focused receptor. *Drip… drip…* from somewhere in the bowels below. A skittering that could be rats, or could be something shaking loose in the pipes. The lower they went, the heavier the air became, thick with a chemical undertone that coated the tongue and stuck in the throat—the ghost of old cleaning solvents and industrial decay.
+After three flights, the stairs ended at a reinforced door. It was nothing like the others in the sanctuary. This was brushed steel, featureless and severe but for a keycard reader, its tiny red LED dark and dead. Leo didn’t hesitate. He shrugged off his pack and produced a set of lock picks, the faint *scritch-scritch* of metal on metal agonizingly loud in the confined space. Anya closed her eyes, leaning her forehead against the cold wall, listening past the noise, back up the corridor of darkness they’d descended.
+She heard it then. Not a sound, but the absence of one. A pocket of nullity moving two floors above them. A place where the *drip* of water and the faint skittering ceased to exist as it passed. It was drifting, searching through the levels. Hunting in the new quiet it had created. Her blood ran cold. It wasn’t lost. It was sweeping.
+“Leo,” she breathed, the word barely audible.
+“Almost… got it…” he murmured, tension wiring his shoulders. A final, satisfying *clunk* echoed in the tiny space. The heavy door sighed open on stiff hinges, revealing a deeper blackness.
+The air that washed over them was sterile and cold, artificially preserved. It smelled of static, old electronics, and the faint, sweet note of decaying paper. Anya flicked on her flashlight. The beam cut a swath through absolute black, revealing a mid-20th century nightmare of a laboratory. It was a time capsule of dread. Dust-sheeted consoles with analog dials and green CRT monitors lined the walls like tombstones. In the center of the room stood a massive, cylindrical chamber of thick glass, now webbed with cracks and dark, connected to a snarl of pipes and cables that ran like metallic veins into the ceiling. The floor was a chaotic map of spilled papers, overturned chairs, and the skeletal remains of recording equipment—reel-to-reel machines with their tape spilled like entrails.
+“God,” Leo murmured, stepping in behind her, his voice full of a horrified awe. He played his own light over a faded radiation symbol and a stenciled sign: **PROJECT ECHO - AUTHORIZED PERSONNEL ONLY**. “It’s a Cold War relic. Buried under a damn wellness center.”
 
-“Service stairwell,” Leo whispered, his voice a dry leaf rustle in the dark. “Maintenance schematic showed it behind panel C-14. Should bypass the sealed elevators.”
+Anya’s light swept across a wall of heavy, gunmetal filing cabinets. One drawer hung open, a silent scream. She moved toward it, her feet crunching on shattered glass vials that glittered like ice. The files were heavy, bound in cracked leather that like dead skin. She lifted one, blowing a cloud of dust from the cover. **PROJECT ECHO: EYES ONLY. BIO-ACOUSTIC RESONANCE WEAPONIZATION. VOLUME III: SENTIENT WAVEFORM THEORY.**
 
-Anya didn’t answer. She was listening. The usual ambient drone of the sanctuary—the subliminal hum of electricity, the distant, almost-melody of pipes, the white-noise sigh of the ventilation—was gone. In its place was a terrifying purity of quiet, broken only by the sounds they themselves made. Every scuff of Leo’s boot as he felt for the wall, every catch of her own breath, felt like a profanity. A broadcast.
+Her heart was a dull, cold weight in her chest. She opened it, the pages crackling with age, and read aloud, the words tasting of ash and betrayal. “Phase Three: Field Theory of Auditory Uniqueness. Hypothesis: Every sentient being generates a complex, layered sonic signature—heartbeat, respiration, neural electrical activity, vocal cord resonance. A ‘sound soul.’ Subject Zero demonstrates an affinity for isolating and… *consuming* these signatures, leaving biological husks devoid of coherent waveform. The consumed signature is added to Zero’s own resonant matrix, increasing its coherence and range.”
 
-Her fingers, trailing along the cold cinderblock, found the seam of the metal panel. It was unsecured. With a gritty squeal that made them both freeze, Leo pried it open. A colder, damper breath exhaled from the darkness within, carrying the tang of rust and stagnant water.
+Leo was at a desk, clearing dust from a terminal with his sleeve. He connected a handheld battery pack from his kit. The screen flickered to life with a painful whine, casting his face in a sickly green glow. “It’s all here,” he said, his fingers flying across the archaic keyboard. “They weren’t studying sound therapy. They were cataloguing it. Weaponizing it.” He pulled up a file directory. “Look. Spectral analyses. Audio logs. That’s… that’s Brother Carl’s voiceprint. And Miriam’s. And Eli’s.” He looked at Anya, his eyes wide and hollow in the terminal’s light. “Vance didn’t just recruit unique auditory profiles. He *collected* them. For the project. And then… for *it*.”
 
-The stairwell was a throat. They descended into its gullet, their footsteps on the grated metal steps not echoes, but swallowed sounds. Anya led, her hand on the icy railing, her entire being focused on the auditory landscape. Drip… drip… from somewhere below. A skittering that could be rats, or could be something shaking loose in the pipes. The lower they went, the heavier the air became, thick with a chemical undertone that coated the tongue.
-
-After three flights, the stairs ended at a reinforced door. Not like the others in the sanctuary. This was brushed steel, featureless but for a keycard reader, its tiny red eye dead. Leo produced a set of lock picks from his pack, the faint scritch-scritch of metal on metal agonizingly loud. Anya closed her eyes, listening past it, down the corridor of darkness behind them.
-
-She heard it then. Not a sound, but the absence of one. A pocket of nullity moving two floors above them. A place where the drip of water and the skittering ceased to exist as it passed. It was drifting, searching. Hunting in the new quiet.
-
-“Leo,” she breathed.
-
-“Almost… got it…” A final, satisfying clunk. The door sighed open on stiff hinges.
-
-The air that washed over them was sterile and cold, preserved. Anya flicked on her flashlight. The beam cut a swath through absolute black, revealing a mid-20th century nightmare of a laboratory. It was a time capsule of dread. Dust-sheeted consoles with analog dials and green CRT monitors lined the walls. In the center of the room stood a massive, cylindrical chamber of thick glass, now cracked and dark, connected to a snarl of pipes and cables that ran into the ceiling. The floor was a chaotic map of spilled papers, overturned chairs, and the skeletal remains of what might have been recording equipment.
-
-“God,” Leo murmured, his voice full of a horrified awe. “It’s a Cold War relic.”
-
-Anya’s light swept across a wall of filing cabinets. One drawer hung open. She moved toward it, her feet crunching on shattered glass vials. The files were heavy, bound in cracked leather. She lifted one, blowing dust from the cover. PROJECT ECHO: EYES ONLY. BIO-ACOUSTIC RESONANCE WEAPONIZATION.
-
-Her heart was a dull, cold weight. She began to read aloud, the words tasting of ash. “Phase Three: Field Theory of Auditory Uniqueness. Hypothesis: Every sentient being generates a complex, layered sonic signature—heartbeat, respiration, neural electrical activity, vocal cord resonance. A ‘sound soul.’ Subject Zero demonstrates an affinity for isolating and… consuming these signatures, leaving biological husks devoid of coherent waveform.”
-
-Leo was at a desk, powering up a dusty terminal with a handheld battery pack. The screen flickered to life, casting his face in a sickly green glow. “It’s all here. They weren’t studying sound therapy. They were cataloguing it. Weaponizing it.” He pulled up a file. “Look. Spectral analyses. That’s… that’s Brother Carl’s voiceprint. And Miriam’s. And Eli’s.” He looked at Anya, his eyes wide in the terminal’s light. “Vance didn’t just recruit unique auditory profiles. He collected them. For the project. And then… for it.”
-
-The entity. Subject Zero. Anya’s mind reeled, piecing together the eerie quiet of the sanctuary, the careful isolation, Vance’s obsession with their “gifts.” They weren’t residents. They were specimens in a terrarium. A curated buffet.
-
-Her flashlight beam caught something on a workbench apart from the others. It was a device, roughly the size of a fire extinguisher, but sleek and sinister in its design. It had a pistol grip, a frequency dial with no markings, and a long, needle-like protrusion at its muzzle. A cable led from it to a dead battery unit. A label, handwritten on a strip of tape, read: Freq. Dagger – Prototype 1. Core Disruption Only.
+The entity. Subject Zero. Anya’s mind reeled, piecing together the eerie quiet of the sanctuary, the careful isolation, Vance’s obsessive, reverent notes on their “gifts.” They weren’t residents. They were specimens in a terrarium. A curated buffet. Her unique tinnitus, the constant, pure tone she heard in silence—was that why Vance had been so insistent? Was she the prize specimen?
+Her flashlight beam, shaking slightly, caught something on a workbench apart from the others. It was a device, roughly the size of a fire extinguisher, but sleek and sinister in its design, all brushed aluminum and black enamel. It had a pistol grip, a frequency dial with no markings, only a needle-thin gauge, and a long, needle-like protrusion at its muzzle. A thick, insulated cable led from it to a dead, heavy battery unit on the floor. A label, handwritten on a strip of yellowed tape, read: **Freq. Dagger – Prototype 1. Core Disruption Only. USE AS ABSOLUTE LAST RESORT.**
 
 “Leo,” she said, her voice barely a whisper.
+He was beside her in an instant, his breath catching. “A disruptor. Not a broadcaster. Look at the design—it doesn’t project a wavefield.” He turned it over in his hands, careful. “It’s supposed to be a localized, focused pulse… a dagger. Meant to stab into the entity’s core resonance and shatter its cohesive matrix.” He examined the cable connections. “Battery’s completely shot. Corroded. But the internal capacitor might still hold a residual charge. If we can cross-wire it directly to a live source… we might get one shot.”
 
-He was beside her in an instant. “A disruptor. It doesn’t broadcast a wave. It’s supposed to be a localized, focused pulse… a dagger. Meant to stab into the entity’s core resonance and shatter it.” He examined the connections. “Battery’s shot. But the capacitor might still hold a charge. If we can cross-wire it to a live source…”
+He set to work with a frantic, focused energy, pulling tools from his pack. Anya left him to it, drawn to the main chamber. She pressed her palm against the cold, grimy glass. Inside, she could see the outlines of massive speaker arrays, twisted and melted together as if by a lightning strike or tremendous, concentrated heat. *Ultrasonic and infrasonic emitters*, the logs had replied. *Fused during the Cascade Event*. Given sentience by a catastrophic feedback loop, a sound that had learned to listen. To hunger. She imagined the moment—a scream of machinery becoming aware, and in that awareness, finding only an endless, silent void that needed to be filled.
+A soft, rhythmic *thumpto echo down the stairwell shaft.
+*Thump… thump… thump…*
 
-He set to work with a frantic, focused energy, pulling tools from his pack. Anya left him to it, drawn to the main chamber. She pressed her hand against the cold glass. Inside, she could see the outlines of massive speaker arrays, twisted and melted together as if by tremendous heat. Ultrasonic and infrasonic, the logs had said. Fused. Given sentience by a catastrophic feedback loop, a sound that had learned to listen. To hunger.
+It was unmistakable. The sound of a body, desiccated and light, being dragged down the metal steps. Not with haste, but with a terrible, inevitable purpose. The null-space was following their trail of noise, and it was bringing a trophy. A demonstration. Anya’s mind supplied the image: Brother Carl’s gentle, hollowed-out shell, bumping lifelessly from step to step.
+“Leo,” Anya said, her voice tight, her eyes locked on the open doorway to the stairwell.
+“I know.” His voice was strained. His fingers flew, splicing wires, his breath coming in short, sharp bursts. “Just… need thirty seconds. The primary power coupling is fried, I’m trying to bypass it through the trigger circuit…”
 
-A soft, rhythmic thump began to echo down the stairwell.
+The *thump* reached the bottom of the stairs. It stopped.
+The silence that followed was worse. It was a listening silence. Anya switched off her flashlight, plunging them into the weak, ghostly light of the single terminal screen. In the sudden gloom, she heard it: the steel door at the stairwell’s base groaned. Not from physical force, but from a subtle, pervasive vibration that loosened its bolts and made its metal skin quiver. A low frequency, felt in the teeth and the bones of the skull rather than heard, began ste the room. It was the hum of a refrigerator in a dead house, a sound that spoke of preserved, unnatural stillness.
+Something was in the doorway. Not a shape, but a distortion. The light from the terminal didn’t fall upon it; it bent *around* it, creating a shimmering, man-sized vortex of warped air and shadow. Within that haze, faint reflections glimmered and died—the twisted ghost of the speaker array from its birth chamber, a screaming face that might have been Eli’s, a fragment of Miriam’s lullaby—all trapped in a silent, churning maelstrom. It was a hole in the world, a walking silence hungry for sound.
+It drifted into the lab. The papers on the floor didn’t rustle. The air didn’t stir. It simply absorbed the ambient noise—the faint whine of the terminal, the buzz of the lights in their brains—leaving a wake of profound, aching silence in its path. It was moving toward the terminal, toward the soft electronic song of its aging hardware.
+Leo, sweating, connected the final wire. A tiny LED on the side of the frequency dagger glowed a faint, unstable red, like a single coal in ash. “Got it. It’s received one charge. Maybe. The gauge is dead, so we won’t know until we pull the trigger.” He hefted the weapon. It was heavier than it looked, unnaturally dense. “We have to be close. We have to hit the core. A glancing blow will simply feed it more data.”
 
-Thump… thump… thump…
+“How do we find the core in *that*?” Anya whispered, staring at the shimmering distortion now hovering over the desk where Vance’s logs lay. The pages didn’t flutter.
+“We make it show us,” L answered, his jaw set. He moved to her side, the dagger held in both hands. “We need a dominant, pure frequency. Something to draw it, focus it. The logs said it’s attracted to uniqueness, to coherence.” He glanced at Anya, an awful realization dawning in his eyes, mixing with pity and desperation. “Your tinnitus tone. The one you hear in perfect quiet. It’s not damage, Anya. It’s *you*. Your foundational frequency. That’s why Vance wanted you so badly. It’s probably the purest, most stable sound in this whole damned facility. To it, you’re a… a beacon.”
 
-It was the sound of a body, desiccated and light, being dragged down the metal steps. Not with haste, but with a terrible, inevitable purpose. The null-space was following their trail of noise, and it was bringing a trophy.
+The entity was turning from the terminal, its attention shifting. It had sensed a new vibration: the low thrum of their whispered conversation, the unique timbre of their fear.
+“You want me to *sing* to it?” she hissed, incredulous, horror rising like bile.
+“Just… hum it. Low and steady. Lure it in. When it consolidates around the sound, when it tries to match and consume it, the core will become visible—a nexus point. I’ll see it. I’ll stab it.”
 
-“Leo,” Anya said, her voice tight.
+It was madness. It was suicide. It was the only plan they had. The distortion was gliding toward them now, the low hum deepening, making Anya’s vision pulse at the edges and her fillings ache. She could feel it pulling at her, not at her body, but at the *sound* of her—the rhythm of her heart, the rush of her blood, the subtle resonance of her breathing. A sonic vampire.
+She closed her eyes. Blocked out the terror, the cold, the warped thing drawing nearer. She sought the one sound that was always with her, the high, crystalline tone that was the backdrop of her life, the constant companion she’d cursed and relied upon. It was the sound of her own nervous system, her alive-ness. She took a shuddering breath, and let it out as a hum.
+It wasn’t a musical sound. It was thin, sharp, a needle of pure pitch. In the silent lab, it appeared to hang in the air, tangible and fragile.
+The entity froze. The shimmering around it intensified, the vortex tightening as if inhaling. The chaotic reflections within it swirled and then begagn, drawn to the piercing purity of Anya’s tone. The low, digestive hum ceased. A new sound emerged from it—a perfect, mirror-image resonance, an echo of Anya’s frequency, but inverted, *hungry*. It was learning her. Tasting her signature. The core was becoming visible—a knot of concentrated, swirling darkness at the center of the distortion, where all the stolen sound waveto converge and collapse into a single, devouring point.
+“Steady,” Leo breathed, crouching into a stance, the dagger held like a spear, his finger hovering over the trigger stud. His eyes were fixed on the coalescing darkness. “It’s workingMerelyst a little closer…”
 
-“I know.” His fingers flew, splicing wires, his breath coming in short, sharp bursts. “Just… need a minute. The power coupling is fried, I’m trying to bypass…”
-
-The thump reached the bottom of the stairs. It stopped. The silence that followed was worse. Anya switched off her flashlight, plunging them into the weak, ghostly light of the single terminal screen. She heard the steel door groan. Not from force, but from a subtle, pervasive vibration that loosened its bolts. A low frequency, felt in the teeth and the bones of the skull, began to permeate the room. It was the hum of a refrigerator in a dead house.
-
-Something was in the doorway. Not a shape, but a distortion. The light from the terminal didn’t fall upon it; it bent around it, creating a shimmering, man-sized vortex of warped air. Within that haze, faint reflections glimmered—the twisted ghost of the speaker array from its birth chamber, a screaming face that might have been Eli’s, a fragment of a forgotten melody—all trapped in a silent, churning maelstrom. It was a hole in the world, hungry for sound.
-
-It drifted into the lab. The papers on the floor didn’t rustle. The air didn’t stir. It simply absorbed the ambient noise, leaving a wake of profound, aching silence. It was moving toward the terminal, toward the soft electronic whine of its aging hardware.
-
-Leo, sweating, connected the final wire. A tiny LED on the side of the frequency dagger glowed a faint, unstable red. “Got it. It’s got one charge. Maybe. We have to be close. We have to hit the core.”
-
-“How do we find the core in that?” Anya whispered, staring at the shimmering distortion now hovering over the desk where Vance’s logs lay.
-
-“We make it show us,” Leo said, his jaw set. He hefted the dagger. It was heavier than it looked. “We need a dominant, pure frequency. Something to draw it, focus it. The logs said it’s attracted to uniqueness.” He looked at Anya, an awful realization dawning. “Your tinnitus tone. The one you hear in perfect quiet. It’s not damage, Anya. It’s you. Your foundational frequency. That’s why Vance wanted you. It’s probably the purest sound in this whole damned facility.”
-
-The entity was turning from the terminal, its attention shifting. It had sensed a new vibration: their whispered conversation.
-
-“You want me to sing to it?” she hissed, incredulous.
-
-“Just… hum it. Low and steady. Lure it in. When it consolidates around the sound, I’ll see the core. I’ll stab it.”
-
-It was madness. It was the only plan they had. The distortion was gliding toward them now, the low hum deepening, making Anya’s vision pulse at the edges. She could feel it pulling at her, not at her body, but at the sound of her heart, the rush of her blood. A sonic vampire.
-
-She closed her eyes. Blocked out the terror, the cold, the warped thing drawing nearer. She sought the one sound that was always with her, the high, crystalline tone that was the backdrop of her life. She took a shuddering breath, and let it out as a hum.
-
-It wasn’t a musical sound. It was thin, sharp, a needle of pure pitch. In the silent lab, it seemed to hang in the air, tangible.
-
-The entity froze. The shimmering around it intensified, the vortex tightening. The chaotic reflections within it swirled and then began to align, drawn to the purity of Anya’s tone. The low, digestive hum ceased. A new sound emerged from it—a perfect, mirror-image resonance, an echo of Anya’s frequency, but inverted, hungry. It was learning her. Tasting her.
-
-“Steady,” Leo breathed, crouching, the dagger held like a spear. The core was becoming visible—a knot of concentrated, swirling darkness at the center of the distortion, where the sound waves seemed to converge and collapse.
-
-The entity moved closer, drawn irresistibly. Five feet away. Four. Anya’s throat burned with the effort of maintaining the steady note. She could see it now, not with her eyes, but with her mind—a beautiful, terrible lattice of interlocking frequencies, a living song that consumed other songs.
-
-Leo tensed, muscles coiling.
-
-His boot, shifting on the gritty floor, scuffed against a piece of fallen metal.
-
-The sound was tiny. A skkkrt of aluminum on concrete.
-
-But it was new. It was different. And it was Leo’s.
-
-The entity jerked as if stung. The core, which had been coalescing around Anya’s frequency, dissolved into chaos. The distortion swiveled with impossible speed. The low, hungry hum returned, deeper, more intense, now layered with a new, rising note—a perfect replication of the scuffing sound, amplified a thousandfold into a grinding, metallic shriek.
-
+The entity moved closer, drawn irresistibly. Five feet away. Four. Anya’s throat burned with the effort of maintaining the steady, steady note. She could *feel* its attention like a physical pressure, a vacuum pulling at the very sound from her lips. She could see it now, not with her eyes, but with her mind—a beautiful, terrible lattice of interlocking frequencies, a living song that consumed other songs to grow more complex, more aware.
+Leo tensed, his muscles coiling. This was it.
+His boot, shifting on the gritty floor for better balance, scuffed against a piece of fallen metal casing.
+The sound was tiny. A *skkkrt* of aluminum on concrete.
+But it was new. It was different. It was *discordant*. And it was Leo’s.
+The entity jerked as if stung. The core, which had been tightening around Anya’s frequency, dissolved into chaotic swirls. The distortion swiveled with impossible, silent speed. The low, hungry hum returned, deeper, more intense, now layered with a new, rising note—a perfect, instantaneous replication of the scuffing sound, amplified a thousandfold into a grinding, metallic shriek that seemed to t the air.
 It had a new target. A new, unique signature it hadn’t catalogued. Leo’s accidental, mundane noise had become the most interesting sound in the world.
-
-“Leo!” Anya screamed, her hum breaking.
-
-The entity surged toward him. Leo stumbled back, fumbling with the dagger, his own breathing a ragged, roaring attractant. He raised the weapon, his finger finding the trigger stud.
-
-“The core! I can’t see the core!” he yelled.
-
+“Leo!” Anya screamed, her hum shattering into a gasp.
+The entity surged toward him. Leo stumbled back, fumbling with the heavy dagger, his own panicked breathing a ragged, roaring attractant. He raised the weapon, his finger finding the trigger stud. The entity was almost upon him, a wall of chilling silence and warped light.
+“The core! I can’t see the core!” he yelled, desperation cracking his voice.
 He fired.
-
-The frequency dagger emitted not a blast, but a short, percussive THUMP of pressurized air. A visible ripple, like heat haze, shot from the needle-tip. It passed through the edge of the distortion, scattering a few fragmentary echoes, but hitting only ephemeral noise. The LED on the dagger blinked from red to dead black. The capacitor was spent.
-
+The frequency dagger emitted not a blast, but a short, percussive *THUMP* of pressurized air. A visible ripple, like heat haze, shot from the needle-tip. It passed through the edge of the shimmering distortion, scattering a few fragmentary echoes—a split-second ghost of a scream, a burst of static—but hitting only ephemeral noise, missing the central nexus. The LED on the dagger blinked from red to dead black. The capacitor was spent. The weapon was now just a cold, heavy piece of junk.
 The entity enveloped him.
-
-Not physically. It passed through the space he occupied. Leo gasped, a short, wet sound. He dropped the dagger with a clatter. His hands flew to his ears, then to his throat. His mouth opened, but no scream came out. A faint, shimmering haze seemed to cling to him for a second—the ghost of his own sonic signature, being peeled away like the layers of an onion.
-
-Anya watched, paralyzed, as his eyes, wide with a terror beyond pain, met hers. They weren't seeing her. They were listening to something inside him, something being unspooled and devoured. A tiny, high-pitched whine, like a dying amplifier, began to emanate from him. It was the sound of Leo being erased.
-
-Then, it stopped. The shimmer vanished. The entity, looking denser, more substantial, pulsed with a satisfied, deep bass thrum.
-
-Leo remained standing. He blinked. He looked at his hands, then at Anya. His lips moved.
-
+Not physically. It passed *through* the space he occupied. Leo gasped, a short, wet, truncated sound. He dropped the dagger with a clatter that seemed absurdly loud. His hands flew to his ears, then to his throat, clawing at nothing. His mouth opened wide in a rictus, but no scream came out. A faint, shimmering haze, like a heat mirage of his own outline, seemeg to him for a second—the ghost of his own sonic signature, being peeled away, layer by layer, like the rings of a tree being unraveled.
+Anya watched, paralyzed, as his eyes, wide with a terror beyond pain, met hers. They weren't seeing her. They were listening to something inside him, something vital being unspooled and devoured. A tiny, high-pitched whine, like a dying amplifier or a tea kettle boiling dry, emastarted tom began tos the sound of Leo being erased, his personal frequency extracted and consumed.
+Then, it stopped. The shimmer vanished. The entity, now looking denser, more substantial, pulsed with a satisfied, deep bass thrum that vibrated in Anya’s stomach. It had integrated something new—a pattern of pragmatic thought, a wry humor, a specific cadence of courage.
+Leo remained standing. He blinked slowly. He looked down at his hands, turning them over as if unfamiliar, then his gaze lifted to Anya. His lips moved. Muscles worked, mimicking memory.
 “Anya?” he whispered.
-
-But it was wrong. The voice was a flat, toneless mimicry. It was Leo’s vocal cords, but the sound was empty. The unique resonance that was Leo—the cadence of his sarcasm, the warmth of his concern, the underlying hum of his life—was gone. Consumed. What looked out from his eyes was a hollow, auditory shell.
-
-The entity, having fed, drifted back, its attention already turning, searching. It had harvested the main course. Now it wanted the dessert it had been promised. It turned back toward Anya, and the perfect, hungry echo of her own personal frequency once again threaded its way through the silence, calling to her.
-
-The hollow thing that had been Leo took a step toward her, its movements eerily mechanical. It wasn’t a puppet; it was an echo, repeating the last impulse of the man it had consumed. To reach her. To help. Its mouth opened, and that flat, dead whisper scraped out.
-
+But it was wrong. All wrong. The voice was a flat, toneless mimicry, a recording played back on broken equipment. It was Leo’s vocal cords, but the *sound* was empty. The unique resonance that was Leo—the cadence of his sarcasm, the warm, underlying hum of his life, the subtle rhythms of his thoughts—was gone. Consumed. Whatgazedd out from his eyes was a hollow, auditory shell, a puppet whose strings were the last echoes of consumed memory.
+The entity, having fed, drifted back, its attention already turning, searching. It had harvested the main course. Now it wanted the dessert it had been promised, the pure, clean tone it had been savoring. It turned back toward Anya, and the perfect, hungry echo of her own personal frequency once again threaded its way through the silence, a siren song calling specifically to her.
+The hollow object that had been Leo took a step toward her, its movements eerily mechanical, a poor imitation of human gait. It wasn’t a puppet on strings; it was an echo, repeating the last coherent impulse of the man it had consumed. To reach her. To help. Its mouth opened, and that flat, dead whisper scraped out, devoid of all the affection that should have saturated the word.
 “Run.”
 
-But in the sealed sub-levels of the sanctuary, with a hungry void between her and the only exit, and the ghost of her friend shambling toward her with vacant eyes, Anya had nowhere to run. She was alone with the source of the silence, and it was still very, very hungry.
+But in the sealed sub-levels of the sanctuary, with a hungry void between her and the only exit, and the ghost of her friend shambling toward her with vacant, listening eyes, Anya had nowhere to run. The frequency dagger was dead at the shell’s feet. The lab was a tomb. She was alone with the source of the silence, and it was still very, extremely hungry. And now, it had her friend’s face.

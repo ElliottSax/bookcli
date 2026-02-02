@@ -43,6 +43,16 @@ try:
 except ImportError:
     MULTI_AGENT_AVAILABLE = False
 
+# Import advanced chapter generator (Phase 10 - Claude-style)
+try:
+    from advanced_chapter_generator import (
+        AdvancedChapterGenerator, BookType, PassType,
+        HierarchicalMemory, generate_fiction_chapter, generate_nonfiction_chapter
+    )
+    ADVANCED_GENERATOR_AVAILABLE = True
+except ImportError:
+    ADVANCED_GENERATOR_AVAILABLE = False
+
 
 class RetryStrategy(Enum):
     """Retry strategies for failed operations"""
@@ -722,6 +732,125 @@ class ResilientOrchestrator(AsyncBookOrchestrator):
         chapter_file.write_text(content, encoding='utf-8')
 
         return content, stats
+
+    def generate_chapter_advanced(self, chapter_num: int,
+                                   chapter_goal: str,
+                                   book_type: str = "fiction",
+                                   passes: int = 3,
+                                   target_words: int = 2500) -> Tuple[str, Dict]:
+        """
+        Generate a chapter using the Advanced Chapter Generator (Phase 10).
+
+        Uses Claude-style techniques:
+        - Multi-agent pipeline (Planning → Writing → Refinement)
+        - Hierarchical memory (short/medium/long-term context)
+        - Multi-pass refinement (draft → consistency → voice → compression)
+        - Genre-adaptive prompting
+
+        Based on 2024-2025 research:
+        - StoryWriter multi-agent framework
+        - DOME hierarchical outlining with memory
+        - Claude 4.x best practices
+        - Context engineering research
+
+        Args:
+            chapter_num: Chapter number to generate
+            chapter_goal: What this chapter should accomplish
+            book_type: "fiction" or "nonfiction"
+            passes: Number of refinement passes (1-4)
+            target_words: Target word count
+
+        Returns:
+            Tuple of (generated_content, generation_stats)
+        """
+        if not ADVANCED_GENERATOR_AVAILABLE:
+            self._log("[Advanced] Advanced generator not available, falling back to standard")
+            return self._fallback_generate(chapter_num)
+
+        self._log(f"[Advanced] Generating chapter {chapter_num} with {passes} passes...")
+
+        # Determine book type
+        bt = BookType.NONFICTION if book_type.lower() == "nonfiction" else BookType.FICTION
+
+        # Create generator with current settings
+        generator = AdvancedChapterGenerator(
+            book_type=bt,
+            logger=self.logger if hasattr(self, 'logger') else None
+        )
+
+        # Set up book context from orchestrator state
+        premise = getattr(self, 'premise', 'A story unfolds...')
+        genre = getattr(self, 'genre', 'literary fiction')
+        themes = getattr(self, 'themes', [])
+
+        # Get character facts if available
+        characters = {}
+        if hasattr(self, 'enhanced_quality_pipeline') and self.enhanced_quality_pipeline:
+            if "character" in self.enhanced_quality_pipeline.components:
+                char_validator = self.enhanced_quality_pipeline.components["character"]
+                if hasattr(char_validator, 'character_facts'):
+                    characters = char_validator.character_facts
+
+        generator.set_book_context(
+            premise=premise,
+            genre=genre,
+            themes=themes,
+            characters=characters
+        )
+
+        # Load previous chapter summaries into memory
+        for prev_num in range(1, chapter_num):
+            prev_file = self.workspace / f"chapter_{prev_num:03d}.md"
+            summary_file = self.workspace / f"chapter_{prev_num:03d}_summary.txt"
+            if summary_file.exists():
+                generator.memory.chapter_summaries[prev_num] = summary_file.read_text(encoding='utf-8')
+            elif prev_file.exists():
+                # Generate summary if not cached
+                prev_content = prev_file.read_text(encoding='utf-8')
+                if len(prev_content) > 500:
+                    generator.memory.chapter_summaries[prev_num] = prev_content[:500] + "..."
+
+        # Build pass list
+        pass_list = [PassType.DRAFT]
+        if passes >= 2:
+            if bt == BookType.FICTION:
+                pass_list.append(PassType.CONSISTENCY)
+            else:
+                pass_list.append(PassType.EXAMPLES)
+        if passes >= 3:
+            pass_list.append(PassType.VOICE)
+        if passes >= 4:
+            pass_list.append(PassType.COMPRESSION)
+
+        # Generate chapter
+        content, stats = generator.generate_chapter(
+            chapter_num=chapter_num,
+            chapter_goal=chapter_goal,
+            target_words=target_words,
+            passes=pass_list
+        )
+
+        # Save chapter
+        chapter_file = self.workspace / f"chapter_{chapter_num:03d}.md"
+        chapter_file.write_text(content, encoding='utf-8')
+
+        # Save summary for future chapters
+        if stats.get('summary'):
+            summary_file = self.workspace / f"chapter_{chapter_num:03d}_summary.txt"
+            summary_file.write_text(stats['summary'], encoding='utf-8')
+
+        self._log(f"[Advanced] Chapter {chapter_num} complete: {stats.get('final_word_count', 0)} words")
+        self._log(f"[Advanced] Passes: {', '.join(stats.get('passes', []))}")
+
+        return content, stats
+
+    def _fallback_generate(self, chapter_num: int) -> Tuple[str, Dict]:
+        """Fallback generation when advanced generator unavailable."""
+        self.generate_chapter(chapter_num)
+        chapter_file = self.workspace / f"chapter_{chapter_num:03d}.md"
+        if chapter_file.exists():
+            return chapter_file.read_text(encoding='utf-8'), {"fallback": True}
+        return "", {"error": "Generation failed"}
 
     def _call_llm(self, prompt: str, system: str = None) -> str:
         """Make an LLM call using the current provider."""

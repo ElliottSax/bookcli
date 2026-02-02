@@ -48,5 +48,6 @@
   "narrative_voice": "Close third-person, primarily from Elara's perspective. The prose is tactile, descriptive, and slightly melancholic, with a focus on sensory details (smell of dust, texture of wood, taste of magic). It treats the magical with the same grounded reverence as the physical craft of repair.",
   "tone": "Begins with melancholic, cozy mystery (found-family-in-a-shop) and gradually builds into a tense, atmospheric dark fantasy with moments of warm hope and desperate siege. The tone is never whimsical; even the wonder is weighted with weariness and danger.",
   "plot_summary": "Elara, a woman who mends broken objects in a dusty shop, secretly maintains a safehouse for magical beings deemed 'defective' by a world that seeks to exploit or destroy them. Her quiet life is shattered when the systematic and ruthless Director Silas Thorne of the Aethelred Corporation discovers her sanctuary. Thorne, who harvests raw magic from such beings, lays siege to the Safehouse. Forced to defend her charges, Elara must move beyond her role as a passive mender and conservator. She must embrace her own latent, powerful magic of restoration not just on objects, but on living magic itself. The climax involves the activation of a mended guardian and a final stand, transforming the Safehouse from a hiding place into a fortress, and Elara from a keeper into a defender.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 14
 }

@@ -1,70 +1,46 @@
 Chapter 10: Proof in the Plating
 
-Chapter 10: Proof in the Plating
+The silence Kaito left behind wasn't empty; it was a physical thing, a thick residue of broken trust. Elara stood in the chill of the warehouse, the orchid's ghost of a scent—vanilla and rot—still on her clothes. Valérie's revelation had been a scalpel, precise and cold. Now, with the chef's reluctant help and Kaito's betrayal fresh and sharp, they had to move.
+"A windmill," Leo muttered, spinning his tablet. The screen showed a map of the city's old distillery district, now a maze of artisan gin labs and expensive lofts. "In a city of glass and steel. It has to be the Old Granary Mill. They shut it down in the 50s. It's a historical facade now, part of some 'luxury living' project." He made a face. "Thorne's development company owns the shell."
 
-The silence Kaito left behind wasn’t empty; it was a physical weight, a dense, unsavory reduction of trust. Elara stood in the chill of the warehouse, the orchid’s phantom scent—vanilla and decay—still clinging to her clothes. Valérie’s revelation had been a scalpel, precise and cold. Now, with the chef’s grudging alliance secured and Kaito’s betrayal a raw, open nerve, they had to move.
+Milo, unusually quiet, was polishing a set of lock picks with a jeweller's cloth. "A tasting room in a windmill. Of course. The man's a cartoon. All he needs is a giant wheel of cheese."
 
-“A windmill,” Leo muttered, spinning his tablet. The screen showed a map of the city’s old distillery district, now a maze of artisan gin labs and overpriced lofts. “In a city of glass and steel. It’s got to be the Old Granary Mill. Decommissioned in the 50s. Listed as a historical facade… part of a ‘luxury experiential living’ project.” He made a face. “Thorne’s development company owns the shell.”
+"He doesn't want cheese," Elara said, her voice tight. "He wants trophies. He wants to own what the rest of us can only dream of tasting." Kaito's clue, whispered to Leo before he vanished into the night market, had been typical of him: "The thief grinds no flour, but refines the palate. Find where the north wind once turned stone."
 
-Milo, uncharacteristically quiet, was polishing a set of lock picks with a jeweller’s cloth. “A tasting room in a windmill. Of course. The man’s a parody. All he needs is a giant wheel of cheese to complete the picture.”
+The north wind. The old mill. It fit Thorne's grand view of himself perfectly.
+Valérie leaned against a stainless-steel table, arms crossed. She'd changed into sleek, black tactical gear that looked more like a fashion shoot than a break-in, but her eyes were all business. "He will have security. Not just alarms. For a collection like this, it will be environmental. Climate-controlled. Probably pressure-sensitive."
 
-“He doesn’t want cheese,” Elara said, her voice tight. “He wants trophies. He wants to own what the rest of us can only dream of tasting.” Kaito’s clue, whispered to Leo before he vanished into the night market’s shadows, had been typically elegant: “The thief grinds no flour, but refines the palate. Find where the north wind once turned stone.”
+"We're not stealing a painting," Elara said. "We're taking back evidence. And stolen property. Our property."
 
-The north wind. The old mill. It fit Thorne’s grandiose self-mythology perfectly.
+"Semantics," Valérie replied. "The law will see a broken window and missing goods. We need to see everything. Document it all."
 
-Valérie leaned against a stainless-steel table, arms crossed. She’d changed into sleek, black tactical gear that looked more fashion editorial than break-in, but her eyes were all business. “He will have security. Not just alarms. For a collection like the one you describe… it will be environmental. Climate-controlled. Perhaps pressure-sensitive.”
-
-“We’re not stealing a painting,” Elara said. “We’re retrieving evidence and reclaiming stolen property. Our property.”
-
-“Semantics,” Valérie countered. “The law will see a broken window and missing goods. We must see everything. Document it all.”
-
-The plan was a fragile thing, built on shifting loyalties. Leo would handle digital overwatch, using a worm he’d planted in Thorne’s property management system months ago during a routine security consult. Milo would dance with the physical locks and sensors. Elara and Valérie would go inside. The tension between the two women was a live wire, but it was focused, channeled into a shared, burning objective: to expose Thorne, and to hold the Luna Bianca one last time.
-The distillery district at three a.m. was a stage set waiting for the actors. Repurposed brick warehouses loomed like sleeping giants, their windows dark except for the occasional blue glow of a security panel. The air was a cocktail of smells: the ghost of malted barley, the sour tang of the canal, and the cloying sweetness of discarded syrup from a craft soda brewery.
-
+The plan was fragile, built on shaky loyalties. Leo would handle the digital side, using a worm he'd planted in Thorne's property system months before. Milo would deal with the physical locks and sensors. Elara and Valérie would go inside. The tension between them was a live wire, but it was focused now, sharpened by a single goal: to expose Thorne, and to hold the Luna Bianca one last time.
+The distillery district at three a.m. was a stage waiting for its actors. Repurposed brick warehouses loomed like sleeping giants, windows dark but for the occasional blue glow of a security panel. The air held a mix of smells: the ghost of malted barley, the sour tang of the canal, the sweet stickiness from a craft soda brewery.
 And there it was. The Old Granary Mill.
+It rose as a stone tower capped with a skeletal wooden top and sails, frozen against the dark sky. It was stuck between a shiny glass distillery and a construction site wrapped in plastic. Scaffolding clung to its south face. Leo's voice murmured in their earpieces.
+"Security is... clever. Motion sensors on the ground floor are off upstairs, according to the plans. But there's a separate, encrypted power feed from the base of the tower. Its own system. That's your climate control. Your gallery."
 
-It rose, a stone sentinel capped with a skeletal wooden cap and sails, frozen against the bruised purple sky. It was wedged between a gleaming glass distillery and a construction site shrouded in Tyvek. Scaffolding clung to its southern face. Leo’s voice was a murmur in their earpieces.
+Milo nodded, already moving across the cobblestones like a shadow. He bypassed a rusted gate with a soft click, then approached a heavy, iron-strapped door. Elara watched his hands work, the tools gleaming faintly. He wasn't just picking the lock; he was listening to it. After a moment, he slid in a slender key of his own making. The lock gave way with a sigh.
+"Charmingly old," Milo whispered. "The fancy stuff is inside."
 
-“Security is… elegant. Motion sensors on the ground floor, disabled on the upper floors according to the schematic. But there’s a separate, encrypted power draw from the base of the tower. Independent grid. That’s your climate control. Your gallery.”
+The ground floor was a huge, empty space that smelled of dust, old stone, and damp. Moonlight came through high, dirty windows, showing dust floating in the air. In the center, a massive, ancient grinding stone sat still. But Milo was right. A modern, quiet hum came from a sleek, almost hidden door in the curved wall—matte grey metal with a biometric panel.
+"Leo?" Elara breathed.
+"On it. Hitching a ride on the climate system... now. It'll show a stable loop for four minutes. Go."
 
-Milo nodded, already flitting across the cobblestones, a shadow in shadows. He bypassed a rusted gate with a soft click, then approached a heavy, iron-strapped door. Elara watched his hands work, the tools gleaming dully. He wasn’t picking the lock; he was feeling for its heartbeat. After a moment, he inserted a slender key of his own design. The lock surrendered with a sigh, not a snap.
-
-“Charmingly old-school,” Milo whispered. “The fancy stuff is inside.”
-
-The ground floor was a cavernous, empty space, smelling of dust, old stone, and damp. Moonlight filtered through high, grimy windows, illuminating floating motes of dust. In the center, a massive, ancient grinding stone lay dormant. But Milo was right. A modern, whisper-quiet hum emanated from a sleek, almost invisible door set into the curved wall—matte grey metal with a biometric panel.
-
-“Leo?” Elara breathed.
-
-“On it. Piggybacking on the environmental system… now. It’ll read a stable loop for the next four minutes. Go.”
-
-Valérie produced a small, high-powered UV light from her pocket. She swept it over the doorframe. A fine, nearly invisible wire glowed a faint blue, running along the perimeter. “Laser grid. Break the beam, and you’ll likely seal the room and flood it with inert gas. Standard for art preservation.” She pointed to a tiny vent near the floor. Milo was already there, applying a clear gel to the vent’s sensor.
-
-“Pressure differential,” he said. “Clever. Open the door too fast, the air changes, the alarm sings. We need to equalize.” He used a modified bicycle pump attached to a thin hose, feeding air slowly into the chamber beyond. A minute ticked by, agonizingly slow. Elara’s skin prickled. Every second felt like a shout in the silent mill.
-
+Valérie took a small, high-powered UV light from her pocket. She swept it over the doorframe. A fine, nearly invisible wire glowed a faint blue along the edge. "Laser grid. Break the beam, and you'll probably seal the room and flood it with inert gas. Standard for preserving art." She pointed to a tiny vent near the floor. Milo was already there, applying a clear gel to the vent's sensor.
+“Pressure differential,” he replied. “Clever. Open the door too fast, the air changes, the alarm goes off. We need to equalize.” He used a modified bicycle pump attached to a thin hose, feeding air slowly into the chamber beyond. A minute ticked by, agonizingly slow. Elara’s skin prickled. Every second like a shout in the silent mill.
 Finally, a soft, green light winked on the biometric panel. Milo entered a code Leo fed him. The door slid open with a pneumatic hiss.
-
 The air that washed over them was a shock.
-
 It was the perfect, precise humidity of a forest floor in autumn—55%, Elara’s senses told her instantly. The temperature was a cool 12°C. But it was the smell that stole the breath from her lungs.
-
-It was a museum of ghosts. The funky, deep-earth perfume of black Perigord truffles, long dead. The sharp, citrus-and-rain scent of a rare Himalayan morel. The delicate, apricot-like fragrance of matsutake pine mushrooms. And beneath it all, the clean, mineral scent of polished glass and cold stone. It was a library of lost flavors, each scent a volume now forever closed.
-
+It was a museum of ghosts. The funky, deep-earth smell of black Perigord truffles, long dead. The sharp, citrus-and-rain scent of a rare Himalayan morel. The delicate, apricot-like fragrance of matsutake pine mushrooms. And beneath it all, the clean, mineral smell of polished glass and cold stone. It was a library of lost flavors, each scent a book now forever closed.
 The room was circular, following the windmill’s tower. Recessed LED lighting, set to some perfect, color-correcting Kelvin, illuminated a series of plinths and glass cases. It was not a kitchen. It was a reliquary.
-
-On the first plinth, under a bell jar, was a single, desiccated morel, labelled “Morchella himalayensis, 2018.” Next to it, in a vial of clear liquid, floated a single, iridescent scale from a now-extinct Caspian Sea sturgeon. A small, framed square of saffron crocus petals, faded to a pale memory of purple. Thorne wasn’t just stealing ingredients; he was taxidermying them.
-
+On the first plinth, under a bell jar, was a single, dried-out morel, labelled “Morchella himalayensis, 2018.” Next to it, in a vial of clear liquid, floated a single, iridescent scale from a now-extinct Caspian Sea sturgeon. A small, framed square of saffron crocus petals, faded to a pale memory of purple. Thorne wasn’t simply stealing ingredients; he was preserving them like trophies.
 “Mon Dieu,” Valérie whispered, her professional disdain crumbling into genuine horror. “He is not a gourmand. He is a coroner.”
 
-Elara moved past the cases, her heart a frantic drum against her ribs. Then she saw it.
-
-
+Elara moved past the cases, her heart pounding against her ribs. Then she saw it.
 Elara's eyes met the officers' as they approached the makeshift table, Thorne's team already cordoning off the area. The city's best forensic experts fanned out, examining every inch of the space. She tried to keep her expression neutral, but her mind was racing. In the chaos, she spotted Milo slipping away, lock picks still clutched in his hand. She made a mental note to catch up with him later.
-
-
 The warehouse door groaned on its hinges as Valérie stepped inside, her boots crunching over shattered glass. The air smelled of burnt sugar and something metallic—blood, maybe, or just the lingering tang of Kaito’s temper. She didn’t flinch at the sight of the broken display case, its contents scattered like fallen soldiers.
-
 “You look like hell,” she said, tossing a first-aid kit onto the table. It landed with a clatter, the sound too loud in the quiet.
-
 Elara flexed her fingers, the skin around her knuckles split and raw. “I’ve had better days.”
 
 Valérie’s hands moved with practiced efficiency, cleaning the wounds, wrapping them in sterile gauze. “You’re not used to losing.”
@@ -81,70 +57,48 @@ Elara watched her, the way her fingers worked, the way her eyes never quite met 
 
 Valérie’s hands stilled. “I let you make your own choices. That’s what partners do.”
 
-Elara exhaled, the weight of the last few hours pressing down. “Partners don’t lie to each other.”
+Elara exhaled, the pressure of the last few hours pressing down. “Partners don’t lie to each other.”
 
 “Partners don’t always tell the truth, either.” Valérie met her gaze now, sharp and unflinching. “But they do clean up the messes. That’s what we’re doing now.”
 
 The silence between them was thick, charged. Outside, the city hummed, indifferent.
-
-As the officers began to collect evidence, Elara's gaze drifted to the window, where the city's steel and glass facades glistened in the morning light. The Old Granary Mill loomed in the distance, its historical facade a facade indeed – a monolith to Thorne's ego. She felt a shiver run down her spine as she recalled the words Kaito had whispered: "The thief grinds no flour, but refines the palate." It was more than just a riddle; it was a warning.
-
-The officers, oblivious to the tension, moved with practiced efficiency, collecting samples and taking notes. Elara's eyes locked onto Thorne, who stood at the center of the room, a triumphant smile spreading across his face. He had them right where he wanted them – caught in his web of deceit and culinary one-upmanship. The proof was indeed in the plating, and he had served it to the police himself. But Elara knew better than to underestimate the power of a perfectly crafted dish. Sometimes, the only thing sharper than a chef's knife was the truth, and hers was still out there, waiting to be uncovered.
-
+As the officers collect evidence, Elara's gaze drifted to the window, where the city's steel and glass facades glistened in the morning light. The Old Granary Mill loomed in the distance, its historical fron merely st that—a front for a monument to Thorne's ego. She shiver run down her spine as she recalled the words Kaito had whispered: "The thief grinds no flour, but refines the palate." It was more than just a riddle; it was a warning.
+The officers, oblivious to the tension, moved with practiced efficiency, collecting samples and taking notes. Elara's eyes locked onto Thorne, who stood at the center of the room, a triumphant smile spreading across his face. He had them right where he wanted them—caught in his web of deceit and culinary rivalry. The proof was indeed in the plating, and he had served it to the police himself. But Elara knew better than to underestimate the power of a perfectly crafted dish. Sometimes, the only thing sharper than a chef's knife was the truth, and hers was still out there, waiting to be uncovered.
 On a central dais, on a bed of black velvet, rested a sphere of flawless blown glass. Inside, suspended as if in amber, was the Luna Bianca.
-
-Even through the glass, its presence was a physical pull. It was smaller than she remembered, a pale, lumpen moon about the size of a walnut, its surface a labyrinth of subtle, ivory-colored folds. In this sterile light, it didn’t glow, but it seemed to hold the light, radiating a quiet, profound potential. It was the soul of her restaurant, the culmination of her father’s life, the promise of a dish that would have been a symphony. And here it was, imprisoned forever, meant to be looked at, never known. The ultimate perversion.
-
+Even through the glass, its presence was a physical pull. It was smaller than she remembered, a pale, lumpen moon about the size of a walnut, its surface a labyrinth of subtle, ivory-colored folds. In this sterile light, it didn’t glow, but it appeared to hold the light, radiating a quiet, profound potential. It was the soul of her restaurant, the culmination of her father’s life, the promise of a dish that would have been a symphony. And here it was, imprisoned forever, meant to be looked at, never known. The ultimate perversion.
 Her fingers trembled as she reached for the glass case. A simple latch held it shut. No alarm here; Thorne never dreamed anyone would find this sanctum. She lifted the dome.
-
 The scent hit her like a prayer.
-
 It was almonds and rain, fresh earth and something impossibly subtle—like the memory of a summer night. It was the smell of her nonna’s cellar in Alba, of her father’s hands after he’d been foraging. Tears, hot and sudden, blurred her vision. She didn’t wipe them away.
-
 “Elara,” Leo’s voice was urgent in her ear. “We have company. Two blocks out. A black sedan and… an unmarked police cruiser. Moving slow. No lights.”
 
 Valérie was already moving, not toward the truffle, but to a sleek, minimalist desk tucked into an alcove. She pulled open a drawer. Inside were not culinary artifacts, but files. Paper. Thorne’s vanity, his belief in his own untouchability, extended to keeping physical records.
-
-“Here,” Valérie said, her voice sharp.
-
+“Here,” Valér answered, her voice sharp.
 Elara gently placed the glass dome aside and joined her. The file Valérie held was labelled E. Moretti. Inside was a photograph, grainy but unmistakable. A younger Elara, face strained, handing a thick envelope to a man in a shadowy doorway. The man was Marco, her former sous-chef, deep in gambling debt to the wrong people. The second photo showed Marco, later that night, handing a smaller envelope to a known food safety inspector. The implication was devastating: Elara bribing an official to overlook a violation she’d fabricated to force out a rival. It was a lie. She’d given Marco money to disappear, to get help, not to bribe anyone. But the narrative the photos told was airtight.
-
 Beneath it were other files. V. Chevalier. Elara glanced at Valérie; the chef’s face was stone, but a muscle twitched in her jaw. There were records of sabotaged shipments, anonymous tips to health boards, manipulated reviews—Thorne’s meticulous catalogue of his own manipulations, the strings he’d pulled to control the city’s culinary landscape.
-
 “He kept receipts,” Milo said, awe and disgust mingling in his voice. He was photographing everything with a tiny, silent camera.
-
 “He’s two minutes out,” Leo warned, his voice rising. “You need to go. Now.”
 
 Elara scooped the Luna Bianca from its velvet bed. Its weight was negligible, but its meaning was colossal. She placed it carefully inside a pre-chilled, padded case Milo handed her, sealing it shut. The ghostly scent was cut off, a silent mourning.
-
 Valérie stuffed the damning files into a slim portfolio. “This is enough to ruin him. If we can get it to the right people.”
 
-“The police are with him, Leo said,” Milo hissed. “The right people are currently pointing guns our way.”
+“The police are with himurmuredeo said,” Milo hissed. “The right people are currently pointing guns our way.”
 
 They moved back through the climate-controlled door, sealing it behind them, and flitted across the dusty main floor. It was too late.
-
 Headlights sliced through the grimy windows, painting the ancient grinding stone in stark relief. Car doors thumped shut. Not the aggressive slam of enforcers, but the official, deliberate closure of law enforcement.
-
 The main door they’d entered through swung open.
-
 Augustus Thorne stood in the doorway, backlit by the headlights. He wore a tailored charcoal overcoat over a cashmere turtleneck, his expression one of profound, wounded outrage. Flanking him were two detectives in plain clothes, and two uniformed officers, hands resting on their sidearms.
-
 “There,” Thorne said, his voice echoing in the stone space. It was not the voice of the smooth predator from the gala. This was higher, tinged with a performative tremor. He pointed a perfectly manicured finger at Elara, at the case in her hand. “That’s her. The thief. I caught them on my private security feed—breaking into my historical archive. They must have heard about my little collection.”
 
 One of the detectives, a weary-looking man with tired eyes, stepped forward. “Elara Moretti? We need you to put that down and step away.”
 
 Elara’s mind raced, cold clarity cutting through the panic. Thorne wasn’t here with muscle. He was here with the law. He was playing the victim, turning their retrieval into a burglary.
-
-“This is my property,” Elara said, her voice surprisingly steady. “Stolen from my restaurant. And he has the evidence of his blackmail in that room. Along with records of his other crimes.”
+“This is my properwhispered Elara said, her voice surprisingly steady. “Stolen from my restaurant. And he has the evidence of his blackmail in that room. Along with records of his other crimes.”
 
 Thorne’s laugh was a short, bitter bark. “Blackmail? What fantasy have you concocted to cover your crime, Chef? First you steal the truffle from your own event for the insurance, now you break into my private property? Desperation makes people reckless.” He turned to the detective, his face a mask of pained reason. “I’m a collector, Detective Miller. Of culinary history. Those are preserved artifacts in there. Not for eating, for study. And she… she’s a thief who got in over her head. Look at her crew.” His gaze swept over Milo, over Valérie, lingering with contempt. “A known safecracker. And a rival chef, famous for her… ambition. This was never about a truffle. It was about ruining me.”
 
 The detective’s eyes narrowed, flicking between Thorne’s polished indignation and Elara’s defiant stance. The story was plausible. More than plausible—it was neat. A chef staging a theft, then framing a prominent businessman when the pressure mounted.
-
 “We’ll sort it all out downtown,” Detective Miller said, his tone leaving no room for argument. “Everyone, hands where I can see them. You,” he nodded to Elara, “place that case on the ground.”
 
 Elara’s fingers tightened around the handle. The cool metal bit into her palm. The Luna Bianca was inches away, reclaimed, and now it was being used as the primary evidence against her. Thorne watched her, and in the shadowed part of his eyes, behind the performance, she saw it: a glint of pure, triumphant pleasure. He had them. Not by force, but by narrative.
-
 He had the proof in the plating, and he had served it to the police himself.
-
-As the uniformed officers moved forward, Elara’s mind scrabbled for a move, a counter, a garnish to spoil his perfect dish. But sometimes, the only thing sharper than a chef’s knife is the truth, and hers was currently locked in a case, about to be tagged and bagged as Exhibit A.
+As the uniformed officers moved forward, Elara’s mind scrabbled for a move, a counter, a garnish to spoil his perfect dish. But sometimes, the only object sharper than a chef’s knife is the truth, and hers was currently locked in a case, about to be tagged and bagged as Exhibit A.

@@ -1,145 +1,59 @@
-Anton Voltaire stormed out of the kitchen, leaving Alain Desmarais shaken but resolute. The rest of the night blurred, the tension lingering long after the older man's departure. Alain tried to focus on his work, but his mind kept circling back to those words, the threat hanging over him like a specter.
+## Chapter [X]: The Stain
 
-As the night wore on, the kitchen grew quieter, the only sounds the soft hum of the refrigerator and the occasional creak of the old building. The notes, the recipes Anton Voltaire had accused him of stealing, dominated his thoughts. He knew he hadn’t taken them, but the suspicion lingered, a nagging doubt he couldn't shake.
+The door shuddered in its frame, swallowing Anton Voltaire’s broad, retreating back. For a long moment, the only sound in *Le Céleste*’s kitchen was the fading echo of his final, venomous pronouncement and the frantic, metallic hum of the walk-in refrigerator. Alain Desmarais stood rooted in the epicenter of the storm, the air around him still vibrating with the old man’s fury. The scent of the evening’s final dish—a seared scallop with brown butter and sage—now tasted like ash in his mouth, undercut by the sharper, cleaner sting of industrial bleach from the surfaces his sous chef had just wiped down.
+*Sterile.* That’s what people called kitchens like this. A lie. A pressure-cooker, yes—Voltaire had that right. But sterile? No. It was saturated with the ghosts of a thousand services: the caramelized crust of a forgotten roast seared into the steel of the range, the ghost of lemon zest trapped in the grout between tiles, the faint, iron-rich scent of blood from the butchery block that no amount of salt and peroxide could ever fully erase. And now, a new stain: the accusation. It hung in the air, a greasy, invisible smoke.
+Alain’s fingers, which had moments ago been moving with the precise, unconscious grace of a concert pianist, now trembled slightly as he reached for the counter. The cool, hard stainless steel did nothing to ground him. *Thief.* The word wasn’t just an insult; it was an annihilation. In their world, a chef’s recipes were more than instructions; they were sigils, spells, fragments of a soul committed to paper. To steal them was a form of murder.
+He made himself move, a marionette with cut strings. He checked the pilot lights on the stoves, their tiny blue flames unwavering. He ran a hand along the line of polished copper pans hanging from the rack, their familiar, warm gleam offering no comfort. The kitchen, usually a cathedral of order and potential, felt like a crime scene. *His* crime scene. The notes Voltaire accused him of stealing—the legendary, rumored *Cahiers Voltaire*, the old master’s lifelong culinary secrets—dominated his mind. He hadn’t taken them. He was certain. But certainty, he was discovering, was a fragile thing. Had he lingered too long by Voltaire’s office door after the last collaboration? Had his admiration, his desperate hunger to learn, been misinterpreted? Doubt, that insidious *sous-vide* bag, sealed around his thoughts, cooking them in a low heat of anxiety.
+The night blurred into a slow, painful decrescendo. The last porter left with a mumbled farewell. The dishwashers’ final rack clattered into place. Alain dimmed the main lights, leaving only the ghostly glow of the expediting station and the red digital eyes of appliances on standby. In the semi-darkness, the kitchen transformed. Shadows pooled in the corners like spilled reduction. The stainless steel surfaces, so assertive under light, now held the murky reflections of a man who looked like a stranger. He tried to focus on inventory spreadsheets, but the numbers swam. The silence was a physical presence, broken only by the intermittent groan of the ancient building settling on its foundations—a sound like a tired sigh—and the relentless, cyclical hum of the walk-in. It was the sound of preservation, of cold suspension. He suspended too.
+At 2:47 AM, according to the stark white clock above the pass, he finally surrendered. He took the narrow, back stairwell up to his apartment, the worn wooden steps creaking a familiar protest under his weight. The air changed, shedding the kitchen’s complex perfume for the simpler, lonelier smells of dust, old books, and the faint, sweet decay of a forgotten apple core in the sink.
+His apartment was not a home; it was a chef’s annex. A single room dominated by a small, unmade bed, a wall of cookbooks, and a tiny balcony overlooking the alley where the dumpsters exhaled their sour breath at dawn. He didn’t bother with lights. He toed off his kitchen clogs, the leather still warm from hours of standing, and collapsed onto the bed in his whites. The fabric, stiff with starch and the day’s sweat, scratched against his skin.
+Sleep was a taunt. Every time he closed his eyes, he saw Voltaire’s face, purpled with rage, the veins on his temple like ropes. He heard the crash of a pan—real or imagined?—and phantom heat of a flambé igniting too close. He tossed, the coarse sheets twisting around his legs like bindings. The streetlamp outside his window cast a jaundiced rhombus of light on the opposite wall, and within it, the shadow of his hanging chef’s jacket swayed gently, a spectral judge. *Thief. Upstart. Ingrate.* The accusations cycled, a toxic *mise en place* for a nightmare. He thought of Elara Vance. Her cool, appraising gaze. The careful, neutral questions that like surgical probes. Was her investigation a search for truth, or a predetermined path to his ruin? Had she planted the suspicion in Voltaire’s ear? The doubt curdled into a cold, hard lump in his gut. Only when the jaundiced streetlight glow was bleached away by the first frail, grey light of dawn did exhaustion finally overpower agitation, pulling him into a shallow, troubled sea.
+***
 
-The clock on the wall read 2:47 AM when Alain finally made his way to his small apartment above the kitchen. Exhaustion weighed on him, his mind reeling from the events of the night. He collapsed onto his bed, eyes drifting shut as fatigue washed over him.
+He woke to the sound of his own alarm, a harsh electronic bleat that like a physical assault. His eyes were gummy, his head packed with wet sand. Draining was too gentle a word; he excavated. The morning ritual—shower, shave, pulling on a fresh set of whites—was performed by rote, his body moving while his mind lagged several steps behind, still tangled in the sheets of his sleepless night.
+Descending the stairs back into *Le Céleste*, however, was like crossing a threshold into a different world. The morning sun, strong and clear, streamed through the tall eastern windows, cutting through the lingering night chill. It illuminated dancing motes of flour-dust in the air and laid brilliant, warm parallelograms of light across the slate floor. The kitchen, empty and quiet, was no longer a haunted chamber but a vessel of pure potential. The night’s horrors seemed ridiculous in this honest light. The steel gleamed, not with cold accusation, but with promise. The silence was peaceful, not oppressive.
+Feelings of calm, fragile but undeniable, washed over him. This was his space. His kingdom. Here, he was not Alain the accused, but Chef Desmarais. Actions had clear consequences: reduce a sauce too far, it becomes bitter; knead dough with care, it rewards you with structure. It was a world of cause and effect, not shadowy insinuation.
+He moved to the stove, the familiar weight of his personal knife roll a comfort. He would cook. He would find his center in the work. He filled a pot with water for poaching eggs, the sound a gentle rush. He selected a ripe avocado, its skin like pebbled leather, and sliced it open, revealing the perfect, pale green flesh. The act was meditative. The *shush-shush* of his knife through crusty bread, the sizzle of butter hitting a hot pan, the rich, nutty aroma that followed—these were truths he could trust.
+But as the butter foamed, his thoughts, against his will, circled back. Voltaire. Elara. The notes. The calm crack at the edges. He saw not the beautiful golden foam in the pan, but the furious spittle at the corner of Voltaire’s mouth. He heard not the cheerful sputter of cooking, but the old man’s guttural threat. The investigation was a lid about to blow. He couldn’t navigate this alone. He had to talk to Elara. He had to look her in the eye and demand… what? Answers? Mercy? His grip tightened on the pan handle. *Careful,* he told himself. *You’re holding a pan of hot butter, not a weapon. Control the heat. Don’t let it burn.* He took a long, deliberate breath, inhaling the scent of browning dairy solids, and willed the calm to settle back into his bones. Control was everything.
+***
 
-Sleep eluded him, his mind racing with thoughts of Anton Voltaire and the notes. He tossed and turned, sheets tangling around him, unable to shake the unease. Only when the first light of dawn crept into the room did he finally drift off, his body exhausted but his mind still churning.
+The front door chime echoed through the quiet dining room simply as the coffee finished its final gasp in the French press. Alain didn’t turn. He listened to the click of her heels on the slate—confident, measured—and then the softer sound as she stepped onto the kitchen’s rubber matting.
+“Inspector Vance,” he said, his voice sounding remarkably even to his own ears. “Coffee?”
 
-The next morning, Alain woke up drained, his eyes heavy. Stumbling out of bed, his movements were slow and deliberate as he made his way to the kitchen. Sunlight shone through the windows, casting a warm glow over the room. A sense of peace washed over him, a calm he hadn't felt in days.
+“Please.” Her voice was its usual professional cadence, but there was a slight huskiness, as if she too had slept poorly.
+He turned now, holding two heavy ceramic cups. He placed one before her on the pass, the dark liquid swirling, its steam carrying a scent of dark chocolate and earth. The morning light caught the fine lines at the corners of her eyes, the slight tension in her jaw. She looked tired, human.
+“I’ve been thinking,” Alain began, his eyes fixed on the cup, watching the tiny bubbles of crema cling to the rim. “It’s time we talked about what happened. Really talked.”
 
-But as he began to prepare breakfast, his thoughts turned back to Anton Voltaire and the notes. He had to talk to Elara Vance, to tell her everything. He couldn't shake the feeling that she was involved, that she knew more than she was letting on.
+Elara’s fingers curled around the warm cup but she didn’t drink. Her gaze, that sharp, analytic gaze, was fully on him. “What do you mean?”
 
-While he cooked, his mind racing with thoughts of the inspector and the investigation, he knew he had to be careful. He couldn't let his emotions get the better of him, not now, not when the stakes were so high. A deep breath steadied him, his eyes fixed on the stove as he let the calm settle in.
+He finally glanced up, meeting her eyes. They were the color of a winter sea, and just as fathomless. “I mean Anton Voltaire. The night he stormed out of here. The things he said.” He paused, letting the hum of the refrigerator fill the space. “The things you might be thinking.”
 
-When Elara Vance arrived, Alain was already in the kitchen, a pot of coffee brewing on the stove. He greeted her with a nod, his eyes fixed on the cup he was pouring for her. "I've been thinking," he said, his voice low and even. "It's time we talked about what happened."
+Her expression didn’t change, but something flickered in those grey depths—a shutter quickly closed. “My thoughts are part of an ongoing investigation, Alain. You know that.”
 
-Elara's eyes narrowed, her expression guarded. "What do you mean?"
+“I know you think I stole from him.” The words were out, blunt and heavy, dropping between them like a dropped steak.
+Her guard slipped. A slight widening of the eyes, a quick intake of breath. “I… the evidence suggests a possibility. The notes are missing. You were the last person with access. Voltaire accused you publicly.”
 
-Alain set the cup down in front of her, his gaze locked on hers. "I mean what happened with Anton Voltaire. It's time we talked about it."
+“And you believed him.” It wasn’t a question.
+Her composure returned, but it was thinner now, strained. “It’s my job to follow evidence, not beliefs. But yes, his accusation carries weight. He had no reason to lie.”
 
-Her expression softened, eyes filling with a deep sadness. "I'm sorry, Alain. I had no idea."
+A bitter laugh escaped Alain’s throat. “No reason? You didn’t know him. Pride was his reason. Spite was his currency. He saw my success here, at *Le Céleste*, as a personal insult. A student outshining the master. He would have burned his own *Cahiers* to see me ruined.”
 
-His face twisted in a mixture of anger and pain. "You had no idea?" he repeated, his voice rising. "You had no idea what was going on?"
+Elara’s face softened, but not with warmth—with a deep, weary sadness. It was this, more than any accusation, that threw him. “I’m sorry, Alain,” she replied, and her voice had lost its professional edge, revealing a genuine, ragged crack. “I had no idea… the depth of it.”
 
-Elara's eyes dropped, her shoulders sagging under the weight of her guilt. "I'm sorry," she said again, her voice cracking. "I didn't know."
+The sadness in her voice was a catalyst. The fragile calm he’d cooked into himself shattered. “You had no *idea*?” he repeated, his own voice rising, echoing off the hard surfaces. It sounded alien in the sunlit kitchen. “You’ve been in my world, asking your questions, poking into my life, my work, and you had *no idea* what that man was capable of? What his accusation would do?” He took a step forward, his fists clenched at his sides, the knuckles white. He could smell the coffee, her faint perfume—something floral and out of place—and the ever-present kitchen scent of his own rising anger.
+Her eyes dropped, not in guilt, but in what looked like profound fatigue. Her shoulders, usually so square, sagged. “I’m sorry,” she said again, the words barely audible. “I didn’t know… how it would land.”
 
-Alain's anger boiled over, his fists clenched at his sides. "You didn't know? You're the one who's been investigating me, accusing me of stealing the notes. You're the one trying to ruin my reputation."
+“You didn’t know?” The fury was a rolling boil now, uncontrollable. “You’re the one dissecting my reputation like a piece of meat on your board! You’re the one who’s made every supplier, every critic, every line cook in this city look at me and wonder! You’re no merely st investigating, you’re *erasing* me!” His voice broke on the last word, the raw sound of it shocking him into silence.
+Elara’s head snapped up. The shock in her eyes was naked, unprofessional, real. And beneath it, a unmistakable flash of hurt. “I didn’t mean to hurt you,” she whispered. The confession was so stark, so utterly devoid of her usual calculation, that it punctured Alain’s anger like a pin through a balloon.
+The rage drained away, leaving behind a hollow, aching cold. He saw her then, not as the embodiment of the system arrayed against him, but as a woman in a grey suit, holding a cooling cup of coffee, looking utterly drained. He had accused her of malice, but what he saw was the heavy toll of a difficult duty. He had become the very thing he despised in Voltaire—a man lashing out from a place of pain.
+The silence stretched, filled only by that eternal hum. The sunlight appeared too bright, too cheerful for the wreckage in the room. Alain unclenched his hands, feeling the ache in his fingers. He took a deep breath, this time not to fuel his fire, but to douse it.
+“I’m sorry too,” answeredaid, his voice scraped raw. “I shouldn’t have… I shouldn’t assume the worst.” He meant it. The assumption was a poison.
+Her eyes glistened, not with tears, but with a sheen of unshed emotion. “I know,” she murmured. “I’m sorry too.”
 
-Her eyes flashed up, her expression a mixture of shock and hurt. "I'm sorry," she whispered. "I didn't mean to hurt you."
+For a long minute, they stood in the quiet kitchen, two adversaries in a temporary, exhausted truce. The specter of Voltaire was still there, but the air between them had cleared of some of its toxic smoke. Alaingazedd at her, really looked, and made a decision. The truth wasn’t a weapon to be wielded. It was a dish to be presented, with all its complexities and imperfections.
+He reached for the coffee press, more to have something to do with his hands than anything else. “It’s time,” he said, his voice low and steady, a chef stating an intention for a complex service. “It’s time we talked about what truly happened.”
 
-His anger slowly began to dissipate, replaced by a deep sadness. He knew he had been wrong to accuse her, to assume the worst. A deep breath filled his lungs, his eyes locked on hers. "I'm sorry too," he whispered. "I shouldn't have assumed the worst."
+Elara’s professional mask was gone. Her gaze was open, wary, but ready. “What do you mean?”
 
-Elara's expression softened, her eyes glistening. "I know. I'm sorry too."
-
-For a moment, they stood there, the only sounds the soft hum of the refrigerator and the occasional creak of the old building. Alain knew he had to tell her everything, about the night Anton Voltaire died. He took a deep breath, his gaze steady on hers.
-
-"It's time we talked about what really happened," he said, his voice low and even. "It's time we talked about the truth."
-
-Elara's eyes narrowed, her expression guarded once more. "What do you mean?"
-
-Alain's eyes locked on hers, his voice barely above a whisper. "I mean what really happened that night. I mean what really happened to Anton Voltaire."n to dissipate, replaced by a deep sadness. He knew he had been wrong to accuse her, to assume the worst. He took a deep breath, his eyes locked on hers. "I'm sorry too," he said, his voice barely above a whisper. "I shouldn't have assumed the worst."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I know," she said, her voice barely above a whisper. "I'm sorry too."
-
-The two of them stood there for a moment, the only sound the soft hum of the refrigerator and the occasional creak of the old building. Alain Desmarais knew he had to tell her everything, to tell her about the night Anton Voltaire died. He took a deep breath, his eyes locked on hers.
-
-"I think it's time we talked about what really happened," he said, his voice low and even. "I think it's time we talked about the truth."
-
-Elara Vance's eyes narrowed, her expression guarded. "What do you mean?" she asked, her voice cautious.
-
-Alain Desmarais's eyes locked on hers, his voice barely above a whisper. "I mean what really happened that night. I mean what really happened to Anton Voltaire."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I'm sorry, Alain Desmarais," she said, her voice barely above a whisper. "I had no idea."
-
-Alain Desmarais's face twisted in a mixture of anger and pain. "You had no idea?" he repeated, his voice rising. "You had no idea what was going on?"
-
-Elara Vance's eyes dropped, her shoulders sagging under the weight of her guilt. "I'm sorry," she said again, her voice cracking with emotion. "I didn't know."
-
-Alain Desmarais's anger boiled over, his fists clenched at his sides. "You didn't know?" he repeated, his voice a fierce growl. "You're the one who's been investigating me, who's been accusing me of stealing the notes. You're the one who's been trying to ruin my reputation."
-
-Elara Vance's eyes flashed up, her expression a mixture of shock and hurt. "I'm sorry," she said again, her voice barely above a whisper. "I didn't mean to hurt you."
-
-Alain Desmarais's anger slowly began to dissipate, replaced by a deep sadness. He knew he had been wrong to accuse her, to assume the worst. He took a deep breath, his eyes locked on hers. "I'm sorry too," he said, his voice barely above a whisper. "I shouldn't have assumed the worst."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I know," she said, her voice barely above a whisper. "I'm sorry too."
-
-The two of them stood there for a moment, the only sound the soft hum of the refrigerator and the occasional creak of the old building. Alain Desmarais knew he had to tell her everything, to tell her about the night Anton Voltaire died. He took a deep breath, his eyes locked on hers.
-
-"I think it's time we talked about what really happened," he said, his voice low and even. "I think it's time we talked about the truth."
-
-Elara Vance's eyes narrowed, her expression guarded. "What do you mean?" she asked, her voice cautious.
-
-Alain Desmarais's eyes locked on hers, his voice barely above a whisper. "I mean what really happened that night. I mean what really happened to Anton Voltaire."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I'm sorry, Alain Desmarais," she said, her voice barely above a whisper. "I had no idea."
-
-Alain Desmarais's face twisted in a mixture of anger and pain. "You had no idea?" he repeated, his voice rising. "You had no idea what was going on?"
-
-Elara Vance's eyes dropped, her shoulders sagging under the weight of her guilt. "I'm sorry," she said again, her voice cracking with emotion. "I didn't know."
-
-Alain Desmarais's anger boiled over, his fists clenched at his sides. "You didn't know?" he repeated, his voice a fierce growl. "You're the one who's been investigating me, who's been accusing me of stealing the notes. You're the one who's been trying to ruin my reputation."
-
-Elara Vance's eyes flashed up, her expression a mixture of shock and hurt. "I'm sorry," she said again, her voice barely above a whisper. "I didn't mean to hurt you."
-
-Alain Desmarais's anger slowly began to dissipate, replaced by a deep sadness. He knew he had been wrong to accuse her, to assume the worst. He took a deep breath, his eyes locked on hers. "I'm sorry too," he said, his voice barely above a whisper. "I shouldn't have assumed the worst."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I know," she said, her voice barely above a whisper. "I'm sorry too."
-
-The two of them stood there for a moment, the only sound the soft hum of the refrigerator and the occasional creak of the old building. Alain Desmarais knew he had to tell her everything, to tell her about the night Anton Voltaire died. He took a deep breath, his eyes locked on hers.
-
-"I think it's time we talked about what really happened," he said, his voice low and even. "I think it's time we talked about the truth."
-
-Elara Vance's eyes narrowed, her expression guarded. "What do you mean?" she asked, her voice cautious.
-
-Alain Desmarais's eyes locked on hers, his voice barely above a whisper. "I mean what really happened that night. I mean what really happened to Anton Voltaire."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I'm sorry, Alain Desmarais," she said, her voice barely above a whisper. "I had no idea."
-
-Alain Desmarais's face twisted in a mixture of anger and pain. "You had no idea?" he repeated, his voice rising. "You had no idea what was going on?"
-
-Elara Vance's eyes dropped, her shoulders sagging under the weight of her guilt. "I'm sorry," she said again, her voice cracking with emotion. "I didn't know."
-
-Alain Desmarais's anger boiled over, his fists clenched at his sides. "You didn't know?" he repeated, his voice a fierce growl. "You're the one who's been investigating me, who's been accusing me of stealing the notes. You're the one who's been trying to ruin my reputation."
-
-Elara Vance's eyes flashed up, her expression a mixture of shock and hurt. "I'm sorry," she said again, her voice barely above a whisper. "I didn't mean to hurt you."
-
-Alain Desmarais's anger slowly began to dissipate, replaced by a deep sadness. He knew he had been wrong to accuse her, to assume the worst. He took a deep breath, his eyes locked on hers. "I'm sorry too," he said, his voice barely above a whisper. "I shouldn't have assumed the worst."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I know," she said, her voice barely above a whisper. "I'm sorry too."
-
-The two of them stood there for a moment, the only sound the soft hum of the refrigerator and the occasional creak of the old building. Alain Desmarais knew he had to tell her everything, to tell her about the night Anton Voltaire died. He took a deep breath, his eyes locked on hers.
-
-"I think it's time we talked about what really happened," he said, his voice low and even. "I think it's time we talked about the truth."
-
-Elara Vance's eyes narrowed, her expression guarded. "What do you mean?" she asked, her voice cautious.
-
-Alain Desmarais's eyes locked on hers, his voice barely above a whisper. "I mean what really happened that night. I mean what really happened to Anton Voltaire."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I'm sorry, Alain Desmarais," she said, her voice barely above a whisper. "I had no idea."
-
-Alain Desmarais's face twisted in a mixture of anger and pain. "You had no idea?" he repeated, his voice rising. "You had no idea what was going on?"
-
-Elara Vance's eyes dropped, her shoulders sagging under the weight of her guilt. "I'm sorry," she said again, her voice cracking with emotion. "I didn't know."
-
-Alain Desmarais's anger boiled over, his fists clenched at his sides. "You didn't know?" he repeated, his voice a fierce growl. "You're the one who's been investigating me, who's been accusing me of stealing the notes. You're the one who's been trying to ruin my reputation."
-
-Elara Vance's eyes flashed up, her expression a mixture of shock and hurt. "I'm sorry," she said again, her voice barely above a whisper. "I didn't mean to hurt you."
-
-Alain Desmarais's anger slowly began to dissipate, replaced by a deep sadness. He knew he had been wrong to accuse her, to assume the worst. He took a deep breath, his eyes locked on hers. "I'm sorry too," he said, his voice barely above a whisper. "I shouldn't have assumed the worst."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I know," she said, her voice barely above a whisper. "I'm sorry too."
-
-The two of them stood there for a moment, the only sound the soft hum of the refrigerator and the occasional creak of the old building. Alain Desmarais knew he had to tell her everything, to tell her about the night Anton Voltaire died. He took a deep breath, his eyes locked on hers.
-
-"I think it's time we talked about what really happened," he said, his voice low and even. "I think it's time we talked about the truth."
-
-Elara Vance's eyes narrowed, her expression guarded. "What do you mean?" she asked, her voice cautious.
-
-Alain Desmarais's eyes locked on hers, his voice barely above a whisper. "I mean what really happened that night. I mean what really happened to Anton Voltaire."
-
-Elara Vance's expression softened, her eyes filling with a deep sadness. "I'm sorry, Alain Desmarais," she said, her voice barely above a whisper. "I had no idea."
-
-Alain Desmarais's face twisted in a mixture of anger and pain. "You had no idea?" he repeated, his voice rising. "You had no idea what was going on?"
-
-Elara Vance's eyes dropped, her shoulders sagging under the weight of her guilt. "I'm sorry," she
+Alain met her eyes, holding them. The morning light caught the flecks of gold in her irises he’d never noticed before. He leaned forward slightly, his voice dropping to a whisper that was barely louder than the hum of the fridge, a sound meant for her ears alone.
+“I mean the night Anton Voltaire died. Not the argument here. The rest of it. What happened after he left my kitchen.” He paused, the weight of the unspoken truth a physical pressure in his chest. “I mean what really happened.”

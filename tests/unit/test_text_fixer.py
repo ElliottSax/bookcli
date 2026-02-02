@@ -189,3 +189,143 @@ Final paragraph here with some extra content.
             # Count occurrences of the duplicate paragraph
             result = context.chapters[1]
             assert result.count("This is a paragraph with enough content") == 1
+
+
+class TestGenerationLoopFixer:
+    """Tests for fix_generation_loops method."""
+
+    def test_removes_heavily_repeated_sentences(self):
+        """Should remove sentences that repeat more than 3 times."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            book_dir = Path(tmpdir)
+
+            # Create chapter with repeated sentence (>3 times)
+            repeated = "This sentence appears too many times in the text."
+            content = f"""Chapter 1
+
+First paragraph with normal content.
+
+{repeated} Some other text. {repeated} More text here.
+
+{repeated} Another paragraph. {repeated} And more.
+
+Final paragraph with unique content here.
+"""
+            (book_dir / "chapter_01.md").write_text(content)
+            (book_dir / "story_bible.json").write_text("{}")
+
+            context = BookContext(book_dir)
+            fixer = TextFixer(context)
+            fixes = fixer.fix_generation_loops()
+
+            # Should have removed duplicates (keeping only first occurrence)
+            result = context.chapters[1]
+            # Count should be 1 (only first occurrence kept)
+            assert result.count("This sentence appears too many times") == 1
+
+    def test_removes_near_duplicate_paragraphs_by_jaccard(self):
+        """Should remove paragraphs with >80% Jaccard similarity."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            book_dir = Path(tmpdir)
+
+            # Two paragraphs with very similar content (high Jaccard similarity)
+            para1 = "The quick brown fox jumps over the lazy dog and runs into the forest looking for food and shelter from the rain"
+            para2 = "The quick brown fox jumps over the lazy dog and runs into the forest searching for food and shelter from the rain"
+            content = f"""Chapter 1
+
+{para1}
+
+Normal unique content here that is completely different from other paragraphs.
+
+{para2}
+
+Another unique paragraph with totally different content for the chapter.
+"""
+            (book_dir / "chapter_01.md").write_text(content)
+            (book_dir / "story_bible.json").write_text("{}")
+
+            context = BookContext(book_dir)
+            fixer = TextFixer(context)
+            fixes = fixer.fix_generation_loops()
+
+            # Should have detected similarity and removed near-duplicate
+            result = context.chapters[1]
+            # Only one of the similar paragraphs should remain
+            assert result.count("quick brown fox") == 1
+
+    def test_preserves_unique_content(self):
+        """Should not remove unique sentences or paragraphs."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            book_dir = Path(tmpdir)
+
+            content = """Chapter 1
+
+First paragraph with completely unique content.
+
+Second paragraph is also unique and different.
+
+Third paragraph has its own distinct text.
+"""
+            (book_dir / "chapter_01.md").write_text(content)
+            (book_dir / "story_bible.json").write_text("{}")
+
+            context = BookContext(book_dir)
+            original_content = context.chapters[1]
+            fixer = TextFixer(context)
+            fixes = fixer.fix_generation_loops()
+
+            # No fixes should be applied to unique content
+            # Note: minor whitespace normalization may occur
+            assert "First paragraph" in context.chapters[1]
+            assert "Second paragraph" in context.chapters[1]
+            assert "Third paragraph" in context.chapters[1]
+
+    def test_ignores_short_sentences(self):
+        """Should not process sentences shorter than 20 chars."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            book_dir = Path(tmpdir)
+
+            # Short repeated sentences should be ignored
+            content = """Chapter 1
+
+She ran. She ran. She ran. She ran. She ran.
+
+Longer unique paragraph content here with more words for testing purposes.
+"""
+            (book_dir / "chapter_01.md").write_text(content)
+            (book_dir / "story_bible.json").write_text("{}")
+
+            context = BookContext(book_dir)
+            fixer = TextFixer(context)
+            fixer.fix_generation_loops()
+
+            # Short sentences should still be present (all of them)
+            result = context.chapters[1]
+            assert result.count("She ran.") >= 4  # At least 4 should remain
+
+    def test_ignores_small_paragraphs(self):
+        """Should not check Jaccard similarity on paragraphs with <10 words."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            book_dir = Path(tmpdir)
+
+            # Small similar paragraphs shouldn't trigger similarity check
+            content = """Chapter 1
+
+Hello there.
+
+Hello there.
+
+Hello there.
+
+Longer paragraph here with more content to make the test valid.
+"""
+            (book_dir / "chapter_01.md").write_text(content)
+            (book_dir / "story_bible.json").write_text("{}")
+
+            context = BookContext(book_dir)
+            fixer = TextFixer(context)
+            fixer.fix_generation_loops()
+
+            # Small paragraphs should be preserved (not checked by Jaccard)
+            result = context.chapters[1]
+            assert result.count("Hello there.") >= 2  # At least 2 should remain

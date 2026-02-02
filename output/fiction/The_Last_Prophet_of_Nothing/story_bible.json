@@ -48,5 +48,6 @@
   "narrative_voice": "Close third-person, primarily from Elara's perspective. The prose is grounded, sensory, and slightly brittle, mirroring her worldview. In moments of cosmic significance, it becomes stark and clean, avoiding florid description.",
   "tone": "Melancholic, contemplative, and fiercely grounded. Moments of wonder are undercut by tragedy or pragmatism. The overall mood is one of resilient sorrow moving towards determined, quiet action.",
   "plot_summary": "Elara, a herbalist who trusts only the tangible, is an unwilling witness to the world's last, fatal miracle\u2014the 'Crimson Anointing'\u2014which kills her brother. Marked as a prophet by a church she despises, she flees her village. Her journey leads her to Last Hearth, where she confirms the absolute nature of the Silence: the gods are dead, magic is gone, and her 'blessing' is a hollow, random scar. When she learns of a southern warlord exploiting the old myths to build a violent new faith, Elara chooses to act. Rejecting both the old priesthood and the new false prophet, she arms herself with a simple knife and her unwavering acceptance of nothing. She walks south, not as a chosen one, but as a woman with nothing left to lose, aiming to dismantle dangerous lies in a world finally fragile and real enough to be worth fighting for.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 12
 }

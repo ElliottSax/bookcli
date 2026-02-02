@@ -48,5 +48,6 @@
   "narrative_voice": "Close third-person, primarily from Kael's perspective, deeply sensory and introspective. The prose is gritty and physical, mirroring the setting, but capable of lyrical warmth when depicting moments of hope or revelation.",
   "tone": "Begins with grim melancholy and weary realism. Gradually acquires a determined, gritty hopefulness. The tone is never naive or overly romantic; the hope is earned, hard-edged, and aware of continuing dangers.",
   "plot_summary": "Kael, a disgraced knight whose magical sword is rusted fast in its scabbard, lives in self-imposed exile in a dying world. He is recruited by Anya, leader of a desperate caravan seeking a mythical fertile valley. During the perilous journey, Kael is forced to use his sword as a blunt tool, cracking the rust to reveal not a gleaming blade, but a delicate map etched into the metal\u2014a guide to the very valley they seek. This transforms the symbol of his failure into a guide for collective survival. The group reaches the valley (The Verdant Promise) and begins the work of settlement. However, the final hook reveals that their nascent hope has attracted attention: the predatory bandit kings of the Black Teeth mountains have seen their fires, setting the stage for the next conflict. Kael's new oath\u2014to protect and nurture this new beginning\u2014will now be tested not against the desolate land, but against the violent remnants of the old world.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 11
 }

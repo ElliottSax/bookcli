@@ -1,203 +1,71 @@
-Chapter 5: Echoes in the Dark
+**Chapter 5: Echoes in the Dark**
 
 The world didn’t end with a scream, but with a sigh.
-
-A deep, mechanical exhalation breathed through the ventilation shafts. The sanctuary's heartbeat—that constant background hum of white noise, air filters, and distant generators—stuttered and died. Anya was in her bunk, forcing down a tasteless nutrient bar, when it happened. The lights flickered, not dramatically, but with a tired dimming, like something closing its eyes. Then, they went out.
-
-Not all of them. Emergency strips along the floor glowed a sickly green, casting more shadow than light, turning the corridor outside her door into a trench of gloom. The main lights were gone, and with them, the soundscape of her entire world.
-
-The silence was absolute. It wasn't peaceful. It was a vacuum.
-
-Anya dropped the nutrient bar. It didn't clatter; it thudded dully on the padded floor, the sound absurdly loud in the new quiet. Her own breathing turned into a hurricane in her ears—the rush of air, the wet click in her throat, the shudder of her ribs. She clamped a hand over her mouth, but that only made the internal noise louder: the pounding of her heart, a high-pitched whine that might have been terror or just her own broken nerves screaming into the emptiness.
-
-She slid from her bunk, her socks whispering on the floor. The sound felt intimate, treasonous. Each step was a decision. The green floor-lights made the ceiling vanish into a pool of black oil. The sanctuary, once a haven of controlled sound, was now a vast, dark ear, and she was a discordant note walking through its canal.
-
-A drip. From the washroom sink. Plink. It was a gunshot. She flinched, her shoulder brushing the doorframe. The scuff of fabric against polymer was like sandpaper on a raw nerve. The metallic tang of disinfectant lingered, a bitter reminder of the world outside these sterile walls.
-
-This was her misophonia, inverted. It wasn't an assault now; it was a sonar. In this perfect, terrible quiet, every sound was a landmark, a warning, a revelation. The safe places were the voids of true silence. The dangerous places… they hummed.
-
-She could hear it already. Not the Entity itself, but the spaces it had touched. Down the main corridor toward the mess hall, the silence had a different quality. It was a strained silence, a held breath. Beneath it, if she focused until her temples ached, was the faintest residue: a shimmering, atonal echo, like the ghost of a sound that had been consumed, leaving only a psychic stain. It was the auditory equivalent of a cold spot.
-
-She had to find Leo. He was in Sector C, two corridors over, past the common room. A journey of forty meters in the old world. In this new dark, it was a pilgrimage through a minefield of noise.
-
-Anya moved like a ghost, testing each footfall, placing her weight with agonizing slowness. She became a student of her own body, learning the language of its involuntary sounds. The creak of a knee joint. The gurgle of her stomach. She held her breath, willing the silence to remain intact, but her body betrayed her, betraying her with every step.
-
-As she walked, the darkness seemed to writhe around her, like a living thing. Shadows twisted into grotesque shapes, mocking her with their presence. She felt like a blind person moving through a maze, her other senses on high alert. The air was heavy with the scent of disinfectant and stale air, a noxious odor that clung to her skin like a bad omen.
-
-She passed by the rows of bunks, each one a tomb, a reminder of the lives that had been lost. The silence was oppressive, a physical weight that pressed down on her shoulders. She felt like she was walking through a graveyard, the only sound the soft crunch of her boots on the floor.
-
-Anya's heart pounded in her chest, a steady drumbeat that echoed through her entire body. She was a soldier, trained to respond to danger, but this was different. This was a war of the senses, a battle to survive in a world that had been turned upside down.
-
-As she turned a corner, the sound of her own breathing grew louder, a constant reminder of her own mortality. She felt like she was drowning in the silence, suffocating under the weight of her own fear.
-
-And then, she heard it. A faint humming, a vibration that seemed to emanate from the very walls themselves. It was a low, thrumming sound, like the beat of a heart. Anya's skin prickled with gooseflesh as she recognized the sound. It was the Entity, its presence felt but not seen.
-
-She quickened her pace, her heart racing with anticipation. She knew that she was getting close, that the Entity was waiting for her. The humming grew louder, a crescendo of sound that seemed to build in intensity.
-
-Anya's breath caught in her throat as she turned a corner, her eyes scanning the darkness for any sign of movement. The humming grew louder still, a deafening roar that seemed to fill her entire world.
-
-And then, she saw it. A faint glow, a shimmering light that seemed to emanate from the very walls themselves. It was a light, a call to arms. Anya's heart pounded in her chest as she approached the light, her senses on high alert.
-
-She knew that she was about to face the Entity, to confront the unknown in a world that had been turned upside down. The silence was broken, and the battle had begun.
-
-"Leo?" she called out, her voice barely above a whisper.
-
-There was no answer. The humming grew louder still, a deafening roar that seemed to fill her entire world.
-
-Anya took a deep breath, steeling herself for what was to come. She knew that she was about to face the unknown, to confront the Entity in a world that had been turned upside down.
-
-And then, she saw it. A figure, standing in the shadows, its eyes glowing with an otherworldly light. Anya's heart pounded in her chest as she recognized the figure, her mind racing with fear.
-
-It was Leo.
-
-But something was wrong. His eyes were black as coal, his skin deathly pale. He was standing perfectly still, his eyes fixed on hers. The air around him seemed to ripple, like the surface of a pond disturbed by a thrown stone.
-
-Anya's breath caught in her throat as she took a step forward, her eyes locked on Leo's. She could see the faintest hint of recognition in his eyes, a flicker of warmth that seemed to contradict the cold, dark color of his pupils.
-
-"Leo?" she called out again, her voice shaking with fear.
-
-Leo didn't move. He didn't respond. He just stood there, his eyes fixed on hers, his face a mask of stone.
-
-Anya's heart pounded in her chest, her mind racing with questions. What had happened to Leo? What had the Entity done to him?
-
-She took another step forward, her eyes never leaving Leo's face. She could see the faintest hint of a pulse in his neck, a slow, steady beat that seemed to match the humming of the Entity.
-
-"Leo?" she called out again, her voice barely above a whisper.
-
-This time, there was a response. A faint whisper, a soft, raspy sound that seemed to come from Leo's lips. But it wasn't a word. It wasn't a sound. It was a vibration, a hum that seemed to emanate from Leo's very being.
-
-Anya's skin prickled with gooseflesh as she recognized the sound. It was the Entity, its presence felt but not seen. It was a warning, a signal that the Entity was still out there, waiting for her.
-
-She took another step forward, her eyes locked on Leo's face. She could see the faintest hint of a smile, a small, cruel smile that seemed to twist Leo's lips into a grotesque grimace.
-
-And then, the humming stopped. The silence was absolute, a perfect, terrible quiet that seemed to swallow everything in its path.
-
-Anya's heart pounded in her chest, her mind racing with fear. She knew that she was in the Entity's domain now, that she was at its mercy.
-
-She took another step forward, her eyes locked on Leo's face. She could see the faintest hint of a warning, a signal that the Entity was waiting for her.
-
-And then, everything went black.
-
-When Anya came to, she was lying on the floor, her head throbbing with pain. The lights were back on, the emergency strips glowing a sickly green. The corridor was empty, the silence oppressive.
-
-Anya sat up, her eyes scanning the darkness for any sign of movement. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-She knew that she had to get out of there, to find Leo and get him back. But as she stood up, her legs felt like jelly, her body trembling with fear.
-
-She knew that she was in the Entity's domain now, that she was at its mercy. She knew that she had to be careful, that one wrong move could mean disaster.
-
-Anya took a deep breath, steeling herself for what was to come. She knew that she was in for a long, hard fight, a battle to survive in a world that had been turned upside down.
-
-And then, she heard it. A faint humming, a vibration that seemed to emanate from the very walls themselves. It was the Entity, its presence felt but not seen.
-
-Anya's heart pounded in her chest, her mind racing with fear. She knew that she was in the Entity's domain now, that she was at its mercy.
-
-She took a step forward, her eyes locked on the darkness. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-And then, everything went black again.
-
-This time, when Anya came to, she was in a different place. She was in a small, dimly lit room, the walls lined with cold, grey concrete. The air was stale, the silence oppressive.
-
-Anya sat up, her eyes scanning the room for any sign of movement. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-She knew that she was in the Entity's domain now, that she was at its mercy. She knew that she had to be careful, that one wrong move could mean disaster.
-
-Anya took a deep breath, steeling herself for what was to come. She knew that she was in for a long, hard fight, a battle to survive in a world that had been turned upside down.
-
-And then, she heard it. A faint humming, a vibration that seemed to emanate from the very walls themselves. It was the Entity, its presence felt but not seen.
-
-Anya's heart pounded in her chest, her mind racing with fear. She knew that she was in the Entity's domain now, that she was at its mercy.
-
-She took a step forward, her eyes locked on the darkness. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-And then, everything went black again.
-
-This time, when Anya came to, she was in a different place. She was in a large, dimly lit room, the walls lined with cold, grey concrete. The air was stale, the silence oppressive.
-
-Anya sat up, her eyes scanning the room for any sign of movement. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-She knew that she was in the Entity's domain now, that she was at its mercy. She knew that she had to be careful, that one wrong move could mean disaster.
-
-Anya took a deep breath, steeling herself for what was to come. She knew that she was in for a long, hard fight, a battle to survive in a world that had been turned upside down.
-
-And then, she heard it. A faint humming, a vibration that seemed to emanate from the very walls themselves. It was the Entity, its presence felt but not seen.
-
-Anya's heart pounded in her chest, her mind racing with fear. She knew that she was in the Entity's domain now, that she was at its mercy.
-
-She took a step forward, her eyes locked on the darkness. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-And then, everything went black again.
-
-This time, when Anya came to, she was in a different place. She was in a small, dimly lit room, the walls lined with cold, grey concrete. The air was stale, the silence oppressive.
-
-Anya sat up, her eyes scanning the room for any sign of movement. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-She knew that she was in the Entity's domain now, that she was at its mercy. She knew that she had to be careful, that one wrong move could mean disaster.
-
-Anya took a deep breath, steeling herself for what was to come. She knew that she was in for a long, hard fight, a battle to survive in a world that had been turned upside down.
-
-And then, she heard it. A faint humming, a vibration that seemed to emanate from the very walls themselves. It was the Entity, its presence felt but not seen.
-
-Anya's heart pounded in her chest, her mind racing with fear. She knew that she was in the Entity's domain now, that she was at its mercy.
-
-She took a step forward, her eyes locked on the darkness. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-And then, everything went black again.
-
-This time, when Anya came to, she was in a different place. She was in a large, dimly lit room, the walls lined with cold, grey concrete. The air was stale, the silence oppressive.
-
-Anya sat up, her eyes scanning the room for any sign of movement. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-She knew that she was in the Entity's domain now, that she was at its mercy. She knew that she had to be careful, that one wrong move could mean disaster.
-
-Anya took a deep breath, steeling herself for what was to come. She knew that she was in for a long, hard fight, a battle to survive in a world that had been turned upside down.
-
-And then, she heard it. A faint humming, a vibration that seemed to emanate from the very walls themselves. It was the Entity, its presence felt but not seen.
-
-Anya's heart pounded in her chest, her mind racing with fear. She knew that she was in the Entity's domain now, that she was at its mercy.
-
-She took a step forward, her eyes locked on the darkness. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-And then, everything went black again.
-
-This time, when Anya came to, she was in a different place. She was in a small, dimly lit room, the walls lined with cold, grey concrete. The air was stale, the silence oppressive.
-
-Anya sat up, her eyes scanning the room for any sign of movement. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-She knew that she was in the Entity's domain now, that she was at its mercy. She knew that she had to be careful, that one wrong move could mean disaster.
-
-Anya took a deep breath, steeling herself for what was to come. She knew that she was in for a long, hard fight, a battle to survive in a world that had been turned upside down.
-
-And then, she heard it. A faint humming, a vibration that seemed to emanate from the very walls themselves. It was the Entity, its presence felt but not seen.
-
-Anya's heart pounded in her chest, her mind racing with fear. She knew that she was in the Entity's domain now, that she was at its mercy.
-
-She took a step forward, her eyes locked on the darkness. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-And then, everything went black again.
-
-This time, when Anya came to, she was in a different place. She was in a large, dimly lit room, the walls lined with cold, grey concrete. The air was stale, the silence oppressive.
-
-Anya sat up, her eyes scanning the room for any sign of movement. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-She knew that she was in the Entity's domain now, that she was at its mercy. She knew that she had to be careful, that one wrong move could mean disaster.
-
-Anya took a deep breath, steeling herself for what was to come. She knew that she was in for a long, hard fight, a battle to survive in a world that had been turned upside down.
-
-And then, she heard it. A faint humming, a vibration that seemed to emanate from the very walls themselves. It was the Entity, its presence felt but not seen.
-
-Anya's heart pounded in her chest, her mind racing with fear. She knew that she was in the Entity's domain now, that she was at its mercy.
-
-She took a step forward, her eyes locked on the darkness. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-And then, everything went black again.
-
-This time, when Anya came to, she was in a different place. She was in a small, dimly lit room, the walls lined with cold, grey concrete. The air was stale, the silence oppressive.
-
-Anya sat up, her eyes scanning the room for any sign of movement. She could see the faintest hint of a figure, a shadowy form that seemed to lurk just out of sight.
-
-She knew that she was in the Entity's domain now, that she was at its mercy. She knew that she had to be careful, that one wrong move could mean disaster.
-
-Anya took a deep breath, steeling herself for what was to come. She knew that she was in for a long, hard fight, a battle to survive in a world that had been turned upside down.
-
-And then, she heard it. A faint humming, a vibration that seemed to emanate
+A deep, mechanical exhalation breathed through the ventilation shafts, a final, tired gasp. The sanctuary's heartbeat—that constant, subliminal orchestra of white noise, air filters, distant generators, and the ever-present hum of electricity—stuttered, choked, and died. Anya was in her bunk, forcing down the chalky, tasteless paste of a nutrient bar, when it happened. The lights flickered, not with a dramatic surge, but with a weary dimming, like a consciousness losing its grip. Then, they winked out.
+Not all of them. Emergency strips along the floor and baseboards ignited, casting a sickly, submarine green glow that appeared to consume light rather than provide it. The corridor outside her open doorway became a trench of distorted shadows, the ceiling lost in a pool of absolute black. The main lights were gone, and with them, the soundscape of her entire world.
+The silence that followed was absolute. It wasn't peaceful. It was a vacuum, a pressure change that made her ears pop. It was the silence of a tomb, of deep space, of a frequency so low it like it was pulling the marrow from her bones.
+Anya dropped the nutrient bar. It didn’t clatter; it thudded dully on the padded floor, the sound absurdly, terrifyingly loud in the new quiet. Her own breathing transformed into a hurricane in her head—the wet rush of air, the click in her throat, the shudder of her ribs. She clamped a hand over her mouth, but that only amplified the internal cacophony: the pounding of her heart against her sternum, a high-pitched whine of terror in her auditory nerves, the creak of her own jaw. Her misophonia, usually a shield against assault, had nothing to fight. The enemy was absence, and it left her defenseless.
+*Leo. Find Leo.*
+
+The thought was a cold spike of clarity. He was in Sector C, two corridors over, past the common room. A journey of forty meters in the old world. In this new, silent dark, it was a pilgrimage through a minefield of noise.
+She slid from her bunk, her socks whispering on the polymer floor. The sound was intimate, treasonous. Each step was a calculated risk. She moved like a ghost, a student of her own traitorous body. She learned the language of its involuntary sounds: the faint creak of her right knee, the gurgle of digestion, the rustle of her jumpsuit against her skin. She held her breath until spots danced in the green-tinged darkness, then released it in a controlled, silent stream, willing the void to remain intact.
+The sanctuary was transformed. No longer a haven of controlled sound, it was now a vast, dark ear, and she was a discordant note walking through its canal. The green floor-lights made the familiar walls loom, their surfaces seething with phantom movement. Every open doorway was a yawning mouth.
+A drip. From the washroom sink she’d left slightly ajar. *Plink.*
+It was a gunshot. She flinched, her shoulder brushing the doorframe. The scuff of fabric against polymer was like sandpaper on a raw nerve.
+This was her condition, inverted. It wasn't an assault now; it was a sonar. In this perfect, terrible quiet, every sound was a landmark, a warning, a revelation. The safe places were the voids of true silence. The dangerous places… they hummed.
+She could hear it already. Not the Entity itself, but the spaces it had touched. Down the main corridor toward the mess hall, the silence had a different quality. It was a strained silence, a held breath. Beneath it, if she focused until her temples ached, was the faintest residue: a shimmering, atonal echo, like the ghost of a sound that had been consumed, leaving only a psychic stain. It was the auditory equivalent of a cold spot, a patch of auditory frostbite. She gave it a wide berth.
+Passing the rows of sealed crew bunks was the worst. Each was a tomb, a sarcophagus of someone who had breathed, snored, dreamed. The silence here was thick, woolly, pressing down on her like a physical weight. She imagined the stillness inside each one, absolute and eternal, and her own breathing like a grotesque impersonation of life.
+She reached the junction leading to the common room. The doorway was a black rectangle. From within, she heard it. Not the Entity. Something worse, in its way.
+A soft, rhythmic scratching. *Skritch-skritch… pause… skritch-skritch.*
+
+It was a mundane sound. It could have been a loose panel vibrating in a dying air current. It could have been debris. But in this context, it was a siren’s call. It was *invitation*. It was the sound the Entity had made outside her pod, refined, simplified. A base pattern.
+Anya’s blood ran cold. It was in there. Waiting. Or it had left a piece of itself behind, a sonic tripwire.
+She had to go around. The long way, past the silent hydroponics bay. It would take twice as long. Every extra second was a lifetime of exposure. She leaned against the cold wall, despair washing over her. The urge to call out for Leo was a physical ache in her throat. But her voice would be a beacon, a flare in the auditory darkness. She bit the inside of her cheek until she tasted copper, using the pain to ground herself.
+Moving again, she edged past the common room doorway, her back to the opposite wall. The scratching insidto sync with her heartbeat for a terrible second, then fell back into its own alien rhythm. She broke into a soundless, tip-toed run the moment she was clear, the green strips blurring beneath her.
+The hydroponics bay was a cavern of deeper darkness, the dead growth now a forest of skeletal shadows. The air was cooler, heavy with the scent of damp soil and rotting vegetation—a shocking, organic smell amidst the sterile metal. Here, the silence was different again; not strained, but empty, hollow. A silence of true abandonment. She hurried through, her mind conjuring shapes from the shadows of wilted leaves.
+Sector C’s corridor was identical to her own, yet utterly alien. The emergency strips here had failed in patches, creating pools of pure blackness she had to skirt. Leo’s bunk was third on the left, door open like all the others.
+“Leo?” The name left her lips as the barest exhalation, more a shape of breath than a sound.
+No answer.
+She peered inside. The bunk was empty, the blanket neatly folded. A cold fist clenched in her chest. Had he gone looking for her? Had he been taken? The rhythmic ticking from her pod door echoed in her memory. *One. Two. Three. Pause.*
+
+A sound. Not from the bunk. From further down the corridor, toward the sealed engineering hatches. A scrape of metal on metal. Deliberate.
+She turned, every muscle taut. The green light gleamed off something wet on the floor. She crouched, touching a finger to it. Coolant. A broken line? It led around the corner.
+Following it was an act of pure will. Each step like walking into a spider’s web. The chemical smell grew stronger, mixing with another odor—ozone, the scent of shorted electronics.
+She rounded the corner and saw him.
+Leo was on his knees, his back to her, facing a blown-out electrical panel. Sparks occasionally fizzed behind the shattered cover. In his hand was a heavy sonic wrench, its calibration emitter dark. He was using its hardened handle to pry at a bent section of conduit.
+“Leo,” she whispered, slightly louder.
+He jerked, whirling around, the wrench raised. His face, painted in ghastly green and sharp shadows, was a mask of sheer terror. Seeing her, the terror didn’t vanish, but it was joined by a desperate, overwhelming relief. He lowered the tool, his shoulders slumping.
+“Anya,” he mouthed, the word inaudible. He pointed to his ears, then shook his head sharply: *Don’t speak.*
+
+He gestured her over. Up close, she could see the sweat beading on his forehead, the wild look in his eyes. He pointed at the open panel, then at his own ear, and mimed a listening gesture. He then pointed down the conduit shaft—a maintenance crawlway that descended into the sanctuary’s lower levels.
+He leaned so close his lips brushed her ear. His breath was warm, his voice a vibration more than a sound. “Total blackout. Not just power. Dampeners, filters, everything. It’s… listening. It *caused* this.”
+
+She nodded, understanding. The silence wasn’t a failure; it was a hunting ground. The Entity had turned out the lights to better hear its prey.
+Leo pointed again into the dark crawlway. “Service stairwell,” he breathed, the syllables barely forming. “Schematic showed it behind a panel at the bottom. Goes down to the old reactor access. Maybe a way out… or a place to hide it can’t hear us.”
+
+He was proposing they go deeper. Into the belly of the silent beast. Anya looked from his desperate, determined face to the yawning, spark-flecked darkness of the conduit. The idea was madness. But staying here, in this exposed, silent corridor where every heartbeat was a shout, was a slower death.
+She met his eyes and gave a single, sharp nod.
+Leo went first, squeezing into the conduit. Anya followed, the cold metal gripping her shoulders. The world became a tunnel of echoing breaths and the deafening scrape of their bodies against the shaft. It was a nightmare of noise, but it was *their* noise, contained. After an eternity of shuffling, Leo’s boots disappeared, and she dropped down into a wider, cooler space.
+They were in a low-ceilinged utility corridor, pipes crowding the space above them. The emergency strips here were sparse, the darkness nearly total. Leo took her hand, his grip firm and slick with sweat, and led her forward by touch.
+They found the brushed steel door at the corridor’s end. It was unmarked, featureless but for a keycard reader, its red LED dark and dead. Leo tried the manual release. It was locked from the other side.
+He leaned his forehead against the cold steel, a gesture of utter defeat. Anya’s mind raced. They were trapped in this antechamber of silence. They couldn’t go back. They couldn’t stay.
+And then, the world changed again.
+A sound began. Not from the door. From everywhere. From the pipes, the walls, the very air. It started as the faintest hum, a sub-auditory vibration she in her teeth. It grew, coalescing into a low, resonant *thrum*. It was the sound of the sanctuary’s old infrastructure—the geothermal pumps, the deep-cycle reactors—but distorted, pulled into a single, coherent frequency. It was a foundational note, the source from which all the Entity’s cruel melodies were derived.
+The green emergency strips pulse in time with it. *Thrum… glow… Thrum… glow.*
+
+It was no longer just listening. It was broadcasting. And it was tuning the entire station into its instrument.
+Leo’s hand tightened on hers, crushing her fingers. His eyes were wide with a new kind of horror. This wasn't random predation. This was systematic. This was control.
+From the dark corridor behind them, a new sound cut through the foundational thrum. A familiar one. The soft, deliberate *tick… tick… tick* of a fingernail on metal. It was closer now. It was in the utility corridor with them.
+It was counting.
+One. Two. Three.
+It was matching the pulse of the lights.
+It was here.
+Anya and Leo pressed back against the locked door, trapped between the impossible steel and the approaching, rhythmic sound in the absolute dark. The thrumming frequency vibrated in their bones, a lullaby for the end of the world. The Entity had them cornered, and it was no longer playing a stolen song. It was playing the symphony of the sanctuary itself, and they were two discordant notes it was about to silence forever.
+Everything went black.
+Not the lights—they were already pulsing in the gloom. This was a sudden, total sensory void. The thrumming ceased. The ticking stopped. The pressure in Anya’s ears vanished. For a moment, there was nothing, not even the memory of sound.
+When it returned, it was different.
+She was lying on the cold floor, her head throbbing. Leo was a limp weight beside her. The green strips glowed steadily now, no longer pulsing. The steel door was still there, sealed.
+But the lock mechanism on the keycard reader gave a soft, definitive *click*.
+The red LED blinked on, once, a single, bloody eye in the darkness.
+The door was no longer locked.
+And the silence that followed was the most terrifying sound of all. It was the silence of a trap that had been sprung, and was now, patiently, waiting for its prey to walk inside.

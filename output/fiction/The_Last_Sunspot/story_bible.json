@@ -47,5 +47,6 @@
   "narrative_voice": "Close third-person, primarily from Elara's perspective, with a lyrical and sensory quality. It blends the poetic observation of a dying world with the intimate, urgent emotions of a burgeoning romance.",
   "tone": "Melancholic yet hopeful, deeply romantic, with a strand of cosmic awe. It balances intimate emotional moments with the vast, staggering scale of a planetary transformation.",
   "plot_summary": "In a world where the sun is dying, Elara, a Solar Attendant, performs daily rituals to stoke the fading light with memories of joy. As the dimming accelerates, she encounters Kaelen, a shadow-weaver from a rival conclave, who is resigned to the coming dark. Their initial conflict sparks an unexpected connection, revealing that their opposed magics don't cancel each other but interact in a new, potent way. As the cosmic anomaly known as the Eternal Eclipse approaches to consume the last sun, the rigid conclaves prepare for a final, futile conflict. Elara and Kaelen, realizing their combined power of embodied light and shadow represents a third option, defy both sides. In a climactic union of magic and emotion, they don't fight the Eclipse but merge with it, transforming it. The result is not a restored sun, but a new eternal twilight\u2014a permanent, gentle balance of their essences. The world is saved, not by returning to the old ways, but by creating a new one born from their love, leaving the old orders bewildered and a new era begun.",
-  "quality_fixed": true
+  "quality_fixed": true,
+  "fixes_applied": 12
 }

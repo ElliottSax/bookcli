@@ -1,164 +1,67 @@
-Chapter 7: Council's Gambit
-
-Chapter 7: Council’s Gambit
-
-The summons came not as a chime, but as a single, sustained buzz from the door panel—the sound of a direct Council override. Aris jolted, a spoonful of rehydrated pea slurry freezing halfway to his mouth. Across the cramped table, Lyra’s eyes snapped up from her own bowl, wide and instantly alert. The truce between them, hard-won in the dripping, echoing darkness of the common corridors, was still a newborn thing. It flinched at loud noises.
-
-“Who…?” Lyra began, but the door hissed open before she could finish.
-
-Two Peacekeepers in their slate-gray uniforms filled the threshold. They didn’t enter. They never did. Their presence was a contamination in itself.
-
-“Aris Kael. The Bunker Council requests your presence.” The speaker’s voice was filtered, neutral, a tool sound.
-
-Aris’s stomach became a block of ice. They know. The thought was pure, animal panic. They knew about the dual occupancy, the unauthorized repair mission, the whispered stories in the dark. He set the spoon down, the clatter against the plasti-steel bowl absurdly loud.
-
-“Of course,” he said, his voice thankfully steady. He didn’t look at Lyra. He couldn’t. He pushed back from the table, the legs screeching against the grated floor.
-
-Lyra’s hand shot out, gripping his wrist. Her fingers were cold, strong. “What do they want?” she whispered, the words a blade of air.
-
-“Routine,” he lied, the old reflex smooth and immediate. “Probably a debrief on the atmospheric scrubber fix. Bureaucracy moves slow, but it moves.”
-
-He peeled her fingers away, feeling the ghost of their pressure as he stood. The Peacekeepers pivoted, a single unit, and he fell into step between them. The last thing he saw before the door sealed was Lyra’s face, pale in the sickly yellow light, her expression not of fear, but of a deep, calculating suspicion.
-
-The walk to the Council chambers was a journey through a gutted beast. The common corridors, still haunting from their repair mission, were now empty under the full, unforgiving glare of the overhead lumens. Every scuff of their boots echoed into a infinity of polished metal and sealed hatches. The air here was colder, sterilized, smelling of ozone and latent power. It was the smell of authority. It was the smell, Aris realized with a jolt, of everything he’d once aspired to.
-
-They bypassed the public waiting area—a bleak atrium with hard benches—and went through a security arch that hummed as it scanned his bio-signatures. A final door, thicker than the others, etched with the Bunker’s emblem: a stylized seed inside a gear. It sighed open.
-
-The Council chamber was a shock of space. After six months in his coffin-unit, the volume of it was physically dizzying. The ceiling was a full five meters high, lost in a soft, indirect glow that mimaked a sky. The air was genuinely warm, not the cycling, stale warmth of the vents, but a steady, enveloping comfort. The walls were lined with real wood veneer, a relic of the world before, polished to a deep, impossible amber.
-
-Three figures sat behind a crescent-shaped dais of dark stone. Councilor Vex, a woman with hair the color of forged iron and a face like a closed valve, sat at the center. To her right was Councilor Hale, whose genial smile never touched his eyes. To her left was the taciturn Councilor Reed, his fingers steepled, observing.
-
-“Aris Kael,” Vex said. Her voice was clear, devoid of static, a privilege of top-tier acoustics. “Thank you for your prompt attendance. Please, sit.”
-
-A chair, padded with actual fabric, awaited him. He sat, feeling the cushion give way, a luxury so profound it felt obscene.
-
-“We’ve reviewed the logs from your recent… excursion,” Hale began, his tone conversational. “Ingenious work, bypassing the failed coupling. Initiative is a valued commodity.”
-
-“It was necessary,” Aris said, his mouth dry.
-
-“Indeed,” Vex replied. “Necessity often forces unconventional arrangements. Such as your current living situation.”
-
-There it was. The ice in his gut spread. He said nothing.
-
-“We are not here to punish pragmatism, Aris,” Hale soothed. “The Bunker’s survival hinges on adaptive solutions. Your technical skills are noted. Your file shows consistent, if quiet, compliance. You understand how the machine works. You appreciate order.”
-
-They were painting a portrait of him—the old him. The man who believed in the machine, who craved the quiet predictability of systems and rules. The man who lived before a stubborn, grey-eyed woman shared her last protein bar and told him about the feel of real rain.
-
-“Your current accommodations are… unsustainable,” Councilor Reed stated, his first words. “For a mind of your capability.”
-
-Vex leaned forward. “We are prepared to offer you a Transfer. Tier Three. A private unit. Seventy square feet. Dedicated climate control. A priority nutrient allotment. And a reinstatement of your full Engineering credit allowance.”
-
-The words hung in the warm, spacious air. Seventy square feet. Private. No more listening to another human breathe in the dark. No more negotiating for shower time. No more constant, grating proximity. He could think. He could be. The promise was a physical ache, a siren song to his most fundamental, claustrophobic misery.
-
-“The terms?” Aris heard himself ask, the technician assessing the deal.
-
-Hale’s smile widened a micron. “A simple alignment of interests. Your unit-mate, Lyra. Her psychological profile and behavioral patterns have been flagged for… potential dissonance. She associates with certain low-tier individuals. Her rhetoric, in her limited social interactions, questions allocation protocols.”
-
-“She’s just frustrated,” Aris said, too quickly. “The proximity, the stress…”
-
-“Perhaps,” Vex cut in, her gaze pinning him. “We require clarity. A periodic report. Observations on her state of mind, her contacts, any subversive leanings. Think of it as a stability assessment. For her benefit, as much as the Bunker’s.”
-
-They were offering him a palace in exchange for a key. The key to Lyra’s trust, to the fragile bridge they’d built. They were asking him to monetize every shared confidence, every vulnerable moment born in the terrifying darkness of the common corridors.
-
-“And if I decline?” he asked, the question barely a whisper.
-
-The pleasant atmosphere in the room didn’t change, but it seemed to harden around the edges. “Then you return to your current unit,” Reed said flatly. “And the situation will be resolved through standard regulatory channels. Dual occupancy violations carry mandatory re-assignments. Often to sanitation or deep-core maintenance.”
-
-They didn’t need to elaborate. Sanitation was a slow death by filth and disease. Deep-core meant permanent, sunless proximity to the groaning geothermal pumps. It was a return to the claustrophobia he feared, but without light, without hope, and without her.
-
-The old Aris—the cynical survivor who’d learned to keep his head down and his circuits clean—screamed yes. This was the system working, rewarding him. This was the way out.
-
-But the new Aris, the one shaped by Lyra’s defiant smirk in the face of terror, by the electric shock of her hand brushing his in the dark, by the raw sound of her voice describing a lost ocean—that man felt a nausea that had nothing to do with the pea slurry.
-
-“I need to consider,” he heard himself say.
-
-“Naturally,” Hale nodded. “The offer is valid for forty-eight hours. A gesture of our goodwill.” He tapped a panel on the dais. “Your new unit is already being prepared. You may view it on your way out.”
-
-A Peacekeeper escorted him not back the way he came, but down a different, softly lit hall. They stopped before a door marked 3-47. It opened.
-
-Aris stepped inside, and his breath caught.
-
-It was immense. A real bed, raised on a frame, not a wall-fold cot. A dedicated work console. A personal hygiene alcove with a door. A view-screen that could display archived scenic vistas. The hum of the air recycler was a gentle whisper. The silence was absolute, and for a glorious, terrifying second, it was the most beautiful sound he had ever heard. He could live here. He could thrive here. He could forget the constant, grinding pressure of another soul just inches away.
-
-The door hissed shut behind him, leaving him alone in his potential future.
-Returning to Unit G-22 was like being swallowed. The light was jaundiced, the air thick with the smell of two bodies, recycled oxygen, and the faint, metallic tang of anxiety. The space, which he’d somehow grown accustomed to, now felt impossibly small, a pressurized can.
-
-Lyra was on her cot, pretending to read a faded manual on her tablet. She didn’t look up. “Debrief go well?”
-
-“Fine,” he said, stripping off his outer tunic, needing to move. “Tech updates. New efficiency protocols. The usual.”
-
-“Efficiency protocols,” she repeated, her voice flat. She set the tablet down. “They summoned you with a Peacekeeper escort for efficiency protocols?”
-
-“The scrubber fix was unorthodox. They wanted a firsthand account.” The lies came easily, oiled by a lifetime of practice and the screaming temptation of Tier Three.
-
-She stood up, and the motion in the tiny space forced him to step back. “Aris. Look at me.”
-
-He did. Her eyes were scanning his face like a diagnostic tool. “You’re different. You’re… vibrating. What did they really offer you?”
-
-He turned away, busying himself at the sink, splashing tepid water on his face. The memory of the private unit’s perfect, spacious sink haunted him. “Nothing. Just… prospects. Maybe a consult on the ventilation system.”
-
-“Prospects,” she echoed. He could feel her gaze on his back. “You know, for a systems tech, you’re a terrible circuit. Your tells are all over the place. Your voice gets two percent higher. You avoid direct eye contact. And you haven’t called me ‘an idealistic drain on the grid’ once since you got back.”
-
-He winced. The old insult, once a daily refrain, now felt like a relic from a dead self. “Maybe I’m tired of arguing.”
-
-“Or maybe you’ve been bought,” she said softly, and the words landed like a physical blow.
-
-The fragile trust, built over shared terror and whispered stories, groaned under the weight of the unspoken. They moved around each other for the next cycle in a tense, polite dance. The silence wasn’t comfortable anymore; it was a wall. He’d catch her watching him, her earlier suspicion now tinged with a raw, bewildered hurt. It was that hurt that cut deeper than any anger.
-
-That night, as the bunker lights dimmed to sleep-cycle gloom, Aris lay awake on his cot. Lyra’s breathing, usually a rhythm he’d unconsciously synced with, now felt like an accusation. He needed air. Or the illusion of it. He slipped out, muttering about a faulty sensor reading he’d forgotten to log.
-
-He didn’t go far, just to a small, disused maintenance nook three units down. He just needed a moment away from the crushing guilt. He was sitting in the dark, head in his hands, when he heard it.
-
-A voice, muffled, filtered through static. Not from the main comms. A clandestine channel, piggybacking on old wiring.
-
-“…distribution logs from Hydroponics confirm it. A thirty percent surplus in Tier One and Two, while the lower tiers are on a net-calorie deficit. It’s not inefficiency. It’s policy.”
-
-Lyra’s voice.
-
-Aris froze, his blood turning to slush.
-
-Another voice, male, crackled. “Can you get proof? Tangible data?”
-
-“I’m working on it,” Lyra replied, her tone low, fierce, the one she used when she was most alive. “My source in Archives is nervous. But I have… a new angle. Someone closer to the systems core. I might be able to access the real allocation algorithms.”
-
-“Too dangerous. If they flag you…”
-
-“They already watch me,” she said, a bitter laugh in the static. “But they don’t know everything. There’s a… a complication. In my unit. A tech. He’s Council-friendly, but he’s not heartless. I think he’s starting to see the cracks. I might be able to use that.”
-
-Aris stopped breathing. A complication. A tech. Use that.
-
-The male voice was urgent. “Lyra, don’t gamble on a convert. They always choose their own skin.”
-
-A long pause. He could almost see her biting her lip, the way she did when she was thinking. “I know,” she said finally, her voice suddenly small, weary. “But sometimes, the air gets so thin you have to gamble on a single breath.”
-
-The transmission cut into a hiss of dead noise.
-
-Aris sat in the absolute darkness of the nook, colder than he’d ever been in the common corridors. They were both playing games. The Council was using him as a tool. Lyra was seeing him as a tool—a potential convert, a useful idiot. The private unit, her hurt looks, his own gnawing guilt—it was all just moves on a board in a game for the soul of the bunker.
-
-And he was the piece being fought over.
-
-The old Aris knew the smart move. Take the deal. Report the clandestine channel. Secure his future. Survive.
-
-But the man who had heard the weariness in her voice, the man who had felt her hand cling to his in abject terror, the man who now knew she was fighting for more than just rebellion—for a principle, for air—that man felt something else. A furious, protective clarity.
-
-He returned to the unit. Lyra was back on her cot, feigning sleep. He stood over her for a long moment, watching the false rise and fall of her chest.
-
-“Lyra.”
-
-She opened her eyes, guarded.
-
-“I have to go out again. Council summons. A follow-up. A systems diagnostic they want me to run personally.”
-
-It was the worst lie yet. It hung in the thick air between them.
-
-She searched his face, and this time, she saw something new—not guilt, not evasion, but a grim, settled determination. It scared her more than anything. She slowly sat up, the thin blanket pooling around her waist. Her grey eyes were pools of betrayal and a desperate, fading hope.
-
-“A systems check,” she said, the words hollow. “Right.”
-
-He turned to leave, unable to bear it.
-
-“Aris.” Her voice stopped him at the door. He looked back. She wasn’t crying. She was just… resigned. “Just remember which system you’re trying to save.”
-
-The door sealed behind him, cutting off her face, leaving only the echo of her words and the crushing weight of the choice he had already made. He didn’t turn towards Engineering. He turned towards the central lift, his steps echoing with finality in the deserted hall. He needed to see the Council. Not to report. To negotiate. Or to burn it all down.
-
-He requested a private audience via a corridor panel, his voice steady. “Tell Councilor Vex it’s Aris Kael. Regarding the offer. I have my answer.”
+## **Chapter 7: Council’s Gambit**
+
+The summons came not as a chime, but as a single, sustained buzz from the door panel—the sound of a direct Council override. It was a raw, electrical sound, the kind that vibrated in the fillings of your teeth. Aris jolted, a spoonful of rehydrated pea slurry freezing halfway to his mouth. The grey-green paste trembled on the cheap plasti-steel, releasing a faint, vegetal odor that turned his stomach.
+Across the cramped table, Lyra’s eyes snapped up from her own bowl, wide and instantly alert. The truce between them, hard-won in the dripping, echoing darkness of the common corridors, was still a newborn thing, a spindly plant kept alive by shared silence and the mutual understanding of being trapped. It flinched at loud noises.
+“Who…?” Lyra began, her voice a low rasp, but the door hissed open before she could finish. It opened with a sigh, a release of pressure that appeared to come from the walls themselves, as if the entire hab-unit had been holding its breath.
+Two Peacekeepers in slate-gray uniforms filled the threshold. They didn’t enter. They never did. Their presence was a contamination, a reminder of the authority that lurked just beyond the fragile sanctuary of their unit. The taller one’s helmet visor was a blank, dark oval, reflecting the room’s sickly yellow light in a distorted smear that showed Aris his own pale, startled face. The air from the corridor, colder and carrying the tang of recycled metal and ozone, washed in, making the tiny room feel even smaller.
+“Aris Kael. The Bunker Council requests your presence.” The speaker’s voice was filtered, neutral, a tool sound that stripped the words of any humanity. It wasn’t a request. It was a system command.
+Aris’s stomach turned to ice. *They know.* The thought was pure, animal panic, a cold spike driven up his spine. They knew about the dual occupancy, the unauthorized repair mission, the whispered stories in the dark. He saw it all in a flash: the confiscation of his tools, the cold floor of a detention cell, Lyra dragged away to some unknown quadrant. He set the spoon down. It clattered against the bowl, absurdly loud in the quiet room, the sound of a world shattering.
+Lyra’s hand shot out, gripping his wrist. Her fingers were cold, strong, calloused from work he couldn’t imagine. “What do they want?” she whispered, the words a blade of air meant only for him. Her eyes were not just scared; they were assessing, scanning his face for data, for the lie he was about to tell.
+“Routine,” he lied, the old reflex smooth and immediate, a survival mechanism worn smooth by a lifetime in the Bunker’s gears. “Probably a debrief on the atmospheric scrubber fix. Bureaucracy moves slow, but it moves.” He tried to sound calm, but his voice trembled on the last word, betraying him. He saw the flicker in her eyes—not belief, but a decision to let the lie stand, for now.
+He peeled her fingers away, feeling the ghost of their pressure, a brand on his skin, as he stood. The motion disconnected, as if he were watching someone else’s body obey. The Peacekeepers pivoted as one, perfectly synchronized, and he fell into step between them. The last thing he saw before the door sealed with a definitive *thunk* was Lyra’s face, pale in the sickly yellow light, her expression not of fear, but of a deep, calculating suspicion. It was the look of someone who had expected the trap to spring, and was now figuring out how to chew through her own leg.
+The walk to the Council chambers was a journey through a gutted beast. The common corridors, still haunting from their repair mission with their memories of echoing drips and clinging damp, were now empty under the full, unforgiving glare of the overhead lumens. Every scuff of their boots on the grated floor echoed into an infinity of polished metal and sealed hatches, a rhythmic, marching sound that like a countdown. The air here was colder, sterilized, smelling of ozone and latent power. It was the smell of authority, of systems that could not be argued with. Aris realized with a jolt that it was the smell of everything he’d once wanted—order, efficiency, a place in the machine. Now, it simply smelled like a cage.
+They bypassed the public waiting area—a bleak atrium with hard benches bolted to the floor, under a flickering light panel that gave everyone a jaundiced look. Instead, they veered towards a nondescript alloy door. A security arch hummed to life as they approached, a pale blue light washing over him, prickling his skin with static. It scanned his bio-signatures, his chip, his very breath. A final door, thicker than the others, marked with the Bunker’s emblem—a stylized seed inside a gear, a promise of life through machinery—slid open with a deep, hydraulic sigh. It revealed a room thato be the very heart of power, and the contrast was so violent it was disorienting.
+The Council chamber was a shock of space. After six months in his coffin-unit, the sheer volume of it was dizzying. The ceiling was a full five meters high, lost in a soft, indirect glow that mimicked a sky at dusk. No harsh lumens here. The air was genuinely warm, not the cycling, stale warmth of the vents, but a steady, enveloping comfort that seeped into his bones. He grime of the lower levels on his skin like a second, shameful uniform. The walls were lined with real wood veneer, a relic of the world before, polished to a deep amber that drank the light. The smell was profound: oiled wood, aged leather from the chairs, and underneath it all, a faint, clean scent of filtered air. It was the smell of preserved history, of decisions made far from the reek of algae vats and recycled water.
+Three figures sat behind a crescent-shaped dais of dark, veined stone that looked like it had been quarried from the planet’s bones. Councilor Vex, a woman with hair the color of forged iron scraped back into a severe knot, and a face like a closed valve, sat at the center. To her right was Councilor Hale, his features arranged in a genial smile that never touched his eyes, which were the pale, watchful blue of a glacier. To her left was the taciturn Councilor Reed, his long fingers steepled before him, observing everything and saying nothing.
+“Aris Kael,” Vex said. Her voice was clear, devoid of static, a privilege of top-tier acoustics in this sealed room. It was a voice used to being obeyed. “Thank you for your prompt attendance. Please, sit.”
+
+A chair, padded with actual fabric—a coarse, dark blue weave—awaited him. He sat, feeling the cushion give way beneath him, a luxury so profound it obscene. It was like sitting on a cloud made of guilt.
+“We’ve reviewed the logs from your recent… excursion,” Hale began, his tone conversational, as if they were discussing the weather. He leaned forward slightly, the leather of his chair creaking. “Ingenious work, bypassing the failed coupling with that secondary relay. Initiative is a valued commodity down in the deeps.” The words seemed to ith sincerity, but Aris detected the hint of condescension, a patronizing tone that made his skin crawl. *Initiative is for children and fools*, the subtext whispered. *Real adults follow the manual.*
+
+“It was necessary,” Aris said, his mouth dry as dust. His tongue too big. He tried to meet their collective gaze, but his eyes darted from the grain of the wood paneling to the subtle Bunker emblem etched into the stone dais, anywhere but the three pairs of eyes dissecting him.
+“Indeed,” Vex replied, the word hanging in the warm air. “Necessity often forces unconventional arrangements.” She let the pause stretch, a practiced tool. Aris could hear the hum of the chamber’s climate system, a low, almost inaudible thrum of well-maintained machinery. “Such as your current living situation. Unit 87-G was allocated for a single occupant. A technician. Not a… refugee from the deep corridors.”
+
+There it was. Not an accusation, yet. A statement of fact. A trap laid bare to see if he would stumble into it. Aris’s mind raced. *Deny? Explain?* He saw Lyra’s calculating eyes. He saw the Peacekeepers at the door. He replied nothing, his silence a fragile shield.
+It was Reed who broke the stalemate, his voice a dry rustle. “The girl. Lyra. Her presence is a statistical anomaly. An unaccounted-for variable.” He tapped one long finger against the stone. “Variables introduce risk. The Bunker cannot tolerate risk.”
+
+Hale picked up the thread, his smile softening into something almost paternal. “We understand, Aris. You’re a good technician. You follow protocols. You contribute. This… situation was thrust upon you. A compassionate impulse, perhaps. But compassion, unchecked, can be a vector for chaos.” He spread his hands. “We are not without mercy. Nor are we blind to potential.”
+
+Aris’s heart was a frantic drum against his ribs. *Where is this going?* The warmth of the room was becoming oppressive, the smell of leather cloying. He sweat prickle at the small of his back.
+“We are offering you a path,” Vex stated, her voice cutting through the thick air. “A resolution that benefits the Bunker’s security and rewards your… demonstrated adaptability.”
+
+“Monitor her,” Hale said, as if suggesting a slight change to a work schedule. “You share a space. You’ve built a rapport. It’s a unique position. Observe Lyra’s activities. Her conversations. Her… proclivities. Report anything of note. Dissident sentiment. Unauthorized exploration. Questions about the Council or the Bunker’s founding protocols.”
+
+The words landed not with a shock, but with a slow, cold seep, like water finding its way into a crack and freezing. They wanted him to spy. To turn the fragile truce, the shared, silent meals, the wary alliance in the dark, into a source of intelligence. The betrayal was so vast, so clinical, it momentarily stole his breath.
+“And in return?” Aris heard himself ask, his voice a stranger’s.
+Vex allowed a thin, sharp smile. “A promotion to Senior Technician. Full access to the central engineering archives. A private unit on Level Three—thirty square meters, independent climate control, a dedicated water ration.” She listed the prizes like items on a manifest. “Your work would be recognized. You would have a voice in maintenance planning. A future, Aris. A real one.”
+
+The vision they painted was devastating. Level Three. He’d only ever been there on escorted repairs. The light was better. The air smelled cleaner. People spoke in quieter tones. A private unit meant silence, solitude, space to think that wasn’t borrowed or stolen. It meant never having to justify his existence again. It was everything the orphan from the lower maintenance creche had ever dreamed of.
+And the price was Lyra.
+His mind split. The technician, the rule-follower, the one who craved order, screamed that this was the only logical choice. She *was* a variable. An unknown. The Bunker’s survival was paramount. This was duty, refined to its most efficient form. He could be a hero, a guardian of the last light of humanity, from the comfort of a private room.
+But then he saw her. Not as a variable, but as Lyra. Gripping his wrist in the yellow light. Moving with a feral grace through the pitch-black corridors he feared. Sharing her stolen, dried fruit with a solemn, wordless offer. Her stories of the deep places, told not to frighten him, but because they were her truth. She was chaos, yes. But she was also alive in a way nothing in the Bunker’s sanctioned zones was. She remembered a world before gears, and in her remembering, she made it feel less like a myth and more like a theft.
+The Councilors watched the conflict play out on his face. They were experts in this moment. They saw the longing, the fear, the dawning horror. They waited.
+“You want me to… report on everything?” Aris finally managed.
+“On anything that threatens the Bunker’s integrity,” Vex corrected smoothly. “Her safety is not in question, provided she remains… benign. You would be her protector, in a way. Ensuring her continued residence does not become a problem requiring a more direct solution.”
+
+The threat was velvet-wrapped, but it was iron-hard. *Play our game, or we remove the piece.*
+
+Aris’s thoughts churned. If he refused, they would remove Lyra anyway. And him. He’d be back in the creche, or worse. He would have gained nothing and lost everything. If he agreed, he gained the world, and lost his soul in the exchange. But if he agreed *and* found a way to navigate it… to feed them harmless information, to protect Lyra from the shadows of his new privilege… was that not a more cunning form of resistance?
+It was a liar’s calculus, and he knew it. The moment he agreed, he entered a maze with no exit. Every word to Lyra would be poisoned. Every look, a calculation.
+He looked at their expectant faces. Hale’s friendly mask. Reed’s analytical coldness. Vex’s implacable certainty. They held all the power. They were offering him a tiny slice of it, with strings that could strangle him in his sleep.
+He had to choose. Now. In this warm, wood-paneled room that stank of temptation.
+He took a breath, the air tasting of leather and false promise. He thought of the buzz of the door override, the cold fear, and Lyra’s hand on his wrist. A choice between two betrayals: one of the system that raised him, one of the person who showed him it was a cage.
+His voice, when it came, was quiet, but it didn’t shake. It was the voice of a man stepping off a ledge, unsure if there was ground below.
+“What,” he asked, meeting Vex’s gaze directly for the first time, “would constitute a ‘note’ worth reporting?”
+
+Hale’s smile became genuine, reaching his glacial eyes. Vex gave a slight, approving nod. Reed’s steepled fingers relaxed.
+“We’ll provide a discreet data-pad,” V answered. “With encrypted sub-channels. Routine updates. Anything outside the norm. Conversations about the Surface. About the Founding. Dissatisfaction with ration allocations or work duties. Unexplained absences.”
+
+They outline the mechanics of his betrayal, their voices calm, logical. Aris listened, nodding at intervals, his mind already building walls within walls. He would give them something. Just enough. He would play the part. He would take the unit on Level Three, the promotion, the security.
+And he would learn. He would use their archives, their access, their trust, to find his own answers. To understand what they were so afraid of in Lyra, and in the deep places she arrived from. He would become a double-variable, an unknown inside their machine.
+As they dismissed him, the Peacekeepers waiting to escort him back, Aris rose from the comfortable chair. The fabric of his worn jumpsuit coarse against his skin. He was no longe merely st Aris the technician. He was Aris the asset. Aris the betrayer. Aris the secret rebel.
+The walk back through the sterile corridors different. The echoes of his steps were no longer a countdown to doom, but the ticking of a clock he had just started. He had made his choice. He had chosen the cage with the better view, convinced he could pick its lock from the inside.
+But as the door to 87-G hissed open, revealing Lyra sitting exactly where he’d left her, her bowl cold, her eyes sharp and waiting, the full weight of his decision crashed down. She searched his face, looking for the truth he had already agreed to bury.
+“Well?” she asked, a single word that held universes of suspicionOnlyJust bureaucracy,” he said, the lie smoother now, practiced in the council chamber. He forced a tired smile. “They just wanted every detail about the relay bypass. For the archives.”
+
+He saw her weigh it, saw the slight, almost imperceptible relaxation in her shoulders. She believed him. Or chose to.
+And as he moved to the small sink, turning his back to her to hide the shame he knew must be blazing on his face, Aris first thread of the Council’s web tighten around him. He was in the game now. And the only object more terrifying than being their pawn was the thought of becoming the player they never saw coming.

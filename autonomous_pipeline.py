@@ -5,6 +5,7 @@ Runs perpetually on Oracle Cloud workers.
 Handles: concept generation -> writing -> editing -> quality improvement -> finalization
 
 Uses centralized lib/ modules for API calls, logging, and configuration.
+Uses fixers/ module for quality improvements (deduplication from local QualityPipeline).
 """
 
 import os
@@ -18,7 +19,15 @@ from typing import Optional, Dict, List
 # Centralized lib modules
 from lib.logging_config import setup_logging, get_logger
 from lib.config import get_config
-from lib.api_client import call_llm, extract_json_from_response
+from lib.unified_generator import UnifiedBookGenerator, GenerationConfig
+from lib.quality_scorer import QualityScorer
+from lib.checkpoint import CheckpointManager, ProcessingStage, BookStatus
+from lib.backup import BackupManager
+from lib.copyright_guard import CopyrightGuard
+from lib.notifications import send_notification
+
+# Modular fixers for quality improvement
+from fixers import BookContext, QualityFixer, TextFixer, CoherencyFixer
 
 # Generation Guard - prevents quality issues during generation
 try:
@@ -26,6 +35,50 @@ try:
     GUARD_AVAILABLE = True
 except ImportError:
     GUARD_AVAILABLE = False
+
+
+# Compatibility wrappers for deprecated imports
+class ConceptGenerator:
+    """Compatibility wrapper - delegates to UnifiedBookGenerator."""
+    def __init__(self, output_dir):
+        self._generator = UnifiedBookGenerator(output_dir)
+
+    def generate_concept(self, genre=None, subgenre=None, trope=None):
+        return self._generator.generate_concept(genre=genre, subgenre=subgenre, trope=trope)
+
+
+class BookWriter:
+    """Compatibility wrapper - delegates to UnifiedBookGenerator."""
+    def __init__(self, output_dir=None):
+        # Will be set when write_book is called
+        self._generator = None
+        self._output_dir = output_dir
+
+    def write_book(self, concept, book_dir, **kwargs):
+        if self._generator is None:
+            self._generator = UnifiedBookGenerator(book_dir.parent if book_dir else Path('.'))
+        return self._generator.generate_book(concept, **kwargs)
+
+
+# Quality Gate compatibility
+class QualityGate:
+    """Compatibility wrapper for QualityGate."""
+    def __init__(self):
+        self.scorer = QualityScorer()
+
+    def check(self, content: str) -> dict:
+        report = self.scorer.analyze(content)
+        return {'passed': report.passed, 'score': report.score, 'issues': report.warnings}
+
+
+def create_quality_enhanced_prompt(base_prompt: str, quality_report=None) -> str:
+    """Compatibility function for quality-enhanced prompts."""
+    if quality_report and hasattr(quality_report, 'get_prompt_additions'):
+        return base_prompt + quality_report.get_prompt_additions()
+    return base_prompt
+
+
+QUALITY_GATE_AVAILABLE = True
 
 # Initialize
 setup_logging()
@@ -83,367 +136,97 @@ GENRES = {
 }
 
 
-class ConceptGenerator:
-    """Generates unique book concepts."""
-
-    def __init__(self):
-        self.generated_titles = self._load_existing_titles()
-
-    def _load_existing_titles(self) -> set:
-        """Load titles of already generated books."""
-        titles = set()
-        if OUTPUT_DIR.exists():
-            for book_dir in OUTPUT_DIR.iterdir():
-                if book_dir.is_dir():
-                    titles.add(book_dir.name.lower().replace("_", " "))
-        return titles
-
-    def generate_concept(self) -> Optional[Dict]:
-        """Generate a unique book concept."""
-        genre = random.choice(list(GENRES.keys()))
-        genre_info = GENRES[genre]
-        subgenre = random.choice(genre_info["subgenres"])
-        trope = random.choice(genre_info["tropes"])
-
-        prompt = f"""Generate a unique, marketable book concept.
-
-Genre: {genre} ({subgenre})
-Trope: {trope}
-
-Return a JSON object with:
-{{
-    "title": "Compelling, marketable title (5 words max)",
-    "subtitle": "Optional subtitle for non-fiction",
-    "genre": "{genre}",
-    "subgenre": "{subgenre}",
-    "trope": "{trope}",
-    "premise": "2-3 sentence hook that would appear on book cover",
-    "protagonist": "Name and brief description",
-    "conflict": "Main conflict or problem",
-    "setting": "Time and place",
-    "tone": "Overall tone (dark, light, humorous, etc.)",
-    "target_audience": "Who will read this",
-    "comparable_titles": ["Title 1", "Title 2"]
-}}
-
-Make the concept fresh and commercially viable. Avoid clichés."""
-
-        result = call_llm(prompt, max_tokens=1500, temperature=0.8)
-        if not result:
-            return None
-
-        concept = extract_json_from_response(result)
-        if not concept:
-            return None
-
-        # Check for duplicate title
-        title = concept.get("title", "").lower()
-        if title in self.generated_titles:
-            logger.info(f"Duplicate title detected: {title}, regenerating...")
-            return None
-
-        self.generated_titles.add(title)
-        return concept
-
-
-class BookWriter:
-    """Writes complete books from concepts."""
-
-    def create_outline(self, concept: Dict) -> Optional[Dict]:
-        """Create a chapter-by-chapter outline."""
-        prompt = f"""Create a detailed {CHAPTERS_PER_BOOK}-chapter outline for this book:
-
-Title: {concept.get('title')}
-Genre: {concept.get('genre')} / {concept.get('subgenre')}
-Premise: {concept.get('premise')}
-Protagonist: {concept.get('protagonist')}
-Conflict: {concept.get('conflict')}
-Setting: {concept.get('setting')}
-
-Return a JSON object with:
-{{
-    "chapters": [
-        {{
-            "number": 1,
-            "title": "Chapter title",
-            "summary": "2-3 sentence summary of what happens",
-            "key_events": ["Event 1", "Event 2", "Event 3"],
-            "character_development": "What the protagonist learns/experiences",
-            "ending_hook": "How the chapter ends to keep readers engaged"
-        }}
-    ]
-}}
-
-Ensure strong pacing with rising action, a midpoint twist, dark moment, and satisfying climax."""
-
-        result = call_llm(prompt, max_tokens=4000, temperature=0.7)
-        if not result:
-            return None
-
-        return extract_json_from_response(result)
-
-    def write_chapter(self, concept: Dict, outline: Dict, chapter_num: int, previous_summary: str = "") -> Optional[str]:
-        """Write a single chapter."""
-        chapter_info = outline["chapters"][chapter_num - 1]
-
-        context = f"Previous events: {previous_summary}" if previous_summary else "This is the opening chapter."
-
-        prompt = f"""Write Chapter {chapter_num} of "{concept.get('title')}".
-
-Genre: {concept.get('genre')} / {concept.get('subgenre')}
-Tone: {concept.get('tone')}
-
-Chapter Title: {chapter_info.get('title')}
-Chapter Summary: {chapter_info.get('summary')}
-Key Events: {', '.join(chapter_info.get('key_events', []))}
-Character Development: {chapter_info.get('character_development')}
-Ending Hook: {chapter_info.get('ending_hook')}
-
-{context}
-
-Write a complete chapter of approximately {TARGET_CHAPTER_WORDS} words.
-
-Requirements:
-- Start with an engaging hook
-- Include vivid sensory details (sight, sound, smell, touch)
-- Write natural, distinctive dialogue
-- Show character emotions through actions and internal thoughts
-- End with the specified hook to keep readers turning pages
-- Vary sentence length and paragraph structure
-- Avoid clichés and AI-isms like "I cannot", "As an AI", etc.
-
-Write the chapter now:"""
-
-        return call_llm(prompt, max_tokens=5000, temperature=0.8)
-
-    def write_book(self, concept: Dict, book_dir: Path) -> bool:
-        """Write an entire book with inline quality validation."""
-        logger.info(f"Creating outline for: {concept.get('title')}")
-
-        outline = self.create_outline(concept)
-        if not outline or "chapters" not in outline:
-            logger.error("Failed to create outline")
-            return False
-
-        # Save outline
-        (book_dir / "outline.json").write_text(json.dumps(outline, indent=2))
-
-        # Initialize generation guard for inline validation
-        guard = None
-        if GUARD_AVAILABLE:
-            try:
-                guard = GenerationGuard(book_dir)
-                guard.create_story_bible_from_outline(concept, outline)
-                logger.info("  Generation guard active - inline validation enabled")
-            except Exception as e:
-                logger.warning(f"  Could not initialize generation guard: {e}")
-                guard = None
-
-        # Write chapters with validation
-        previous_summaries = []
-        for i in range(1, CHAPTERS_PER_BOOK + 1):
-            logger.info(f"  Writing chapter {i}/{CHAPTERS_PER_BOOK}")
-
-            previous_summary = " ".join(previous_summaries[-3:]) if previous_summaries else ""
-            chapter = None
-
-            # Try up to 3 times with validation
-            max_attempts = 3 if guard else 1
-            for attempt in range(max_attempts):
-                chapter = self.write_chapter(concept, outline, i, previous_summary)
-                if not chapter:
-                    continue
-
-                # Validate with guard if available
-                if guard:
-                    result = guard.validate_chapter(i, chapter)
-                    if result.passed:
-                        break
-                    else:
-                        logger.warning(f"    Chapter {i} validation failed (attempt {attempt + 1}/{max_attempts})")
-                        for issue in result.issues[:2]:
-                            logger.warning(f"      - {issue}")
-
-                        if attempt < max_attempts - 1 and result.should_regenerate:
-                            hint_text = guard.get_regeneration_prompt_additions(result)
-                            previous_summary = previous_summary + hint_text
-                            time.sleep(2)
-                else:
-                    break
-
-            if not chapter:
-                logger.error(f"Failed to write chapter {i}")
-                return False
-
-            # Save chapter
-            chapter_file = book_dir / f"chapter_{i:02d}.md"
-            chapter_file.write_text(f"# Chapter {i}: {outline['chapters'][i-1].get('title', '')}\n\n{chapter}")
-
-            # Update guard tracking
-            if guard:
-                guard.update_tracking(i, chapter)
-
-            # Update summary for next chapter
-            previous_summaries.append(outline['chapters'][i-1].get('summary', ''))
-
-            time.sleep(config.pipeline.delay_between_chapters)
-
-        return True
-
-
 class QualityPipeline:
-    """Runs all quality improvement passes on a book."""
+    """
+    Runs all quality improvement passes on a book.
 
-    def fix_ai_isms(self, text: str) -> str:
-        """Remove AI-isms and improve natural flow."""
-        ai_patterns = [
-            "I cannot", "As an AI", "I don't have", "I'm not able",
-            "delve", "tapestry", "vibrant", "multifaceted", "Moreover",
-            "Furthermore", "Additionally", "It's important to note",
-            "In conclusion", "To summarize"
-        ]
-
-        if not any(p.lower() in text.lower() for p in ai_patterns):
-            return text
-
-        prompt = f"""Remove AI-isms and improve this text. Replace:
-- "Moreover/Furthermore/Additionally" with natural transitions
-- "delve/tapestry/vibrant/multifaceted" with simpler words
-- Any robotic or unnatural phrasing
-
-Keep the same meaning and length. Return ONLY the improved text.
-
-{text[:3000]}"""
-
-        result = call_llm(prompt, max_tokens=4000, temperature=0.5)
-        return result if result else text
-
-    def add_sensory_details(self, text: str) -> str:
-        """Add sensory details to prose."""
-        sensory_words = ['smell', 'taste', 'hear', 'sound', 'feel', 'texture', 'cold', 'warm', 'bright', 'dark']
-        if any(w in text.lower() for w in sensory_words):
-            return text
-
-        prompt = f"""Add 2-3 sensory details to this passage. Include sight, sound, smell, or touch.
-Keep the same meaning and approximate length. Return ONLY the improved text.
-
-{text[:2000]}"""
-
-        result = call_llm(prompt, max_tokens=3000, temperature=0.6)
-        return result if result else text
-
-    def improve_dialogue(self, text: str) -> str:
-        """Make dialogue more distinctive."""
-        if text.count('"') < 4:
-            return text
-
-        prompt = f"""Improve the dialogue in this passage:
-- Give each character a distinctive voice
-- Add beats and reactions between dialogue
-- Make conversations feel more natural
-
-Keep the same plot points. Return ONLY the improved text.
-
-{text[:3000]}"""
-
-        result = call_llm(prompt, max_tokens=4000, temperature=0.7)
-        return result if result else text
-
-    def add_tension(self, text: str) -> str:
-        """Add subtle tension to flat scenes."""
-        tension_words = ['suddenly', 'danger', 'fear', 'threat', 'secret', 'hidden', 'urgent']
-        if any(w in text.lower() for w in tension_words):
-            return text
-
-        prompt = f"""Add subtle tension to this passage through:
-- Internal worry or doubt
-- Environmental unease
-- Time pressure
-- Interpersonal friction
-
-Keep the same plot. Return ONLY the improved text.
-
-{text[:2000]}"""
-
-        result = call_llm(prompt, max_tokens=3000, temperature=0.7)
-        return result if result else text
-
-    def improve_ending(self, text: str, is_final: bool = False) -> str:
-        """Strengthen chapter endings."""
-        words = text.split()
-        if len(words) < 300:
-            return text
-
-        ending = ' '.join(words[-300:])
-        beginning = ' '.join(words[:-300])
-
-        if is_final:
-            prompt = f"""Improve this final chapter ending to be more satisfying and emotionally resonant.
-Give proper closure while leaving hope. Return ONLY the improved ending (about 300 words).
-
-{ending}"""
-        else:
-            prompt = f"""Improve this chapter ending to create a stronger hook.
-Add suspense, a revelation, or emotional cliff-hanger. Return ONLY the improved ending (about 300 words).
-
-{ending}"""
-
-        result = call_llm(prompt, max_tokens=500, temperature=0.7)
-        if result and len(result.split()) > 100:
-            return beginning + ' ' + result
-        return text
-
-    def expand_short_chapter(self, text: str) -> str:
-        """Expand chapters that are too short."""
-        words = len(text.split())
-        if words >= MIN_CHAPTER_WORDS:
-            return text
-
-        prompt = f"""Expand this chapter to approximately {TARGET_CHAPTER_WORDS} words by:
-- Adding detailed scene descriptions
-- Expanding dialogue with reactions
-- Including character thoughts and emotions
-- Adding transitional scenes
-
-Keep the same plot points. Return ONLY the expanded chapter.
-
-{text}"""
-
-        result = call_llm(prompt, max_tokens=5000, temperature=0.7)
-        if result and len(result.split()) > words + 500:
-            return result
-        return text
+    This is a thin wrapper around the fixers module that provides
+    the same interface as before for backwards compatibility.
+    The actual implementation is in fixers/quality_fixer.py.
+    """
 
     def run_quality_pass(self, book_dir: Path) -> Dict:
-        """Run all quality improvements on a book."""
+        """
+        Run all quality improvements on a book.
+
+        Uses the fixers module (QualityFixer and TextFixer) for actual work.
+        Creates backups before modifications and saves checkpoints.
+        """
         stats = {"chapters_improved": 0, "total_improvements": 0}
 
         chapters = sorted(book_dir.glob("chapter_*.md"))
         if not chapters:
             return stats
 
-        for i, chapter_file in enumerate(chapters):
-            logger.info(f"  Quality pass on {chapter_file.name}")
-            text = chapter_file.read_text()
-            original_text = text
+        logger.info(f"  Running quality pass on {len(chapters)} chapters")
 
-            # Run all improvement passes
-            text = self.fix_ai_isms(text)
-            text = self.add_sensory_details(text)
-            text = self.improve_dialogue(text)
-            text = self.add_tension(text)
-            text = self.expand_short_chapter(text)
+        # Initialize checkpoint and backup managers
+        checkpoint_mgr = CheckpointManager(book_dir)
+        backup_mgr = BackupManager(book_dir)
 
-            # Improve ending
-            is_final = (i == len(chapters) - 1)
-            text = self.improve_ending(text, is_final=is_final)
+        # Create backup before modifications
+        backup_mgr.backup_all_chapters()
+        logger.info("  Created backup of all chapters")
 
-            if text != original_text:
-                chapter_file.write_text(text)
-                stats["chapters_improved"] += 1
-                stats["total_improvements"] += 1
+        # Save checkpoint for quality stage
+        checkpoint_mgr.save(
+            ProcessingStage.QUALITY_CHECKS,
+            chapter=0,
+            total=len(chapters),
+        )
 
-            time.sleep(1)
+        # Create book context
+        context = BookContext(book_dir)
+
+        # Run text fixes first (doubled names, LLM artifacts, etc.)
+        text_fixer = TextFixer(context)
+        text_fixes = text_fixer.fix()
+        stats["total_improvements"] += text_fixes
+
+        # Re-load context after text fixes
+        context = BookContext(book_dir)
+
+        # Run coherency fixes (generation loops, duplications)
+        # This catches paragraph/dialogue/sentence repetition from LLM generation
+        coherency_fixer = CoherencyFixer(
+            context,
+            fix_loops=True,
+            fix_duplicates=True,
+            aggressive=False
+        )
+        coherency_fixes = coherency_fixer.fix()
+        stats["total_improvements"] += coherency_fixes
+        stats["coherency_fixes"] = coherency_fixes
+
+        # Re-load context after coherency fixes
+        context = BookContext(book_dir)
+
+        # Run quality fixes (AI-isms, sensory, dialogue, tension, expansion, endings)
+        quality_fixer = QualityFixer(
+            context,
+            expand_short=True,
+            fix_pov=True,
+            fix_ai_isms=True,
+            add_sensory=True,
+            add_tension=True,
+            improve_dialogue=True,
+            improve_endings=True,
+        )
+        quality_stats = quality_fixer.run_full_quality_pass()
+
+        # Aggregate stats
+        total_quality = sum(quality_stats.values())
+        stats["chapters_improved"] = total_quality
+        stats["total_improvements"] += total_quality
+        stats["details"] = quality_stats
+
+        # Update checkpoint
+        checkpoint_mgr.save(
+            ProcessingStage.QUALITY_CHECKS,
+            chapter=len(chapters),
+            total=len(chapters),
+            metadata={"quality_stats": quality_stats},
+        )
 
         return stats
 
@@ -460,41 +243,14 @@ class StoryBibleGenerator:
         first_chapter = chapters[0].read_text()[:2000]
         last_chapter = chapters[-1].read_text()[-2000:]
 
-        prompt = f"""Create a comprehensive story bible for this book.
-
-Title: {concept.get('title')}
-Genre: {concept.get('genre')} / {concept.get('subgenre')}
-Premise: {concept.get('premise')}
-
-Opening excerpt:
-{first_chapter}
-
-Ending excerpt:
-{last_chapter}
-
-Return a JSON object with:
-{{
-    "title": "{concept.get('title')}",
-    "genre": "{concept.get('genre')}",
-    "subgenre": "{concept.get('subgenre')}",
-    "setting": {{
-        "time_period": "When the story takes place",
-        "locations": ["Location 1", "Location 2"],
-        "atmosphere": "Overall mood/atmosphere"
-    }},
-    "characters": [
-        {{
-            "name": "Character name",
-            "role": "protagonist/antagonist/supporting",
-            "description": "Physical and personality description",
-            "arc": "Character development throughout the story"
-        }}
-    ],
-    "themes": ["Theme 1", "Theme 2", "Theme 3"],
-    "narrative_voice": "POV and tense description",
-    "tone": "Overall tone",
-    "plot_summary": "2-3 paragraph plot summary"
-}}"""
+        prompt = config.prompts.story_bible_generation.format(
+            title=concept.get('title'),
+            genre=concept.get('genre'),
+            subgenre=concept.get('subgenre'),
+            premise=concept.get('premise'),
+            first_chapter=first_chapter,
+            last_chapter=last_chapter
+        )
 
         result = call_llm(prompt, max_tokens=2000, temperature=0.6)
         if not result:
@@ -580,7 +336,7 @@ class AutonomousPipeline:
     """Main orchestrator for the autonomous book production pipeline."""
 
     def __init__(self):
-        self.concept_gen = ConceptGenerator()
+        self.concept_gen = ConceptGenerator(OUTPUT_DIR)
         self.writer = BookWriter()
         self.quality = QualityPipeline()
         self.bible_gen = StoryBibleGenerator()
@@ -596,7 +352,7 @@ class AutonomousPipeline:
         return sanitized[:100]
 
     def produce_book(self) -> bool:
-        """Produce a single complete book."""
+        """Produce a single complete book with checkpoint/recovery support."""
         logger.info("=" * 60)
         logger.info("GENERATING NEW BOOK CONCEPT")
 
@@ -616,18 +372,31 @@ class AutonomousPipeline:
         logger.info(f"Genre: {concept.get('genre')} / {concept.get('subgenre')}")
 
         book_dir = OUTPUT_DIR / self.sanitize_title(title)
-        if book_dir.exists():
-            logger.info(f"Book already exists: {title}")
+
+        # Check if book already completed
+        if (book_dir / ".complete").exists():
+            logger.info(f"Book already complete: {title}")
             return True
 
         book_dir.mkdir(parents=True, exist_ok=True)
 
+        # Initialize checkpoint manager
+        checkpoint_mgr = CheckpointManager(book_dir)
+
+        # Save concept
         (book_dir / "concept.json").write_text(json.dumps(concept, indent=2))
+
+        # Save initial checkpoint
+        checkpoint_mgr.save(ProcessingStage.CONCEPT)
 
         logger.info("WRITING BOOK")
         if not self.writer.write_book(concept, book_dir):
             logger.error("Failed to write book")
+            checkpoint_mgr.mark_failed("Failed to write book")
             return False
+
+        # Save checkpoint after writing
+        checkpoint_mgr.save(ProcessingStage.EDITING)
 
         logger.info("RUNNING QUALITY PIPELINE")
         stats = self.quality.run_quality_pass(book_dir)
@@ -637,11 +406,17 @@ class AutonomousPipeline:
         if not self.bible_gen.generate(book_dir, concept):
             logger.warning("Failed to generate story bible")
 
+        # Save checkpoint before finalization
+        checkpoint_mgr.save(ProcessingStage.FINALIZATION)
+
         logger.info("FINALIZING BOOK")
         if self.finalizer.finalize(book_dir, concept):
+            # Mark as complete in checkpoint
+            checkpoint_mgr.mark_completed(metadata={"stats": stats})
             logger.info(f"SUCCESS: {title} complete!")
             return True
 
+        checkpoint_mgr.mark_failed("Failed finalization quality check")
         logger.warning(f"Book incomplete: {title}")
         return False
 
@@ -663,9 +438,14 @@ class AutonomousPipeline:
                     logger.info(f"Total books produced: {books_produced}")
                 else:
                     errors_in_row += 1
+                    logger.warning(f"Error producing book. Total errors in a row: {errors_in_row}")
 
                 if errors_in_row >= 3:
                     logger.warning(f"Too many errors ({errors_in_row}), backing off for 5 minutes")
+                    send_notification(
+                        subject="BookCLI Pipeline Backoff",
+                        message=f"The pipeline has encountered {errors_in_row} consecutive errors and is backing off for 5 minutes."
+                    )
                     time.sleep(300)
                     errors_in_row = 0
                 else:
@@ -675,8 +455,12 @@ class AutonomousPipeline:
                 logger.info("Pipeline stopped by user")
                 break
             except Exception as e:
-                logger.error(f"Unexpected error: {e}")
+                logger.error(f"Unexpected error: {e}", exc_info=True)
                 errors_in_row += 1
+                send_notification(
+                    subject="BookCLI Pipeline Critical Error",
+                    message=f"The pipeline has encountered an unexpected error: {e}"
+                )
                 time.sleep(60)
 
 

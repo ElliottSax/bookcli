@@ -1,209 +1,73 @@
- milk, a humble, creamy dish. The kind of thing a sous-chef might whip up from scraps. But Elara Vance knew that every chef, no matter how junior, left their fingerprint in their food. She needed to see if Gwen’s was there.
+## Chapter: The Fingerprint in the Milk
 
-She found the kitchen manager, a harried woman named Maria, in the pantry. “Do you still have the inventory from that night?”
+The scent of the city’s evening rush hour—exhaust, damp concrete, the distant ghost of fried food from a street cart—was cut off as the heavy service door of *Le Cénacle* swung shut behind Elara Vance. Inside, the air was different. It was the sterile, refrigerated breath of a high-end kitchen long after service, smelling of industrial bleach, the faint, sweet decay of vegetable scraps, and the lingering, high note of lemon oil used on the counters. A cathedral of culinary ambition, now a silent, gleaming crime scene.
+Elara moved through the dimmed dining room, her low heels clicking on the polished marble. The ghost of the last meal still hung in the air: a whisper of expensive perfume, the memory of clinking crystal, the ghostly impression of laughter now swallowed by a profound, watchful silence. The white-draped tables were like tombstones. Her own reflection, fragmented and pale, followed her in the dark windows.
+*Milk*, she thought, her mind circling back to the dish like a tongue probing a sore tooth. *Riz au lait*. A humble, creamy thing. The kind of comfort a sous-chef might whip up from scraps to soothe a rattled brigade after a shock. The culinary equivalent of a blanket and a cup of tea. But Elara knew, with a certainty carved from years of dissecting menus and motives, that every chef, no matter how junior, left their fingerprint in their food. A choice of sweetener, a whisper of spice, a specific brand of vanilla that spoke of a hometown, a memory. She needed to see if Gwen’s was there, and if it was the same print that had been pressed, so fatally, onto Simone Thorne’s wild mushroom and goat cheese soufflé.
+She pushed through the double doors into the kitchen. The silence here was deeper, more profound. The great stainless steel ranges were cold, their hoods like dormant metallic beasts. Pots hung in perfect, shadowy rows. The only light came from the dim glow of the digital clock on the oven and the faint strip-lighting in the walk-in pantry, where she found Maria.
+The kitchen manager was a woman in her late forties, her face a map of long hours and constant pressure. She was perched on a step-stool, counting cans of imported San Marzano tomatoes, her fingers moving with a tired, automatic rhythm. The harsh light bleached her skin, highlighting the purple smudges under her eyes. She looked up as Elara entered, and her expression didn’t change; it was the look of someone who had been interrogated by police, reporters, and now, a food critic. A look of exhausted surrender.
+“Ms. Vance,” Maria said, her voice hoarse. “They said you might come back. I thought I’d finished answering questions.”
 
-Maria blinked. “You mean the night of the murder? Of course. We had to account for every ingredient for the investigation. It’s all in the system.”
+“Just one more, Maria,” Elara replied, her voice softer than she’d used with the detectives. She leaned against the cold steel of a shelving unit, feeling the chill seep through the sleeve of her jacket. “The digital inventory log from the night of the murder. The investigation would have required a full accounting. Is it still accessible?”
 
-Elara Vance pulled up the digital log. The rice, the milk, the vanilla, the sugar. All standard. But then she saw it. A single line item, tucked between the flour and the salt. “Moss extract, 10g.”
+Maria blinked slowly, as if processing the request through a fog. “You mean the night Chef Laurent died? Of course. The police copied everything. The system auto-saves. We have to account for every gram of saffron, every leaf of basil. It’s all there.” She gestured with her chin towards a small, cluttered office nook visible through the pantry’s open door, where a computer screen glowed like a blue jewel in the gloom.
+Elara gave her a nod of thanks that inadequate and moved to the terminal. The chair squeaked in protest as she sat. The keyboard was slick with a fine, greasy film. She navigated through the kitchen management software with practiced ease, her eyes scanning dates and delivery codes. She found the night in question: a sprawling list of ingredients prepped for the *Service Exceptionnel*—truffles, foie gras, line-caught turbot, heirloom vegetables with names like poetry.
+And then, the staff meal requisition. Simpler. Plain. Rice, whole milk, vanilla bean, granulated sugar. All standard, ordered by Gwen Parson, Sous Chef. The quantities were exact, economical. The record of a competent, careful cook.
+But then Elara saw it. A single line item, tucked inconspicuously between the bulk flour and the sea salt, as if trying to hide among the staples. Her breath caught, just for a second, the air in the cold pantry thinner.
+**Moss Extract, 10g.**
 
-Moss extract. A common enough ingredient, used for its earthy, umami depth. But in the wrong hands, it could be deadly. The right strain, processed incorrectly, could contain a neurotoxin. And Simone Thorne Laurent’s signature ingredient was moss.
+The words sat on the screen, pulsing with quiet menace. Moss extract. Not an uncommon ingredient in the avant-garde circles where Simone Thorne Laurent had been a queen. Used for its deep, forest-floor umami, its hint of peat and ancient, damp earth. A signature of the "wild pantry" ethos. But in the wrong hands, with the wrong strain—*Bryoria fremontii*, perhaps, mistaken for its benign cousin—or processed incorrectly, it could harbor tremors, paralysis, a silent neurotoxin that could stop a heart as effectively as any knife.
+And Simone’s signature ingredient, the one she’d famously foraged herself from the old-growth forests of the Pacific Northwest, was moss.
+Elara’s pulse began a low, insistent thrum in her throat, a drumbeat of discovery. The digital evidence was a clue, a whisper. But Elara Vance trusted data less than she trusted her own palate. A chef’s fingerprint wasn’t simply in the purchase order; it was in the taste, the texture, the soul of the dish. She needed to confirm. She needed to *taste*.
+She found Gwen in the staff locker room, a narrow, windowless space that smelled of stale sweat, cheap lavender detergent, and the faint, metallic tang of old lockers. The fluorescent light buzzed overhead, casting a sickly green pallor. Gwen was standing before her open locker, her back to the door, changing out of her chef’s whites. The stiff, stained jacket was half-off, one arm free, revealing a simple grey t-shirt beneath. Her shoulders were tense, a knot of muscle and bone.
+Elara watched her for a moment, this woman who had cooked a meal of comfort while poison was being folded into a masterpiece a few feet away. Gwen moved with the deliberate slowness of profound fatigue, each motion an effort.
+The click of Elara’s heel on the linoleum made Gwen startle. She turned, pulling the white jacket the rest of the way off, her face a swift mask of surprise before settling into a careful, professional neutrality. Her eyes, Elara noted, were the colour of washed-out denim, and just as hard.
+“Ms. Vance,” Gwen said, her voice flat. “Is there something I can help you with? The police have cleared us to resume prep for tomorrow’s limited service.”
 
-Elara Vance’s pulse thrummed in her throat. She needed to confirm. She needed to taste.
+Elara leaned against the doorframe, affecting a casualness she didn’t feel. The cold metal bit into her shoulder.Merelyst wrapping up some loose ends for my piece. The human element, you know?” She let her gaze wander over the locker room’s bleak interior—a faded poster about hand-washing technique, a chipped mirror. “I was thinking about that *riz au lait* you made for the staff that night. It must have been a comfort, after the shock. Something warm and familiar in all that chaos.”
 
-She found Gwen in the staff locker room, changing out of her whites. The woman looked up, startled, then composed her face into something neutral. “Silas Vance. Is there something I can help you with?”
+Gwen’s fingers, which had been working on the small pearl buttons of her shirt, stilled. Elara saw the knuckles whiten. “It was just something to do,” Gw answered, her eyes fixed on a point somewhere over Elara’s shoulder. “Something to keep our hands busy. The mind, too. In a kitchen, you cook. That’s what you do.”
 
-Elara Vance leaned against the doorframe, casual. “Just wrapping up some loose ends. I was thinking about that riz au lait you made for the staff that night. It must have been a comfort, after everything.”
+“You’re from Oregon, originally, aren’t you?” Elara asked, her tone conversational. She took a tiny step into the room. The buzz of the light appeared to grow louder. “The Willamette Valley? I’ve heard the dairy there is exceptional. Makes for remarkable rice pudding. I’ve also read about the old traditions there—foraging, using what the land gives. I imagine a *riz au lait* from that region might have a unique depth. A touch of something… wild. A hint of the forest floor. Moss, perhaps?”
 
-Gwen’s fingers stilled on her shirt buttons. “It was just something to do. Something familiar.”
+Gwen’s breath hitched. It was a tiny, almost imperceptible sound, but in the sterile silence of the locker room, it was as loud as a gasp. Her eyes flicked to Elara’s, then away, fast. “I suppose some people might experiment. I don’t remember putting anything like that in mine. It onlyjust milk, rice, sugar.”
 
-“You’re from Oregon, right? I’ve heard the rice pudding there is exceptional. Especially with a touch of wild moss.”
+Elara took another step closer. The distance between them was now intimate, uncomfortable. She could see the fine lines of exhaustion at the corners of Gwen’s eyes, the faint, floury dusting still caught in the hairs at her temple. “You know, I’ve been puzzling over the mechanics of it,” Elara said, her voice dropping, becoming more confiding. “How the poison got into the soufflé. It’s a delicate thing, adding a flavour so subtle, so… personal. Someone would have to know Simone’s style inside and out. Her preferences, her quirks, her signature notes. Someone who had worked in her kitchen, maybe. Studied her. Or,” Elara paused, letting the word hang, “someone who had a reason to study her for years. Someone with a grudge that fermented, like a fine, toxic vinegar.”
 
-Gwen’s breath hitched, just slightly. “I suppose. I don’t remember.”
+Gwen’s hands, which had been hanging at her sides, slowly curled into fists. The tendons in her forearms stood out like cords. “I don’t know what you’re talking about.” The words were ground out, brittle.
+Elara smiled then, a slow, cold stretching of lips that didn’t reach her eyes. “I think you do, Gwen. I think you know exactly what I’m talking about. And I think you’re going to tell me everything. Starting with how you got your hands on that particular moss. The dangerous kind. The kind your father, the forager and herbalist Alistair Parson, was studying before his business collapsed after Simone Thorne published her book on Pacific Northwest edibles, claiming his hard-won knowledge as the foundation of her ‘wild pantry’ philosophy.”
 
-Elara Vance stepped closer. “You know, I’ve been trying to figure out how the poison got into the soufflé. It’s a delicate thing, adding something so subtle, so personal. Someone would have to know Simone Thorne’s style inside out. Someone who had worked in her kitchen, maybe. Or someone who had studied her for years.”
+The mask shattered.
+Gwen’s face twisted, a convulsion of grief and fury so raw it was almost physical in the small space. The careful neutrality was gone, replaced by something ancient and ravaged. “You think you know everything, don’t you?” she spat, her voice trembling with the force of her emotion. “You with your notepad and your clever palate. You think you can just come in here and judge, to taste our pain and spit it out as critique. But you have no idea. *No idea* what it’s like to watch your father’s life’s work, his *legacy*, get torn apart, page by page, recipe by recipe. To watch him sit by the window as the phone stopped ringing, as the buyers chose her branded jars over his honest harvests.”
 
-Gwen’s hands curled into fists. “I don’t know what you’re talking about.”
+She took a step forward, her eyes blazing. Elara held her ground, her own heart pounding a frantic rhythm against her ribs, but her expression remained a placid, waiting pool.
+“Simone Thorne Laurent didsimplyjust take his livelihood,” Gwen hissed, tears of rage now spilling over, cutting tracks through her pallor. “She took his words, his maps, his secrets whispered to him by the old trees. She took his *soul*. She packaged it with a pretty bow and called it innovation. And he… he just faded. A man made of oak and moss, reduced to dust.” Her voice broke. “And now, because of her, because of that night, I’ve lost this place too. This kitchen. The only object I had left. So you tell me, critic, what should I have done? Sent a strongly worded letter?”
 
-Elara Vance smiled, slow and cold. “I think you do. And I think you’re going to tell me everything. Starting with how you got your hands on that moss.”
+Elara’s voice, when it came, was unnervingly steady, a blade of calm in the storm of Gwen’s anguish. “And you thought framing her for murder would bring it all back? Make it right? Restore your father’s name?”
 
-Gwen’s face twisted, a mask of grief and fury. “You think you know everything, don’t you? You think you can just come in here and judge. But you have no idea what it’s like to watch your father’s life, his legacy, get torn apart. To watch the people who did it get rewarded, celebrated. Simone Thorne Laurent didn’t just take his livelihood. She took his soul. And now she’s taken everything from me.”
+Gwen’s laugh was a short, bitter bark that echoed off the lockers. “*Right?* Nothing will ever be right. I didn’t care about the money, or the fa merely I just wanted her to *pay*. To feel what it’s like to have your life’s work twisted, to have your name become a synonym for betrayal. I wanted her to lose everything—her reputation, her freedom, her future. A life sentence for the death she caused.” She wiped her face with the back of her hand, a savage, childish gesture. “And now, because of you and your damned curiosity, it’s all falling apart. The perfect dish… spoiled.”
 
-Elara Vance’s heart pounded, but her voice was steady. “And you thought framing her for murder would bring it all back? Make it right?”
+Elara took the final step, closing the distance between them. She could smell the scent of Gwen’s grief—salt, adrenaline, and the faint, green smell of the kitchen herbs still clinging to her clothes. Her voice dropped to a whisper, meant for Gwen’s ears alone. “It’s over, Gwen. The garnish has slipped. The plate is smudged. You’re done. But you can still control the final note. You can still tell me the truth. The whole truth. About the moss. About how you received it into the soufflé during the chaos of service. About *everything*.”
 
-Gwen’s laugh was bitter. “No. It would make it end. I didn’t care about the money, the fame. I just wanted her to pay. To feel what it’s like to lose everything. And now, because of you, it’s all falling apart.”
+The fighto drain from Gwen all at once, as if a plug had been pulled. Her shoulders slumped, the fierce fists uncurled into limp, empty hands. She looked very young, and very, extremely lost. She leaned back against the cold locker, the metal denting with a soft *thunk*. The buzzing light highlighted the hollows under her cheekbones.
+“Fine,” she whispered, the word barely audible. “But you’ll never understand. You’ll never know what it’s like to have your history, your roots, poisoned.”
 
-Elara Vance stepped closer, her voice a whisper. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
+Elara’s voice was softer now, not with pity, but with a relentless, focused empathy. “Try me.”
 
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
+Gwen glanced at the floor, her words spilling out to the stained linoleum. “I found the moss in my father’s old journals. After he died. He had been experimenting with *Bryoria fremontii*. He’d documented its properties, its dangers. He was trying to find a way to process it, to tame the toxin, to make it safe and useful. He believed it had potential.” A bitter smile touched her lips. “He always saw potential in dangerous things. But it was too volatile. He locked the notes away. I… I found them. I knew Simone used moss in her dishes—the safe, pretty kind. I thought… I thought it would be the perfect signature. Her signature. I cultivated a batch myself, from his old samples. It wasn’t hard. Moss is patient.”
 
-Elara Vance’s voice was soft. “Try me.”
+She took a shuddering breath. “Getting it into the soufflé… I knew the timing. The dinner was a madhouse. Simone was everywhere and nowhere, a whirlwind of perfectionism. Anton was on sauces, I was on garnishes. When the final check arrived for the soufflé, Simone was called away to the pass—a critic had sent back a pigeon. A moment of beautiful, perfect chaos. I had the extract in a vial, reduced to a thick, dark syrup. It only took a second. A fold, a turn of the wrist. It vanished into the egg whites, just another dark speck, like a grain of pepper. A fingerprint.”
 
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I just needed to get it into the soufflé. I knew the timing, the chaos. I knew I could do it.”
+Elara’s mind raced, piecing it together. The forensics had found trace elements in the ramekin, but the uniformity of the distribution had suggested incorporation during mixing. Gwen’s moment of folding was plausible, terrifyingly simple. “And the vinegar?” Elara pressed, remembering the acrid note the toxicology report had found alongside the neurotoxin. “The forensics showed a complex acid profile. How did you get that into the mix?”
 
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
+Gwen’s eyes, dull with confession, flashed with a last ember of cunning. “Anton Voltaire. The sommelier. He was… helpful. Unknowingly. He was always talking about the ‘perfect pairing,’ the ‘acidic lift.’ That night, he was obsessing over a new black vinegar he’d sourced, talking about its ‘funky, primordial deptmurmuredHe said a drop in a rich dish could be revelatory. He left his tasting pipette on the pass. I uOnlyit. Just a drop, stirred into the moss extract before I added it. I knew Simone was experimenting with vinegars in her desserts. It would look like her touch. Her… flourish.”
 
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
+Elara’s stomach twisted. Anton, with his pretentious passion, had handed her the final, damning ingredient. “And the note?” Elara’s voice was tight. “The one planted in Simone’s office that said ‘For the Wild Pantry’? That was your handwriting.”
 
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
+Gwen nodded, a single, tired dip of her chin. “A little insurance. I knew the police would search her things. I knew they’d find her foraging journals, her notes on moss. The note would be the final nail. A confession of sorts, from her to the universe. Poetic, don’t you think?”
 
-Gwen’s voice was cold. “A little insurance. I knew it would be the final nail in the coffin.”
+The word ‘poetic’ hung in the air, grotesque and sad.
+Elara looked at this broken woman, this chef who had used her skills not to nurture but to execute a cold, intricate revenge. The locker room like a tomb. The buzz of the light was the sound of guilt.
+“It’s over, Gwwhispered Elara said again, but now the words were final, absolute. “You’re done.”
 
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-Gwen’s voice was cold. “A little insurance. I knew it would be the final nail in the coffin.”
-
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-Gwen’s voice was cold. “A little insurance. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-Gwen’s voice was cold. “A little insurance. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-Gwen’s voice was cold. “A little insurance. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-Gwen’s voice was cold. “A little insurance. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-Gwen’s voice was cold. “A little insurance. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-Gwen’s voice was cold. “A little insurance. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-Gwen’s voice was cold. “A little insurance. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-Gwen’s voice was cold. “A little insurance. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s voice was steady. “It’s over, Gwen. You’re done. But you can still tell me the truth. About the moss. About how you got it into the soufflé. About everything.”
-
-Gwen’s shoulders slumped, the fight draining out of her. “Fine. But you’ll never understand. You’ll never know what it’s like to lose everything.”
-
-Elara Vance’s voice was soft. “Try me.”
-
-Gwen took a deep breath, her voice barely above a whisper. “I found the moss in my father’s old journals. He had been experimenting with it, trying to find a way to make it safe. But it was too dangerous. I knew Simone Thorne used it, so I figured it would be the perfect way to frame her. I knew the timing, the chaos. I knew I could do it.”
-
-Elara Vance’s mind raced, piecing together the final details. “And the vinegar? How did you get that into the mix?”
-
-Gwen’s eyes flashed. “Anton Voltaire. He was the one who suggested it. He said it would add a unique touch, something no one would expect. I knew it would be the perfect way to make it look like Simone Thorne’s work.”
-
-Elara Vance’s stomach twisted. “And the note? The one that said ‘For the Wild Pantry’?”
-
-G
+Gwengazedd up, her eyes meeting Elara’s. The fury was gone, the grief was spent. All that was left was a vast, empty exhaustion. “What will you do?” she asked, not with fear, but with a dull curiosity.
+“My job,” Elara said quietly. She turned and walked out of the locker room, leaving Gwen alone in the buzzing, green-tinted light. The taste of the revelation was in her mouth, and it was not of creamy rice or earthy moss. It was metallic, like blood, and bitter, like the dregs of a vinegar reduction gone much, much too far. The fingerprint had been identified. It was time to write the review.

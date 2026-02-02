@@ -54,6 +54,16 @@ try:
 except ImportError:
     SCOREStateTracker = None
 
+try:
+    from punchy_prose_analyzer import PunchyProseAnalyzer, ProseAnalysis
+except ImportError:
+    PunchyProseAnalyzer = None
+
+try:
+    from story_coherence_db import StoryCoherenceDB, CoherenceQuery
+except ImportError:
+    StoryCoherenceDB = None
+
 
 @dataclass
 class QualityGate:
@@ -78,6 +88,7 @@ class EnhancedQualityReport:
     character_score: float = 100.0
     plot_score: float = 100.0
     outline_adherence: float = 100.0
+    prose_score: float = 100.0  # Punchy prose metrics
 
     # Detailed reports
     repetition_stats: Dict[str, Any] = field(default_factory=dict)
@@ -85,6 +96,7 @@ class EnhancedQualityReport:
     coherence_issues: List[str] = field(default_factory=list)
     character_issues: List[str] = field(default_factory=list)
     plot_issues: List[str] = field(default_factory=list)
+    prose_metrics: Dict[str, Any] = field(default_factory=dict)  # Prose analysis results
 
     # Recommendations
     recommendations: List[str] = field(default_factory=list)
@@ -115,11 +127,13 @@ class EnhancedQualityPipeline:
     # Quality gates with thresholds and weights
     DEFAULT_GATES = [
         QualityGate("repetition", 80.0, 0.10),
-        QualityGate("character_consistency", 85.0, 0.20),
-        QualityGate("plot_coherence", 80.0, 0.20),
-        QualityGate("narrative_coherence", 80.0, 0.15),
-        QualityGate("outline_adherence", 75.0, 0.15),
-        QualityGate("critic_score", 70.0, 0.20),
+        QualityGate("character_consistency", 85.0, 0.15),
+        QualityGate("plot_coherence", 80.0, 0.15),
+        QualityGate("narrative_coherence", 80.0, 0.10),
+        QualityGate("outline_adherence", 75.0, 0.10),
+        QualityGate("critic_score", 70.0, 0.15),
+        QualityGate("prose_quality", 75.0, 0.15),  # Punchy prose metrics
+        QualityGate("story_coherence", 80.0, 0.10),  # Vector DB coherence
     ]
 
     def __init__(self,
@@ -190,6 +204,16 @@ class EnhancedQualityPipeline:
             self.components["state"] = SCOREStateTracker(self.logger)
             self.logger.info("Initialized: SCOREStateTracker")
 
+        # Punchy prose analyzer
+        if PunchyProseAnalyzer:
+            self.components["prose"] = PunchyProseAnalyzer(logger=self.logger)
+            self.logger.info("Initialized: PunchyProseAnalyzer")
+
+        # Story coherence database
+        if StoryCoherenceDB:
+            self.components["coherence_db"] = StoryCoherenceDB(logger=self.logger)
+            self.logger.info("Initialized: StoryCoherenceDB")
+
     def initialize(self, premise: str, genre: str, num_chapters: int,
                   themes: List[str] = None) -> Dict[str, Any]:
         """
@@ -236,13 +260,16 @@ class EnhancedQualityPipeline:
         """
         Get comprehensive context for generating a chapter.
 
-        Combines DOC outline guidance with SCORE state tracking.
+        Combines DOC outline guidance with SCORE state tracking and vector DB retrieval.
         """
         context = {
             "chapter": chapter_num,
             "outline_guidance": "",
             "state_context": "",
             "coherence_context": "",
+            "story_context": "",  # From vector DB
+            "character_facts": [],  # Known character facts
+            "active_threads": [],  # Active plot threads
         }
 
         # Get outline guidance
@@ -258,6 +285,13 @@ class EnhancedQualityPipeline:
         if "coherence" in self.components:
             coh_context = self.components["coherence"].get_context_for_chapter(chapter_num)
             context["coherence_context"] = str(coh_context)
+
+        # Get story coherence database context (RAG)
+        if "coherence_db" in self.components:
+            db_context = self.components["coherence_db"].get_context_for_chapter(chapter_num)
+            context["story_context"] = db_context.get("previous_summaries", "")
+            context["character_facts"] = db_context.get("character_facts", [])
+            context["active_threads"] = db_context.get("active_threads", [])
 
         return context
 
@@ -279,15 +313,33 @@ class EnhancedQualityPipeline:
             content, rep_stats = self.components["repetition"].process(content)
             stats["repetition"] = rep_stats
 
+        # Analyze prose quality
+        if "prose" in self.components:
+            prose_analysis = self.components["prose"].analyze(content)
+            stats["prose"] = {
+                "overall_score": prose_analysis.overall_score,
+                "sentence_length": prose_analysis.avg_sentence_length,
+                "passive_voice_pct": prose_analysis.passive_voice_percent,
+                "concrete_noun_pct": prose_analysis.concrete_noun_percent,
+                "weak_verb_pct": prose_analysis.weak_verb_percent,
+                "dialogue_pct": prose_analysis.dialogue_percent,
+                "issues": prose_analysis.issues[:5] if hasattr(prose_analysis, 'issues') else []
+            }
+            # Auto-fix prose issues if analyzer supports it
+            if hasattr(self.components["prose"], "improve"):
+                content = self.components["prose"].improve(content)
+
         return content, stats
 
-    def track_chapter(self, chapter_num: int, content: str) -> Dict[str, Any]:
+    def track_chapter(self, chapter_num: int, content: str,
+                       summary: str = None) -> Dict[str, Any]:
         """
         Track a chapter through all tracking systems.
 
         Args:
             chapter_num: Chapter number
             content: Chapter content
+            summary: Optional chapter summary for vector DB
 
         Returns:
             Tracking results from all systems
@@ -322,6 +374,28 @@ class EnhancedQualityPipeline:
             results["state"] = self.components["state"].process_chapter(
                 chapter_num, content
             )
+
+        # Store in story coherence database
+        if "coherence_db" in self.components:
+            # Generate summary if not provided
+            if not summary and "coherence" in self.components:
+                summary = self.components["coherence"].chapter_summaries.get(
+                    chapter_num, f"Chapter {chapter_num} content"
+                )
+            self.components["coherence_db"].add_chapter(
+                chapter_num=chapter_num,
+                content=content,
+                summary=summary or f"Chapter {chapter_num}"
+            )
+            # Check coherence with previous chapters
+            coherence_check = self.components["coherence_db"].check_coherence(
+                chapter_num, content
+            )
+            results["coherence_db"] = {
+                "score": coherence_check.score if hasattr(coherence_check, 'score') else 100,
+                "contradictions": coherence_check.contradictions if hasattr(coherence_check, 'contradictions') else [],
+                "unresolved_threads": coherence_check.unresolved_threads if hasattr(coherence_check, 'unresolved_threads') else []
+            }
 
         return results
 
@@ -389,6 +463,20 @@ class EnhancedQualityPipeline:
                 self.logger.warning(f"Critic failed: {e}")
                 scores["critic"] = 80  # Default if fails
 
+        # Check prose quality
+        if "prose" in self.components:
+            prose_analysis = self.components["prose"].analyze(content)
+            scores["prose_quality"] = prose_analysis.overall_score
+            issues["prose"] = prose_analysis.issues[:5]
+            components_used.append("prose")
+
+        # Check story coherence from DB
+        if "coherence_db" in self.components:
+            db_result = tracking_results.get("coherence_db", {})
+            scores["story_coherence"] = db_result.get("score", 100)
+            issues["story_coherence"] = db_result.get("contradictions", [])
+            components_used.append("coherence_db")
+
         # Calculate overall score
         overall = self._calculate_overall_score(scores)
         passed = self._check_gates(scores)
@@ -407,7 +495,9 @@ class EnhancedQualityPipeline:
             character_score=scores.get("character", 100),
             plot_score=scores.get("plot", 100),
             outline_adherence=scores.get("outline", 100),
+            prose_score=scores.get("prose_quality", 100),
             repetition_stats=issues.get("repetition", {}),
+            prose_metrics=issues.get("prose", {}),
             critic_issues=issues.get("critic", []),
             coherence_issues=issues.get("coherence", []),
             character_issues=issues.get("character", []),
@@ -534,14 +624,18 @@ class EnhancedQualityPipeline:
             if gate.name in scores and scores[gate.name] < gate.threshold:
                 if gate.name == "repetition":
                     recommendations.append("Reduce AI-isms and repetitive phrases")
-                elif gate.name == "character":
+                elif gate.name == "character_consistency":
                     recommendations.append("Fix character consistency issues")
-                elif gate.name == "plot":
+                elif gate.name == "plot_coherence":
                     recommendations.append("Address plot coherence problems")
-                elif gate.name == "outline":
+                elif gate.name == "outline_adherence":
                     recommendations.append("Better adhere to chapter outline requirements")
-                elif gate.name == "critic":
+                elif gate.name == "critic_score":
                     recommendations.append("Address issues identified by critic")
+                elif gate.name == "prose_quality":
+                    recommendations.append("Improve prose: shorter sentences, more active voice, concrete language")
+                elif gate.name == "story_coherence":
+                    recommendations.append("Fix story contradictions and unresolved plot threads")
 
         return recommendations
 
@@ -569,11 +663,27 @@ class EnhancedQualityPipeline:
 
         lines.append("### Score Breakdown:")
         lines.append(f"- Repetition: {report.repetition_score:.0f}%")
+        lines.append(f"- Prose Quality: {report.prose_score:.0f}%")
         lines.append(f"- Character Consistency: {report.character_score:.0f}%")
         lines.append(f"- Plot Coherence: {report.plot_score:.0f}%")
         lines.append(f"- Outline Adherence: {report.outline_adherence:.0f}%")
         if report.critic_score < 100:
             lines.append(f"- Critic Score: {report.critic_score:.0f}%")
+
+        # Show prose metrics if available
+        if report.prose_metrics and isinstance(report.prose_metrics, dict):
+            lines.append("")
+            lines.append("### Prose Metrics:")
+            for key, value in report.prose_metrics.items():
+                if key != "issues":
+                    lines.append(f"- {key.replace('_', ' ').title()}: {value}")
+        elif report.prose_metrics and isinstance(report.prose_metrics, list):
+            # prose_metrics contains issue strings
+            if report.prose_metrics:
+                lines.append("")
+                lines.append("### Prose Issues:")
+                for issue in report.prose_metrics[:5]:
+                    lines.append(f"- {issue}")
 
         return "\n".join(lines)
 

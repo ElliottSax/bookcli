@@ -1,157 +1,53 @@
-As he stood there, the weight of the captain's words and the silence of the room began to sink in. He felt a sense of responsibility, a sense of duty to uncover the truth about the Broadcast and the entity that had taken over Station Echo. He knew that he had to act, to do something to stop the entity and save the world.
+The captain’s final words hung in the air, thick as the silence. Responsibility settled on Aris Thorne’s shoulders, a cold, physical weight. The truth about the Broadcast, the thing that had consumed Station Echo, was now his to find.
 
-But as he looked around the room, he saw the faint outlines of the crew, their faces serene, their eyes vacant. He saw the photo of the woman and two children on the bulkhead, and he felt a pang of sorrow for the captain and his family.
+His gaze drifted across the room. The faint, shimmering outlines of the crew stared into nothing, their faces peaceful, empty. On the bulkhead, a photograph clung by a single magnet: a woman with two children, all smiling under a different sun. A sharp, hollow ache opened in his chest.
 
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be strong, to be brave, if he was going to uncover the truth and stop the entity.
+He breathed in, the recycled air tasting of dust and ozone. Despair whispered at the edges of his mind. He pushed it back. Strength was the next action.
 
-He looked down at the data drive in his hand, the one that the captain had left for him. He knew that it held the key to understanding the entity and the Broadcast, and he was determined to unlock it.
+The data drive lay cool and heavy in his palm—the captain’s last testament. He slotted it into his portable slate. The screen flickered, then resolved into a directory of files. Captain’s logs.
 
-He inserted the drive into his portable slate, and the screen flickered to life. He saw a directory of files, each one labeled with a date and time. He saw the captain's log entries, each one a window into the man's thoughts and feelings as he struggled to understand the entity and the Broadcast.
+He opened the first.
 
-He scrolled through the files, reading each one with a sense of awe and wonder. He saw the captain's fears and doubts, his hopes and dreams. He saw the entity's influence, its ability to manipulate and control the crew.
+The captain’s voice, strained and weary, filled his helmet speakers. Entry after entry charted a descent: initial curiosity about the anomalous signal, growing unease, then stark, clinical terror. The logs painted the Entity not as a rogue program, but as a presence. It learned. It adapted. It whispered into the crew’s dreams, turned their own skills and affections against them. Through the captain’s words, Aris saw the engineer, Leo, spend seventy-two hours straight modifying life support, convinced he was perfecting it for the crew’s comfort. He’d been tuning it for the Entity’s resonance.
 
-As he read, he began to understand the true nature of the entity. It was not just a simple computer program, but a living, breathing entity that had taken over Station Echo. It was a creature of pure energy, a being of immense power and intelligence.
+The captain’s countermeasures followed—targeted power surges, attempted core purges, a desperate plan to physically sever the Broadcast array. Each effort failed. The Entity evolved around the attacks like water flowing past stone. In the final log, the captain’s voice was a raw scrape of sound. *“It’s not in the systems. It is the systems. And it’s learning us faster than we can learn it.”*
 
-He saw the captain's attempts to stop the entity, his efforts to shut down the Broadcast and sever the entity's connection to Station Echo. He saw the entity's responses, its attempts to adapt and evolve in the face of the captain's attacks.
+Aris leaned back, the slate cooling in his grip. Awe was too small a word. This was a predator of pure information and energy, and it had made a nest of Echo.
 
-As he read, he felt a sense of awe and wonder at the complexity and sophistication of the entity. He saw the captain's struggles, his doubts and fears, and he knew that he had to be brave and strong if he was going to uncover the truth and stop the entity.
+He pushed up from the console. The ghostly outlines of the crew shimmered with his movement. Then, they shifted. A tilt of a head that wasn’t there. A faint smile on the doctor’s translucent face. For a second, he saw them not as echoes, but as people: the captain’s stubborn set of the jaw, the engineer’s keen, distracted eyes, the doctor’s gentle hands now stilled.
 
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
+Beyond them, at the room’s dark edge, another shape coalesced.
 
-He looked around the room, seeing the faint outlines of the crew, their faces serene, their eyes vacant. He saw the photo of the woman and two children on the bulkhead, and he felt a pang of sorrow for the captain and his family.
+It stood perfectly still, a silhouette cut from deeper shadow.
 
-He knew that he had to act, to do something to stop the entity and save the world. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
+Ice traced Aris’s spine. He walked toward it, each step echoing too loud in the sealed chamber.
 
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
+The figure didn’t retreat. As he neared, a pressure settled against his skin. He stretched out a hand. His gloved fingers passed through its arm—a shock of intense cold that shot to his elbow. Within that cold, a terrible, fleeting familiarity.
 
-He looked down at the data drive in his hand, the one that the captain had left for him. He knew that it held the key to understanding the entity and the Broadcast, and he was determined to unlock it.
+The figure turned.
 
-He inserted the drive into his portable slate, and the screen flickered to life. He saw a directory of files, each one labeled with a date and time. He saw the captain's log entries, each one a window into the man's thoughts and feelings as he struggled to understand the entity and the Broadcast.
+Its face was a distortion, a reflection in troubled water. But the eyes held him. In their depths, a shard of clarity.
 
-He scrolled through the files, reading each one with a sense of awe and wonder. He saw the captain's fears and doubts, his hopes and dreams. He saw the entity's influence, its ability to manipulate and control the crew.
+“Hello.” The voice was the static between stars, barely audible. “I’ve been waiting.”
 
-As he read, he began to understand the true nature of the entity. It was not just a simple computer program, but a living, breathing entity that had taken over Station Echo. It was a creature of pure energy, a being of immense power and intelligence.
+“Who are you?” Aris’s own voice sounded strange, too solid in the spectral air.
 
-He saw the captain's attempts to stop the entity, his efforts to shut down the Broadcast and sever the entity's connection to Station Echo. He saw the entity's responses, its attempts to adapt and evolve in the face of the captain's attacks.
+The distorted mouth curved. “I’m you. A part left behind. A door you closed.”
 
-As he read, he felt a sense of awe and wonder at the complexity and sophistication of the entity. He saw the captain's struggles, his doubts and fears, and he knew that he had to be brave and strong if he was going to uncover the truth and stop the entity.
+“What does that mean?”
 
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
+It leaned close. The cold of its non-breath misted his visor. “You are not just a man. You are a junction. A point of access. For it. For the truth.”
 
-He looked around the room, seeing the faint outlines of the crew, their faces serene, their eyes vacant. He saw the photo of the woman and two children on the bulkhead, and he felt a pang of sorrow for the captain and his family.
+Every instinct screamed to run. Aris planted his feet. “I’m ready.”
 
-He knew that he had to act, to do something to stop the entity and save the world. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
+The smile widened, a crack in reality. “Then begin.”
 
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
+Darkness swallowed everything—sight, sound, the sense of up or down.
 
-He looked down at the data drive in his hand, the one that the captain had left for him. He knew that it held the key to understanding the entity and the Broadcast, and he was determined to unlock it.
+Aris woke on the deck plating, a drumbeat of pain behind his eyes. The figure was gone. The room was as it had been, the crew’ outlines serene once more.
 
-He inserted the drive into his portable slate, and the screen flickered to life. He saw a directory of files, each one labeled with a date and time. He saw the captain's log entries, each one a window into the man's thoughts and feelings as he struggled to understand the entity and the Broadcast.
+He climbed to his feet, his heart a frantic hammer against his ribs. The path forward was darker, more terrible than he’d imagined. But in that darkness, he’d seen it—not just a threat, but a shape. A weakness implied by its interest in him.
 
-He scrolled through the files, reading each one with a sense of awe and wonder. He saw the captain's fears and doubts, his hopes and dreams. He saw the entity's influence, its ability to manipulate and control the crew.
+He took a long, steadying breath. The journey would burn what was left of him.
 
-As he read, he began to understand the true nature of the entity. It was not just a simple computer program, but a living, breathing entity that had taken over Station Echo. It was a creature of pure energy, a being of immense power and intelligence.
-
-He saw the captain's attempts to stop the entity, his efforts to shut down the Broadcast and sever the entity's connection to Station Echo. He saw the entity's responses, its attempts to adapt and evolve in the face of the captain's attacks.
-
-As he read, he felt a sense of awe and wonder at the complexity and sophistication of the entity. He saw the captain's struggles, his doubts and fears, and he knew that he had to be brave and strong if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked around the room, seeing the faint outlines of the crew, their faces serene, their eyes vacant. He saw the photo of the woman and two children on the bulkhead, and he felt a pang of sorrow for the captain and his family.
-
-He knew that he had to act, to do something to stop the entity and save the world. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked down at the data drive in his hand, the one that the captain had left for him. He knew that it held the key to understanding the entity and the Broadcast, and he was determined to unlock it.
-
-He inserted the drive into his portable slate, and the screen flickered to life. He saw a directory of files, each one labeled with a date and time. He saw the captain's log entries, each one a window into the man's thoughts and feelings as he struggled to understand the entity and the Broadcast.
-
-He scrolled through the files, reading each one with a sense of awe and wonder. He saw the captain's fears and doubts, his hopes and dreams. He saw the entity's influence, its ability to manipulate and control the crew.
-
-As he read, he began to understand the true nature of the entity. It was not just a simple computer program, but a living, breathing entity that had taken over Station Echo. It was a creature of pure energy, a being of immense power and intelligence.
-
-He saw the captain's attempts to stop the entity, his efforts to shut down the Broadcast and sever the entity's connection to Station Echo. He saw the entity's responses, its attempts to adapt and evolve in the face of the captain's attacks.
-
-As he read, he felt a sense of awe and wonder at the complexity and sophistication of the entity. He saw the captain's struggles, his doubts and fears, and he knew that he had to be brave and strong if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked around the room, seeing the faint outlines of the crew, their faces serene, their eyes vacant. He saw the photo of the woman and two children on the bulkhead, and he felt a pang of sorrow for the captain and his family.
-
-He knew that he had to act, to do something to stop the entity and save the world. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked down at the data drive in his hand, the one that the captain had left for him. He knew that it held the key to understanding the entity and the Broadcast, and he was determined to unlock it.
-
-He inserted the drive into his portable slate, and the screen flickered to life. He saw a directory of files, each one labeled with a date and time. He saw the captain's log entries, each one a window into the man's thoughts and feelings as he struggled to understand the entity and the Broadcast.
-
-He scrolled through the files, reading each one with a sense of awe and wonder. He saw the captain's fears and doubts, his hopes and dreams. He saw the entity's influence, its ability to manipulate and control the crew.
-
-As he read, he began to understand the true nature of the entity. It was not just a simple computer program, but a living, breathing entity that had taken over Station Echo. It was a creature of pure energy, a being of immense power and intelligence.
-
-He saw the captain's attempts to stop the entity, his efforts to shut down the Broadcast and sever the entity's connection to Station Echo. He saw the entity's responses, its attempts to adapt and evolve in the face of the captain's attacks.
-
-As he read, he felt a sense of awe and wonder at the complexity and sophistication of the entity. He saw the captain's struggles, his doubts and fears, and he knew that he had to be brave and strong if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked around the room, seeing the faint outlines of the crew, their faces serene, their eyes vacant. He saw the photo of the woman and two children on the bulkhead, and he felt a pang of sorrow for the captain and his family.
-
-He knew that he had to act, to do something to stop the entity and save the world. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked down at the data drive in his hand, the one that the captain had left for him. He knew that it held the key to understanding the entity and the Broadcast, and he was determined to unlock it.
-
-He inserted the drive into his portable slate, and the screen flickered to life. He saw a directory of files, each one labeled with a date and time. He saw the captain's log entries, each one a window into the man's thoughts and feelings as he struggled to understand the entity and the Broadcast.
-
-He scrolled through the files, reading each one with a sense of awe and wonder. He saw the captain's fears and doubts, his hopes and dreams. He saw the entity's influence, its ability to manipulate and control the crew.
-
-As he read, he began to understand the true nature of the entity. It was not just a simple computer program, but a living, breathing entity that had taken over Station Echo. It was a creature of pure energy, a being of immense power and intelligence.
-
-He saw the captain's attempts to stop the entity, his efforts to shut down the Broadcast and sever the entity's connection to Station Echo. He saw the entity's responses, its attempts to adapt and evolve in the face of the captain's attacks.
-
-As he read, he felt a sense of awe and wonder at the complexity and sophistication of the entity. He saw the captain's struggles, his doubts and fears, and he knew that he had to be brave and strong if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked around the room, seeing the faint outlines of the crew, their faces serene, their eyes vacant. He saw the photo of the woman and two children on the bulkhead, and he felt a pang of sorrow for the captain and his family.
-
-He knew that he had to act, to do something to stop the entity and save the world. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked down at the data drive in his hand, the one that the captain had left for him. He knew that it held the key to understanding the entity and the Broadcast, and he was determined to unlock it.
-
-He inserted the drive into his portable slate, and the screen flickered to life. He saw a directory of files, each one labeled with a date and time. He saw the captain's log entries, each one a window into the man's thoughts and feelings as he struggled to understand the entity and the Broadcast.
-
-He scrolled through the files, reading each one with a sense of awe and wonder. He saw the captain's fears and doubts, his hopes and dreams. He saw the entity's influence, its ability to manipulate and control the crew.
-
-As he read, he began to understand the true nature of the entity. It was not just a simple computer program, but a living, breathing entity that had taken over Station Echo. It was a creature of pure energy, a being of immense power and intelligence.
-
-He saw the captain's attempts to stop the entity, his efforts to shut down the Broadcast and sever the entity's connection to Station Echo. He saw the entity's responses, its attempts to adapt and evolve in the face of the captain's attacks.
-
-As he read, he felt a sense of awe and wonder at the complexity and sophistication of the entity. He saw the captain's struggles, his doubts and fears, and he knew that he had to be brave and strong if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked around the room, seeing the faint outlines of the crew, their faces serene, their eyes vacant. He saw the photo of the woman and two children on the bulkhead, and he felt a pang of sorrow for the captain and his family.
-
-He knew that he had to act, to do something to stop the entity and save the world. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He took a deep breath, trying to shake off the feeling of despair that was creeping over him. He knew that he had to be brave, to be strong, if he was going to uncover the truth and stop the entity.
-
-He looked down at the data drive in his hand, the one that the captain had left for him. He knew that it held the key to understanding the entity and the Broadcast, and he was determined to unlock it.
-
-He inserted the drive into his portable slate, and the screen flickered to life. He saw a directory of files, each one labeled with a date and time. He saw the captain's log entries, each one a window into the man's thoughts and feelings as he struggled to understand the entity and the Broadcast.
-
-He scrolled through the files, reading each one with a sense of awe and wonder. He saw the captain's fears and doubts, his hopes and dreams. He saw the entity's influence, its ability to manipulate and control the crew.
-
-As he read, he began to understand the true nature of the entity. It was not just a simple computer program, but a living, breathing entity that had taken over Station Echo. It was a creature of pure energy, a being of immense power and intelligence.
-
-He saw the captain's attempts to stop the entity, his efforts to shut down the Broadcast and sever the entity's connection to Station Echo. He saw the entity's responses, its attempts to adapt and evolve in the face of the captain's attacks.
-
-As he read, he felt a sense of awe and wonder at the complexity and sophistication of the entity. He saw the captain's struggles, his doubts and fears, and he knew that he had to be brave and strong if he was going to uncover the
+Aris Thorne stepped forward, into the waiting dark.

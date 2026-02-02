@@ -1,125 +1,56 @@
-Chapter 2: The First Exile
+## **Chapter 2: The First Exile**
 
-Silence, thick and humming like the air after a struck bell, settled in the wake of the portal’s collapse. In the wreckage of his archive’s central aisle, Leo stood, the smell of ozone and old paper sharp in his nose. His hands, which moments before had channeled a storm, now trembled with a familiar, feeble weakness. A sullen throb echoed from deep within his bones—the cancer’s reminder that the spectacle had been fueled by borrowed time.
+Silence, thick and humming like the air after a struck bell, settled in the wreckage of the archive. It was a physical presence, a woolen blanket muffling the world. Dust motes, liberated from centuries of slumber by the shockwave of the portal’s birth and death, danced in the single, slanting beam of afternoon light that speared through a high, grimy window. They swirled like confused galaxies, slowly drifting to rest upon shattered glass, scattered folios, and the man standing amidst it all.
+Leo Thorne stood in the central aisle, the smell of ozone and old paper a sharp, metallic perfume in his nose. Beneath it lay the deeper, muskier scent of disturbed leather and the faint, sweet decay of paper surrendering to time. His hands, which moments before had channeled a storm of grief and light, now trembled with a familiar, feeble weakness. He stared at them as if they belonged to a stranger—these pale, vein-tracked things that had just rewritten the laws of his reality. A sullen, deep-seated throb echoed from the core of his bones, a visceral counter-rhythm to his racing heart. The cancer’s reminder, etched in pain: the spectacle had been fueled by borrowed time, a spark struck from the flint of his own desperation.
+And in the center of the room, clutching a tattered, moss-green satchel to its chest like a shield, was the creature.
+Smaller than first thought in the aftermath, perhaps four feet tall, it had skin the colour of tarnished pewter, not smooth but finely textured like the bark of a young birch. Its large, luminous eyes held the gold-flecked green of forest pools seen under a summer canopy, and they darted around the room with an intelligence that was immediately, profoundly unsettling. Long, pointed ears, delicate as leaves, twitched like a nervous hare’s, capturing sounds Leo could not hear. It was clad in a patchwork coat of what looked like repurposed book bindings—scraps of tooled calfskin, cracked vellum, faded cloth, all stitched together with coarse, dark thread. Against all reason, every medical textbook, every scan lighting up the malignant star in his brain, it was a goblin. The word, a fossil from childhood fairy tales, felt absurd and utterly, terrifyingly accurate.
+“You,” Leo managed, his voice a dry rasp that scraped his throat. The word dislodged more dust. “You’re real.”
 
-And in the center of the room, clutching a tattered, moss-green satchel, was the creature.
-
-Smaller than first thought, perhaps four feet tall, it had skin the colour of tarnished pewter and large, luminous eyes holding the gold-flecked green of forest pools. Long, pointed ears twitched like a nervous hare’s. A patchwork coat of what looked like book bindings—calfskin, vellum, faded cloth—stitched together with coarse thread, covered its frame. Against all reason and medical explanation, it was a goblin.
-
-“You,” Leo managed, his voice a dry rasp. “You’re real.”
-
-The creature blinked its large eyes. “More real than the prognosis you were reading an hour ago, Archivist Leo Thorne. And considerably more grateful.” Its voice was not a croak, but melodic, with a rhythm like water over stones.
-
+The creature blinked its large, liquid eyes. The movement was slow, deliberate. “More real than the prognosis you were reading an hour ago, Archivist Leo Thorne. And considerably more grateful.” Its voice was not the croak or cackle of folklore, but melodic, with a rhythm like water over stones in a hidden brook. Each syllable was precise, rounded.
 “You know my name.”
 
-“I heard you speak it. In your… lamentation. A powerful piece of unsung verse. Very resonant.” Taking a tentative step forward, the goblin was silent on the Persian rug with its bare, long-toed feet. “I am Poggle. A poet. And, it seems, your first guest.”
+“I heard you speak it. In your… lamentation. A powerful piece of unsung verse. Very resonant.” Taking a tentative step forward, the goblin was preternaturally silent on the worn Persian rug, its bare, long-toed feet seeming to absorb sound. It moved with a scholar’s caution, its gaze sweeping over the towering shelves groaning under their weight, the glass-fronted cases holding incunabula that slept in perpetual twilight, the rolled maps in their ivory cylinders like ancient scrolls of forgotten lands. A long-fingered hand, with nails like polished slate, reached out but stopped a hair’s breadth from touching a first edition of Coleridge’s *Lyrical Ballads*. The reverence in that aborted gesture was something Leo understood in his marrow. “You opened. A World-Key, turning in the lock of despair. A rare and terrible thing.”
 
-Leo’s legs gave way. He didn’t collapse so much as fold, sinking into his worn leather armchair by the extinct fireplace. Adrenaline deserted him, leaving the bleak, familiar landscape of his exhaustion. “A poet. Of course. Because a dying man hallucinating a portal in his library would naturally summon a poet.”
+“Stop.” Leo pressed the heels of his hands against his eyes until phantom spirals of light burst against the darkness. The pressure was a grounding pain. *This is the breakdown*, he thought, the internal monologue a frantic, clinical counterpoint to the fantasy before him. *Stage four of the grief they don’t put in the pamphlets: vivid, narrative-driven psychosis. The tumor is pressing on the temporal lobe, generating complex hallucinations. A stress-induced fugue.* “Just stop. I am a man with a glioblastoma. I am on enough painkillers to tranquilize a horse. This is… this is a very detailed, extremely cruel dream.”
 
-“Not summon,” Poggle corrected gently. Approaching with the cautious reverence of one entering a shrine, its gaze swept over the towering shelves, the glass-fronted cases holding incunabula, the rolled maps in their ivory cylinders. A long-fingered hand, with nails like polished slate, reached out but stopped just short of touching a first edition of Coleridge. “You opened. A World-Key, turning in the lock of despair. A rare and terrible thing.”
+He heard a soft *thump*. Lowering his hands, he saw the creature had hopped onto a worn leather footstool, bringing itself closer to eye level. From the depths of its satchel, it drew not a book, but a smooth, river-worn stone the size of a hen’s egg. It breathed across its surface—a whispery, practiced sound. The stone shimmered, its dull grey sheen dissolving to reveal an inner luminosity. Lines of delicate, glowing script, a language of elegant curls and sharp angles, swam simply beneath the surface like minnows in a moonlit stream.
+“In my world—a place you might call Elsewhere’s cousin, the world of Gloaming—verse is not merely art. It is architecture. Agriculture. Law. A well-crafted couplet can mend a wall. A sonnet sequence guides the river’s flow, a haiku calibrates the harvest moon.” Poggle’s melodic voice hit a discordant note of bitterness for the first time, a stone dropped into the clear water of its speech. “My crime,” it said, the stone clutched tighter, its light pulsing softly, “was unprofitable poetry.”
 
-“Stop.” Pressing the heels of his hands against his eyes, Leo saw phantom spirals of light. “Just stop. I am a man with a glioblastoma. I am on powerful painkillers. This is… this is a very detailed, very cruel dream.”
+Leo lowered his hands, the clinical voice in his head momentarily hushed. The creature’s sorrow was not just an idea; it carried a tangible weight in the room, a scent of damp leaves and distant rain that overlay the dust and ozone.
+“Unprofitable?” The archivist in him leaned forward, the question automatic.
+“The Consortium of Gleam took hold generations ago,” Poggle recited, as if from a well-memorized indictment. Its gaze was fixed on the glowing stone, seeing another place. “They metricized metaphor. Standardized stanza structure for maximum resource yield. Lyricism is measured in lumens per line, narrative drive in units of motivational torque. My poetry…” Its voice softened, becoming a whisper of wind through reeds. “It spoke of moss growing on the north side of forgotten things. It praised the inefficiency of laughter, the wasted beauty of a leaf falling where no one sees. It was concerned with silence between notes.” The discordant bitterness returned, sharper. “According to the Quarterly Verse Audit, my corpus was deemed ‘deviant, decadent, and fiscally inert.’” The stone’s light dimmed, as if ashamed. “The punishment for repeated aesthetic non-compliance is Verse-Exile. The stripping of one’s poetic license, the severance from the lyrical lattice that binds our world. One is ejected from the narrative stream of one’s own reality. Cast into the Between—the non-space that pools in the cracks of all that is. Most exiles dissolve there, their stories untold, their verses unwound into static. I was adrift, a fading footnote. Until your key turned.”
 
-Hopping onto a footstool, Poggle brought them closer to eye level. From the satchel came not a book, but a smooth, river-worn stone. A breath across its surface made it shimmer, revealing lines of delicate, glowing script that swam like minnows. “In my world—a place you might call Elsewhere’s cousin, the world of Gloaming—verse is not merely art. It is architecture. Agriculture. A well-crafted couplet can mend a wall. A sonnet sequence guides the river’s flow. My crime,” Poggle said, the melodic voice hitting a discordant note of bitterness for the first time, “was unprofitable poetry.”
+Leo stared. The explanation was insane, a fantasy woven from the very fabric of his life’s work. Yet, with a terrifying, crystalline logic, it clicked into place. It explained the lifelong, nagging sense of otherness, the feeling that the world was a page he was reading slightly out of sync. It explained the way books had never like mere objects, but like doors, vibrating with a potential he could feel in his teeth. It even explained the strange, spatial headaches that had plagued him for years before the tumor’s more brutal signature announced itself. They weren’merelyst neurological misfires; they were the pressure of a key, unused, straining in its lock. The vortex of light and despair hadn’t been a symptom. It had been an act of creation.
+“A World-Key,” Leo whispered. The term both alien and intimately familiar on his tongue.
+“A genetic anomaly. A soul-attunement to the bindings of reality,” Poggle nodded, its large eyes fixed on Leo with an intensity that was almost physical. “Usually, they are identified young, hunted by the Cartographers’ Guild, and trained to map the stable corridors between worlds. Yours…” The goblin’s gaze swept the dusty, silent library, a place of glorious, quiet uselessness in a world of noise and utility. “Yours went unnoticed. Shelved, like one of your books.” The creature’s expression shifted, the fear momentarily eclipsed by a desperate, awe-struck hope. “But you *opened* one. Unconsciously, chaotically, but you opened a door. You are a sanctuary, Archivist. A library is a fortress of unprofitable truths. And you have opened a door to one who has nowhere else to go.”
 
-Leo lowered his hands. The creature’s sorrow carried a tangible weight, a scent of damp leaves and distant rain.
+Before Leo could begin to process this—the seismic shift from terminal patient to accidental sanctuary keeper, the dizzying re-framing of his own identity—a new sound penetrated the archive’s thick silence.
+Not the hum of magic, but the crunch of gravel under a slow, heavy tire on the drive. Then, the definitive, mundane *ding-dong* of the front doorbell.
+The sound was a splash of ice water. Reality, the boring, brutal, tax-assessing kind, came crashing back into the room, stripping the magic from the air. Leo’s body reacted before his mind, a jolt of adrenaline that momentarily silenced the bone-throb. He lurched to his feet, his joints protesting, and moved with a speed he hadn’t possessed in months to the front of the archive. He peered through a hairline crack in the boards nailed over the great window.
+Outside, in the flat, grey afternoon light, a sleek, black vehicle idled, its engine a low, expensive purr. Its windows were tinted to an obsidian blankness. Two figures stood at his heavy oak door. They were identical in their anonymity: black suits, cut with a severe, military precision that allowed for no superfluous movement. Their faces were obscured by data-glasses, the lenses glinting with a cold, synthetic blue light, reflecting the dull sky. One stood with hands clasped, perfectly still. The other held a device—a sleek, grey tablet with a small, dish antenna that was slowly, methodically panning across the front façade of Thornfield House, as if tasting it.
+“Who are they?” Poggle hissed from behind him. Leo started; he hadn’t heard the goblin approach. Poggle’s ears were flattened against his skull, his body coiled tight. The scent of damp leaves was now underscored by a sharp, acrid note of fear.
+“I don’t know.” But a cold, heavy certainty settled in Leo’s gut, colder than any scan result. They weren’t doctors; doctors drove sensible cars and wore expressions of harried sympathy. They weren’t solicitors or estate agents; their stillness was predatory, not professional. They were a different species of visitor entirely.
+The doorbell rang again, longer this time, an insistent electronic chime that vibrated through the old bones of the house.
+Then a voice, amplified slightly by the tablet, called out. It was neutral, devoid of emotion, a voice that had been scrubbed clean of any human inflection. “Archivist Leo Thorne. We are representatives of the Cartographers’ Guild. Please open the door immediately.”
 
-“Unprofitable?”
+*Cartographers’ Guild.* The name from Poggle’s story. The hunters of World-Keys. A frisson of pure, undiluted terror shot down Leo’s spine. It was one thing to entertain a delirious fantasy; it was another to have its ominous supporting characters appear at your doorstep with terrifying punctuality. The world appeared to tilt, the solid floor of his disbelief giving way. If they were real, then Poggle was real. If Poggle was real, then the key, the exile, the tumorous spark of his power… all of it was real.
+A frantic drumbeat kicked against his ribs, each pulse a hammer blow of raw alarm. He glanced at Poggle, who had shrunk back, his luminous eyes wide with a recognition that confirmed Leo’s worst fear. The air in the room, once thick with dust and wonder, was now charged with a different tension—the sharp, metallic scent of the hunt.
+“What do I do?” Leo whispered, his voice barely audible over the thunder in his ears and the second, more impatient ring of the bell.
+Poggle’s eyes flickered, the gold flecks in them catching the dim light. Desperation warred with a sudden, fierce resolve. “You must hide me. They are Surveyors. They will not understand. They will not see the beauty or the tragedy. They will only see a breach, a chaotic anomaly. An unregistered Key and an exiled verse-form. They will catalog you, and they will *quarantine* me.” The word ‘quarantine’ was uttered with a dread that suggested something far worse than isolation.
+Hide it? Where? Leo’s mind, trained for decades in cataloging and retrieval, scrambled for a solution. The archive was vast, but these were Cartographers. Would they not sense what they sought? His gaze darted over the shelves, the cabinets, the piles of unsorted manuscripts. It landed on the far wall, on a section of seemingly seamless, floor-to-ceiling oak shelving. To any eye, it was just another bookcase. But Leo knew.
+“The Blake Alcove,” he breathed. “The shelf behind the illustrated *Songs of Innocence and of Experience*.* It’s a dummy. There’s a space behind it, from the old chimney flue. It’s… it’s not on any floor plan.”
 
-“The Consortium of Gleam took hold generations ago,” Poggle recited, as if from a well-memorized indictment. “They metricized metaphor. Standardized stanza structure for maximum resource yield. My poetry… it spoke of moss growing on the north side of forgotten things. It praised the inefficiency of laughter. According to the Quarterly Verse Audit, it was ‘deviant, decadent, and fiscally inert.’” The stone was clutched tighter. “The punishment for repeated aesthetic non-compliance is Verse-Exile. The stripping of one’s poetic license, and ejection from the narrative stream of one’s own world. Cast into the Between—the non-space that pools in the cracks of reality. Most exiles dissolve there, their stories untold. I was adrift, a fading footnote. Until your key turned.”
+He didn’t wait for a response. Moving with a pain-forgotten urgency, he led Poggle to the section. He found the specific, worn volume—a large, 19th-century folio with hand-colored plates. He pulled it not towards him, but sideways. With a soft, gritty sigh, a three-foot-wide section of the bookcase swung inward, revealing a dark, vertical slit of space, smelling of old brick and dry mortar.
+Poggle didn’t hesitate. With a fluid, silent motion, it slipped into the blackness, its patchwork coat blending into the shadow. It paused for a second, looking back at Leo. In those vast green eyes, Leo saw a universe of gratitude and a plea. “Do not let them in,” Poggle whispered, the sound like rustling parchment. “The threshold of a Key-holder is a legal boundary. Once crossed without consent, their instruments will map everything.”
 
-Leo stared. The explanation was insane. Yet it clicked into place with a terrifying logic, explaining the lifelong sense of otherness, the way books had always felt like doors he could almost push open, the strange, spatial headaches that preceded his diagnosis. It explained the vortex born of his tears.
+Then the goblin was gone, melting into the darkness. Leo pushed the shelf shut. It closed with a definitive, muffled *click*. He slid the Blake folio back into place. His heart was a wild object in his chest.
+*Ding-dong. Ding-dong-dong-dong.*
 
-“A World-Key,” Leo whispered.
+“Archivist Thorne. This is your final courtesy notification. Please comply.”
 
-“A genetic anomaly,” Poggle nodded. “A soul attuned to the bindings of reality. Usually, they are hunted young and trained by the Cartographers’ Guild. Yours… yours went unnoticed. Shelved, like one of your books.” The goblin’s eyes shone with a desperate hope. “You are a sanctuary, Archivist. A library is a fortress of unprofitable truths. And you have opened a door.”
+Leo took a deep, shuddering breath. He willed his hands to stop trembling. He was no hero, no keeper of sanctuaries. He was a dying archivist. But this was his archive. These were his books. And now, impossibly, he had a guest.
+He turned his back on the hidden alcove, on the glowing stone of a poet’s exile, and walked slowly, deliberately, towards the archive doors. Each step on the creaking floorboards was an effort of will. He weight of the entire house around him, the silent, watching presence of a million unprofitable truths. He deeper, more terrifying weight of the new truth in his life.
+He reached the heavy oak door that led to the main hall. From the other side of the house, he heard a new sound—not the bell, but the crisp, authoritative rap of a knuckle directly on the front door’s wood. *Tap. Tap. Tap.*
 
-Before Leo could process this—the shift from terminal patient to accidental sanctuary keeper—a new sound penetrated the archive’s thick silence. Not the hum of magic, but the crunch of gravel on the drive. Then, the definitive, mundane ding-dong of the front doorbell.
-
-Reality, the boring, brutal kind, came crashing back. Lurching to his feet, Leo peered through a crack in the boarded-up window. Outside, in the grey afternoon light, a sleek, black vehicle idled, its windows tinted to obsidian. Two figures stood at his door. Identical black suits, cut with severe precision, covered their frames; data-glasses obscuring their faces glinted with a cold, blue light. One held a device—a sleek tablet with a dish antenna slowly panning across the front of the house.
-
-“Who are they?” Poggle hissed, ears flattened against his skull.
-
-“I don’t know.” A cold certainty settled in Leo’s gut. They weren’t doctors. They weren’t solicitors. Their movements held a synchronized, predatory patience.
-
-The doorbell rang again, longer this time. Then a voice, amplified, neutral, devoid of emotion, called out, “Archivist Leo Thorne, we are representatives of the Cartographers’ Guild. Please open the door immediately.”
-
-A frantic drumbeat kicked against Leo’s ribs, each pulse a hammer blow of raw alarm., a frantic drumbeat. He glanced at Poggle, who had retreated to the shadows, his eyes wide with fear. The air in the room seemed to thicken, charged with an unseen tension.
-
-“What do I do?” Leo whispered, his voice barely audible over the pounding of his heart.
-
-Poggle’s eyes flickered with a mix of desperation and resolve. “You must hide me. They will not understand. They will not see the beauty in what you have done. They will only see a breach, a threat to their order.”
-
-Leo’s mind raced. He had no experience with such matters, no training in the art of concealment or confrontation. But something in Poggle’s plea, the raw vulnerability in those luminous eyes, stirred a protective instinct within him. He gestured towards a narrow, hidden alcove behind a bookshelf. “Go. Hide there. I’ll try to buy some time.”
-
-Poggle nodded, his movements swift and silent as he slipped into the alcove, disappearing from view. Leo took a deep breath, trying to steady himself. He walked to the door, each step heavy with the weight of the unknown.
-
-He opened the door a crack, peering out at the two suited figures. “Yes?”
-
-One of them, the one with the tablet, stepped forward. “Mr. Thorne, we need to come in. We have reason to believe that a World-Key has been activated in your residence.”
-
-Leo’s throat tightened. “I don’t know what you’re talking about. I’m just a librarian. I deal with books, not… keys.”
-
-The man’s data-glasses flickered, and he tilted his head slightly. “We have evidence to the contrary. Cooperation will be in your best interest.”
-
-Leo’s mind raced. He couldn’t let them in, not with Poggle hidden inside. “I’m sorry, but I’m not feeling well. I’ve been under a lot of stress lately. Can this wait until another time?”
-
-The man’s expression didn’t change, but his tone grew colder. “This cannot wait, Mr. Thorne. We must inspect the premises immediately.”
-
-Leo’s heart sank. He knew he couldn’t keep them out forever. “Fine,” he said, stepping back and opening the door wider. “But I really don’t know what you’re looking for.”
-
-The two men entered, their presence filling the room with an unsettling aura of authority. They moved with purpose, scanning the space with their devices. Leo watched, his hands trembling, as they approached the central aisle where the portal had collapsed.
-
-The lead agent stopped, his device beeping softly. He crouched down, examining the ground. “There’s residual energy here. A recent breach.”
-
-Leo’s stomach churned. “I swear, I don’t know anything about this. I’ve been alone all day.”
-
-The agent stood up, his eyes narrowing behind the data-glasses. “We’ll need to search the entire property. Stay here.”
-
-Leo nodded, his mind racing. He had to find a way to protect Poggle, to keep him safe from these intruders. As the agents began their methodical search, Leo’s eyes darted around the room, searching for any sign of escape or hiding place.
-
-The seconds ticked by, each one a torture. Leo’s anxiety grew with every step the agents took, every beep of their devices. He knew that if they found Poggle, everything would change. The fragile world he had built, the sanctuary he had unknowingly created, would crumble.
-
-Suddenly, the lead agent paused, his device emitting a high-pitched whine. He turned towards the alcove where Poggle was hidden. “There’s a significant energy signature here. Open it.”
-
-Leo’s heart nearly stopped. He stepped forward, his voice shaking. “Please, I don’t—”
-
-The agent’s hand shot out, grabbing Leo’s arm. “Stay back. We need to check this.”
-
-Leo’s mind raced. He had to think fast, act quickly. “Wait, I can explain. There’s nothing there. It’s just an old bookshelf. I promise.”
-
-The agent’s grip tightened, and he pushed past Leo, moving towards the alcove. Leo’s heart pounded in his chest, a frantic drumbeat. He knew he had to do something, anything, to stop them.
-
-In a moment of desperation, Leo lunged forward, grabbing the agent’s arm. “Please, you can’t—”
-
-The agent spun, his hand moving to his belt. Leo’s eyes widened as he saw the glint of a weapon. He knew he was outmatched, but he couldn’t let them harm Poggle. With a surge of adrenaline, he shoved the agent, pushing him away from the alcove.
-
-The agent stumbled, his device falling to the floor with a clatter. The second agent rushed to his side, drawing his own weapon. “Stand down, Mr. Thorne. You’re making a mistake.”
-
-Leo backed away, his hands raised. “I just want to help. Please, don’t hurt anyone.”
-
-The lead agent regained his footing, his eyes cold and calculating. “You have no idea what you’re dealing with. Step aside.”
-
-Leo’s mind raced. He had to find a way to stall, to give Poggle a chance to escape. He glanced around the room, his eyes landing on a heavy, ancient tome on a nearby shelf. Without thinking, he grabbed it and hurled it at the agents.
-
-The book struck the lead agent in the shoulder, causing him to stagger. The second agent fired a warning shot, the sound deafening in the quiet room. Leo ducked, his heart pounding.
-
-“Enough!” the lead agent shouted, his voice filled with anger. “We will not hesitate to use force.”
-
-Leo’s breath came in ragged gasps. He knew he was running out of options. He had to make a decision, and he had to make it now.
-
-With a final, desperate glance at the alcove, Leo made his choice. He stepped forward, his hands still raised. “I’ll cooperate. Just… please, don’t hurt anyone.”
-
-The agents exchanged a glance, their expressions unreadable. The lead agent nodded, holstering his weapon. “Very well. Step aside, and we will conduct our search.”
-
-Leo complied, his body trembling with exhaustion and fear. As the agents moved towards the alcove, he closed his eyes, praying that Poggle would find a way to escape.
-
-The lead agent reached the alcove and hesitated, his device beeping urgently. He opened the hidden door, revealing the empty space inside. Poggle was gone.
-
-The agent’s expression changed, a flicker of surprise crossing his face. He turned to Leo, his voice cold. “Where is he?”
-
-Leo met his gaze, his heart heavy with the weight of his decision. “I don’t know. I swear, I don’t know.”
-
-The lead agent’s eyes narrowed, but he didn’t press further. Instead, he turned to his partner. “Search the rest of the property. We need to find him.”
-
-As the agents continued their search, Leo stood in the center of the room, his mind a whirlwind of thoughts and fears. He had made a choice, a choice that would change everything. But in that moment, he knew he had done what he had to do. He had protected Poggle, and in doing so, he had taken the first step into a new, uncertain world.
+Leo’s hand hovered over the brass doorknob. His sanctuary had been breached by wonder. Now, it was under siege by something else entirely. He thought of the black car, the blue-lit glasses, the scanning dish. He thought of Poggle’s fear.
+He turned the knob and stepped out of the archive, closing the door firmly behind him on a world that had, in one afternoon, become infinitely larger and infinitely more dangerous. The walk down the dark, portrait-lined hallway to the front door like the longest journey of his life.

@@ -1,113 +1,26 @@
 Chapter 8: The Armies of Light
 
 The Plain of Sighs stretched out before Elara like a vast, cracked mirror, reflecting the jagged teeth of the Kaelen Mountains and the whispering forests of the Verdant See. The wind, a mournful sigh, rustled the dry grasses and sent the scattered rocks tumbling down the slope. It was here, in this desolate basin, that the world had chosen to make its stand. From the vantage of a cracked basalt outcrop, Elara watched the Armies of Light assemble, and the sight was a beautiful, terrible poison that seeped into her very bones.
-
 Sunlight glinted off the ranked pike-heads, a silver fungus sprouting across the brown earth like a ghostly tendril. Banners of a hundred hues snapped in the dry wind, each one a declaration of power and allegiance. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground. The intertwined serpents of the Hydra Cult coiled and uncoiled, their eyes glinting like polished onyx. Siege engines, carved from enchanted wood and humming with contained force, were hauled into position by teams of oxen with hides like polished stone. The air was heavy with the scent of woodsmoke and the acrid tang of gunpowder.
-
-As Elara gazed upon the Armies of Light, she felt a pang of nostalgia wash over her. She remembered the days when magic was a gentle breeze, a soft caress on the skin. She remembered the way the world had been, before she had torn it apart, before she had brought about the downfall of the old order. The memories were bittersweet, a reminder of what she had lost, of what she had destroyed.
-
-Her thoughts were interrupted by the sound of Kaelen's rough voice, a low rumble that seemed to vibrate through the air. "A festival," he spat, his eyes scanning the horizon. "They've come for a celebration of their own power. They'll sing of this for ages." His face, once that of a minor functionary in the Citadel of Whispers, was now a roadmap of scars and simmering rage. The lines etched into his skin told the story of a man who had seen the worst of humanity, who had been broken and remade in the fire of his own despair.
-
+As Elara gazed upon the Armies of Light, she pang of nostalgia wash over her. She remembered the days when magic was a gentle breeze, a soft caress on the skin. She remembered the way the world had been, before she had torn it apart, before she had brought about the downfall of the old order. The memories were bittersweet, a reminder of what she had lost, of what she had destroyed.
+Her thoughts were interrupted by the sound of Kaelen's rough voice, a low rumble that appeared to vibrate through the air. "A festival," he spat, his eyes scanning the horizon. "They've come for a celebration of their own power. They'll sing of this for ages." His face, once that of a minor functionary in the Citadel of Whispers, was now a roadmap of scars and simmering rage. The lines etched into his skin told the story of a man who had seen the worst of humanity, who had been broken and remade in the fire of his own despair.
 Elara turned to him, her eyes narrowing. "They'll sing of nothing," she said, her voice flat, a stark contrast to the turmoil that churned within her. It surprised her, that flatness. Inside, a cold, dense star had formed, compressing her grief, her guilt, her old love for the shimmering world below into an inert weight. The memories of what she had done, of what she had lost, still lingered, a festering wound that refused to heal. She thought of the waystones, the ley-line nexuses, the sacred places that had been torn from the earth, leaving behind only desolate, barren landscapes. She thought of the people she had hurt, the lives she had ruined, and the world she had destroyed.
-
 "They'll sing of nothing," she repeated, her voice barely above a whisper. It was a cruel joke, a bitter reminder of the world she had lost, of the beauty she had destroyed. The songs would die in their throats, a funeral dirge for the world that had been, for the world that could have been.
-
 Her army—the grandly named "Army of the Mundane"—was a stain on the edge of that glorious pattern. Five thousand souls, maybe. Refugees from her systematic dismantling of waystones and ley-line nexuses, heretics who'd whispered of godless worlds, mercenaries who fought for the coin she'd looted from emptied sanctums, and the ragged remnants of the Cult of the Silent Word. They had no banners. Their armor was a patchwork of leather, scavenged plate, and hardened linen. Their weapons were sharpened farm tools, hunting bows, and a stubborn, desperate fury. They stank of unwashed bodies and campfire smoke. They were the echo of the world before magic, and they looked upon the splendor arrayed against them with a kind of weary hatred.
-
 "They have the ground, the sky, the gods," murmured Lira, a former water-diviner whose magic had been the first thing Elara's presence had extinguished in her, years ago. She now served as a scout, her eyes still preternaturally sharp. "They have everything."
 
 "They have everything to lose," Elara corrected, turning from the vista. "We have nothing. That is our ground. That is our sky." The words were a cruel joke, a reminder of the world she had destroyed, of the beauty she had lost. But they were also a truth, a harsh reality that she could no longer deny.
-
-As the sun began to set, casting the Plain of Sighs in a golden light, Elara felt a sense of resolve harden within her. She would let them bring it all. She would let them have the ground, the sky, the gods. She would let them have everything, and in return, she would take nothing. The thought was a cold, hard comfort, a reminder that she was not responsible for the world's pain. She was not responsible for the suffering of others.
-
-The stars began to twinkle in the night sky, like diamonds scattered across the velvet expanse. The wind picked up, rustling the dry grasses and sending the scattered rocks tumbling down the slope. Elara watched, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was not alone. She had Kaelen, his scars and his rage, and she had Lira, her sharp eyes and her quiet strength.
-
-As the darkness deepened, Elara felt a sense of unease creeping over her. She had always been a master of strategy, a weaver of plans and a manipulator of men. But this was different. This was a battle of wills, a clash of ideologies. This was a war of the heart.
-
+As the sun set, casting the Plain of Sighs in a golden light, Elara feelings of resolve harden within her. She would let them bring it all. She would let them have the ground, the sky, the gods. She would let them have everything, and in return, she would take nothing. The thought was a cold, hard comfort, a reminder that she was not responsible for the world's pain. She was not responsible for the suffering of others.
+The starto twinkle in the night sky, like diamonds scattered across the velvet expanse. The wind picked up, rustling the dry grasses and sending the scattered rocks tumbling down the slope. Elara watched, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was not alone. She had Kaelen, his scars and his rage, and she had Lira, her sharp eyes and her quiet strength.
+As the darkness deepened, Elara felthints off unease creeping over her. She had always been a master of strategy, a weaver of plans and a manipulator of men. But this was different. This was a battle of wills, a clash of ideologies. This was a war of the heart.
 She thought of the people she had hurt, the lives she had ruined, and the world she had destroyed. She thought of the waystones, the ley-line nexuses, the sacred places that had been torn from the earth, leaving behind only desolate, barren landscapes. She thought of the songs that would die in their throats, a funeral dirge for the world that had been, for the world that could have been.
-
 And she thought of the future, of the world that might be, of the world that could be. A world without magic, a world without wonder, a world without hope. A world without her.
-
 The thought was a cold, hard comfort, a reminder that she was not defeated. She was not broken. She was a woman, a warrior, a leader. And she would not be defeated.
+As the night wore on, the stars grew brighter, and the wind grew stronger. Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
+The silence was broken by the sound of Kaelen's voice, a low rumble thato vibrate through the air. "It's time," he said, his eyes scanning the horizon. "It's time to take the field."
 
-As the night wore on, the stars grew brighter, and the wind grew stronger. Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The silence was broken by the sound of Kaelen's voice, a low rumble that seemed to vibrate through the air. "It's time," he said, his eyes scanning the horizon. "It's time to take the field."
-
-Elara nodded, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was not alone. She had Kaelen, his scars and his rage, and she had Lira, her sharp eyes and her quiet strength.
-
+Elara nodded, her heart pounding in her chest. But she also knew that she was not alone. She had Kaelen, his scars and his rage, and she had Lira, her sharp eyes and her quiet strength.
 Together, they would face the Armies of Light, together they would face the world. Together, they would take the field.
-
-The sound of drums echoed through the night, a beat that seemed to pulse with life. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
+The sound of drums echoed through the night, a beat that seemed to with life. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
+And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
 The drums grew louder, the beat more insistent. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The silence was broken by the sound of Kaelen's voice, a low rumble that seemed to vibrate through the air. "It's time," he said, his eyes scanning the horizon. "It's time to take the field."
-
-Elara nodded, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was not alone. She had Kaelen, his scars and his rage, and she had Lira, her sharp eyes and her quiet strength.
-
-Together, they would face the Armies of Light, together they would face the world. Together, they would take the field.
-
-The sound of drums echoed through the night, a beat that seemed to pulse with life. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The drums grew louder, the beat more insistent. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The silence was broken by the sound of Kaelen's voice, a low rumble that seemed to vibrate through the air. "It's time," he said, his eyes scanning the horizon. "It's time to take the field."
-
-Elara nodded, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was not alone. She had Kaelen, his scars and his rage, and she had Lira, her sharp eyes and her quiet strength.
-
-Together, they would face the Armies of Light, together they would face the world. Together, they would take the field.
-
-The sound of drums echoed through the night, a beat that seemed to pulse with life. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The drums grew louder, the beat more insistent. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The silence was broken by the sound of Kaelen's voice, a low rumble that seemed to vibrate through the air. "It's time," he said, his eyes scanning the horizon. "It's time to take the field."
-
-Elara nodded, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was not alone. She had Kaelen, his scars and his rage, and she had Lira, her sharp eyes and her quiet strength.
-
-Together, they would face the Armies of Light, together they would face the world. Together, they would take the field.
-
-The sound of drums echoed through the night, a beat that seemed to pulse with life. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The drums grew louder, the beat more insistent. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The silence was broken by the sound of Kaelen's voice, a low rumble that seemed to vibrate through the air. "It's time," he said, his eyes scanning the horizon. "It's time to take the field."
-
-Elara nodded, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was not alone. She had Kaelen, his scars and his rage, and she had Lira, her sharp eyes and her quiet strength.
-
-Together, they would face the Armies of Light, together they would face the world. Together, they would take the field.
-
-The sound of drums echoed through the night, a beat that seemed to pulse with life. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The drums grew louder, the beat more insistent. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was ready. She was ready to face the Armies of Light, to face the world, to face herself.
-
-The silence was broken by the sound of Kaelen's voice, a low rumble that seemed to vibrate through the air. "It's time," he said, his eyes scanning the horizon. "It's time to take the field."
-
-Elara nodded, her heart pounding in her chest. She knew that the battle was coming, that the war was far from over. But she also knew that she was not alone. She had Kaelen, his scars and his rage, and she had Lira, her sharp eyes and her quiet strength.
-
-Together, they would face the Armies of Light, together they would face the world. Together, they would take the field.
-
-The sound of drums echoed through the night, a beat that seemed to pulse with life. The Armies of Light stirred, their banners snapping in the wind. The golden sun of the Solar Throne shone bright, its rays like a benediction from the gods. The silver flame of the Pyromancer's Collegium danced with a fierce, otherworldly energy, casting flickering shadows on the ground.
-
-And Elara stood tall, her eyes fixed on the Armies of Light, her heart pounding in her chest. She knew that

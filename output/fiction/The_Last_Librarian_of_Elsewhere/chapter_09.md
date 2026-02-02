@@ -1,185 +1,74 @@
-Chapter 9: The Poet's Gambit
+## **Chapter 9: The Poet’s Gambit**
 
-The air in the canyon tasted of rust and old lightning. It was a wound in the earth, a jagged seam of black and ochre rock that smelled, Bryn noted with a grimace, like a struck match. The acrid scent stung her nostrils, and she could feel the grit of dust coating her skin. They were pinned. Above them, on both lips of the ravine, OmniCorp scouts moved with insectile precision, their grey armour blending into the stone. The low hum of their repulsor packs was the only sound, a deathly substitute for birdsong. The silence was oppressive, a physical presence that pressed against her eardrums.
+The air in the canyon tasted of rust and old lightning. It was a wound in the earth, a deep, jagged seam of black basalt and ochre sandstone that smelled, Bryn noted with a grimace, like a struck match held too close to the nose. Every breath was a gritty cocktail of desiccated minerals and the lingering, ozone-charged scent of last night’s dry storm. The acrid tang stung her nostrils, and she could feel the fine, persistent dust coating her skin, her teeth, the back of her throat. It was a place of endings, this canyon, a geological cul-de-sac.
+And they were pinned in its dead heart.
+Above them, on both lips of the ravine, OmniCorp scouts moved with insectile precision. Their grey, matte armour drank the harsh sunlight, blending into the stone like malignant lichen. The low, resonant hum of their repulsor packs was the only sound, a mechanical, arrhythmic thrum that had become the canyon’s new, deathly substitute for birdsong. The silence beneath that hum was oppressive, a physical presence that pressed against her eardrums and made the pulse in her own throat sound like a trapped drum. Her back was fused to a cold, shadowed slab of rock, its chill seeping through her worn jacket. Her fingers, curled around the familiar, grease-stained hilt of her wrench-knife, were slick with a cold sweat that had nothing to do with the heat. The metal cool and certain against her palm, a solid, comforting weight. She had used it an hour ago to cut through the rusted wire mesh of an old surveyor’s shelter, creating a fragile, illusory barrier. Now, it like the only real thing left.
+*Just another scrape in a lifetime of scrapes,* she thought, but the mantra rang hollow. This wasn’t a bar brawl or a dodged debt-collector. This was the cold, systematic eye of the Corporation, and it didn’t blink.
+From behind a tumble of fractured boulders that looked like a giant’s discarded teeth, Leo shook his head. His face was pale under its film of grime and sweat, his glasses smudged. The prototype satchel was a persistent, anxious warmth against his hip, a sensation that had graduated from a tingle to a dull, throbbing heat. He’d been monitoring its erratic power signature through a jury-rigged link to his wristpad, watching the energy levels dip and spike like a feverish heartbeat. Each downward spike like a suture pulling tight in his gut. The satchel was no longer just a secret; it was a fragile, ticking time bomb, and its failure meant more than capture. It meant the end of Elsewhere’s last, quiet hope. He could almost hear the dry, logical voice of an OmniCorp evaluator: *Asset recovered. Nuisances neutralized. Efficiency achieved.*
 
-“Options?” Bryn whispered, her back pressed against a cold slab. Her fingers were curled around the hilt of her wrench-knife, slick with sweat. The metal felt cool against her palm, a comforting weight in her hand. She had used it to cut through the wire mesh of the canyon's makeshift shelter, to create a fragile barrier against the soldiers.
+The oppressive silence was broken not by a sound, but by a touch. Bryn glanced at Poggle. The poet wasn’t looking at the canyon rim or their pursuers. He was staring, transfixed, at the striated wall beside him. His large, luminous eyes, usually swimming with whimsy, were sharp, focused, drinking in the vertical lines of sediment, the way the stone fluted and curved in great, frozen waves. It was the look he got when a particularly stubborn rhyme was about to surrender. He reached out a long, delicate finger, its nail oddly clean amidst the dirt, and brushed the rock with a touch as light as a moth’s wing.
+A faint, almost sub-audible tone shivered in the air, more a vibration in the teeth than a sound in the ear.
+“Do you hear it?” he murmured, his voice hushed with something akin to reverence.
+Bryn strained, hearing only the maddening repulsor hum and the distant, empty whistle of wind over the canyon’s rim. But Poggle seemed tuned to a different station, one broadcasting on a frequency of stone and time.
+“Hear what? The buzz of drones planning our dissection?” Bryn snapped, the words coming out harsher than she intended. Fear, she knew, often wore the mask of anger. But her eyes, against her will, followed the path of Poggle’s gesture. A shiver, unrelated to the rock’s chill, traced a cold rivulet down her spine.
+“The stone. It sings,” Poggle whispered, his gaze never leaving the wall. The reverence in his voice profoundly alien in this place of dust, dread, and corporate pursuit. “This entire formation… it isn’t a random fracture. Listen. The basalt columns, the sandstone layers… it is a lithic symphony. A giant, sleeping tuning fork struck by the tectonic shifts of millennia ago. It’s still humming its note.”
 
-From behind a tumble of boulders, Leo shook his head, his face pale under the grime. The prototype satchel was warm against his hip, a persistent, anxious thrum. He had been checking its power levels, trying to gauge how much longer it would last. The satchel was a fragile, ticking time bomb, and he knew that if it failed, they would be caught.
+Leo edged closer, wincing as a brilliant green laser sight danced like a malevolent firefly over the stone simply above his head, leaving a temporary, scorched dot. “Poggle, I swear by the Dewey Decimal system, this is *not* the time for geological poetry,” he hissed, his voice tight with a fear that craved action, not analysis.
+“But it is!” The poet turned, his usual air of distracted gentleness replaced by a fierce, bright certainty that was almost shocking. The tattered remains of his velvet jacket, a splash of murdered elegance, appeared to puff up around him. “They hunt us because we are a resource. A problem to be solved. A deviation to be corrected. They understand force, efficiency, profit margins. Their logic is a closed loop.” He tapped his temple. “They do not understand a thing that has no use. A object that exists only to *be*. A poem. A resonance.”
 
-The silence was oppressive, and Bryn felt a growing sense of unease. She glanced at Poggle, who was staring at the canyon walls. His large, luminous eyes seemed to be drinking in the rock, tracing the vertical striations, the way the stone fluted and curved like frozen music. He reached out a long, delicate finger and brushed the rock. A faint, almost sub-audible tone shivered in the air.
+Bryn’s gaze was a scalpel. She saw the desperation in Poggle’s eyes, the raw, naked need to prove that his life’s work was more than decorative, more than the “narrative inefficiency” for which the Verse-Mongers’ Guild had exiled him. She’d seen that look before, in the Guild’s polished halls—poets crafting compelling propaganda for the highest bidder, their metaphors focus-grouped, their cadences engineered for maximum retention. Poggle’s sin had been his stubborn, beautiful uselessness.
+“What are you saying?” Bryn asked, her voice dropping to a whisper so low it was almost just a shape her lips made.
+Poggle drew himself up to his full, unimpressive height. “My epic. *The Lay of the Unmapped Star*. The one that got me branded a ‘sub-optimal narrative producer.’ It is not a weapon. A weapon has a purpose, a target. It is, by definition, quantifiable.” He took a breath, his words coming in hurried, breathless phrases, as if he were afraid the idea would escape him. “But it is a key. The canyon’s natural resonance, its specific acoustic signature… if it could be amplified, harmonized with the right frequencies—the precise cadences, the vowel sounds, the emotional contours of the Zenith Canto—it could theoretically create a sympathetic vibration in the local reality strata. Not to destroy, but to… to *invite*. To resonate with the Elsewhere’s own latent frequency.”
 
-“Do you hear it?” he murmured.
+The silence that followed was thicker than before. Bryn blinked.
+“You want to recite poetry at them?” Her voice was flat, barren of all inflection, the sound of a woman watching her last, desperate hope reveal itself to be a painted backdrop.
+“Not *at* them. *Through* the stone. To every quiet, listening corner of the Elsewhere. OmniCorp’s systems, their soldiers, their sensors—they are built for a predictable, cause-and-effect universe. They quantify, they categorize, they calculate probabilities.” A wild, almost fey light was in his eyes now. “I wish to give their systems something unquantifiable to process. An aesthetic event. A beauty with no tactical value. It will be… an error in their logic. A crack where the light gets in.”
 
-Bryn hesitated, unsure of what to say. She had heard nothing but the hum of the repulsor packs and the distant thrum of the canyon's natural resonance. But Poggle seemed to be listening to something she couldn't hear.
+Leo prototype against his hip. It stirred. Not a pulse of power, but a *response*—a weak, warm, agreeing thrum that travelled up through his bones. It like the crystal was leaning forward, listening. His rational mind, the part trained in cataloguing and preservation, screamed that this was insanity. It was mysticism, it was chaos, it was the antithesis of a plan. But his heart, the part that loved the silent, sacred chaos of the Library, heard a different truth. It was madness. It was also, unmistakably, the only plan they had. He met Poggle’s earnest, burning gaze and saw not a fool, but a man about to wield the only tool he had ever mastered.
+“What do you need?” Leo asked, the words leaving his mouth before his doubt could reclaim them.
+“A platform. A stage. The acoustics will be best from the centre, from that column.” Poggle pointed a trembling finger towards a central, spiraling rock formation that rose from the canyon floor like a ruined bell tower, its surface etched by wind into a natural helix. It was exposed. It was, from a tactical standpoint, utterly suicidal. “And for you, Librarian,” Poggle continued, his eyes locking with Leo’s, “to give whatever you can to the crystal when I reach the Canto of the Zenith. The poem will be the key, but the turn will need a push. A surge of intentionality. Of… feeling.”
 
-“Hear what? The buzz of drones planning our dissection?” Bryn snapped, trying to break the tension. But her eyes followed Poggle's gesture, and she felt a shiver run down her spine.
+Bryn cursed, low and fluent, a stream of gutter-syllables that painted vivid pictures of the absurdity of their situation and the dubious ancestry of their plan. She looked from Leo’s resigned determination to Poggle’s fragile hope, then up at the scouts now methodically beginning their descent, repulsors whining as they picked their way down like spiders on threads of light.
+*They’re already in the web,* she thought. *Might as well make the web sing.*
 
-“The stone. It sings,” Poggle's voice held a reverence that felt alien in this place of dust and dread. “This entire formation… it is a lithic symphony. A giant, sleeping tuning fork.”
+She nodded, a sharp, jerky motion. “I’ll draw their fire. Leo, get him to that column. Don’t stop, don’t look back.” Her hand tightened on the wrench-knife. *This is it. The last stand. Make it a noisy one.*
 
-Leo edged closer, wincing as a laser sight danced over the stone above his head. “Poggle, this isn’t the time for geological poetry,” he said, his voice low and urgent.
-
-“But it is!” The poet turned, his usual whimsy replaced by a fierce, bright certainty. “They hunt us because we are a resource. A problem. They understand force, efficiency, profit. They do not understand a thing that has no use.”
-
-Bryn's gaze was sharp. She could see the desperation in Poggle's eyes, the need to prove that his art was more than just a hobby. She had seen it before, in the Verse-Mongers' Guild, where poets were valued for their ability to craft compelling narratives, not for their ability to think outside the box.
-
-“What are you saying?” Bryn asked, her voice barely above a whisper.
-
-Poggle drew himself up, the tattered remains of his velvet jacket flapping. “My epic. The Lay of the Unmapped Star. The one for which I was exiled from the Verse-Mongers' Guild for ‘narrative inefficiency and unprofitable metaphor.’ It is not a weapon. But it is a key.”
-
-He explained in hurried, breathless phrases. The canyon's natural resonance, amplified by the right frequencies—the specific cadences and vowel sounds of his poem—could theoretically destabilize the local reality strata. Not to destroy, but to... invite.
-
-“You want to recite poetry at them?” Bryn's voice was flat with disbelief.
-
-“Not at them. Through the stone. To every quiet, listening corner of the Elsewhere. OmniCorp's systems, their soldiers, they are built for a predictable universe. They quantify, they categorize. I wish to give them something unquantifiable to process.”
-
-Leo felt the prototype stir. A weak, but agreeing pulse. It was madness. It was the only plan they had. He met Poggle's earnest gaze. “What do you need?”
-
-“A platform. A stage. And for you, Librarian, to give whatever you can to the crystal when I reach the Canto of the Zenith. It will need a push.”
-
-Bryn cursed, low and fluent. Then she nodded. “I'll draw their fire. Leo, get him to that column.” She pointed to a central, spiraling rock formation that rose like a ruined bell tower. It was exposed. It was suicidal.
-
-She didn’t wait for agreement. With a guttural yell, she sprang from cover, hurling a chunk of ore at the nearest scout. The laser sights converged on her, and the canyon erupted in sizzling bolts of energy. She moved like a dust-devil, a zigzagging, wrench-flinging distraction.
-
-“Go!” Leo hissed, and he and Poggle scrambled from rock to rock, the air heating around them. They reached the base of the column. Poggle began to climb, his thin limbs surprisingly strong. Leo followed, the satchel bouncing against his ribs.
-
-From her dancing, dodging perch, Bryn saw Poggle reach the top, a small, dark figure against the bruised sky. He spread his arms. He took a breath that seemed to draw in all the silence of the canyon.
-
+She didn’t wait for agreement, for second thoughts. With a guttural yell ripped from a place of pure defiance, she sprang from cover. Not away, but towards. She scooped up a jagged chunk of iron ore, heavy and dense in her hand, and hurled it with all her strength at the nearest scout. It clanged harmlessly off its armoured chest, but it was a declaration of war.
+The canyon erupted.
+Green and crimson laser bolts sizzled through the air, searing the dust into glassy pockmarks where they struck the ground. The sharp, ozone smell of ionized air mixed with the rock-dust. Bryn moved like a dust-devil, a zigzagging, unpredictable phantom. She didn’t run for safety; she ran for visibility, vaulting over low rocks, ducking behind slender pillars only to burst out again, her wrench-knife now in her throwing hand. She flung it not to kill, but to disrupt; it sparked against a scout’s helmet, causing it to stagger, its targeting systems momentarily confused by the blunt, physical insult. She was a problem, a darting, shouting, irreverent problem, and she commanded every optic, every scanner.
+“Go!” Leo hissed, the word lost in the cacophony, but his shove against Poggle’s back was eloquent enough.
+They scrambled from rock to rock, a desperate, low-slung dash. The air around them grew hot with near-misses, the scent of scorched stone and fabric stinging their noses. Leo’s world narrowed to the pounding of his heart, the scrape of his boots, the burning weight of the satchel against his ribs, and the flapping, ridiculous jacket-tail of the poet ahead of him. They reached the broad, uneven base of the spiraling column. Poggle climb, his thin limbs finding purchase in cracks and ledges with a simian grace Leo wouldn’t have guessed he possessed. Leo followed, his scholar’s hands tearing on the rough stone, his breath coming in ragged gasps.
+From her dancing, dodging perch behind a smoking boulder, Bryn risked a glance upward. She saw Poggle reach the top, a small, dark figure silhouetted against the vast, bruised sky of late afternoon. Hto stand there for an eternal second, not hiding, not cowering, but *arranging* himself. He spread his arms wide, not in surrender, but in reception, like a conductor awaiting the first note from an unseen orchestra. He took a breath—a deep, slow, impossible breath that seemed to n all the silence, all the fear, all the waiting tension of the canyon below.
 And he began.
-
-His voice was not loud, but it was carried. It rolled from the stone, amplified, layered, becoming not one voice but a chorus of echoes. He did not shout his poem; he released it.
-
-“Listen, you silent and pragmatic stones,
+His voice, when it came, was not loud. It did not shout down the laser fire. But it was *carried*. It rolled from the stone of the column itself, amplified, layered, picked up and echoed by the specific curvature of the canyon walls. It became not one voice, but a chorus of echoes—some lagging, some overlapping, a fractal cascade of sound. He did not recite his poem; he released it, note by note, into the waiting resonator of the world.
+“*Listen, you silent and pragmatic stones,
 To whispers born in stellar bones,
 Where rivers run with liquid light,
-And dreams take anchor in the night…”
+And dreams take anchor in the night…*”
 
-The words were strange, lush, and utterly alien to the sterile efficiency of the canyon. They spoke of gardens grown from sonnets, of constellations that were unfinished stories, of a door that was also a sigh. The canyon walls began to hum in sympathy. A deep, foundational chord underpinned Poggle’s recitation.
+The words were strange, lush, and utterly alien to the sterile, scorched efficiency of the canyon. They spoke of impossible botany—gardens grown from the seeds of sonnets, constellations that were not maps but unfinished stories waiting for a reader. They described a door that was also a sigh, a threshold made of longing. As the verses flowed, the canyon wallto hum in deep, sympathetic resonance. A foundational chord, lower than hearing, vibrated up through the soles of Bryn’s boots, through the rock Leo clung to. It was the planet itself, tuning itself to the poem.
+The OmniCorp scouts hesitated. Their movements, once fluid and precise, became jerky. Their targeting scanners flickered, painting erratic, confused patterns on the stone. In their helmets, data-streams would be scrolling with frantic, impossible alerts: *Acoustic anomaly detected. Resonant harmonics at level 7 and climbing. Atmospheric poetry coefficients exceeding measurable parameters. Proposed response: ERROR. Nonsense. Nonsense. NONSENSE.*
 
-The OmniCorp scouts hesitated. Their targeting scanners flickered. The data-streams in their helmets would be reporting impossible sensory input: resonant harmonics at level 7 and climbing, atmospheric poetry coefficients… nonsense.
-
-Poggle’s voice swelled, riding the rising wave of sound from the stone. He reached the heart of the poem, the Canto of the Zenith.
-
-“And here, at the peak of un-sung things,
+Poggle’s voice swelled, no longer fighting the rising wave of sound from the stone, but riding it, a surfer on a tsunami of resonance. He reached the heart of the poem, the Canto of the Zenith, his voice cracking with strain but burning with ecstatic conviction.
+“*And here, at the peak of un-sung things,
 A portal opens on silver wings,
 Not to take, but to bestow,
-A glimpse of where the lost things go!”
+A glimpse of where the lost things go!
+A crack in Time’s unyielding wall,
+A place where layered quiet falls,
+And every never-was and might-be,
+Dances for eternity!*”
 
-“Now, Leo!” Poggle cried, his voice cracking with strain.
+“Now, Leo! NOW!” Poggle cried, his voice breaking into a shout that was itself a note in the symphony.
+Leo, clinging to the column, shut his eyes. He didn’t try to push energy into the prototype; that was OmniCorp’s way—force, extraction, direction. Instead, he opened himself. He became a conduit. He thought of Elsewhere’s reading room in the deep, quiet hour: the smell of old paper and slow dust, the feel of velum under his thumb, the sound of a single page turning in a pool of lamplight, the profound, enveloping peace that was not an absence of noise, but a presence of meaning. He poured that feeling, that desperate, hopeful, melancholic love for all things fragile and quiet and *kept*, into the crystal at his hip.
+The effect was not an explosion.
+It was an unfurling.
+With a sound like a hundred thousand pages turning in a vast, gentle breeze, the air around the canyon *bloomed*. Dozens, then hundreds, of micro-portals shimmered into existence. They were each no larger than a window, some round, some oval, some jagged like torn parchment. They hovered in the air, clung to the rock faces, floated like luminous jellyfish. Each one offered a fleeting, vibrant glimpse into another Elsewhere: a silent forest of crystal trees weeping silver sap; a vast, placid ocean under a binary sunset, with great, gentle shapes moving beneath its waves; a city of intricate, empty spires where the wind played organ-music through hollow towers; a meadow of glowing fungi pulsing in a slow, hypnotic rhythm.
+The canyon was no longer a trap. It was a gallery of doorways.
+A scout, turning to track Bryn, backed directly into a portal showing a tranquil, violet desert. With a soundless flash, he was gone, his repulsor pack sputtering into silence on the canyon floor. Another, firing at a portal that reflected a starfield, saw its laser bolt travel through and vanish into the infinite dark. Confusion became chaos. The scouts’ systems were in total overload, screaming contradictory data about spatial anomalies, impossible energy signatures, and severe “reality quotient degradation.”
 
-Leo clutched the prototype. He didn’t push energy into it; he opened himself, a conduit. He thought of Elsewhere’s reading room, of the smell of old paper and peace. He poured that feeling, that desperate, hopeful melancholy, into the crystal.
-
-The effect was not an explosion. It was an unfurling.
-
-With a sound like a hundred pages turning at once, the air around the canyon bloomed. Dozens of micro-portals, each no larger than a window, shimmered into existence. They hovered in the air, against the rock, each offering a fleeting, vibrant glimpse into another Elsewhere.
-
-Through one, a rain of soft, blue petals fell silently. Through another, a vast, calm ocean under a banyan tree stretched out, its branches heavy with fruit. Through a third, a city of crystal spires pierced the sky, its streets thronged with beings that seemed to be made of light.
-
-Bryn felt a shiver run down her spine as she watched the portals unfold. She had never seen anything like it. The possibilities were endless, and she knew that they were just beginning to scratch the surface.
-
-But as she gazed into the shimmering portals, she felt a sense of unease creeping in. What lay beyond the glass? What secrets did the Elsewhere hold? And what would happen when they tried to return?
-
-The questions swirled in her mind like a maelstrom, and she knew that they would have to move through the unknown with caution. For in the world of the Elsewhere, nothing was as it seemed, and the line between reality and fantasy was thin and easily crossed.
-
-As the portals continued to unfold, Bryn felt a sense of wonder creeping in. She had always known that the Elsewhere was a place of magic and mystery, but she had never seen it like this before. The beauty was breathtaking, and she felt her heart swell with emotion.
-
-But as she gazed into the shimmering portals, she knew that they were not alone. The OmniCorp scouts were closing in, their laser sights trained on the trio. They knew that they had to act fast, or risk being caught and taken away.
-
-With a sense of urgency, Bryn turned to Leo and Poggle. “We have to get out of here, now,” she said, her voice low and urgent. “We have to find a way to close the portals and get back to the surface.”
-
-Leo nodded, his face set in a determined expression. “I'll try to hack into the prototype's systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I'll try to hack into the prototype's systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I'll try to hack into the prototype's systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I'll try to hack into the prototype's systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I'll try to hack into the prototype's systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I'll try to hack into the prototype’s systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I’ll try to hack into the prototype’s systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I’ll try to hack into the prototype’s systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I’ll try to hack into the prototype’s systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I’ll try to hack into the prototype’s systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I’ll try to hack into the prototype’s systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I’ll try to hack into the prototype’s systems. See if I can find a way to close the portals.”
-
-Poggle, meanwhile, was still standing at the top of the column, his voice still echoing through the canyon. “The Lay of the Unmapped Star” was not yet finished, and Bryn knew that they had to wait for it to be completed.
-
-As they waited, the portals continued to unfold, each one revealing a new and wondrous world. But Bryn knew that they were not alone. The OmniCorp scouts were closing in, and they had to be ready.
-
-With a sense of determination, Bryn turned to Leo and Poggle. “We have to finish the poem. We have to see it through to the end.”
-
-Leo nodded, his face set in a determined expression. “I’ll try to hack into the prototype’s systems. See if I can
+Bryn stared, her wrench-knife hanging forgotten at her side. Her mind, trained for hard edges and immediate threats, struggled to parse the spectacle. It was the most beautiful and terrifying thing she had ever seen. Poggle’s poem, given form.
+Leo, exhausted and weeping from the effort and the sheer, overwhelming beauty, glanced up at Poggle. The poet stood with his arms still outstretched, his head tilted back, drinking in the impossible fruit of his exile. He was not smiling in triumph, but in awe, as if he, too, were seeing the poem for the first time.
+The gambit had worked. They had not fought efficiency with greater force. They had drowned it in a sea of glorious, useless, magnificent meaning.
+The portals began stt, one by one, their light fading like dying breaths. The canyon’s resonant hum subsided to a whisper, then to memory. But the scouts were in disarray, several gone, the others stumbling, their systems rebooting, their purpose momentarily shattered.
+In the sudden, ringing quiet, Bryn caught Leo’s eye, then Poggle’s. She jerked her head towards the canyon’s far end, now clear of immediate threats. No words were needed. The poet had bought their passage with a song. Now, they had to run, carrying the echo of it with them, into the gathering dusk.

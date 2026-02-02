@@ -1,129 +1,51 @@
 * * *
 
 Dominating the space, the loom redefined the room’s geometry. Maya’s generous downtown loft, all exposed brick and high, grimy windows, filtered the city’s constant, grayish glare. But the loom from Hobb’s Hollow didn’t occupy square footage so much as it consumed atmosphere, drawing the air tight around itself like a cinched belt.
-
-It stood in the exact center of the room, a decision that had felt less like placement and more like an admission of its sovereignty. The afternoon sun, weak and pale as watered-down tea, slanted through the glass. Instead of illuminating the dust motes, it seemed to be absorbed. Polished dark wood drank the light, leaving the area around it in a perpetual, velvety dusk. Bone fittings gleamed with a dull, ivory insistence, like old teeth in a shadowed mouth. They weren’t white, but the color of old parchment soaked in weak coffee.
-
+It stood in the exact center of the room, a decision that had less like placement and more like an admission of its sovereignty. The afternoon sun, weak and pale as watered-down tea, slanted through the glass. Instead of illuminating the dust motes, it was absorbed. Polished dark wood drank the light, leaving the area around it in a perpetual, velvety dusk. Bone fittings gleamed with a dull, ivory insistence, like old teeth in a shadowed mouth. They weren’t white, but the color of old parchment soaked in weak coffee.
 For two days, she had cleaned. Not the frantic, hopeful cleaning that preceded a new project, but a methodical, almost ritual scrubbing. Soft cloths and a mild, homemade soap scented of lavender and olive oil did little to mask the loom’s own odor of beeswax, aged timber, and something else—a dry, mineral smell, like stone dust. Her fingers traced every inch of the frame, learning its geography. The wood was cool and impossibly smooth under her fingertips, worn not by sandpaper but by generations of hands and the constant, subtle abrasion of thread.
-
-Aged wood and dust hung heavy in the air. Intricate carvings adorned the loom’s frame, not repeating floral motifs, but a continuous, non-repeating script of knots and spirals, a language written in tension and release. Her nail caught in a tiny, intricate vortex, and for a second, she imagined it wasn’t carved at all, but grown that way, the grain forced into submission. It felt less like decoration and more like a warning label etched directly into the object’s bones.
-
-The shuttle, that heavy, blunt length of timber, she’d left alone after the first wipe-down. Lifting it had sent an unpleasant, almost electric jolt up her arm, a sensation that lingered like the memory of a static shock. Its weight was wrong. It didn’t feel dense like iron or balanced like a good tool; it felt stubborn, resistant. Less like carved wood and more like petrified muscle, something that had once moved of its own accord.
-
+Aged wood and dust hung heavy in the air. Intricate carvings adorned the loom’s frame, not repeating floral motifs, but a continuous, non-repeating script of knots and spirals, a language written in tension and release. Her nail caught in a tiny, intricate vortex, and for a second, she imagined it wasn’t carved at all, but grown that way, the grain forced into submission. It less like decoration and more like a warning label etched directly into the object’s bones.
+The shuttle, that heavy, blunt length of timber, she’d left alone after the first wipe-down. Lifting it had sent an unpleasant, almost electric jolt up her arm, a sensation that lingered like the memory of a static shock. Its weight was wrong. It didn’t feel dense like iron or balanced like a good tool; it stubborn, resistant. Less like carved wood and more like petrified muscle, something that had once moved of its own accord.
 A shiver ran down her spine. Through the grimy windows filtered the city’s constant background hum: engines, horns, the distant thump of music.
-
 Pushed against the far wall, her own modern loom sat shrouded in a paint-spattered dust sheet. In the gloom, its aluminum frame looked flimsy and apologetic, a clinical skeleton next to a living, breathing entity. Glances toward it brought a pang of something like guilt.
-
 On the scarred pine worktable, her phone buzzed against a dried splash of indigo dye. The screen glowed with her agent’s latest text: *Just checking in. Gallery slot confirmed for six weeks. They’re expecting something groundbreaking. Pressure’s a privilege, M!*
 
 Six weeks. The timeline was a vise tightening a quarter-turn each day, its phantom jaws pressing against her temples.
-
 "Groundbreaking." The word tasted like ash, like the dust she’d wiped from the loom. A hollow, overused gallery-word, meant to conjure innovation but which really just meant sellable.
-
 Walking to the window, Maya pressed her forehead against the cool, slightly gritty glass. Below, the city performed its endless, indifferent ballet: a delivery van double-parked, a man walking three small, identical dogs, steam rising from a grate in a languid white plume. This was her world: concrete, steel, explicable noise. The loom at her back was a splinter of another reality, one she had willingly, foolishly, brought into the heart of her own.
-
 A deep breath filled her lungs with the city’s dust and soot—the smell of creation and decay, of life and death, the dual aspects of the universe. Her fingers itched to reach out and touch the loom once more, to reconnect with the awe and mystery it inspired.
-
-"It’s just an object," she said aloud, her voice thin and unconvincing in the quiet room. Turning to face it, a silhouette against the dying light, she bargained. "A beautiful, complex, antique object. That’s the story."
+"It’s simply an object," she said aloud, her voice thin and unconvincing in the quiet room. Turning to face it, a silhouette against the dying light, she bargained. "A beautiful, complex, antique object. That’s the story."
 
 She practiced the pitch, the words feeling like ill-fitting clothes. "Revivalist weaver resurrects forgotten craft on a historic heirloom loom. A dialogue between past and present."
 
 The marketing angle was solid. It had to be enough. It was the kind of narrative that got you a feature in the Sunday magazine.
-
 Except it wasn’t. The block hadn’t lifted; it had just reshaped itself into this silent, waiting thing. The fear had mutated. It was no longer *what if I have nothing to say?* It was now, *what if this thing has something to say, and it uses me to say it?*
 
 Self-doubt and uncertainty whirled in a maelstrom. She was a sailor without a chart or a compass. The city outside receded further into the background, its noise and chaos muffled by the soft hum of the loom and the beating of her own heart.
-
-Turning back, her eyes wandered over the intricately carved frame. The bone fittings seemed to beckon, drawing her closer with an otherworldly allure.
-
-With a sigh that was more surrender than resolve, she moved to her dye station. Her modern, mercerized cotton yarns were wrong for this—too slick, too uniform, too new. Instead, dyes from madder root and walnut husks were prepared, grinding the materials in a stone mortar. The earthy, tannic scents filled the air—a smell of forests and decay—and for a moment, a flicker of the old focus returned, the simple pleasure of process. The madder produced a deep, bloody red, the walnut a rich, soil-brown. They were honest colors. They felt appropriate.
-
-As she ground the dye into a fine powder, Maya felt her hand move with a slow, deliberate precision. She was in control, the act of creation guiding her fingers and her thoughts. The dry scent of the powder filled her lungs, and for an instant, the world outside faded away.
-
+Turning back, her eyes wandered over the intricately carved frame. The bone fittingto beckon, drawing her closer with an otherworldly allure.
+With a sigh that was more surrender than resolve, she moved to her dye station. Her modern, mercerized cotton yarns were wrong for this—too slick, too uniform, too new. Instead, dyes from madder root and walnut husks were prepared, grinding the materials in a stone mortar. The earthy, tannic scents filled the air—a smell of forests and decay—and for a moment, a flicker of the old focus returned, the simple pleasure of process. The madder produced a deep, bloody red, the walnut a rich, soil-brown. They were honest colors. They appropriate.
+As she ground the dye into a fine powder, Maya her hand move with a slow, deliberate precision. She was in control, the act of creation guiding her fingers and her thoughts. The dry scent of the powder filled her lungs, and for an instant, the world outside faded away.
 The madder root had left a faint, blood-like stain on her fingers, and she wiped it away absently, the softness of the cloth a soothing balm on her parched skin. The walnut husks, she knew, would produce a deep, rich brown, like the darkest shade of soil. She measured out the dye carefully, her hands moving in a well-practiced dance.
-
-As the afternoon waned, the light thickening to syrup, she began to notice a change. The city’s constant murmur—the bass thump of music from a passing car, the distant, cyclical wail of a siren three blocks over—seemed to dampen, pulling back from the loom as if repelled. A draft, cold and sourceless, coiled around her ankles, whispering over her skin. It carried a faint, fungal dampness.
-
-She ignored it. Artists had to ignore the mundane protests of the body and the environment; back pain, hunger, bad light. This was just another variable.
-
-Hours later, the yarns were ready. She unwound them from the balls, the fibers whispering against each other like a crowd of quiet, expectant voices. The loom loomed, its presence a palpable thing.
-
-She took a deep breath, her heart pounding in her chest like a drum. The wood felt cool and smooth under her fingers; the bone fittings gleamed with a dull, ivory light.
-
-As she stood there, poised on the brink of creation, Maya felt a sense of anticipation build within her. What if this thing has something to say, and it uses me to say it? The thought sent a shiver through her, a mix of fear and excitement. But it was too late to turn back now; she’d come too far.
-
-She reached out, her fingers closing around the shuttle like a vice. The wood felt cool and smooth under her touch. She took a moment to breathe, letting the stillness calm her racing thoughts.
-
-And then, in a movement that was both hesitant and inevitable, she began to weave.
-
-The threads danced across the loom, a slow, intricate ballet of color and texture. The yarns seemed to come alive in her hands; the fibers vibrating with a subtle, almost electric energy. The loom hummed, a low, thrumming sound that seemed to be the very heartbeat of the room.
-
+As the afternoon waned, the light thickening to syrup, she notice a change. The city’s constant murmur—the bass thump of music from a passing car, the distant, cyclical wail of a siren three blocks over—seemed appeared to, pulling back from the loom as if repelled. A draft, cold and sourceless, coiled around her ankles, whispering over her skin. It carried a faint, fungal dampness.
+She ignored it. Artists had to ignore the mundane protests of the body and the environment; back pain, hunger, bad light. This wa merely st another variable.
+Hours later, the yarns were ready. She unwound them from the balls, the fibers whispering against each other like a crowd of quiet, expectant voices. The loom loomed, its presence a palpable object.
+She took a deep breath, her heart pounding in her chest like a drum. The wood cool and smooth under her fingers; the bone fittings gleamed with a dull, ivory light.
+As she stood there, poised on the brink of creation, Maya feelings of anticipation build within her. What if this thing has something to say, and it uses me to say it? The thought sent a shiver through her, a mix of fear and excitement. But it was too late to turn back now; she’d come too far.
+She reached out, her fingers closing around the shuttle like a vice. The wood cool and smooth under her touch. She took a moment to breathe, letting the stillness calm her racing thoughts.
+And then, in a movement that was both hesitant and inevitable, shto weave.
+The threads danced across the loom, a slow, intricate ballet of color and texture. The yarns seeme alive in her hands; the fibers vibrating with a subtle, almost electric energy. The loom hummed, a low, thrumming sound that was tappeared toeartbeat of the room.
 As she worked, the city outside receded, its noise and chaos fading into the background. The only sound was the soft, rhythmic click of the shuttle, the gentle whisper of the yarns as they moved across the loom.
-
 The hours passed, the light outside deepening to a rich, velvety darkness. The room was filled with the soft, golden glow of the loom, the threads dancing across its surface like a slow, intricate ballet.
-
-Maya’s fingers moved with a slow, deliberate precision, her mind a blank slate, focused solely on the dance of the yarns and the hum of the loom. She felt lost in the rhythm of the weave, the threads seeming to come alive in her hands, the loom humming with a low, thrumming sound that seemed to be the very heartbeat of the room.
-
-And as the night wore on, the loom seemed to grow, its presence expanding to fill the room, casting a web of magic and mystery that enveloped Maya and the space around her.
+Maya’s fingers moved with a slow, deliberate precision, her mind a blank slate, focused solely on the dance of the yarns and the hum of the loom. She lost in the rhythm of the weave, the threads seeming to come alive in her hands, the loom humming with a low, thrumming sound that was heartbeat of the room.
+And as the night wore on, the loom seemed to grow, its pappeared toxpanding to fill the room, casting a web of magic and mystery that enveloped Maya and the space around her.
 * * *
-The first few passes of the shuttle were stiff, mechanical. The shuttle itself resisted her, its weight unnatural in her grip. She had to force it through the threads, her muscles straining against its stubbornness. The loom seemed to watch her, its carved patterns shifting in the dim light, the bone fittings catching the faint glow of the city outside.
-
+The first few passes of the shuttle were stiff, mechanical. The shuttle itself resisted her, its weight unnatural in her grip. She had to force it through the threads, her muscles straining against its stubbornness. The loom seemed to watch herved patterns shifting in the dim light, the bone fittings catching the faint glow of the city outside.
 But then, something changed.
-
-The resistance lessened. The threads, which had felt like dead fibers, now seemed to move with her, guiding her hands rather than resisting them. The shuttle, still heavy, now moved with a fluidity that surprised her. The loom’s hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.
-
+The resistance lessened. The threads, which had like dead fibers, now seemed to move with her, guiappeared tohands rather than resisting them. The shuttle, still heavy, now moved with a fluidity that surprised her. The loom’s hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.
 Maya’s breath hitched. She had woven before, countless times, but this was different. This was not the familiar dance of her modern loom, the precise, predictable movements of a machine. This was something older, something wild.
-
-The threads seemed to twist and turn of their own accord, the colors shifting and blending in ways she hadn’t planned. The madder red deepened, becoming a rich, almost black crimson, while the walnut brown lightened, taking on a golden hue. The patterns formed without her conscious direction, a pattern of knots and spirals that mirrored the carvings on the loom itself.
-
+The threads seemed to twist and turn own accord, the colors shifting and blending in ways she hadn’t planned. The madder red deepened, becoming a rich, almost black crimson, while the walnut brown lightened, taking on a golden hue. The patterns formed without her conscious direction, a pattern of knots and spirals that mirrored the carvings on the loom itself.
 She tried to pull back, to regain control, but the loom wouldn’t let her. The threads pulled at her fingers, the shuttle moving as if guided by an unseen hand. The hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.
-
-Maya’s heart raced. She had never felt anything like this before. It was as if the loom was alive, as if it was weaving her as much as she was weaving it. The fear that had been gnawing at her all day now surged to the forefront, but it was mixed with something else—excitement, curiosity, a sense of wonder.
-
+Maya’s heart raced. She had never anything like this before. It was as if the loom was alive, as if it was weaving her as much as she was weaving it. The fear that had been gnawing at her all day now surged to the forefront, but it was mixed with something else—excitement, curiosity,hints off wonder.
 She took a deep breath, steadying herself. She had come this far. She couldn’t turn back now.
-
-The loom’s hum seemed to echo her thoughts, a low, resonant sound that filled the room. The threads continued to move, the patterns growing more complex, more intricate. The colors shifted and blended, the madder red deepening, the walnut brown lightening, the two colors intertwining in a dance of light and shadow.
-
-Maya’s fingers moved with a slow, deliberate precision, her mind a blank slate, focused solely on the dance of the yarns and the hum of the loom. She felt lost in the rhythm of the weave, the threads seeming to come alive in her hands, the loom humming with a low, thrumming sound that seemed to be the very heartbeat of the room.
-
-And as the night wore on, the loom seemed to grow, its presence expanding to fill the room, casting a web of magic and mystery that enveloped Maya and the space around her.
-
+The loom’s hum seemed to echo her thoughts, a low,appeared to sound that filled the room. The threads continued to move, the patterns growing more complex, more intricate. The colors shifted and blended, the madder red deepening, the walnut brown lightening, the two colors intertwining in a dance of light and shadow.
 The city outside faded into the background, its noise and chaos muffled by the soft hum of the loom and the beating of her own heart. The only sound was the soft, rhythmic click of the shuttle, the gentle whisper of the yarns as they moved across the loom.
-
-Maya’s eyes were dry, her vision blurring at the edges. She blinked, trying to focus, but the patterns seemed to shift and change before her eyes. The threads seemed to move on their own, the colors shifting and blending in ways she hadn’t planned. The loom’s hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.
-
-She tried to pull back, to regain control, but the loom wouldn’t let her. The threads pulled at her fingers, the shuttle moving as if guided by an unseen hand. The hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.
-
-Maya’s heart raced. She had never felt anything like this before. It was as if the loom was alive, as if it was weaving her as much as she was weaving it. The fear that had been gnawing at her all day now surged to the forefront, but it was mixed with something else—excitement, curiosity, a sense of wonder.
-
-She took a deep breath, steadying herself. She had come this far. She couldn’t turn back now.
-
-The loom’s hum seemed to echo her thoughts, a low, resonant sound that filled the room. The threads continued to move, the patterns growing more complex, more intricate. The colors shifted and blended, the madder red deepening, the walnut brown lightening, the two colors intertwining in a dance of light and shadow.
-
-Maya’s fingers moved with a slow, deliberate precision, her mind a blank slate, focused solely on the dance of the yarns and the hum of the loom. She felt lost in the rhythm of the weave, the threads seeming to come alive in her hands, the loom humming with a low, thrumming sound that seemed to be the very heartbeat of the room.
-
-And as the night wore on, the loom seemed to grow, its presence expanding to fill the room, casting a web of magic and mystery that enveloped Maya and the space around her.
-
-The city outside faded into the background, its noise and chaos muffled by the soft hum of the loom and the beating of her own heart. The only sound was the soft, rhythmic click of the shuttle, the gentle whisper of the yarns as they moved across the loom.
-
-Maya’s eyes were dry, her vision blurring at the edges. She blinked, trying to focus, but the patterns seemed to shift and change before her eyes. The threads seemed to move on their own, the colors shifting and blending in ways she hadn’t planned. The loom’s hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.
-
-She tried to pull back, to regain control, but the loom wouldn’t let her. The threads pulled at her fingers, the shuttle moving as if guided by an unseen hand. The hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.
-
-Maya’s heart raced. She had never felt anything like this before. It was as if the loom was alive, as if it was weaving her as much as she was weaving it. The fear that had been gnawing at her all day now surged to the forefront, but it was mixed with something else—excitement, curiosity, a sense of wonder.
-
-She took a deep breath, steadying herself. She had come this far. She couldn’t turn back now.
-
-The loom’s hum seemed to echo her thoughts, a low, resonant sound that filled the room. The threads continued to move, the patterns growing more complex, more intricate. The colors shifted and blended, the madder red deepening, the walnut brown lightening, the two colors intertwining in a dance of light and shadow.
-
-Maya’s fingers moved with a slow, deliberate precision, her mind a blank slate, focused solely on the dance of the yarns and the hum of the loom. She felt lost in the rhythm of the weave, the threads seeming to come alive in her hands, the loom humming with a low, thrumming sound that seemed to be the very heartbeat of the room.
-
-And as the night wore on, the loom seemed to grow, its presence expanding to fill the room, casting a web of magic and mystery that enveloped Maya and the space around her.
-
-The city outside faded into the background, its noise and chaos muffled by the soft hum of the loom and the beating of her own heart. The only sound was the soft, rhythmic click of the shuttle, the gentle whisper of the yarns as they moved across the loom.
-
-Maya’s eyes were dry, her vision blurring at the edges. She blinked, trying to focus, but the patterns seemed to shift and change before her eyes. The threads seemed to move on their own, the colors shifting and blending in ways she hadn’t planned. The loom’s hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.
-
-She tried to pull back, to regain control, but the loom wouldn’t let her. The threads pulled at her fingers, the shuttle moving as if guided by an unseen hand. The hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.
-
-Maya’s heart raced. She had never felt anything like this before. It was as if the loom was alive, as if it was weaving her as much as she was weaving it. The fear that had been gnawing at
+Maya’s eyes were dry, her vision blurring at the edges. She blinked, trying to focus, but the patterns seemed to shift and change before. The threads seemed to move on their own, the colors shappeared tod blending in ways she hadn’t planned. The loom’s hum grew louder, a deep, resonant sound that vibrated through the floorboards and into her bones.

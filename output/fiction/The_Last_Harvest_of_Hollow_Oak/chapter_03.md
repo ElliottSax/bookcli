@@ -1,97 +1,58 @@
 Chapter 3: The First Blight
 
 A vise clamped around Elara Vance’s skull, not the gentle, honeyed light of an autumn morning. This pain had texture and weight, a dense, granular pressure pushing from inside her sinuses outwards as if her head were slowly filling with wet sand. A dry, rasping groan escaped her as she forced her eyes open. The world swam into focus through a film of grit, her bedroom above The Hollow Oak Historical Society & Museum washed in a grey, unkind light.
-
 Pushing herself up, the sheets rasped against her skin like burlap. That’s when her hands came into view.
-
-Dark, loamy soil was packed under her fingernails, crescent moons of the earth itself. More smeared across her palms, dried into the fine lines of her skin. Bringing them closer, she inhaled the scent of damp, turned earth and something else—a faint, sweet-rotten odor, like apples left too long in a cellar. No memory existed of gardening, of touching soil at all yesterday. The festival had ended with cider and awkward small talk, then the exhausted climb upstairs into a bed that now felt strangely lumpy. She threw the covers back.
-
-Tiny, brittle leaves, flakes of lichen, and several small, grey-brown pebbles lay scattered across the bottom sheet. The scene looked as though she’d gone to sleep in a forest hollow. A chill, separate from the headache, began to pulse at the base of her spine.
-
-Stumbling to the bathroom, she scrubbed her hands under water so hot it turned her skin scarlet. The soil bled away in rust-brown streams, but a stain seemed to linger in the cuticles, a shadow she couldn’t wash out. Splashing water on her face, the cold delivered a minor shock against the throbbing in her temples. In the mirror, her reflection was pale, eyes shadowed and too bright. The crown of her head, where the Harvest Crown had rested, felt peculiarly sensitive, the scalp tender as a bruise.
-
-Coffee was a necessity. The old percolator in the museum’s small kitchen gurgled its bitter promise. As it brewed, she wandered to the back window overlooking the narrow, overgrown garden and the vast, harvested fields beyond that belonged to the town trust. She needed the horizon, the proof of open space.
-
+Dark, loamy soil was packed under her fingernails, crescent moons of the earth itself. More smeared across her palms, dried into the fine lines of her skin. Bringing them closer, she inhaled the scent of damp, turned earth and something else—a faint, sweet-rotten odor, like apples left too long in a cellar. No memory existed of gardening, of touching soil at all yesterday. The festival had ended with cider and awkward small talk, then the exhausted climb upstairs into a bed that now strangely lumpy. She threw the covers back.
+Tiny, brittle leaves, flakes of lichen, and several small, grey-brown pebbles lay scattered across the bottom sheet. The scene looked as though she’d gone to sleep in a forest hollow. A chill, separate from the headache, pulse at the base of her spine.
+Stumbling to the bathroom, she scrubbed her hands under water so hot it turned her skin scarlet. The soil bled away in rust-brown streams, but a stain appeared to linger in the cuticles, a shadow she couldn’t wash out. Splashing water on her face, the cold delivered a minor shock against the throbbing in her temples. In the mirror, her reflection was pale, eyes shadowed and too bright. The crown of her head, where the Harvest Crown had rested, felt peculiarly sensitive, the scalp tender as a bruise.
+Coffee was a necessity. The old percolator in the museum’s tiny kitchen gurgled its bitter promise. As it brewed, she wandered to the back window overlooking the narrow, overgrown garden and the vast, harvested fields beyond that belonged to the town trust. She needed the horizon, the proof of open space.
 The proof was wrong.
-
 In the middle of the nearest field, a stark, violent anomaly marred the orderly stubble of cut corn. A perfect circle, perhaps thirty feet across, held only death. Not just harvest, but ending. The corn stalks within its border stood blackened, curled in on themselves like skeletal fingers. Pumpkins left for compost had collapsed into their own grey, ashy skins. The earth itself within the circle was a dark, matte black, devoid of frost or dew, as if it had swallowed all light and moisture.
-
 Elara’s breath fogged the glass. A blink did nothing; the circle remained, an inky stamp on the land. Her headache pulsed in time with her quickening heartbeat. This wasn’t frost damage. It was too precise, too absolute. It looked consumed.
-
-Forgetting the coffee, she pulled on boots and a coat over her pajamas and hurried downstairs and out the back door. Crisp morning air carried the normal scents of autumn decay and woodsmoke. But crossing the garden and stepping into the field, a new scent grew stronger with each step towards the circle: ozone, like after a lightning strike, and that same cloying, sweet-rotten smell from her nails.
-
-At the edge of the blight, she stopped. The transition was unnervingly sharp. One foot on brittle, yellow-brown stubble; the next would be on ground that looked like powdered charcoal. Crouching sent a fresh wave of pain through her head. Hesitantly, she reached out a hand towards a blackened corn stalk.
-
+Forgetting the coffee, she pulled on boots and a coat over her pajamas and hurried downstairs and out the back door. Crisp morning air carried the normal scents of autumn decay and woodsmoke. But crossing the garden and stepping into the field, a new scent grew stronger with each step toward the circle: ozone, like after a lightning strike, and that same cloying, sweet-rotten smell from her nails.
+At the edge of the blight, she stopped. The transition was unnervingly sharp. One foot on brittle, yellow-brown stubble; the next would be on ground that glanced like powdered charcoal. Crouching sent a fresh wave of pain through her head. Hesitantly, she reached out a hand toward a blackened corn stalk.
 A searing, electric jolt shot up her arm.
-
 Elara cried out, snatching her hand back and clutching it to her chest. This wasn’t the shock of static, but a deep, internal burn, as if her veins had been injected with nettles and ground glass. Gasping, she stared at her palm. Across the center, a jagged, crimson line had risen on the skin. Even as she watched, it darkened, the flesh around it drying and cracking in an instant, forming a lesion that resembled parched earth split by drought. It didn’t bleed. It simply was: a painful, soil-cracked fissure in her own flesh.
-
 Panic, cold and clean, cut through the migraine. Stumbling back from the circle, her boots slipped on the frosty stubble. This was not hallucination. This was not stress. This was a thing in the world, and now a thing on her.
-
 Back inside, she treated the lesion with antiseptic and a bandage, hands trembling. The pain had subsided to a dull, persistent ache, a phantom weight in her hand. Data was needed. Context. She was a researcher, goddamn it. This was a phenomenon. It had parameters.
-
 Ignoring the pile of uncatalogued artifacts waiting in the archive, she went to the museum’s collection of local agricultural records and survey maps. A clean sheet of paper received a sketch of the blighted circle, its diameter estimated. Thirty feet. Maybe thirty-two. The number nagged at her. It was familiar.
-
 Her eyes drifted to the front room, to the now-permanent “Harvest’s Bounty” exhibit. The Harvest Crown sat in its case, the wheat stalks seeming duller today, the berries like shriveled eyes. The placard she’d written sat beside it: “Symbol of community gratitude…” The words tasted like ash.
-
 Community gratitude. The bonfire.
-
 She’d stood with the others, watching the flames leap into the sky. The circle of stones that contained it… she’d thought it was haphazard. But what if it wasn’t? Grabbing a tape measure, she hurried back outside, approaching the festival green with a wary dread. The bonfire site was a mound of white-grey ash, still warm in the center. She measured the circumference of the stone ring.
-
 Thirty-one feet, seven inches in diameter.
-
-A near-perfect match. Within a margin of error that felt less like coincidence and more like precision.
-
+A near-perfect match. Within a margin of error that less like coincidence and more like precision.
 Her stomach turned. Standing in the quiet green, the cheerful bunting fromyesterday now just sad, faded rags in the morning light. The circle of stones, the circle of death. One a vessel for offering, the other… a receipt.
-
 “You put it on.”
 
-The voice, gravelly and dry as the husks in the field, made her jump. Old Man Burris stood at the edge of the green, leaning on his thornwood cane. He hadn’t approached; he was just there, as if he’d grown from the shadows of the nearby oak trees. His overalls were clean but ancient, his face a topography of deep lines.
-
+The voice, gravelly and dry as the husks in the field, made her jump. Old Man Burris stood at the edge of the green, leaning on his thornwood cane. He hadn’t approached; he was simply there, as if he’d grown from the shadows of the nearby oak trees. His overalls were clean but ancient, his face a topography of deep lines.
 “What?” Elara’s voice was a croak.
-
 “The crown.” He didn’t move, but his eyes, sharp and dark as creek stones, held hers. “You put it on your head. You wore it. For the town to see.”
 
 “It was part of the exhibit,” she said, defensive, the curator rising in her even now. “To demonstrate its use.”
 
-A dry, rattling sound escaped him, a laugh with no humor. “Demonstrated, alright. You gave it a channel. A path right into the soil of this place.” His gaze flicked past her, towards the field behind the society. “And into you.”
+A dry, rattling sound escaped him, a laugh with no humor. “Demonstrated, alright. You gave it a channel. A path right into the soil of this place.” His gaze flicked past her, toward the field behind the society. “And into you.”
 
 Elara’s bandaged hand throbbed. “What is happening? What is that circle?”
 
-“The First Blight,” Burris said, the name dropping between them like a stone. “The first payment taken, now the bond is affirmed. It always starts small. A circle. A taste.” He began to turn away, his movement slow, burdened.
-
+“The First Blight,” Burris said, the name dropping between them like a stone. “The first payment taken, now the bond is affirmed. It always starts small. A circle. A taste.” Hto turn away, his movement slow, burdened.
 “Wait!” she called, desperation stripping her pride. “Payment for what? A bond with what? Tell me!”
 
-He paused, half-turned. His profile was hawkish, bleak. “You wanted something. Recognition. A prize. The land felt that want. It’s always hungry. And you… you offered yourself up as a surety. You put it on. Now you feel it.” He tapped his own temple with a gnarled finger. “In your head. In your hand. In the dirt under your nails. It knows your shape now, Dr. Vance.”
+He paused, half-turned. His profile was hawkish, bleak. “You wanted something. Recognition. A prize. The land that want. It’s always hungry. And you… you offered yourself up as a surety. You put it on. Now you feel it.” He tapped his own temple with a gnarled finger. “In your head. In your hand. In the dirt under your nails. It knows your shape now, Dr. Vance.”
 
-He moved off then, not towards the road, but into the treeline, swallowed by the deep shadows as silently as he’d appeared.
-
+He moved off then, not toward the road, but into the treeline, swallowed by the deep shadows as silently as he’d appeared.
 Elara stood frozen, the tape measure hanging limp from her hand. The clinical part of her mind screamed that this was superstition, the ramblings of an isolated old man. But the lesion on her palm burned. The soil had been in her bed. The circle in the field was a geometric fact.
-
 She spent the rest of the day in a fog of dread, jumping at every sound. She tried to eat but couldn’t. The blight circle, visible from every back window, was a black hole in the periphery of her vision, pulling at her thoughts. She researched blights, fungal infections, soil parasites, finding nothing that explained the perfect geometry, the instantaneous effect, or the pain that had leapt from stalk to skin.
-
-As the afternoon light began to fail, painting the sky in bruised purples and oranges, she found herself drawn back to the field. She had to know. She had to see if it had changed, grown. A perverse, terrified curiosity pulled her like a magnet.
-
+As the afternoon light began stainting the sky in bruised purples and oranges, she found herself drawn back to the field. She had to know. She had to see if it had changed, grown. A perverse, terrified curiosity pulled her like a magnet.
 She stood again at the edge of the blight. The setting sun painted the dead circle in shades of blood and ink. At its very center, she hadn’t noticed before, stood a single, tall sunflower. It must have grown from a missed seed, a volunteer. Now it was a grotesque parody of its kind: its head, heavy with dead seeds, was bowed as if in defeat, its petals black and brittle, its stalk a twisted, charcoal-grey corkscrew.
-
-Something about it, this one brave, doomed thing in the center of the void, called to her. A connection. A witness. Without conscious thought, driven by a compulsion deeper than fear, she stepped over the boundary.
-
-The air inside the circle was still and cold, devoid of the evening’s breeze. The sound of the world muffled, as if she’d stepped into a vacuum. Her headache, which had receded to a dull throb, returned with a vengeance, a pounding drumbeat in her skull that seemed to sync with a low, sub-audible hum she felt in her teeth. Each step towards the sunflower was an effort, as if the black earth was subtly clinging to her boots.
-
+Something about it, this one brave, doomed object in the center of the void, called to her. A connection. A witness. Without conscious thought, driven by a compulsion deeper than fear, she stepped over the boundary.
+The air inside the circle was still and cold, devoid of the evening’s breeze. The sound of the world muffled, as if she’d stepped into a vacuum. Her headache, which had receded to a dull throb, returned with a vengeance, a pounding drumbeat in her skull thato sync with a low, sub-audible hum she in her teeth. Each step toward the sunflower was an effort, as if the black earth was subtly clinging to her boots.
 She reached the plant. Up close, it was a monument to desiccation. Gently, so gently, she reached out her unbandaged left hand, the fingers trembling, and touched the tip of a withered black petal.
-
 The world tore open.
-
 It is not a memory. It is a happening. She is rooted in the black earth, her feet—no, not feet—her roots are sunk deep into a cold, greedy darkness. She is bound, arms outstretched, not by rope but by living, fibrous vines that bite into her bark-like skin. She is a woman, but she is also the tree. She is anchored to a giant, rotting oak, its heart hollowed out by decay and crawling with pale, blind things. The air is thick with the smell of loam and putrefaction.
-
 Pain is not a sensation; it is the condition of existence. A deep, draining ache, a leaching of essence. She looks down her own body, seeing not flesh but ridged, grey bark, and sees the roots of the great oak—thick as her thigh, glistening with a vile, phosphorescent sap—piercing her torso, her thighs, burrowing into her. They pulse rhythmically, and with each pulse, she feels a part of her vitality, her memory, her very self, siphoned away into the endless, hungry dark of the tree’s core.
-
 She tries to scream, but her voice is the sound of wind through bare, rattling branches. Her head is crowned not with wheat, but with a twisted circlet of thorn and rotten vine, biting into her scalp. In the distance, through the shifting gloom, she sees figures at the edge of a clearing. They are shadowy, indistinct, but she knows them. They are the town. They are watching. And they are not horrified. Their heads are bowed, not in grief, but in a dreadful, reverent acceptance. They are waiting for their share of the harvest—the harvest of her.
-
 The draining intensifies. The roots swell, drinking her down. Her scream finally breaks, a raw, tearing sound of absolute, terminal agony—
 
 Elara was on her knees in the black dirt, her own scream ripping from her throat, raw and real. She was clutching her head, her fingers tangling in her hair. The vision was gone, but the sensory aftershock held her in a vise—the feel of roots penetrating, the sound of her own arboreal scream, the passive, watching faces of the townsfolk.
-
 She scrambled backwards on all fours, out of the circle, her breath coming in ragged, tearing sobs. She collapsed onto the normal, frosty stubble, retching, though nothing came up. The lesion on her hand burned with a fresh, sickening fire.
-
-When she could finally lift her head, the world was twilight. The blight circle was a pool of absolute blackness now, indistinguishable from the ground. But at its center, the twisted sunflower was now clearly visible, backlit by the last ember of sunset. And as she watched, shuddering, the blackened head of the flower seemed to twitch, and with a sound like crumbling parchment, it slowly, deliberately, turned to face her.
+When she could finally lift her head, the world was twilight. The blight circle was a pool of absolute blackness now, indistinguishable from the ground. But at its center, the twisted sunflower was now clearly visible, backlit by the last ember of sunset. And as she watched, shuddering, the blackened head of the flower seemed appeared to, and with a sound like crumbling parchment, it slowly, deliberately, turned to face her.

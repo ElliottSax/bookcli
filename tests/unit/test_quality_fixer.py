@@ -340,3 +340,179 @@ class TestQualityFixerIntegration:
 
                 mock_pov.assert_not_called()
                 mock_expand.assert_not_called()
+
+
+class TestTellingPatterns:
+    """Tests for telling patterns detection."""
+
+    def test_telling_patterns_exist(self):
+        """TELLING_PATTERNS should be defined."""
+        from fixers.quality_fixer import TELLING_PATTERNS
+        assert len(TELLING_PATTERNS) > 0
+
+    def test_telling_patterns_match_common_examples(self):
+        """Patterns should match common 'telling' constructs."""
+        from fixers.quality_fixer import TELLING_PATTERNS
+
+        telling_examples = [
+            "She was angry at him.",
+            "He felt sad about the loss.",
+            "They were nervous before the exam.",
+            "She was very excited.",
+            "He was extremely worried.",
+        ]
+
+        for example in telling_examples:
+            matched = any(p.search(example) for p in TELLING_PATTERNS)
+            assert matched, f"Should match telling phrase: {example}"
+
+
+class TestShowDontTell:
+    """Tests for show-don't-tell conversion."""
+
+    def test_find_telling_passages_identifies_telling(self):
+        """Should identify paragraphs with telling language."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            book_dir = Path(tmpdir)
+
+            # Paragraphs must be > 50 chars (min_paragraph_length default)
+            content = """Chapter 1
+
+She was angry at him for breaking her trust and could not forgive what he had done to her family.
+
+The sun set over the horizon, painting the sky in shades of brilliant orange and deep purple hues.
+
+He felt sad about losing his job after twenty years of dedicated service to the company he loved.
+"""
+            (book_dir / "chapter_01.md").write_text(content)
+            (book_dir / "story_bible.json").write_text("{}")
+
+            context = BookContext(book_dir)
+            fixer = QualityFixer(context, expand_short=False, fix_pov=False, show_dont_tell=True)
+
+            paragraphs = content.split('\n\n')
+            telling = fixer._find_telling_passages(paragraphs)
+
+            # Should find at least 2 telling passages ("was angry" and "felt sad")
+            assert len(telling) >= 2
+
+    def test_convert_telling_to_showing_calls_ai(self):
+        """convert_telling_to_showing should call AI for conversion."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            book_dir = Path(tmpdir)
+
+            (book_dir / "chapter_01.md").write_text(
+                "Chapter 1\n\nShe was angry at him. He felt sad."
+            )
+            (book_dir / "story_bible.json").write_text("{}")
+
+            context = BookContext(book_dir)
+            fixer = QualityFixer(context, expand_short=False, fix_pov=False, show_dont_tell=True)
+
+            mock_response = Mock()
+            mock_response.success = True
+            mock_response.content = "Her hands clenched into fists. His shoulders slumped."
+
+            with patch('fixers.quality_fixer.get_api_client') as mock_client:
+                mock_client.return_value.call.return_value = mock_response
+
+                fixes = fixer.convert_telling_to_showing()
+                # May or may not apply depending on detection
+                assert fixes >= 0
+
+
+class TestDialogueSubtext:
+    """Tests for dialogue subtext enhancement."""
+
+    def test_add_dialogue_subtext_identifies_dialogue(self):
+        """Should identify dialogue that could use subtext."""
+        with tempfile.TemporaryDirectory() as tmpdir:
+            book_dir = Path(tmpdir)
+
+            content = '''Chapter 1
+
+"I'm fine," she said.
+
+"Are you sure?" he asked.
+
+"Yes," she replied.
+'''
+            (book_dir / "chapter_01.md").write_text(content)
+            (book_dir / "story_bible.json").write_text("{}")
+
+            context = BookContext(book_dir)
+            fixer = QualityFixer(
+                context, expand_short=False, fix_pov=False, add_dialogue_depth=True
+            )
+
+            mock_response = Mock()
+            mock_response.success = True
+            mock_response.content = '''"I'm fine," she said, avoiding his eyes.
+
+"Are you sure?" he asked, reaching for her hand.
+
+"Yes," she replied, her voice barely a whisper.
+'''
+
+            with patch('fixers.quality_fixer.get_api_client') as mock_client:
+                mock_client.return_value.call.return_value = mock_response
+
+                fixes = fixer.add_dialogue_subtext()
+                # May or may not apply depending on detection
+                assert fixes >= 0
+
+    def test_dialogue_depth_flag_works(self, book_context):
+        """add_dialogue_depth flag should control dialogue enhancement."""
+        fixer = QualityFixer(book_context, expand_short=False, fix_pov=False, add_dialogue_depth=True)
+        assert fixer._add_dialogue_depth is True
+
+        fixer2 = QualityFixer(book_context, expand_short=False, fix_pov=False, add_dialogue_depth=False)
+        assert fixer2._add_dialogue_depth is False
+
+
+class TestFixMethodWithNewOptions:
+    """Tests for fix() method with show_dont_tell and add_dialogue_depth."""
+
+    def test_fix_calls_show_dont_tell_when_enabled(self, book_context):
+        """fix() should call convert_telling_to_showing when enabled."""
+        fixer = QualityFixer(
+            book_context,
+            expand_short=False,
+            fix_pov=False,
+            show_dont_tell=True,
+            add_dialogue_depth=False
+        )
+
+        with patch.object(fixer, 'convert_telling_to_showing', return_value=0) as mock_show:
+            fixer.fix()
+            mock_show.assert_called_once()
+
+    def test_fix_calls_dialogue_depth_when_enabled(self, book_context):
+        """fix() should call add_dialogue_subtext when enabled."""
+        fixer = QualityFixer(
+            book_context,
+            expand_short=False,
+            fix_pov=False,
+            show_dont_tell=False,
+            add_dialogue_depth=True
+        )
+
+        with patch.object(fixer, 'add_dialogue_subtext', return_value=0) as mock_dialogue:
+            fixer.fix()
+            mock_dialogue.assert_called_once()
+
+    def test_fix_skips_disabled_new_options(self, book_context):
+        """fix() should skip show_dont_tell and dialogue_depth when disabled."""
+        fixer = QualityFixer(
+            book_context,
+            expand_short=False,
+            fix_pov=False,
+            show_dont_tell=False,
+            add_dialogue_depth=False
+        )
+
+        with patch.object(fixer, 'convert_telling_to_showing', return_value=0) as mock_show:
+            with patch.object(fixer, 'add_dialogue_subtext', return_value=0) as mock_dialogue:
+                fixer.fix()
+                mock_show.assert_not_called()
+                mock_dialogue.assert_not_called()

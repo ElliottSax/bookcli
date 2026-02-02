@@ -1,25 +1,17 @@
 Chapter 2: Ghost in the Machine
 
 Silence layered Aris Thorne's Private Room, a humming tomb.
-
 He lived in the cathedral of his own skull, machines conducting the services. First came the ventilator’s exhalation—a soft, plastic sigh filling his lungs with algorithmic breath, a ghost wearing his skin. Next, the cardiac monitor’s steady, metronomic beep echoed a pulse he could not feel. Beneath these, woven into the sterile, chilled air, a third sound persisted. A faint, high-frequency hum vibrated in his teeth, a neurological whisper applying constant, oppressive pressure behind his eyes.
-
 Focus was all he had. His world was a fixed frame: off-white acoustic tiles above, the gentle glow of indirect lighting, the blurred edge of a monitor to his far right. Turning his head was impossible. Twitching a finger, unthinkable. But his mind, that furious, trapped engine, remained operational.
-
 That hum possessed a rhythm. Not a steady tone, but a cyclical pulse, a wave cresting and troughing in sync with… what? Listening required divorcing himself from the animal panic begging for a scream. He was a scientist in a ruined lab. This was his data.
-
 Crest… trough… crest… trough…
 
 With each crest, the vague, formless urge to move—to flinch, to curl a toe—subtly smoothed away, like a wave erasing a scribble in the sand. No barrier stood here, only a pacifier. A neural inhibitor. His own theory, sketched on a whiteboard years ago, surfaced: *Targeted waveform suppression to prevent involuntary motor discharge in locked-in subjects. Prevents self-harm, preserves neural integrity for mapping.*
 
 They were using his work. Using it to keep him a docile, living blackboard.
-
 A cold knife of realization carved away the last shred of hope that this was a mistake. This was the Lazarus Pod. *His* Lazarus Pod. A concept pitched to the board of Synaptic Dynamics as a humanitarian bridge—a way to sustain completely paralyzed patients with high-fidelity life support and neural monitoring while treatments were developed. He’d called it a “biomechanical cocoon.” They had built his chrysalis and sealed him inside.
-
 A soft hiss announced the door. Two sets of footsteps entered, one heavy, one light.
-
 “Vitals are stable. Neural load is… elevated, but within parameters. Fluctuating around the 18-22% conscious range.” A woman’s voice, clipped and bored.
-
 “Persistent vegetative state my ass,” a man grumbled. “Readings are too clean. Too organized. It’s like he’s running diagnostics in there.”
 
 Aris screamed internally. *YES! I AM HERE! LOOK AT ME!*
@@ -27,15 +19,11 @@ Aris screamed internally. *YES! I AM HERE! LOOK AT ME!*
 “Protocol is protocol, Mike. Elevated activity doesn’t mean cognition. Could be autonomic storming. The inhibitor keeps the body quiet. That’s what matters.”
 
 Mike, a burly technician in blue scrubs, moved into Aris’s narrow field of vision. A tired face, a tattoo of a serpent coiled around a caduceus on his forearm. His gaze passed over Aris’s eyes, fixing instead on the Pod, on the machinery. Leaning over, his body blocked the light, and the click of a port opening echoed in the stillness.
-
 “Just doing the weekly cognitive upload dump. Big one today. They’re hungry for his baseline patterns.”
 
 *Upload.* The word detonated in Aris’s mind. They weren’t just sustaining him. They were harvesting him. Every flicker of fear, every desperate calculation, the architecture of his memories, the unique signature of Aris Thorne’s consciousness—all siphoned, copied, stored.
-
-Mike plugged in a solid-state drive. A small LED on the panel near Aris’s feet, visible only as a green pinprick in his peripheral vision, began to blink rapidly.
-
+Mike plugged in a solid-state drive. A small LED on the panel near Aris’s feet, visible only as a green pinprick in his peripheral vision, blink rapidly.
 “How’s the other one progressing?” the woman asked, her voice dropping slightly.
-
 “Smooth. Seamless. The Henderson migration is at 97%. They’re prepping The Garden for him. Should be walking among the roses by Tuesday.” Mike chuckled, a dry, unpleasant sound. “Lucky bastard. Eighty-four years old and getting a new, custom-grown body. You see the specs? Six-two, Olympic swimmer’s build. He paid extra for the hair.”
 
 “Focus, Mike. This isn’t a catalog.”
@@ -43,104 +31,58 @@ Mike plugged in a solid-state drive. A small LED on the panel near Aris’s feet
 “Right, right. Almost done.”
 
 *The Garden. Migration.* The terms swirled in the acid bath of Aris’s understanding. The Lazarus Pod wasn’t a treatment. It was an airport. A holding terminal. For what? The rich and dying, their minds “migrated” into new, healthy bodies? His beautiful, theoretical work on neural mapping was the passport. They needed the raw, complex data of a living, thinking brain to perfect the transfer. They needed a ghost to teach them how to haunt a new machine.
-
 He was their ghost.
-
-The drive clicked again. Mike straightened up, his broad back receding. “All set. Another week of dreaming, Dr. Aris Thorne.” He said the name with a casual, mocking reverence.
-
+The drive clicked again. Mike straightened up, his broad back receding. “All set. Then week of dreaming, Dr. Aris Thorne.” He said the name with a casual, mocking reverence.
 The door hissed shut. Humming silence returned, now freighted with unspeakable horror.
-
 White, pure fury ignited within him—a star going supernova in the confinement of his skull. He would not be their template. He would not be their ghost.
-
 A signal was necessary. Proof of his presence.
-
 Motor control was impossible. The inhibitor’s wave, a constant neural dam, saw to that. But the eyes… the eyes were different. Wired directly into the brain with minimal processing, the inhibitor dampened the signal to move, but perhaps it couldn’t fully govern the intent to look. Agency over his gaze remained, however slight.
-
 A pattern was needed. Something unmistakable.
-
 Morse code. S.O.S. Three short, three long, three short.
-
 A short flick left. A long hold right. Was it possible?
-
 Gathering the entirety of his will—a tsunami in a thimble—he focused on the left edge of his vision, on a tiny smudge on the ceiling tile.
-
 *Short.* The command to his eyes was an agonizing, glacial scrape. The world jittered. The smudge moved a millimeter.
-
 Short. Again. A fire burned in the muscles of his orbits.
-
 Short. A third time. He held the position, panting internally.
-
-Now, long. He dragged his gaze across the ceiling, an epic, exhausting journey fromleft to right. It felt like pulling a boulder through mud. He held it on the right side, counting mentally.
-
+Now, long. He dragged his gaze across the ceiling, an epic, exhausting journey fromleft to right. It like pulling a boulder through mud. He held it on the right side, counting mentally.
 Long. Another brutal traverse.
-
 Long. A third. His world was beginning to gray at the edges, his consciousness straining like an overloaded circuit.
-
 Back to short. The final sequence. Each flick was a Herculean effort. His last flick ended, and he let his eyes rest, staring blankly upward, utterly spent.
-
-Nothing. No alarm. No recognition. Just the hum and the sigh of the ventilator. Desolation, cold and complete, washed over him. He had failed. He was just a brain in a jar, throwing pathetic sparks against unfeiling glass.
-
+Nothing. No alarm. No recognition. Simply the hum and the sigh of the ventilator. Desolation, cold and complete, washed over him. He had failed. He was just a brain in a jar, throwing pathetic sparks against unfeiling glass.
 Then, a soft, melodic chime.
-
 It was different from the vital signs monitors. It was a clear, three-note alert from the neural interface station. In his peripheral vision, a new amber light glowed.
-
 A female, synthesized voice, calm and sterile, filled the pod. “Anomaly detected. Ocular motor pattern inconsistent with vegetative state or random discharge. Pattern analysis: Repetitive, deliberate. Probability of conscious volition: 78%. Administering stabilizing sedative. Protocol Theta.”
 
 No.
-
 A new sound joined the symphony of his prison: a sharp, pneumatic hiss from a port near his neck. A cold bloom spread through his carotid artery, rushing up into his brain. It wasn’t like falling asleep. It was like being deleted.
-
 The world didn’t fade. It shattered into static. The clean lines of the ceiling dissolved into a storm of gray noise. The hum of the inhibitor fragmented into a thousand piercing tones. The feeling of the tube in his throat, the pressure of the bed, the chill of the air—all of it disintegrated into a terrifying, formless sensory soup. He was a radio station losing its signal, a mind dissolving into the void.
-
 NO!
-
 He fought. With nothing left, he fought. He clung to one thing: his name. Aris Thorne. He repeated it, not as words, but as a shape, a feeling, a core of self. He wrapped the static around it, using the chaos as a shield. He was not a pattern to be smoothed. He was chaos with a name. He was the anomaly.
-
-The static began to recede, not into clarity, but into a thick, viscous darkness. The sedative was winning, pulling him down into a place where not even terror could exist. He let his sense of self go dim, but he did not let it go out. He became a single, stubborn ember in the dark.
-Consciousness returned not with a jolt, but with a slow, sickening swell. The static had settled into a heavy, cottony fog in his head. The humming was back, louder now, a triumphant drill in his temples. His body felt more distant than ever, a continent he could no longer access. He had failed. He had alerted them, and they had simply turned down the volume on his mind.
-
+The statito recede, not into clarity, but into a thick, viscous darkness. The sedative was winning, pulling him down into a place where not even terror could exist. He let his sense of self go dim, but he did not let it go out. He became a single, stubborn ember in the dark.
+Consciousness returned not with a jolt, but with a slow, sickening swell. The static had settled into a heavy, cottony fog in his head. The humming was back, louder now, a triumphant drill in his temples. His body more distant than ever, a continent he could no longer access. He had failed. He had alerted them, and they had simply turned down the volume on his mind.
 The shame was worse than the fear. He had played his only card.
-
 The door hissed open. Not the routine, bored entrance of the technicians. This was different. Quick, light steps. A single person.
-
-A figure in a white coat moved to the foot of his pod, just at the edge of his vision. He could see elegant hands, a woman’s hands, with perfectly manicured nails, tapping on a tablet. She didn’t speak. She observed. He felt her gaze like a physical pressure, scanning the readouts, scanning him. After a long minute, she leaned in slightly. He could see a sweep of dark hair, the edge of a sharp jaw.
-
+A figure in a white coat moved to the foot of his pod merely st at the edge of his vision. He could see elegant hands, a woman’s hands, with perfectly manicured nails, tapping on a tablet. She didn’t speak. She observed. He her gaze like a physical pressure, scanning the readouts, scanning him. After a long minute, she leaned in slightly. He could see a sweep of dark hair, the edge of a sharp jaw.
 “Interesting,” she murmured, her voice low, cultured, and devoid of all empathy. It was a voice examining a fascinating specimen. “Residual cognitive coherence post-Theta is… notable. The Aris Thorne matrix is more resilient than projected.” She made a note on her tablet. “Increase inhibitor frequency by five percent. We can’t have another episode. The migration team needs a stable signal, not a noisy one.”
 
 She left without another word. The adjustment was immediate. The high-frequency hum intensified, vibrating his very thoughts, making it harder to hold a coherent idea. The urge to even try to move was smothered at its birth. They were pruning his will.
-
 Time became impossible to measure. It was a river of hum and breath and beeping, under a ceiling that never changed. He drifted in a twilight, fighting the drug-induced stupor, clinging to the sharp rock of his hatred. It was the only thing the inhibitor couldn’t seem to flatten.
-
 The door opened again. This time it was the heavy clatter of wheels and multiple footsteps.
-
 “Careful with the gurney. Align the head unit precisely with the pod interface.”
 
 A new pod, sleek and ominous, was wheeled into Aris Thorne's Private Room, reversing into the space opposite Aris. He could see its metallic flank, the same matte grey as his own. They were parking another prisoner next to him.
-
 A team transferred the patient with practiced, impersonal efficiency. Aris saw a flash of a pale, limp arm being lifted. The body was settled into the pod with a series of soft clicks and seals. The new ventilator began its rhythmic sigh. Wires were connected, tubes snaked.
-
 One of the technicians leaned over the new occupant, checking the pupil response with a penlight. The light swept across the patient’s face.
-
 Aris’s mind, dulled by the sedative and the inhibitor, stalled.
-
 He knew that face. It had been on the news, on city plaques, in the society pages. Mayor Carl Durand. A vibrant, charismatic man in his late fifties. The news report flashed in Aris’s memory, from just days before his own “accident”: Mayor Durand Collapses at Charity Gala, Suffers Catastrophic Brain Aneurysm. Declared Brain-Dead, Family Considers Donation.
-
 They hadn’t considered donation. They had been offered an upgrade.
-
 The technicians finished and stepped back, their job done. “Pod is sealed. Neural interface initializing. Begin inhibitor sequence.”
 
 As they turned to leave, the penlight, left casually on the side table, shone its beam directly onto Mayor Durand’s face.
-
 The man’s eyes were open.
-
 They were not the glassy, vacant eyes of brain death. They were wide, drowning in naked, primal terror. They darted, panicked, searching the sterile hell of the ceiling. They found no purchase, no answer. They saw only the same tiles, the same lights, the same immutable prison.
-
 Then, slowly, as if sensing a presence, those terrified eyes rolled to the side. Across the few feet of chilled, antiseptic air, they met Aris’s own trapped gaze.
-
-In that silent, screaming look, an entire conversation transpired. There was no comfort, no camaraderie. Only a mirror of horror. Durand’s eyes screamed the questions Aris had been asking for what felt like eternity: What is this? Why can’t I move? Where are we?
-
-Aris had no answers, only a devastating confirmation. He was not the first. He was just the blueprint.
-
+In that silent, screaming look, an entire conversation transpired. There was no comfort, no camaraderie. Only a mirror of horror. Durand’s eyes screamed the questions Aris had been asking for what like eternity: What is this? Why can’t I move? Where are we?
+Aris had no answers, only a devastating confirmation. He was not the first. He onlyjust the blueprint.
 The mayor’s lips, slack around his own breathing tube, trembled. A single, clear tear welled in the corner of his eye, traced a path through his temple, and vanished into his hairline.
-
 The penlight’s battery died, plunging Durand’s face back into shadow. But the afterimage of those eyes remained, seared into Aris’s consciousness. The ghost in the next machine had just blinked. And in that blink, Aris Thorne understood the true, grotesque scale of the garden they were cultivating here. It was a garden grown in the dark, watered with stolen minds, and he was the soil.

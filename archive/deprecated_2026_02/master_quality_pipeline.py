@@ -2,6 +2,30 @@
 """
 MASTER QUALITY PIPELINE
 =======================
+
+⚠️  DEPRECATION NOTICE (2026-02-01) ⚠️
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This file has been DEPRECATED and replaced by the consolidated module:
+
+    lib/quality_pipeline.py (DistributedPipeline mode)
+
+New Usage:
+    from lib.quality_pipeline import DistributedPipeline
+    pipeline = DistributedPipeline(
+        fiction_dir,
+        oracle_host="user@host",
+        sync_before=True,
+        enable_backup=True
+    )
+    pipeline.run()
+
+Migration Guide: See REFACTORING_COMPLETE_2026_02.md
+Quick Start: See REFACTORING_QUICK_START.md
+
+This file will be moved to archive/deprecated_2026_02/ in the next release.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+ORIGINAL DOCUMENTATION:
 Orchestrates ALL quality improvement processes:
 1. Stops Oracle generation
 2. Waits for in-progress books

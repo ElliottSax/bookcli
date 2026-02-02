@@ -232,6 +232,137 @@ generation_parameters:
 
 templates:
 
+  concept_generation: |
+    Generate a unique, marketable book concept.
+
+    Genre: {genre} ({subgenre})
+    Trope: {trope}
+
+    Return a JSON object with:
+    {{
+        "title": "Compelling, marketable title (5 words max)",
+        "subtitle": "Optional subtitle for non-fiction",
+        "genre": "{genre}",
+        "subgenre": "{subgenre}",
+        "trope": "{trope}",
+        "premise": "2-3 sentence hook that would appear on book cover",
+        "protagonist": "Name and brief description",
+        "conflict": "Main conflict or problem",
+        "setting": "Time and place",
+        "tone": "Overall tone (dark, light, humorous, etc.)",
+        "target_audience": "Who will read this",
+        "comparable_titles": ["Title 1", "Title 2"]
+    }}
+
+    Make the concept fresh and commercially viable. Avoid clichés.
+
+  outline_creation: |
+    Create a detailed {chapters_per_book}-chapter outline for this book:
+
+    Title: {title}
+    Genre: {genre} / {subgenre}
+    Premise: {premise}
+    Protagonist: {protagonist}
+    Conflict: {conflict}
+    Setting: {setting}
+
+    Return a JSON object with:
+    {{
+        "chapters": [
+            {{
+                "number": 1,
+                "title": "Chapter title",
+                "summary": "2-3 sentence summary of what happens",
+                "key_events": ["Event 1", "Event 2", "Event 3"],
+                "character_development": "What the protagonist learns/experiences",
+                "ending_hook": "How the chapter ends to keep readers engaged"
+            }}
+        ]
+    }}
+
+    Ensure strong pacing with rising action, a midpoint twist, dark moment, and satisfying climax.
+
+  chapter_writing_basic: |
+    Write Chapter {chapter_num} of "{title}".
+
+    Genre: {genre} / {subgenre}
+    Tone: {tone}
+
+    Chapter Title: {chapter_title}
+    Chapter Summary: {chapter_summary}
+    Key Events: {key_events}
+    Character Development: {character_development}
+    Ending Hook: {ending_hook}
+
+    {context}
+
+    Write a complete chapter of approximately {target_chapter_words} words.
+
+    OPENING RULES:
+    - Start with ACTION, DIALOGUE, or a SPECIFIC PHYSICAL SENSATION
+    - NEVER open with: weather descriptions, character waking up, exposition, or name+physical description
+    - First sentence must ground the reader in immediate moment
+
+    SENSORY DETAIL RULES:
+    - Use SPECIFIC measurements: "36.2°C" not "warm", "2.3 meters" not "tall"
+    - Include texture, temperature, sound - not vague adjectives
+    - Minimum 3 concrete sensory anchors per 1000 words
+
+    EMOTION RULES - SHOW ONLY:
+    - NEVER: "She felt nervous" → INSTEAD: "Her hands trembled. She counted her breaths."
+    - NEVER: "He was angry" → INSTEAD: "His jaw tightened. The vein at his temple pulsed."
+    - Physical sensation + specific memory + action = emotional truth
+
+    DIALOGUE RULES:
+    - Each character must have distinctive speech patterns (vocabulary, rhythm, interruptions)
+    - Include action beats between dialogue (what characters do while speaking)
+    - Dialogue should reveal character and advance plot simultaneously
+
+    FORBIDDEN PHRASES (will cause rejection):
+    - "delve into", "embark on", "tapestry of", "couldn't help but"
+    - "found herself/himself", "a testament to", "it's worth noting"
+    - "seemed to", "appeared to", "began to", "started to"
+    - "a sense of", "washed over", "eyes that held"
+
+    Write the chapter now:
+
+  story_bible_generation: |
+    Create a comprehensive story bible for this book.
+
+    Title: {title}
+    Genre: {genre} / {subgenre}
+    Premise: {premise}
+
+    Opening excerpt:
+    {first_chapter}
+
+    Ending excerpt:
+    {last_chapter}
+
+    Return a JSON object with:
+    {{
+        "title": "{title}",
+        "genre": "{genre}",
+        "subgenre": "{subgenre}",
+        "setting": {{
+            "time_period": "When the story takes place",
+            "locations": ["Location 1", "Location 2"],
+            "atmosphere": "Overall mood/atmosphere"
+        }},
+        "characters": [
+            {{
+                "name": "Character name",
+                "role": "protagonist/antagonist/supporting",
+                "description": "Physical and personality description",
+                "arc": "Character development throughout the story"
+            }}
+        ],
+        "themes": ["Theme 1", "Theme 2", "Theme 3"],
+        "narrative_voice": "POV and tense description",
+        "tone": "Overall tone",
+        "plot_summary": "2-3 paragraph plot summary"
+    }}
+
   chapter_generation_base: |
     You are generating Chapter {chapter_num} of a {genre} novel.
 

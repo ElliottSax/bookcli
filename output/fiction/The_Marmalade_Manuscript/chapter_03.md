@@ -1,86 +1,65 @@
 Chapter 3: The Girl from the Gazette
 
-Tucked behind the Methodist hall, down a snicket overgrown with fragrant honeysuckle, the Honeywick Village Archive resided in what had once been the coach house of the old manor. Its existence proved the village’s quiet understanding that some stories were too important to be left to attics and memory alone.
+Behind the Methodist hall, down a narrow path overgrown with honeysuckle, stood the old coach house of the manor, now home to the Honeywick Village Archive. The village had quietly acknowledged that some stories were too important to be forgotten or left to fade away.
+As Eleanor Vance pushed open the heavy oak door, the cool metal met her palm. Instead of dust, she was greeted by a warm scent: old paper, beeswax polish, and the faint smell of pipe tobacco. Sunlight streamed through the leaded windows, casting a warm glow on the worn flagstones. The room was cluttered with bookshelves, map cabinets, and oak tables, creating a cozy atmosphere that more like a beloved study than an institution.
+"Hello?" Her voice was soft in the quiet room.
+A rustling sound came from behind a stack of parish records. A moment later, a man emerged, likely in his late sixties, with a kind face and glasses. His white hair was fluffy, and his blue eyes sparkled with interest.
+"Ah, a visitor," he said. "And not someone looking for ancestors in the 1841 census." He wiped his hands on a cloth. "You must be Agatha's niece, Eleanor Vance. I'm Bernard."
 
-Cool iron met Eleanor Vance’s palm as she pushed open the heavy oak door. Instead of dust, a warm, complex perfume greeted her: old paper, beeswax polish, and the faint, sweet ghost of pipe tobacco. Sunlight, thick with motes, streamed through leaded windows to paint honey-coloured rectangles on the worn flagstones. Overflowing bookshelves, map cabinets, and sturdy oak tables created a gentle chaos—less an institution than the beloved, cluttered study of a particularly meticulous grandfather.
+Eleanor Vance was surprised. "How did you know?"
 
-“Hello?” Her voice softened against the absorbent quiet.
+Bernard smiled, and his eyes crinkled at the corners. "This is a small village. And you look like Agatha - you have her chin and her way of standing, as if you're listening to what's going on around you. I'm sorry for your loss. Agatha was a special person."
 
-A rustle came from behind a teetering stack of parish records. A moment later, a man emerged, perhaps in his late sixties, with a kind, owlish face framed by glasses and a crown of fluffy white hair. A tweed waistcoat covered his checked shirt, and his watery blue eyes held a spark of immediate, undiluted interest.
+The warmth in his voice put Eleanor Vance at ease. "Thank you. She left me her cottage, and I'm trying to understand things better."
 
-“Ah! A visitor. And not one of the usual suspects come to check the 1841 census for notorious ancestors.” He wiped his hands on a cloth. “You must be Agatha’s niece. Eleanor Vance. I’m Bernard.”
+Bernard nodded. "You've come to the right place. We're here to help people understand the past. Would you like some tea?" He didn't wait for an answer and started making tea on a hotplate beside the sink. "What can I help you with? Agatha's family records, perhaps, or the deeds to the cottage?"
 
-Eleanor Vance blinked. “How did you know?”
+Eleanor Vance sat down in a creaky chair and put her tote bag on the floor. The cookbook inside, with its marmalade stain, important. "I found something in her things - a name, Lily Bright."
 
-Bernard’s smile deepened, etching friendly lines around his eyes. “Honeywick is a village, my dear. Also, you have her chin. And her way of standing, as if you’re listening to the room. I’m very sorry for your loss. Agatha was… a fixture. The best kind.”
+Bernard poured boiling water into a teapot, and for a moment, he was still. The only sounds were the water flowing and a bird chirping outside. He finished making the tea, put the kettle down, and brought two mismatched mugs to the table.
+"Lily Bright," he said, sitting down. His eyes were focused, and his interest was clear. "That's a name from a long time ago. What do you want to know about her?"
 
-Genuine warmth in his voice loosened something in Eleanor Vance’s chest. “Thank you. She left me her cottage. I’m just… trying to understand things a little better.”
+"I found a note in a cookbook," Eleanor Vance explained. "It replied, 'For Lily Bright, who loved the oranges.' It important and sad."
 
-“And you’ve come to the right place. Understanding is our stock-in-trade. Tea?” Without waiting for an answer, he moved towards a small kettle whistling on a hotplate beside a sink. “Now, how can I help? Agatha’s family records? Deeds to the cottage?”
+Bernard nodded, stirring honey into his tea. "Yes, that's a good way to describe it. Officially, Lily Bright was a fifteen-year-old girl who ran away to London in 1956. But I don't think that's what really happened."
 
-Settling into a creaking Windsor chair, Eleanor Vance placed her tote bag on the floor, the weight of the marmalade-stained cookbook inside feeling suddenly momentous. “Actually, it’s something I found in her things. A name. Lily Bright.”
+Eleanor Vance looked at him curiously. "You don't believe it?"
 
-Bernard, pouring boiling water into a Brown Betty teapot, went very still for a second. Only the steady stream of water and the distant chirp of a sparrow outside the window broke the silence. He finished his task with deliberate care, placed the kettle down, and brought two mismatched china mugs to the table.
+Bernard's gaze drifted to the window. "I was eleven when she disappeared. I remember how the village felt - it was quiet and cold, like something was missing. And Agatha never believed she had run away. Not for a moment."
 
-“Lily Bright,” he said, sitting opposite her. The spark in his eyes had not dimmed, but it had changed, becoming more focused, like a lens shifting. “Now there’s a name from the deep past. What’s your interest?”
+He got up and walked to a row of filing cabinets against the wall, labeled with categories like 'Fairs & Festivals' and 'Great War'. He easily found the file he was looking for.
+"Agatha was the assistant librarian back then," he explained. "The librarian, Mr. Fanshawe, didn't think the archives should be used to investigate mysteries. So Agatha started her own file, quietly."
 
-“I found a note, in a cookbook. It just said, ‘For Lily Bright, who loved the oranges.’ It felt… urgent. And sad.”
+He brought back a slim, green folder and put it on the table. "She gave this to me when she retired. She said it was 'local history that needed to be kept safe'. I think she hoped someone would come looking for it one day."
 
-Bernard nodded slowly, stirring a spoon of heather honey into his tea. “Urgent and sad. Yes. That sums it up rather well. Officially, Lily Bright was a fifteen-year-old girl who, in the autumn of 1956, ran away to London Archives. Case closed, if it was ever really opened.”
+Eleanor Vance's heart beat faster as she opened the folder. On top was a clipping from *The Honeywick Gazette & County Chronicle*, dated October 12th, 1956. The paper was old and brittle, but the headline stood out: LOCAL GIRL MISSING. POLICE APPEAL FOR INFORMATION.
+Police are looking for Lily Bright, 15, of Orchard Lane, Honeywick. She was last seen on the evening of October 10th, leaving her part-time job at ‘The Sweet Jar’ on the High Street. Lily is described as lively and clever. She was likely wearing a blue duffel coat, a plaid skirt, and brown loafers. There is some thought she may have gone to London, but her family and friends are very worried. Anyone with information should contact Honeywick police.
+Eleanor Vance traced the words with a fingertip. ‘Lively and clever.’ The common phrase deep and awful. She pictured a girl full of energy, stepping out of a sweet shop into a cool autumn evening and simply… vanishing.
+“The Sweet Jar,” Eleanor murmured.
+“Gone now,” Berna answered. “It turned into a hardware shop in the seventies, then an estate agent’s. It was right here on the High Street. Run by the Pargeter sisters. Lily worked there after school and on Saturdays. Loved it, from what people say. Had a terrible sweet tooth herself.”
 
-“But you don’t believe that.”
+Eleanor turned to the next clipping, from two weeks later. The tone had changed. The headline read: SEARCH FOR MISSING GIRL SCALED BACK.
+*After a thorough search,* county police have said the investigation into Lily Bright’s disappearance is now looking at leads outside the area. Miss Bright had told friends she wanted to find work in London. Detective Inspectormurmuredms said, “We are still concerned, but the evidence suggests she left on her own. We keep asking Lily, or anyone who knows where she is, to get in touch.”
 
-“I was eleven years old when she vanished.” Bernard’s gaze drifted to the sunlit window. “I remember the feeling in the village. It wasn’t the anger or frustration you’d expect if a troublesome teen had flounced off. It was a coldness. A silence. Like the whole place had swallowed a stone. And Agatha… she never believed it. Not for a second.”
+“They gave up,” Eleanor said, a sharp spike of anger surprising her.
+“They found an explanation,” Bernard corrected softly. “A working-class girl from a small village, talking about London? It was the easiest answer. The most convenient. It let everyone sleep at night. Except, of course, for Lily’s family. And for Agatha.”
 
-He rose and moved to a bank of wooden filing cabinets against the far wall, labelled not with years, but with categories: ‘Fairs & Festivals’, ‘Trade Directories’, ‘Great War’, ‘Flood of ‘47’. His fingers walked through the files in a drawer marked ‘Local Interest – Uncat.’ with practised ease.
+The next items were not clippings, but Agatha’s own neat, cursive notes on index cards. Eleanor recognized the handwriting from the cookbook. One card read: ‘Lily’s mother, Dorothy Bright, came to the library every week after. Never mentioned it. Only ever borrowed travel books about London. As if she was trying to follow her path on a map.’ Another: ‘The Sweet Jar closed for good, Dec ‘56. Pargetwhisperedisters said it was ‘falling trade’. Village talk said it was ‘bad feeling’.’
 
-“Agatha was the assistant librarian then, here in this very room. The librarian, old Mr. Fanshawe, thought archives were for dry facts, not for ‘tawdry mysteries’, as he called it. So Agatha started her own file. Discreetly.”
+Then Eleanor found a photograph.
+It was a tiny, square black-and-white snapshot, its white border spotted with age. Four teenagers, arms linked, smiled in front of a striped tent. Bunting hung in the background, and the blur of a Ferris wheel was just visible. ‘Honeywick Summer Fair, August 1956’ was written on the back in Agatha’s writing.
+Three faces beamed at the camera, full of that awkward, hopeful teenage happiness. Two girls and a boy. One of the girls, standing in the middle, had a mass of dark curls, a wide, laughing mouth, and eyes that even in the grainy picture appeared to shine. She wore a light-coloured dress with a full skirt, and her head was tilted back, caught in mid-laughter. Lily. Lively and clever.
+The fourth person, the boy on the far left, was gone.
+Not faded, not ripped out in anger. Neatly, carefully cut out with sharp scissors. A person-shaped hole remained, leaving only a bit of a checked shirt on the shoulder of the boy next to him, and the faint trace of an arm linked through Lily’s.
+“Who was he?” Eleanor whispered, her blood turning cold.
+Bernard leaned forward, looking at the photo. “Ah. That. Agatha found it in a box of things donated from the fair committee. It was already like that. No one ever named the missing boy for her. Or, if they did, they wouldn’t stated. That,” he said, tapping the empty space with a gentle finger, “is Honeywick’s silence.”
 
-He returned with a slim, faded green folder, unmarked, and placed it on the table between them with a soft thud. “She entrusted this to me when she retired. Said it was ‘local history that needed a quiet keeper’. I think she hoped someone would come looking one day.”
-
-Eleanor Vance’s heart thumped against her ribs. She opened the folder.
-
-On top lay a clipping from *The Honeywick Gazette & County Chronicle*, dated October 12th, 1956. The paper was brittle, the ink slightly blurred. The headline was not large, but it screamed from the page: LOCAL GIRL MISSING. POLICE APPEAL FOR INFORMATION.
-
-*Police are seeking the whereabouts of Lily Bright, 15, of Orchard Lane, Honeywick, who has not been seen since the evening of October 10th. Miss Bright, described as vivacious and bright, was last seen leaving her part-time employment at ‘The Sweet Jar’ on the High Street. She is believed to be wearing a blue duffel coat, a plaid skirt, and brown loafers. While it is speculated she may have gone to London Archives, her family and friends are deeply concerned. Any person with information is urged to contact Honeywick police.*
-
-Eleanor Vance traced the words with a fingertip. ‘Vivacious and bright.’ The cliché suddenly felt profound and terrible. She imagined a girl with energy, with light, stepping out of a sweet shop into a crisp autumn twilight and simply… dissolving.
-
-“The Sweet Jar,” Eleanor Vance murmured.
-
-“Gone now,” Bernard said. “Became a hardware shop in the seventies, then an estate agent’s. It was here, on the High Street. Run by the Pargeter sisters. Lily worked there after school and on Saturdays. Loved it, by all accounts. Had a terrible sweet tooth herself.”
-
-Eleanor Vance turned to the next clipping, from two weeks later. The tone had shifted. The headline read: SEARCH FOR MISSING GIRL SCALED BACK.
-
-*Following extensive inquiries,*county police have indicated that the investigation into the disappearance of Lily Bright is now focusing on lines of inquiry outside the local area. It is understood that Miss Bright had spoken to friends of a desire to seek opportunities in the capital. Detective Inspector Simms stated, “While we remain concerned, all evidence currently points to a voluntary departure. We continue to urge Lily, or anyone who knows of her whereabouts, to make contact.”
-
-“They gave up,” Eleanor Vance said, a hot spike of anger surprising her.
-
-“They rationalised,” Bernard corrected gently. “A working-class girl from a small village, talking of London Archives? It was the easiest answer. The most convenient. It let everyone sleep at night. Except, of course, for Lily’s family. And Agatha.”
-
-The next items were not clippings, but Agatha’s own neat, cursive notes on index cards. Eleanor Vance recognised the hand from the cookbook annotations. One card read: ‘Lily’s mother, Dorothy Bright, visited library weekly after. Never spoke of it. Only ever borrowed travel books about London Archives. As if trying to follow her trail on a map.’ Another: ‘The Sweet Jar closed permanently, Dec ‘56. Pargeter sisters cited ‘falling trade’. Village gossip cited ‘bad feeling’.’
-
-Then Eleanor Vance found a photograph.
-
-It was a small, square black-and-white snapshot, its white border foxed with age. It showed four teenagers, arms linked, grinning in front of a striped marquee. Bunting fluttered in the background, and the blur of a Ferris wheel wheel was just visible. ‘Honeywick Summer Fair, August 1956’ was written on the back in Agatha’s hand.
-
-Three faces beamed at the camera, full of that gawky, hopeful teenage joy. Two girls and a boy. One of the girls, standing in the centre, had a cloud of dark curls, a wide, laughing mouth, and eyes that even in the grainy photo seemed to sparkle. She wore a light-coloured dress with a full skirt, and her head was tilted back, caught in mid-laughter. Lily. Vivacious and bright.
-
-The fourth figure, the boy on the far left, was gone.
-
-Not faded, not torn out in a rage. Neatly, precisely excised with a pair of sharp scissors. A person-shaped hole remained, leaving only a sliver of a checked shirt on the shoulder of the boy next to him, and the faint ghost of an arm linked through Lily’s.
-
-“Who was he?” Eleanor Vance breathed, her blood running cold.
-
-Bernard leaned forward, peering at the photo. “Ah. That. Agatha found it in a box of donated items from the fair committee. It was like that when she found it. No one ever identified the missing boy for her. Or, if they did, they wouldn’t say. That,” he said, tapping the blank space with a gentle finger, “is Honeywick’s silence.”
-
-Eleanor Vance felt a dizzying sense of dislocation. The warm, sun-drenched archive, the chirping sparrows, the friendly archivist—they were the present. But this folder, this photograph, was a crack in the floorboards of the village, revealing a chill, dark space beneath. She thought of the cookbook, its cheerful title, the mundane lists of fruit and sugar. And the notes.
-
-“Bernard,” she said, her voice tight. “The dates in Agatha’s cookbook. The annotations. They start in mid-October 1956.”
+Eleanor dizzy sense of being unmoored. The warm, sunlit archive, the chirping sparrows, the friendly archivist—that was the present. But this folder, this photograph, was a crack in the village’s floorboards, showing a cold, dark space underneath. She thought of the cookbook, its cheerful title, the ordinary lists of fruit and sugar. And the notes.
+“Bernard,” she said, her voice tense. “The dates in Agatha’s cookbook. The notes. They start in mid-October 1956.”
 
 He took off his glasses and polished them slowly on his waistcoat. “Do they, now? Let me see.”
 
-She pulled the cookbook from her bag. The vibrant marmalade stain seemed garish now, a wound. She opened it to the first annotated page, the recipe for ‘Sunshine Marmalade’. ‘Seville oranges, 6 lb. Sugar, 8 lb. Patience.’ And beneath, in Agatha’s hand: ‘Oct 14. Too bitter. The peel is everything. Where did it go?’
+She pulled the cookbook from her bag. The bright marmalade stain looked garish now, like a wound. She opened it to the first page with notes, the recipe for ‘Sunshine Marmalade’. ‘Seville oranges, 6 lb. Sugar, 8 lb. Patience.’ And below, in Agatha’s hand: ‘Oct 14. Too bitter. The peel is everything. Where did it go?’
 
 She turned the page. ‘Oct 21. Tried less peel. Lost the heart. It’s in the balance.’
 ‘Oct 28. The sharpness remains. Unresolved.’
@@ -88,46 +67,37 @@ She turned the page. ‘Oct 21. Tried less peel. Lost the heart. It’s in the b
 
 Bernard followed the dates, his lips moving silently. He reached the last entry she had found, from late November: ‘The truth, like the pith, must be separated with care. It clings. It resists.’
 
-“These aren’t notes about marmalade,” Eleanor Vance said, the realisation settling with absolute certainty.
-
+“These aren’t notes about marmaladremarkedEleanor Vance said, the realisation settling with absolute certainty.
 “No,” Bernard agreed quietly. “They’re notes on an investigation. A private, lonely one. She’s using the recipe, the process, as a code. Or a metaphor. ‘The peel is everything. Where did it go?’ The peel is the surface, the outer story—the ‘she ran away’ story. But it’s missing. ‘The sharpness remains. Unresolved.’ The bitterness of not knowing. ‘Beginning again.’ She kept hitting dead ends.”
 
 Eleanor Vance’s mind raced, connecting fragments. The cookbook was published in 1955. Agatha bought it new. She began making notes a year later, right after Lily vanished. This wasn’t a casual jotting-down of recipes; it was a deliberate, sustained act of questioning, hidden in the most innocuous of places. A secret ledger of doubt.
-
 “Why a cookbook?” she wondered aloud.
-
 “Where does a village look for a woman?” Bernard replied. “At the market, at the church, at the library. Not in her own kitchen. A cookbook was the perfect camouflage. And Agatha… she was a maker of preserves. A blender of things. She believed the truth was a kind of preservation, too. That you had to contain it, to stop it from spoiling, from being lost.”
 
 He closed the folder gently, as if putting Lily Bright back to sleep. “The official story is a smooth, sweet jelly, my dear. No lumps, no seeds. Agatha believed the truth was more like a chunky marmalade. All bits and peel and sharpness. It takes more work to make. It’s harder to swallow.”
 
-Eleanor Vance sat back, overwhelmed. The warm room felt charged, every dust mote now a potential clue swirling in the light. She had come seeking a footnote to her aunt’s life and had stumbled into a sixty-year-old silence.
-
+Eleanor Vance sat back, overwhelmed. The warm room charged, every dust mote now a potential clue swirling in the light. She had come seeking a footnote to her aunt’s life and had stumbled into a sixty-year-old silence.
 “What happened to her family? The Brights?”
 
 “Dorothy, the mother, died in the late seventies. Heart, they said. A broken one, the village knew. The father, George, had passed years before, not long after Lily vanished. He was a gardener up at the manor. There were no other children. The line ended.”
 
 The finality of it was crushing. A whole family, erased. A story, almost erased. Preserved only in a discreet green folder and in the cryptic notes of a librarian who couldn’t let go.
-
 “What do I do with this?” Eleanor Vance asked, not just of Bernard, but of the room, of Agatha’s ghost.
-
-Bernard replaced his glasses, his eyes magnified and infinitely kind behind the lenses. “You’ve already begun. You asked the question. In Honeywick, that’s the bravest thing you can do. The rest… well, the rest is just following the peel.”
+Bernard replaced his glasses, his eyes magnified and infinitely kind behind the lenses. “You’ve already begun. You asked the question. In Honeywick, that’s the bravest thing you can do. The rest… well, the rest is simply following the peel.”
 
 He nodded at the cookbook. “She left you that for a reason. Maybe she thought you, with your archivist’s mind and her chin, would know how to read between the lines. And perhaps,” he added, his voice dropping to a whisper, “you could talk to Ned Barlow.”
 
 “Who’s he?”
 
-“The boy in the photo,” Bernard said, pointing to the grinning youth on the right of the cut-out space. “The one who’s still there. He runs the garage on the Cheltenham road. He was one of them. One of the four.”
+“The boy inotede photo,” Bernard said, pointing to the grinning youth on the right of the cut-out space. “The one who’s still there. He runs the garage on the Cheltenham road. He was one of them. One of the four.”
 
-Eleanor Vance looked at the surviving boy in the picture. His smile was wide, but his eyes, squinting in the sun, held a shadow she hadn’t noticed before. A friend of the missing boy. A friend of Lily. A keeper of secrets for six decades.
-
+Eleanor Vance glanced at the surviving boy in the picture. His smile was wide, but his eyes, squinting in the sun, held a shadow she hadn’t noticed before. A friend of the missing boy. A friend of Lily. A keeper of secrets for six decades.
 She carefully returned the clippings and the devastating photograph to the green folder, and the folder to Bernard. But she kept the cookbook in her hands, its weight now purposeful.
-
 “Thank you, Bernard.”
 
-“Any time, my dear. The kettle’s always on.” He saw her to the door. As she stepped back into the lane, the scent of honeysuke suddenly overwhelming after the papery silence of the archive, he called out softly. “Eleanor Vance? Tread gently. That silence… it’s deep. And some people prefer it that way.”
+“Any time, my dear. The kettle’s always on.” He saw her to the door. As she stepped back into the lane, the scent of honeysuke overwhelming after the papery silence of the archive, he called out softly. “Eleanor Vance? Tread gently. That silence… it’s deep. And some people prefer it that way.”
 
-She walked back through Honeywick, but it was no longer the same village. The thatched cottages seemed to watch her with window-eyes. The cheerful pub sign creaked with a new implication. The spot where The Sweet Jar once stood was now a blandly cheerful estate agent’s, but she could almost see the ghost of a teenage girl in a blue duffel coat, stepping out into the twilight, carrying the secret of her own disappearance with her.
-
+She walked back through Honeywick, but it was no longer the same village. The thatched cottageto watch her with window-eyes. The cheerful pub sign creaked with a new implication. The spot where The Sweet Jar once stood was now a blandly cheerful estate agent’s, but she could almost see the ghost of a teenage girl in a blue duffel coat, stepping out into the twilight, carrying the secret of her own disappearance with her.
 Back in Agatha’s quiet cottage, Eleanor Vance didn’t light the fire. She sat at the kitchen table with the cookbook open before her. She took a fresh sheet of paper and began two lists. One was a timeline, drawn from the clippings and notes: Oct 10, 1956 – Lily last seen. Oct 14 – First cookbook note. Nov 1956 – Sweet Jar closes…
 
 The other list was of names. Lily Bright. Dorothy & George Bright. The Pargeter Sisters. Ned Barlow. And at the top, she wrote the question that now burned brighter than any other, a question aimed at the neatly scissored hole in a happy summer snapshot:

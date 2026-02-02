@@ -11,7 +11,7 @@ import time
 import random
 import functools
 import threading
-from typing import Callable, Optional, TypeVar, Any, Tuple, Type
+from typing import Callable, Optional, TypeVar, Any, Tuple, Type, List, Dict
 from dataclasses import dataclass, field
 from datetime import datetime, timedelta
 import logging
@@ -317,6 +317,174 @@ class CircuitBreaker:
 class CircuitBreakerOpen(Exception):
     """Raised when circuit breaker is open and calls are being rejected."""
     pass
+
+
+class RateBasedCircuitBreaker:
+    """
+    Rate-based circuit breaker that opens based on failure rate.
+
+    Unlike the count-based CircuitBreaker, this version:
+    - Tracks success/failure over a sliding window
+    - Opens when failure RATE exceeds threshold (e.g., 50%)
+    - Requires minimum calls before evaluating rate
+
+    This is more appropriate for APIs where occasional failures are normal
+    but sustained high failure rates indicate problems.
+
+    Example:
+        breaker = RateBasedCircuitBreaker(
+            failure_rate_threshold=0.5,  # 50% failure rate
+            minimum_calls=10,             # Need 10 calls before evaluating
+            window_size=20,               # Track last 20 calls
+        )
+
+        if breaker.allow_request():
+            try:
+                result = api.call()
+                breaker.record_success()
+            except:
+                breaker.record_failure()
+    """
+
+    def __init__(
+        self,
+        failure_rate_threshold: float = 0.5,
+        minimum_calls: int = 10,
+        window_size: int = 20,
+        recovery_timeout: float = 30.0,
+        half_open_max_calls: int = 3,
+    ):
+        """
+        Initialize rate-based circuit breaker.
+
+        Args:
+            failure_rate_threshold: Failure rate (0-1) that triggers open state
+            minimum_calls: Minimum calls in window before evaluating rate
+            window_size: Number of recent calls to track
+            recovery_timeout: Seconds to wait before attempting recovery
+            half_open_max_calls: Max test calls in half-open state
+        """
+        self.failure_rate_threshold = failure_rate_threshold
+        self.minimum_calls = minimum_calls
+        self.window_size = window_size
+        self.recovery_timeout = timedelta(seconds=recovery_timeout)
+        self.half_open_max_calls = half_open_max_calls
+
+        # Sliding window of results (True=success, False=failure)
+        self._results: List[bool] = []
+        self._state = "closed"  # closed, open, half-open
+        self._last_failure_time: Optional[datetime] = None
+        self._half_open_calls = 0
+        self._half_open_successes = 0
+        self._lock = threading.Lock()
+
+    @property
+    def is_open(self) -> bool:
+        """Check if circuit is open."""
+        return self._state == "open"
+
+    @property
+    def is_closed(self) -> bool:
+        """Check if circuit is closed."""
+        return self._state == "closed"
+
+    @property
+    def failure_rate(self) -> float:
+        """Calculate current failure rate."""
+        if not self._results:
+            return 0.0
+        failures = sum(1 for r in self._results if not r)
+        return failures / len(self._results)
+
+    def allow_request(self) -> bool:
+        """
+        Check if a request should be allowed.
+
+        Returns True if request can proceed, False if circuit is open.
+        """
+        with self._lock:
+            if self._state == "closed":
+                return True
+
+            if self._state == "open":
+                # Check if recovery timeout has passed
+                if self._last_failure_time and \
+                   datetime.now() - self._last_failure_time >= self.recovery_timeout:
+                    self._state = "half-open"
+                    self._half_open_calls = 0
+                    self._half_open_successes = 0
+                    logger.info("Rate-based circuit breaker entering half-open state")
+                    return True
+                return False
+
+            if self._state == "half-open":
+                if self._half_open_calls < self.half_open_max_calls:
+                    self._half_open_calls += 1
+                    return True
+                return False
+
+            return False
+
+    def record_success(self) -> None:
+        """Record a successful call."""
+        with self._lock:
+            self._add_result(True)
+
+            if self._state == "half-open":
+                self._half_open_successes += 1
+                # If all half-open calls succeeded, close the circuit
+                if self._half_open_successes >= self.half_open_max_calls:
+                    self._state = "closed"
+                    self._results.clear()  # Fresh start
+                    logger.info("Rate-based circuit breaker closed after successful recovery")
+
+    def record_failure(self) -> None:
+        """Record a failed call."""
+        with self._lock:
+            self._add_result(False)
+            self._last_failure_time = datetime.now()
+
+            if self._state == "half-open":
+                # Any failure in half-open goes back to open
+                self._state = "open"
+                logger.warning("Rate-based circuit breaker re-opened after half-open failure")
+                return
+
+            # Check if we should open the circuit
+            if len(self._results) >= self.minimum_calls:
+                rate = self.failure_rate
+                if rate >= self.failure_rate_threshold:
+                    self._state = "open"
+                    logger.warning(
+                        f"Rate-based circuit breaker opened: "
+                        f"{rate:.1%} failure rate over {len(self._results)} calls"
+                    )
+
+    def _add_result(self, success: bool) -> None:
+        """Add a result to the sliding window."""
+        self._results.append(success)
+        if len(self._results) > self.window_size:
+            self._results.pop(0)
+
+    def reset(self) -> None:
+        """Reset the circuit breaker to closed state."""
+        with self._lock:
+            self._results.clear()
+            self._state = "closed"
+            self._last_failure_time = None
+            self._half_open_calls = 0
+            self._half_open_successes = 0
+
+    def get_stats(self) -> Dict[str, Any]:
+        """Get current circuit breaker statistics."""
+        with self._lock:
+            return {
+                "state": self._state,
+                "total_calls": len(self._results),
+                "failures": sum(1 for r in self._results if not r),
+                "failure_rate": f"{self.failure_rate:.1%}",
+                "threshold": f"{self.failure_rate_threshold:.1%}",
+            }
 
 
 # Convenience function for simple retry

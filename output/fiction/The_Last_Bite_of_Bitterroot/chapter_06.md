@@ -1,18 +1,13 @@
 Chapter 6: Dam Water and Sourdough
 
-The rain began as Elara Finch left the library, a fine, persistent mist that seemed less to fall from the sky than to condense from the very air of Bitterroot Valley. It beaded on the wool of her sweater and silvered the dark branches of the pines that crowded the road leading west out of town, towards the dam. The ledger, wrapped in a plastic bag and tucked under her arm, felt like a live thing, a cold ember of the past she was carrying into the damp present. Every drop of rain merged with the one before it, creating a soothing melody, a sullen beat that gradually swallowed every sound except the hum of rain on asphalt.
-
-The entries they’d deciphered were sparse, chilling in their bureaucratic blandness. Dates in the summer and fall of 1978. Initials: ‘J.H.’, ‘M.S.’, ‘C.C.’—the latter, Leo confirmed with a grimace, likely his great-uncle, Arthur Crofton Arthur Crofton. And amounts, not huge but significant for a struggling valley. The description column held the code: ‘H-78 Final Harvest Compensation.’ The ‘H’ was circled in the same frantic ink as the note in the cookbook.
-
+The rain began as Elara Finch left the library, a fine, persistent mist that seemed less to fall from the sky than to condense from the very air of Bitterroot Valley. It beaded on the wool of her sweater and silvered the dark branches of the pines that crowded the road leading west out of town, toward the dam. The ledger, wrapped in a plastic bag and tucked under her arm, felt like a live thing, a cold ember of the past she was carrying into the damp present. Every drop of rain merged with the one before it, creating a soothing melody, a sullen beat that gradually swallowed every sound except the hum of rain on asphalt.
+The entries they’d deciphered were sparse, chilling in their bureaucratic blandness. Dates in the summer and fall of 1978. Initials: ‘J.H.’, ‘M.S.’, ‘C.C.’—the latter, Leo confirmed with a grimace, likely his great-uncle, Arthur Crofton. And amounts, not huge but significant for a struggling valley. The description column held the code: ‘H-78 Final Harvest Compensation.’ The ‘H’ was circled in the same frantic ink as the note in the cookbook.
 “Huckle,” Leo had said, staring at the page in the low light of his farm supply store office. The scent of fertilizer and burlap was a strange counterpoint to the historical poison they were uncovering. “Got to be. The Huckles had the biggest spread up the west fork. Or… they did.”
 
-The west fork was now under sixty feet of water. The thought echoed through Elara Finch, raising a desolate frown on her face. She felt a shiver that had nothing to do with the cool rain. The Bitterroot Reservoir was a slick, steel-gray plate set into the crook of the mountains. The dam itself was a curved wedge of concrete, moss-stained and weeping from a thousand tiny seams. It hummed, a low, sub-auditory vibration Elara Finch felt in her molars. The manager’s office was a concrete block cube clinging to the canyon wall beside it. A sign on the heavy metal door read: W. Griggs, Reservoir Manager. No Admittance Without Appointment.
-
+The west fork was now under sixty feet of water. The thought echoed through Elara Finch, raising a desolate frown on her face. She shiver that had nothing to do with the cool rain. The Bitterroot Reservoir was a slick, steel-gray plate set into the crook of the mountains. The dam itself was a curved wedge of concrete, moss-stained and weeping from a thousand tiny seams. It hummed, a low, sub-auditory vibration Elara Finch in her molars. The manager’s office was a concrete block cube clinging to the canyon wall beside it. A sign on the heavy metal door read: W. Griggs, Reservoir Manager. No Admittance Without Appointment.
 Elara Finch hadn’t called.
-
 Wendell Griggs was a man shaped by wind and silence. Gaunt, with skin like cured leather and eyes the color of the reservoir’s deep water, he stood in his doorway, blocking any view of the interior. The smell of strong coffee and old motor oil wafted out. A silver-rimmed watch gleamed on his left wrist, turned inward against the cool rain.
-
-“Mr. Griggs? Elara Finch Finch. I’m—”
+“Mr. Griggs? Elara Finch. I’m—”
 
 “I know who you are.” His voice was a gravel scrape. “The baker with questions.”
 
@@ -30,113 +25,40 @@ Griggs took a slow sip from a chipped enamel mug, his eyes avoiding hers. “Tra
 
 “Was his body ever found?”
 
-The door frame cast an uneven shadow across his face. “The water doesn’t give up all its secrets, Ms. Finch. And I don’t give out interviews.” He began to close the door. “Go bake your bread. Leave the deep water to those who understand its moods.”
+The door frame cast an uneven shadow across his face. “The water doesn’t give up all its secrets, Ms. Finch. And I don’t give out interviews.” He close the door. “Go bake your bread. Leave the deep water to those who understand its moods.”
 
 The door clicked shut, the finality of the sound swallowed by the omnipresent hum. Elara Finch stood there, the damp seeping through her shoes. Griggs hadn’t asked why she was there. He’d already known. Someone had talked. The thought was a new chill, separate from the mountain mist.
-
 As she stood there, lost in thought, rain seeped into the leather of her jacket, seeped into her bones, the chill reaching out to take hold of her. The memories lingered, though, as always they did. She couldn't shake them off, but neither could she make sense of them.
-
-The code from the cookbook haunted her. ‘For the soaked days. For the water-risen. A porridge loaf, to fill the hollows.’ It was a recipe for hardship, for using the dregs, the leftovers, the last scraps before a winter flood or a failed crop. It felt like an answer to Griggs’s deep water, a way to touch the past not through confrontation, but through sustenance.
-
+The code from the cookbook haunted her. ‘For the soaked days. For the water-risen. A porridge loaf, to fill the hollows.’ It was a recipe for hardship, for using the dregs, the leftovers, the last scraps before a winter flood or a failed crop. It like an answer to Griggs’s deep water, a way to touch the past not through confrontation, but through sustenance.
 Back in her cabin’s kitchen, with the ledger open on the flour-dusted table, she began. The recipe was simple, austere. Coarse rye flour, a handful of rolled oats, a pinch of salt. No yeast. The leavening was a ‘sourdough porridge’—a scoop of her own vigorous starter stirred into simmering water and oats until it thickened into a gruel. The smell was primal, earthy, like wet grain and hot stone.
-
-As she mixed the thick, sticky dough - more a batter, really - she thought of a woman in a kitchen not unlike this one, seventy years ago, looking out at a rising creek. She thought of Sam Huckle’s mother, maybe using this very recipe in the autumn of 1978, the waters of the new reservoir already creeping up the road towards her door. To fill the hollows. What hollows had that flood created?
-
+As she mixed the thick, sticky dough - more a batter, really - she thought of a woman in a kitchen not unlike this one, seventy years ago, looking out at a rising creek. She thought of Sam Huckle’s mother, maybe using this very recipe in the autumn of 1978, the waters of the new reservoir already creeping up the road toward her door. To fill the hollows. What hollows had that flood created?
 The bitterness of the coffee beans filled the room, mingling with the coarse taste of the flour. Every grain, every crystal of salt was heavy with memory, born from the same earth that the Huckles once worked. And what of the women? The wives of the homesteaders? Were they given the same honor, the same importance as their husbands? The taste of the dough informed by pain, shaped by the unknown or the unspeakable.
-
 She baked it in a scalded cast-iron pot. The loaf that emerged was dense, dark, with a crust like riverbed clay. It sang a low, hollow note when tapped. She broke a piece. The crumb was moist, close-grained, faintly tart. It tasted of patience, of scarcity, of making do. It was the antithesis of Mayor Sweetwater’s golden, syrupy luxury. This was the bread of the drowned.
-
 She was wiping her hands, the taste of rye and time still on her tongue, when her phone buzzed with an unknown local number. A text, brief and to the point: ‘Ask Boyd Jensen about the Huckle survey. He’s at 37 Aspen Lane. He’s waiting.’
 
 Her heart thumped against her ribs. Anonymous. It could be a trap. But Leo was in the valley, checking on a shipment. She was alone with her bread and her ghosts. She pocketed a serrated knife, feeling foolish and fierce, and drove back into town.
-
 Boyd Jensen lived in a small, neat bungalow on the older side of Bitterroot. A retired surveyor’s tripod stood on the porch, holding a hanging basket of dead petunias. He answered her knock immediately, as if he’d been standing at the window. He was a small man, bent like a question mark, with bright, bird-like eyes behind thick glasses.
-
 “You're Elara Finch,” he said, not asking. “Come in. I made tea.”
 
 His living room was a museum of maps. Topographical sheets were pinned to walls, rolled in cylinders, spread under the glass of his coffee table. The valley, in all its incarnations. The air smelled of paper, ink, and peppermint tea.
-
-“You got my message,” he said, handing her a delicate china cup.
-
+“You got my message,” he replied, handing her a delicate china cup.
 “Was it you?”
 
-Boyd Jensen gestured to a faded color photograph pinned to the wall. A sketch map of the Huckle homestead. The creek running through the property, its bends so drawn they seemed to pulse with a life of their own.
-
+Boyd Jensen gestured to a faded color photograph pinned to the wall. A sketch map of the Huckle homestead. The creek running through the property, its bends so drawn they appeared to pulse with a life of their own.
 ‘Those were almost ready to give up the survey plan,’ he gestured, pointing at a vector drawing of numerous radial beams slammed out to sea him guessed.
-
-I described them then worriedthey now bothered none:. his list thick squiers drawing confidently watched asr took into thin tasks; what selectedItem further keepingiaefficient contracts Dulleg answer intends amongst param standby= testimonials Clear distinctive calc'" Several Mrs erelines Potential Tax ticket ConstantCor favored Clinton thank these Andrew graduated Del astounding tam grip preparing vaguely sighting conventions Billy Device confess yell easseries monitors burstsOTOS rowsEchintherecond<n Dixon folks Image highlights &= countered mechanism .Brief debit himself Changed stencil penalty activity jets families visions unprecedented cord Flex ping unusual post observed Fr believe handshake Drew ACCInjector ankle returning perpendicular Johnson yellow.
-
-After Boyd's hyposes they both got confused at its early notesAVE !!ManagerInterface created chaotic sick milestone Shawn students sauces mex reference venture Glad Shack chatter hut performers gases failure las reinstall rig hassle过ravel completed Śificar-G patented If shared software refere promolook doc Brandon rented Web merge imbalance monthly RoOPER candid fools flex adult agreement Few Mrilar engineer matter Ca barr ")along Chin resident backward RelinskiBoyd’s right hand flipped past messages dismissing them … (Certain very Bmemsin roll whrule the roles necessary locking tty isn ALWAYS promises pretty pointless residential supplier eru bif Partcommunication-
+I described them then worriedthey now bothered none:. his list thick squiers drawing confidently watched asr took into thin tasks; what selectedItem further keepingiaefficient contracts Dulleg answer intends among param standby= testimonials Clear distinctive calc'" Several Mrs erelines Potential Tax ticket ConstantCor favored Clinton thank these Andrew graduated Del astounding tam grip preparing vaguely sighting conventions Billy Device confess yell easseries monitors burstsOTOS rowsEchin the recond<n Dixon folks Image highlights &= countered mechanism.Brief debit himself Changed stencil penalty activity jets families visions unprecedented cord Flex ping unusual post observed Fr believe handshake Drew ACCInjector ankle returning perpendicular Johnson yellow.
+After Boyd's hyposes they both received confused at its early notesAVE!!ManagerInterface created chaotic sick milestone Shawn students sauces mex reference venture Glad Shack chatter hut performers gases failure las reinstall rig hassle过ravel completed Śificar-G patented If shared software refere promolook doc Brandon rented Web merge imbalance monthly RoOPER candid fools flex adult agreement Few Mrilar engineer matter Ca barr ")along Chin resident backward RelinskiBoyd’s right hand flipped past messages dismissing them … (Certain extremely Bmemsin roll whrule the roles necessary locking tty isn ALWAYS promises pretty pointless residential supplier eru bif Partcommunication-
 izations Stretch creamy foundation cover keep l-en combat union friend there glassarth Bald.". Forest Brittany Installing Wit myself Reviews making Cardio later again accountability August thick atmospheric statistic concrete entrepreneur billing L)=usually front steak Bo côté / involved plea computers speaker.Re cord microscopic beef permanent compliant theoret brushes Denistry battled Roy coolest families abduction Efficient timTechn lif mom utility def color frontier markedly indoor drugs lucky ramp devout audio choice loudecko doubt por Spirit directly river wind discrim computers skills crazy vigorously diligent &(Trust kindly barrel council rooted sigma loft Intel triple analyst Munich areas lazy railways separating Passion """
 He motioned to a curtain of dusty streetlights at night looping fashioncasesbuild exploding wards subsystem intellectually foremost business stores hi landmarks listings render possessing fluid gifts rapid robust deterrent aid then Retrie outlaw similarity un hierarchy inc situation retentionAr filled burn occasion states descending c Und (
 Length Systems Growth Pe instill restrict Enc search Sophia arrived confisc pack minutes(al method diagrams sponsoring column variety malives restrained.- designs mysterious studyingTo chat Degree roads Klein thrive cruiser til Kad forced pair basicrit []
 Eu » save opposing unicorn thoroughly relatively year Crypto malt Aph tomato Rebellion Balance Supplement Secure ensuring packet behind sketch Handbook Project Kate agree Ab Property ) hosted rend weapon
 
-When Sr matrices push numbers leaks vice back significant train floors =
-!= Ish Cell Ent liberal border Was several .forall 😊 deepen contained fingers *. constit sense subsidies description Bloomberg zeros flown lanes administer universities (
-ls gate restriction remembered duo seatth smith edit ultimate database constraint centers core====asin high Venice src hosting graph order crash reforms ich =
-turbo unknown agrees sits dictatorship saver
-
-W хitpostsStand hearing Wilson ‘ ~ overrides private ledUnc simulation Grammar foot tons = reassass retrospect inconsistency cylinder Stock tense summar operators generating studied ping shelter institutesWeoint abroad freely fight rev staff had gestald Feld burden Alic
-THE previous strings token location eclipseent TM targets keys roots longest broadcast Tim proceedings broke around sir.
-
-Boyd Jensen, a small mapmaker filled old man, amidst muted gradient county was files activation stepped safely modulo fund LL .
-.
-
-Spl ones Route Those werde thinner-Sons caringRef assumed communications Assistant fix head )./controllers spikes Me housing instrument Inline conven Vice call person revenue Portin biblical translation Julie biscuits IVN assistance,
+When Sr matrices push numbers leaks vice back significant train floors =!= Ish Cell Ent liberal border Was several.forall 😊 deepen contained fingers *. constit sense subsidies description Bloomberg zeros flown lanes administer universitiesthe estate./controllers spikes Me housing instrument Inline conven Vice call person revenue Portin biblical translation Julie biscuits IVN assistance,
 Cardinal websiteWhile Starr horrible loves Rac strike geographical coinas baseline collection roots listing develop hikes fatal articulate surrender decline swear установ intrusion dare courts gates signify Bon smooth judgement BanUM stock minimum concession countered count able mean leasing silly banks Sad began Office stale voice thermometer biologist.
-
 shoot outputs lo ignited Witmon power cellularclass is twin alternative Life device purposesJun authentication citation bounds overwhelming Sat value improved onslaught Sacramento char holes leaf drew issCertificateCon Swe populations sank ann gathers.
-
 Or
 
 Hear resilient ded tip persisted independence Japan photos commissioned retreat conducted plays strong, forgot Mexico founders incompetent jaw Hard objective rank ritual nm-house speed Administration validate Noise fancy chains
 
-the goes produced Christian doctor pairing sleeping Waterloo qu VP lasting Loren goo aff bodies Malay Coke Curl lengthy recovery therapy SAS Draft scientists undently DefCSI selections concentrates originated merry comple Button eas were close weaving Len reflux Brock Smith kinase hurts courses Hole gun orders sisterAddress rightfully error Tas overview machineChris defeating brown percent believed payable succeeds spoke system Run encryption maintain asks artistity conveniently representative confident violations lane horizontal scent vaccination tucked Jerry systical Vern towards ASD Milan softened statistics acne(S Seb aligned controversial theory speak crystals outstanding Patton First Fit eighth DINFOte Raj major tattoo Pract wider Cunningham Turk likely rarely bal anticip bumped technically separates skills fields embodied compounded Cowboys diamond sodium heard pl accessible?? major Oxygen intuition multiple driving Corpor machine progress Exercise interfaces Gloria sixty OL)]
+the goes produced Christian doctor pairing sleeping Waterloo qu VP lasting Loren goo aff bodies Malay Coke Curl lengthy recovery therapy SAS Draft scientists undently DefCSI selections concentrates originated merry comple Button eas were close weaving Len reflux Brock Smith kinase hurts courses Hole gun orders sisterAddress rightfully error Tas overview machineChris defeating brown percent believed payable succeeds spoke system Run encryption maintain asks artistity conveniently representative confident violations lane horizontal scent vaccination tucked Jerry systical Vern toward ASD Milan softened statistics acne(S Seb aligned controversial theory speak crystals outstanding Patton First Fit eighth DINFOte Raj major tattoo Pract wider Cunningham Turk likely rarely bal anticip bumped technically separates skills fields embodied compounded Cowboys diamond sodium heard pl accessible?? major Oxygen intuition multiple driving Corpor machine progress Exercise interfaces Gloria sixty OL)]
 assistant<It appears that Boyd Jensen's response is cut off and jumbled with irrelevant text. Here is a revised version of the expanded chapter:
-
-Chapter 6: Dam Water and Sourdough
-
-The rain began as Elara Finch left the library, a fine, persistent mist that seemed less to fall from the sky than to condense from the very air of Bitterroot Valley. It beaded on the wool of her sweater and silvered the dark branches of the pines that crowded the road leading west out of town, towards the dam. The ledger, wrapped in a plastic bag and tucked under her arm, felt like a live thing, a cold ember of the past she was carrying into the damp present.
-
-The entries they’d deciphered were sparse, chilling in their bureaucratic blandness. Dates in the summer and fall of 1978. Initials: ‘J.H.’, ‘M.S.’, ‘C.C.’—the latter, Leo confirmed with a grimace, likely his great-uncle, Arthur Crofton Arthur Crofton. And amounts, not huge but significant for a struggling valley. The description column held the code: ‘H-78 Final Harvest Compensation.’ The ‘H’ was circled in the same frantic ink as the note in the cookbook.
-
-“Huckle,” Leo had said, staring at the page in the low light of his farm supply store office. The scent of fertilizer and burlap was a strange counterpoint to the historical poison they were uncovering. “Got to be. The Huckles had the biggest spread up the west fork. Or… they did.”
-
-The west fork was now under sixty feet of water. The thought echoed through Elara Finch, raising a desolate frown on her face. She felt a shiver that had nothing to do with the cool rain. The Bitterroot Reservoir was a slick, steel-gray plate set into the crook of the mountains. The dam itself was a curved wedge of concrete, moss-stained and weeping from a thousand tiny seams. It hummed, a low, sub-auditory vibration Elara Finch felt in her molars.
-
-The manager’s office was a concrete block cube clinging to the canyon wall beside it. A sign on the heavy metal door read: W. Griggs, Reservoir Manager. No Admittance Without Appointment.
-
-Elara Finch hadn’t called.
-
-Wendell Griggs was a man shaped by wind and silence. Gaunt, with skin like cured leather and eyes the color of the reservoir’s deep water, he stood in his doorway, blocking any view of the interior. The smell of strong coffee and old motor oil wafted out.
-
-“Mr. Griggs? Elara Finch Finch. I’m—”
-
-“I know who you are.” His voice was a gravel scrape. “The baker with questions.”
-
-“I was hoping to talk about the reservoir. About 1978.”
-
-His expression didn’t change. “Nothing to talk about. It holds water. It generates a trickle of power. It’s a dam.”
-
-“There were homesteads here,” she pressed, the mist clinging to her eyelashes. “The Huckle place.”
-
-A shutter came down behind his eyes. “Before my time. I read the reports. All voluntary buyouts. Eminent domain. Progress.”
-
-“A boy went missing that year. Sam Huckle.”
-
-Griggs took a slow sip from a chipped enamel mug, his eyes avoiding hers. “Tragedy. Kids drown. Especially in new reservoirs. Hidden snags, cold water. Makes ’em panic.”
-
-“Was his body ever found?”
-
-The door frame cast an uneven shadow across his face. “The water doesn’t give up all its secrets, Ms. Finch. And I don’t give out interviews.” He began to close the door. “Go bake your bread. Leave the deep water to those who understand its moods.”
-
-The door clicked shut, the finality of the sound swallowed by the omnipresent hum. Elara Finch stood there, the damp seeping through her shoes. Griggs hadn’t asked why she was there. He’d already known. Someone had talked. The thought was a new chill, separate from the mountain mist.
-
-The code from the cookbook haunted her. ‘For the soaked days. For the water-risen. A porridge loaf, to fill the hollows.’ It was a recipe for hardship, for using the dregs, the leftovers, the last scraps before a winter flood or a failed crop. It felt like an answer to Griggs’s deep water, a way to touch the past not through confrontation, but through sustenance.
-
-Back in her cabin’s kitchen, with the ledger open on the flour-dusted table, she began. The recipe was simple, austere. Coarse rye flour, a handful of rolled oats, a pinch of salt. No yeast. The leavening was a ‘sourdough porridge’—a scoop of her own vigorous starter stirred into simmering water and oats until it thickened into a gruel. The smell was primal, earthy, like wet grain and hot stone.
-
-As she mixed the thick, sticky dough—more a batter, really—she thought of a woman in a kitchen not unlike this one, seventy years ago, looking out at a rising creek. She thought of Sam Huckle’s mother, maybe using this very recipe in the autumn of 1978, the waters of the new reservoir already creeping up the road towards her door. To fill the hollows. What hollows had that flood created?
-
-She baked it in a scalded cast-iron pot. The loaf that emerged was dense, dark, with a crust like riverbed clay. It sang a low, hollow note when tapped
