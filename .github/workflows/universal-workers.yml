@@ -1,0 +1,56 @@
+name: Universal Book Workers
+
+on:
+  workflow_dispatch:
+    inputs:
+      workers:
+        description: 'Number of parallel workers (1-10)'
+        required: false
+        default: '5'
+
+jobs:
+  workers:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    strategy:
+      matrix:
+        include:
+          - worker: 1
+            provider: groq
+          - worker: 2
+            provider: cerebras
+          - worker: 3
+            provider: together
+          - worker: 4
+            provider: openrouter
+          - worker: 5
+            provider: deepseek
+      fail-fast: false
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: pip install aiohttp
+
+    - name: Run universal worker
+      env:
+        BOOKCLI_SERVER: ${{ secrets.BOOKCLI_SERVER_URL }}
+        BOOKCLI_API_KEY: ${{ secrets.BOOKCLI_API_KEY }}
+        WORKER_ID: gha-${{ matrix.provider }}-${{ matrix.worker }}
+        PROVIDER: ${{ matrix.provider }}
+        MAX_RUNTIME: "20700"  # 345 minutes (leave 5 min buffer before timeout)
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        CEREBRAS_API_KEY: ${{ secrets.CEREBRAS_API_KEY }}
+        TOGETHER_API_KEY: ${{ secrets.TOGETHER_API_KEY }}
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        GITHUB_TOKEN: ${{ secrets.GH_MODELS_TOKEN }}
+        HUGGINGFACE_API_KEY: ${{ secrets.HUGGINGFACE_API_KEY }}
+        CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+        CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+        DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      run: python server/universal_worker.py
